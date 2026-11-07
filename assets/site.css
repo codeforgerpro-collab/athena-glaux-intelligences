@@ -1142,6 +1142,19 @@ figure.shf{position:relative}figure.shf>.shi{position:absolute;top:4px;inset-inl
 }
 @media print{.adx{display:none!important}}
 
+.wr{margin:30px 0}.wr h2{font-family:var(--head);font-size:26px;margin:0 0 6px}.wr-p{max-width:760px;color:var(--muted);margin:0 0 16px}
+.wr-g{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
+.wr-c{border:1px solid var(--rule);background:var(--card);border-radius:10px;padding:16px 18px;display:flex;flex-direction:column}
+.wr-c h3{font-family:var(--head);font-size:19px;margin:0 0 6px}.wr-c p{margin:0 0 8px;font-size:14.5px;line-height:1.5}
+.wr-c .wr-i{margin:6px 0 2px;font-weight:700;font-size:13.5px}.wr-c ul{margin:0 0 10px;padding-left:18px;font-size:14px;line-height:1.5}
+.wr-c .wr-s{margin-top:auto;font-size:13.5px}.wr-c code{background:var(--rule);padding:1px 6px;border-radius:4px;font-size:13px}
+.wr-b{display:inline-block;margin-top:6px;padding:8px 14px;border-radius:8px;border:1px solid var(--ink);color:inherit;font-weight:700;text-decoration:none;text-align:center}
+.wr-b:hover,.wr-b:focus-visible{background:var(--ink);color:var(--card)}.wr-m{margin:16px 0 4px;font-weight:700}
+
+.mk h2{margin-top:26px}.mk-f{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;margin:10px 0}
+.mk-f div{border:1px solid var(--rule);background:var(--card);border-radius:10px;padding:12px 14px}.mk-f b{display:block;font-family:var(--head);font-size:26px}
+.mk-f span{font-size:13px;color:var(--muted)}.mk code{background:var(--rule);padding:1px 6px;border-radius:4px}.mk-b{font-weight:700}
+
 /* RSK-38: the risk filter and scale above a list of events */
 .rkbar{margin:10px 0 14px;padding:10px 12px;border:1px solid var(--line,rgba(127,127,127,.35));border-radius:10px;font-size:14px}
 .rkbar-r{display:flex;flex-wrap:wrap;gap:8px;align-items:center}

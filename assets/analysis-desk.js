@@ -8,6 +8,15 @@ var RD=cfg.rd||{},AL=cfg.al||{},STOP="what will the and are does did going next 
 function mk(t,c,x){var n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n}
 function fill(s,o){return String(s).replace(/\{(\w+)\}/g,function(m,k){return o[k]!=null?o[k]:m})}
 function terms(raw){var own=raw.slice(),al=[],read=[];raw.forEach(function(w){if(AL[w]){read.push(w+" → "+AL[w].slice(0,3).join(", "));AL[w].forEach(function(x){if(own.indexOf(x)<0&&al.indexOf(x)<0)al.push(x)})}});return{own:own,al:al,read:read}}
+var SF=cfg.sf||{},SM=SF.msg||{};
+function pad(s){return " "+norm(s).replace(/[^a-z0-9Ͱ-Ͽ]+/g," ").trim()+" "}
+function has(list,txt){var t=pad(txt),i,w;for(i=0;i<(list||[]).length;i++){w=pad(list[i]);if(w.trim()&&t.indexOf(w)>-1)return true}return false}
+function refusal(raw){if(has(SF.blk,raw))return SM.blocked;if(has(SF.ref,raw))return SM.refuse;return""}
+function gate(sc,raw){var now=Date.now(),last="",n=0,i,z,age;
+  sc.forEach(function(x){z=x.c.getAttribute("data-z")||"";if(!z)return;age=(now-Date.parse(z+"T23:59:59Z"))/864e5;if(age<=14)n++;if(z>last)last=z});
+  age=last?(now-Date.parse(last+"T23:59:59Z"))/36e5:1e9;
+  if(n<(SF.min||3)||age>(SF.fresh||72))return{m:"thin",n:n,last:last||"-"};
+  var sens=has(SF.sens,raw)&&!has(SF.appr,raw);return{m:sens?"neutral":"full",n:n,last:last}}
 function reading(sc,raw,tm){
   var W=0,R=0,O=0,C=0,up=0,dn=0,fl=0,a="9999",z="0000";
   sc.forEach(function(x){var c=x.c,r=parseFloat(c.getAttribute("data-r"))||0,o=parseInt(c.getAttribute("data-no"),10)||1,w=o*x.n;
@@ -19,15 +28,21 @@ function reading(sc,raw,tm){
   var q=mk("p","dk-rdq");q.appendChild(mk("b",null,RD.q+": "));q.appendChild(document.createTextNode(raw));d.appendChild(q);
   if(tm.read.length)d.appendChild(mk("p","small",RD.read+": "+tm.read.join("; ")));
   d.appendChild(mk("p","small",fill(RD.basis,{n:sc.length,o:O,c:C,a:a,b:z})));
-  var dl=mk("dl","dk-ans");
-  dl.appendChild(mk("dt",null,RD.now_l));dl.appendChild(mk("dd",null,fill(RD.now,{r:r.toFixed(1),band:(RD.bands||[])[b]})));
-  dl.appendChild(mk("dt",null,fill(RD.path_h,{h:hz.value})));dl.appendChild(mk("dd",null,RD.fc[b]+" "+(RD.tr[tr]||"")));
-  d.appendChild(dl);
-  var tb=mk("table","dk-t"),tbd=mk("tbody");
-  RD.oc.forEach(function(o,i){var tr2=mk("tr"),th=mk("th",null,o);th.setAttribute("scope","row");tr2.appendChild(th);tr2.appendChild(mk("td",null,RD.oc_d[i]));
-    var k=RD.LK[b][i];tr2.appendChild(mk("td","dk-lk dk-"+k,RD.lk[k]));tbd.appendChild(tr2)});
-  tb.appendChild(tbd);d.appendChild(tb);
-  var w=mk("p");w.appendChild(document.createTextNode(RD.wrong_l+" "));w.appendChild(mk("b",null,RD.wrong));d.appendChild(w);
+  var md=gate(sc,raw);
+  if(md.m==="thin"){d.appendChild(mk("p","dk-safe",fill(SM.thin,{n:md.n,min:SF.min||3,h:SF.fresh||72,last:md.last})))}
+  else{
+    var dl=mk("dl","dk-ans");
+    dl.appendChild(mk("dt",null,RD.now_l));dl.appendChild(mk("dd",null,fill(RD.now,{r:r.toFixed(1),band:(RD.bands||[])[b]})));
+    if(md.m==="full"){dl.appendChild(mk("dt",null,fill(RD.path_h,{h:hz.value})));dl.appendChild(mk("dd",null,RD.fc[b]+" "+(RD.tr[tr]||"")))}
+    d.appendChild(dl);
+    if(md.m==="full"){
+      var tb=mk("table","dk-t"),tbd=mk("tbody");
+      RD.oc.forEach(function(o,i){var tr2=mk("tr"),th=mk("th",null,o);th.setAttribute("scope","row");tr2.appendChild(th);tr2.appendChild(mk("td",null,RD.oc_d[i]));
+        var k=RD.LK[b][i];tr2.appendChild(mk("td","dk-lk dk-"+k,RD.lk[k]));tbd.appendChild(tr2)});
+      tb.appendChild(tbd);d.appendChild(tb);
+      var w=mk("p");w.appendChild(document.createTextNode(RD.wrong_l+" "));w.appendChild(mk("b",null,RD.wrong));d.appendChild(w)}
+    else d.appendChild(mk("p","dk-safe",SM.neutral))}
+  d.appendChild(mk("p","small dk-cov",SM.cov));
   d.appendChild(mk("p","small",RD.how));d.appendChild(mk("p","small dk-lim",RD.lim));
   var top=sc[0].c,lk=mk("a",null,RD.open+" ›");lk.href="#"+top.id;lk.addEventListener("click",function(){top.open=true});
   var pp=mk("p");pp.appendChild(lk);d.appendChild(pp);return d}
@@ -35,6 +50,8 @@ function run(){
   var raw=document.getElementById("dk-q").value,q=norm(raw).split(/[^a-z0-9Ͱ-Ͽ]+/).filter(function(w){return(w.length>2||AL[w])&&STOP.indexOf(w)<0});
   var t=tp?tp.value:"";res.innerHTML="";
   if(!q.length){res.hidden=true;return}
+  var rf=refusal(raw);
+  if(rf){res.hidden=false;var d0=mk("section","dk-rd");d0.appendChild(mk("h3",null,RD.h));d0.appendChild(mk("p","dk-safe",rf));res.appendChild(d0);return}
   var tm=terms(q);
   var sc=cards.filter(function(c){return!t||c.getAttribute("data-topic")===t}).map(function(c){
     var kw=c.getAttribute("data-kw")||"",n=0;tm.own.forEach(function(w){if(kw.indexOf(w)>-1)n+=2});tm.al.forEach(function(w){if(kw.indexOf(w)>-1)n+=1});return{c:c,n:n}}).filter(function(x){return x.n>0});
