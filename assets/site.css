@@ -1127,6 +1127,13 @@ figure.shf{position:relative}figure.shf>.shi{position:absolute;top:4px;inset-inl
 @media print{.spn,.spn-foot{display:none}}
 
 .adx{display:none}
+.adx.adx-off{display:none!important}
+@media (max-width:1599.98px){
+ .adx-l{display:flex;flex-wrap:wrap;align-items:center;gap:6px 18px;position:relative;box-sizing:border-box;max-width:1220px;margin:26px auto 10px;padding:12px 40px 12px 16px;border:1px solid var(--rule);border-radius:10px;background:var(--card);color:var(--ink);font-size:13.5px;line-height:1.45}
+ .adx-l .adx-t{flex:0 0 100%;font-size:11px;color:var(--muted);margin:0}.adx-l h2{font-size:15px;margin:0}.adx-l p{margin:0;flex:1 1 260px}.adx-l .adx-f{margin:0;font-size:13px}
+ .adx-l .adx-go{font-weight:700;text-decoration:underline;text-underline-offset:3px;color:inherit}
+ .adx-l .adx-x{position:absolute;top:6px;right:8px;width:24px;height:24px;border:0;border-radius:50%;background:transparent;color:var(--muted);font-size:18px;line-height:1;cursor:pointer}
+}
 @media (min-width:1600px){
  .adx{display:block;position:fixed;top:150px;width:min(170px,calc((100vw - 1220px)/2 - 28px));box-sizing:border-box;padding:14px 14px 16px;border:1px solid var(--rule);
   background:var(--card);color:var(--ink);border-radius:10px;font-size:13.5px;line-height:1.45;z-index:5}
@@ -1253,3 +1260,9 @@ main .amb{margin-inline:calc(50% - 50vw)}main .wrap .wrap{padding:0}
 @media (max-width:900px){.fp-hero{grid-template-columns:1fr;gap:24px}.fp-cols{grid-template-columns:1fr}.fp-how ol{grid-template-columns:1fr}}
 @media (max-width:640px){.fp-p{font-size:16.5px}.fp-lead{padding:18px}.fp-lead h3{font-size:24px}.fp-fig{gap:18px}}
 @media print{.fp-board{display:none}}
+
+.rdg{margin:18px 0 8px;padding:14px 16px;border:1px solid var(--rule);border-left:4px solid var(--ink);border-radius:8px;background:var(--card);font-size:14.5px;line-height:1.55}
+.rdg h2{margin:0 0 8px;font-size:17px}.rdg dl{margin:0}.rdg dt{margin:10px 0 2px;font-weight:700;font-size:13.5px}.rdg dd{margin:0}
+.rdg .rdg-s{display:inline-block;margin-right:8px;padding:1px 9px;border:1px solid var(--ink);border-radius:999px;font-weight:700;font-size:13px}
+.rdg .rdg-f{margin:4px 0 0}.rdg .rdg-t{margin:12px 0 0;color:var(--muted,inherit);font-size:12.5px}
+.rdg.held{border-left-style:dashed}
