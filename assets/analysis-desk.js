@@ -78,7 +78,7 @@ var cap=document.getElementById("dk-cap");
   d.addEventListener("mouseenter",show);d.addEventListener("focus",show);d.addEventListener("mouseleave",hide);d.addEventListener("blur",hide);
   d.addEventListener("click",function(){var c=document.getElementById("a"+d.getAttribute("data-id"));if(c)c.open=true});
 });
-var qi=document.getElementById("dk-q"),ex=cfg.ex||[],k=0,ph=qi.getAttribute("placeholder");
+var qi=document.getElementById("dk-q"),ex=(cfg.sug&&cfg.sug.length?cfg.sug:cfg.ex)||[],k=0,ph=qi.getAttribute("placeholder");
 if(ex.length&&!(window.matchMedia&&matchMedia("(prefers-reduced-motion:reduce)").matches)){setInterval(function(){
   if(document.activeElement===qi||qi.value)return;k=(k+1)%ex.length;qi.setAttribute("placeholder",ex[k])},3500)}
 (function(){var tr=document.getElementById("dk-try"),f=document.getElementById("dk-ask");if(!tr||!ex.length||!f)return;
@@ -86,6 +86,13 @@ if(ex.length&&!(window.matchMedia&&matchMedia("(prefers-reduced-motion:reduce)")
   ex.slice(0,3).forEach(function(q){var b=document.createElement("button");b.type="button";b.textContent=q.replace(/\?$/,"");b.title=q;
     b.onclick=function(){qi.value=q;qi.dispatchEvent(new Event("input",{bubbles:true}));if(f.requestSubmit)f.requestSubmit();else f.dispatchEvent(new Event("submit",{cancelable:true}))};tr.appendChild(b)});
   tr.hidden=false})();
+(function(){var ih=document.getElementById("dk-ih"),IH=cfg.ih||{};if(!ih||!qi)return;
+  var pr=/^\s*(will|would|could|should|when will|what will|is it going to|are they going to)\b|^\s*(θα|πότε θα|τι θα)\s|(va-t-|vont-ils|va-t-elle|vont-elles)/i;
+  function upd(){var v=qi.value,left=140-v.length,msg="";
+    if(v.length>=8&&(pr.test(v)||refusal(v)))msg=IH.p||"";
+    if(v.length>=110)msg=(msg?msg+" ":"")+left+" "+(IH.n||"");
+    ih.textContent=msg;ih.hidden=!msg}
+  qi.addEventListener("input",upd);upd()})();
 if(tp)tp.addEventListener("change",run);
 if(location.hash&&/^#a\d+$/.test(location.hash)){var c=document.querySelector(location.hash);if(c&&c.tagName==="DETAILS")c.open=true}
 var CHG=cfg.ch||{},sk="athena-desk-seen",st={t:0,v:{}};

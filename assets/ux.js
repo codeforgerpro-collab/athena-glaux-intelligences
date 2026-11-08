@@ -828,3 +828,8 @@ var o=rd(),n=Date.now(),ch=false;for(var k in o){if(n-o[k]>D){delete o[k];ch=tru
 function hide(s){var a=document.querySelector(".adx-"+s);if(a)a.classList.add("adx-off")}
 for(var k in o)hide(k);
 document.addEventListener("click",function(ev){var b=ev.target.closest&&ev.target.closest(".adx-x");if(!b)return;var s=b.getAttribute("data-adx");hide(s);var q=rd();q[s]=Date.now();wr(q)})})();
+
+(function(){document.addEventListener("click",function(ev){var b=ev.target.closest&&ev.target.closest(".wr-cp");if(!b)return;
+var m=b.getAttribute("data-mail"),t=b.textContent;function ok(){b.textContent=b.getAttribute("data-done");setTimeout(function(){b.textContent=t},2000)}
+function fb(){var a=document.createElement("textarea");a.value=m;a.style.position="fixed";a.style.opacity="0";document.body.appendChild(a);a.select();try{document.execCommand("copy");ok()}catch(x){}document.body.removeChild(a)}
+if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(m).then(ok,fb)}else{fb()}})})();
