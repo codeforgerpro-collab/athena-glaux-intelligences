@@ -24,7 +24,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 .util .tsz{padding-inline-start:12px;border-inline-start:1px solid var(--rule);margin-inline-end:0}
 .util details.modes{padding-inline-start:12px;border-inline-start:1px solid var(--rule)}
 .util details.modes summary{border:1px solid var(--rule);border-radius:50%;background:var(--card)}
-.util .clock,.util .live{white-space:nowrap}.util .clock{font-variant-numeric:tabular-nums;color:var(--ink2);font-weight:600;padding-left:12px;border-left:1px solid var(--rule)}
+.util .clock,.util .live,.util .date{white-space:nowrap}.util .date{flex:none}.util .clock{font-variant-numeric:tabular-nums;color:var(--ink2);font-weight:600;padding-left:12px;border-left:1px solid var(--rule)}
 @media (max-width:640px){.util .clock{padding-left:0;border-left:0}.util .wrap{gap:10px;font-size:12px}}
 .live{display:inline-flex;align-items:center;gap:6px}.live i{width:7px;height:7px;border-radius:50%;background:var(--red);box-shadow:0 0 0 3px color-mix(in srgb,var(--red) 22%,transparent)}
 .ubtn{border:1px solid var(--rule);background:transparent;color:var(--ink2);border-radius:999px;padding:4px 12px;font:inherit;font-size:13px;cursor:pointer}

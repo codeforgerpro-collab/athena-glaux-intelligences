@@ -32,8 +32,10 @@
   var fu=function(d){return fmt.format(d)+" UTC";};
   var u=document.querySelector(".util"),td=document.getElementById("today");if(td&&fday)td.textContent=fday.format(new Date());
   // the reader's own local time next to the date (their device's time zone), kept current - every REPORT time stays UTC
-  var ck=document.getElementById("clock"),fclk;try{fclk=new Intl.DateTimeFormat(LOC,{hour:"2-digit",minute:"2-digit",hourCycle:"h23",timeZoneName:"short"});}catch(e){}
-  if(ck&&fclk){var tick=function(){var n=new Date();ck.textContent=fclk.format(n);ck.setAttribute("datetime",n.toISOString());
+  var ck=document.getElementById("clock"),fclk;try{fclk=new Intl.DateTimeFormat(LOC,{hour:"2-digit",minute:"2-digit",hourCycle:"h23"});}catch(e){}
+  // CLK-43: the zone as a short "GMT+2" in every language - the browser spelled it out in Greek ("Χειμερινή ώρα Ανατολικής Ευρώπης"), which made the top bar wide and wrapped the date
+  var tzl=function(n){var o=-n.getTimezoneOffset(),a=Math.abs(o),m=a%60;return "GMT"+(o<0?"-":"+")+Math.floor(a/60)+(m?":"+("0"+m).slice(-2):"");};
+  if(ck&&fclk){var tick=function(){var n=new Date();ck.textContent=fclk.format(n)+" "+tzl(n);ck.setAttribute("datetime",n.toISOString());
       if(td&&fday)td.textContent=fday.format(n);};tick();ck.hidden=false;
     try{ck.title=W.clock+" · "+Intl.DateTimeFormat().resolvedOptions().timeZone;}catch(e){}
     setTimeout(function(){tick();setInterval(tick,60000);},(60-new Date().getSeconds())*1000);}
