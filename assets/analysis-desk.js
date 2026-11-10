@@ -68,6 +68,10 @@ function run(){
   var tm=terms(q);
   var sc=rank(tm,t).slice(0,6);res.hidden=false;
   if(sc.length)res.appendChild(reading(sc,raw,tm));
+  var bc=null;for(var j=0;j<sc.length;j++){if(sc[j].c.querySelector(".dkc-grid")){bc=sc[j].c;break}}      // TRUST-44: the instruments of the best matching story, named and drawn, in the answer itself
+  if(bc&&cfg.ins){var si=mk("section","dk-ins");si.appendChild(mk("h3",null,cfg.ins.h));si.appendChild(mk("p","small",bc.querySelector(".dk-q").textContent));
+    var gi=bc.querySelector(".dkc-grid").cloneNode(true);[].forEach.call(gi.querySelectorAll("figure"),function(fg){var cp=fg.querySelector("figcaption b");if(cp&&cp.textContent===cfg.ins.skip)fg.parentNode.removeChild(fg)});
+    si.appendChild(gi);res.appendChild(si)}
   var h=document.createElement("h3");h.textContent=sc.length?cfg.res:cfg.none;res.appendChild(h);
   if(!sc.length)return;
   var ul=document.createElement("ul");
