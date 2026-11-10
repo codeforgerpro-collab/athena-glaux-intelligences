@@ -1,0 +1,45 @@
+# ATHENA Glaux Intelligence
+
+> ATHENA Glaux Intelligence is an independent news intelligence service. It collects reports from hundreds of outlets in many countries, groups them into one story per event, and shows how widely, how independently and how seriously each story is reported. Published in English, Greek and French. Updated through the day.
+
+## Sections
+
+- [Front page](https://athenaglauxintelligence.news/index.html): The latest assessed stories, newest first.
+- [Daily briefing](https://athenaglauxintelligence.news/briefing.html): The day's main developments in a short read.
+- [Warnings](https://athenaglauxintelligence.news/warnings.html): Official travel and safety warnings, gathered in one place.
+- [Signals](https://athenaglauxintelligence.news/signals.html): Early signals and rising stories across sections.
+- [ATHENA Signals](https://athenaglauxintelligence.news/athena-signals.html): How signals are shown and what they mean.
+- [Analysis Desk](https://athenaglauxintelligence.news/analysis-desk.html): Risk readings for security and conflict stories: score, band, confidence and what would change the reading.
+- [Analysis Desk method](https://athenaglauxintelligence.news/analysis-desk-method.html): What the Desk covers, what it reads, its limits and how to request the full method.
+- [Analysis Desk track record](https://athenaglauxintelligence.news/analysis-desk-record.html): Every published reading, logged, and how each held up after 14 days.
+- [Maritime](https://athenaglauxintelligence.news/maritime.html): Shipping, chokepoints and sea routes.
+- [Analysis and explainers](https://athenaglauxintelligence.news/analysis.html): Background to the stories.
+- [Countries](https://athenaglauxintelligence.news/countries.html): A page for each country with its stories.
+- [Topics](https://athenaglauxintelligence.news/topics.html): Running trackers on long stories.
+- [About ATHENA](https://athenaglauxintelligence.news/about.html): Who runs the site and how.
+- [How this is produced](https://athenaglauxintelligence.news/how.html): How stories are collected, grouped and assessed.
+- [Contact](https://athenaglauxintelligence.news/contact.html): Write to the editors.
+- [News feed (RSS)](https://athenaglauxintelligence.news/feed.xml): The newest stories as a feed.
+
+## Latest stories
+
+- [President Sheikh Mohamed says UAE security and stability ‘forever at heart of our priorities’](https://athenaglauxintelligence.news/event/177809.html): first reported 2026-11-10; 3 outlets, 1 countries.
+- [Gold slips ahead of US inflation data](https://athenaglauxintelligence.news/event/176941.html): first reported 2026-11-10; 3 outlets, 3 countries.
+- [LNG transportation via Hormuz reached peak in October since February 2026 — Reuters](https://athenaglauxintelligence.news/event/177591.html): first reported 2026-11-10; 5 outlets, 5 countries.
+- [China's trade surplus soars past US$1 trillion as AI boom powers exports](https://athenaglauxintelligence.news/event/176269.html): first reported 2026-11-10; 12 outlets, 7 countries.
+- [Australia to adopt 'mandatory' AI safeguards](https://athenaglauxintelligence.news/event/176548.html): first reported 2026-11-10; 6 outlets, 6 countries.
+- [Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa](https://athenaglauxintelligence.news/event/176553.html): first reported 2026-11-10; 3 outlets, 2 countries.
+- [Australia Establishes AI Regulator After OpenAI Medicare Breach](https://athenaglauxintelligence.news/event/176100.html): first reported 2026-11-10; 12 outlets, 7 countries.
+- [‘Cruise for life’ ship seized in Singapore](https://athenaglauxintelligence.news/event/176363.html): first reported 2026-11-10; 5 outlets, 5 countries.
+- [Qantas to cut 850 local jobs as it shifts roles to India](https://athenaglauxintelligence.news/event/175331.html): first reported 2026-11-10; 13 outlets, 9 countries.
+- [Dollar sellers hit pause for US inflation data](https://athenaglauxintelligence.news/event/175623.html): first reported 2026-11-10; 3 outlets, 3 countries.
+- [Oil falls as Trump downplays prospect of escalation with Iran](https://athenaglauxintelligence.news/event/175613.html): first reported 2026-11-10; 8 outlets, 7 countries.
+- [Trump says Iran war ‘effectively over’ militarily, but US ready to strike again](https://athenaglauxintelligence.news/event/176057.html): first reported 2026-11-10; 8 outlets, 6 countries.
+- [Retailers suffer subdued October as shoppers hold back ahead of Black Friday](https://athenaglauxintelligence.news/event/175349.html): first reported 2026-11-10; 6 outlets, 2 countries.
+- [US aircraft evacuated from second British base due to Iran threat, WSJ reports](https://athenaglauxintelligence.news/event/174451.html): first reported 2026-11-09; 18 outlets, 11 countries.
+- [US demands a seat for Europe at Ukraine peace talks](https://athenaglauxintelligence.news/event/175159.html): first reported 2026-11-09; 9 outlets, 9 countries.
+
+## Optional
+
+- [Terms of use](https://athenaglauxintelligence.news/terms.html): licence and use of the content.
+- [Media kit](https://athenaglauxintelligence.news/media-kit.html): logos and facts for press.
