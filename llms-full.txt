@@ -36,7 +36,8 @@
 
 ## Latest stories
 
-- [US Army soldier arrested in Britain on suspicion of spying for Russia](https://athenaglauxintelligence.news/event/183861.html): first reported 2026-11-10; 13 outlets, 9 countries.
+- [US Army soldier arrested in Britain on suspicion of spying for Russia](https://athenaglauxintelligence.news/event/183861.html): first reported 2026-11-10; 18 outlets, 11 countries.
+- [Anthropic takes on Google and Microsoft with Claude Sheets](https://athenaglauxintelligence.news/event/182982.html): first reported 2026-11-10; 5 outlets, 3 countries.
 - [UKMTO says tanker struck by unknown projectile off Oman](https://athenaglauxintelligence.news/event/181582.html): first reported 2026-11-10; 6 outlets, 6 countries.
 - [Last tanker carrying Russian diesel under Trump-Putin deal turns back from U.S. coast](https://athenaglauxintelligence.news/event/181963.html): first reported 2026-11-10; 6 outlets, 3 countries.
 - [Ukraine urges US to speed up interceptor deliveries as Russia targets power grid](https://athenaglauxintelligence.news/event/182726.html): first reported 2026-11-10; 4 outlets, 3 countries.
@@ -59,6 +60,7 @@
 - [Anti-Sikh riots remain tragic and shameful chapter in country’s history: Sonia Gandhi](https://athenaglauxintelligence.news/event/180147.html): first reported 2026-11-10; 3 outlets, 1 countries.
 - [Qatar: Mediation Between Iran and USA going Positive](https://athenaglauxintelligence.news/event/179945.html): first reported 2026-11-10; 6 outlets, 5 countries.
 - [Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Anders Breivik, says justice minister](https://athenaglauxintelligence.news/event/180001.html): first reported 2026-11-10; 3 outlets, 3 countries.
+- [Here’s why last year’s government shutdown will haunt October’s inflation data.](https://athenaglauxintelligence.news/event/179640.html): first reported 2026-11-10; 4 outlets, 3 countries.
 - [Denmark announces $760M military aid package for Ukraine](https://athenaglauxintelligence.news/event/178930.html): first reported 2026-11-10; 5 outlets, 3 countries.
 - [Brand barrister’s cross-examination of victims shocking and depressing, says Labour deputy](https://athenaglauxintelligence.news/event/178050.html): first reported 2026-11-10; 3 outlets, 1 countries.
 - [Gulf states agree to establish forward military command in Kuwait](https://athenaglauxintelligence.news/event/178375.html): first reported 2026-11-10; 13 outlets, 8 countries.
@@ -74,8 +76,6 @@
 - ['Malicious': India flays US court summons to NSA over lawsuit by terrorist Pannun](https://athenaglauxintelligence.news/event/178177.html): first reported 2026-11-10; 6 outlets, 1 countries.
 - [Waller rules out using balance sheet as he floats 50bp hike](https://athenaglauxintelligence.news/event/177725.html): first reported 2026-11-10; 4 outlets, 3 countries.
 - [Zelensky Seeks Air Defenses at Nordic Talks in Denmark](https://athenaglauxintelligence.news/event/177929.html): first reported 2026-11-10; 7 outlets, 4 countries.
-- [President Sheikh Mohamed says UAE security and stability ‘forever at heart of our priorities’](https://athenaglauxintelligence.news/event/177809.html): first reported 2026-11-10; 4 outlets, 1 countries.
-- [Train drivers strike in Spain after two deadly crashes in a year](https://athenaglauxintelligence.news/event/178929.html): first reported 2026-11-10; 5 outlets, 5 countries.
 
 ## Optional
 
