@@ -49,8 +49,9 @@
     if(fmt)t.title=fu(new Date(live))+(j.published?" · "+(s.getAttribute("data-asof")||"")+" "+fu(new Date(j.updated)):"");s.hidden=false;s.dispatchEvent(new Event("athena-live"));}).catch(function(){});
   var c=document.querySelector('meta[name="athena-count"]');
   if(c&&/^https?:$/.test(location.protocol)&&!/^(localhost|127\.|\[::1\])/.test(location.hostname)&&navigator.doNotTrack!=="1"&&!navigator.webdriver){
-    try{var q="?p="+encodeURIComponent(location.pathname)+"&t="+encodeURIComponent(document.title)+"&r="+encodeURIComponent(document.referrer||"")
-      +"&s="+encodeURIComponent(screen.width+","+screen.height+","+(window.devicePixelRatio||1))+"&rnd="+Math.random().toString(36).slice(2);
+    try{var cm=(location.search.match(/[?&](?:utm_(?:source|medium|campaign|content|term)|ref|source)=[^&#]*/g)||[]).map(function(x){return x.slice(1)}).join("&");   /* UTM-43: only the campaign tags of a shared link are counted - never any other part of the address */
+      var q="?p="+encodeURIComponent(location.pathname)+"&t="+encodeURIComponent(document.title)+"&r="+encodeURIComponent(document.referrer||"")
+      +(cm?"&q="+encodeURIComponent("?"+cm):"")+"&s="+encodeURIComponent(screen.width+","+screen.height+","+(window.devicePixelRatio||1))+"&rnd="+Math.random().toString(36).slice(2);
       var im=new Image();im.src=c.getAttribute("content")+q;}catch(e){}}
   // the rolling news bar (data/breaking.json): breaking events, or the latest important updates when nothing new broke
   var TKI={1:"M12 3l7 3v5c0 4.5-3 8.3-7 10-4-1.7-7-5.5-7-10V6z",2:"M4 19h16M6 15l4-4 3 3 5-6M15 8h3v3",
