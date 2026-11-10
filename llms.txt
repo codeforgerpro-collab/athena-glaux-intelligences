@@ -24,9 +24,10 @@
 ## Latest stories
 
 - [President Sheikh Mohamed says UAE security and stability ‘forever at heart of our priorities’](https://athenaglauxintelligence.news/event/177809.html): first reported 2026-11-10; 3 outlets, 1 countries.
+- [Grocery inflation edges up as sales of essentials jump for ‘Be Ready’ campaign](https://athenaglauxintelligence.news/event/177899.html): first reported 2026-11-10; 3 outlets, 1 countries.
 - [Gold slips ahead of US inflation data](https://athenaglauxintelligence.news/event/176941.html): first reported 2026-11-10; 3 outlets, 3 countries.
 - [LNG transportation via Hormuz reached peak in October since February 2026 — Reuters](https://athenaglauxintelligence.news/event/177591.html): first reported 2026-11-10; 5 outlets, 5 countries.
-- [China's trade surplus soars past US$1 trillion as AI boom powers exports](https://athenaglauxintelligence.news/event/176269.html): first reported 2026-11-10; 12 outlets, 7 countries.
+- [China's trade surplus soars past US$1 trillion as AI boom powers exports](https://athenaglauxintelligence.news/event/176269.html): first reported 2026-11-10; 13 outlets, 8 countries.
 - [Australia to adopt 'mandatory' AI safeguards](https://athenaglauxintelligence.news/event/176548.html): first reported 2026-11-10; 6 outlets, 6 countries.
 - [Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa](https://athenaglauxintelligence.news/event/176553.html): first reported 2026-11-10; 3 outlets, 2 countries.
 - [Australia Establishes AI Regulator After OpenAI Medicare Breach](https://athenaglauxintelligence.news/event/176100.html): first reported 2026-11-10; 12 outlets, 7 countries.
@@ -34,10 +35,9 @@
 - [Qantas to cut 850 local jobs as it shifts roles to India](https://athenaglauxintelligence.news/event/175331.html): first reported 2026-11-10; 13 outlets, 9 countries.
 - [Dollar sellers hit pause for US inflation data](https://athenaglauxintelligence.news/event/175623.html): first reported 2026-11-10; 3 outlets, 3 countries.
 - [Oil falls as Trump downplays prospect of escalation with Iran](https://athenaglauxintelligence.news/event/175613.html): first reported 2026-11-10; 8 outlets, 7 countries.
-- [Trump says Iran war ‘effectively over’ militarily, but US ready to strike again](https://athenaglauxintelligence.news/event/176057.html): first reported 2026-11-10; 8 outlets, 6 countries.
+- [Trump says Iran war ‘effectively over’ militarily, but US ready to strike again](https://athenaglauxintelligence.news/event/176057.html): first reported 2026-11-10; 10 outlets, 7 countries.
 - [Retailers suffer subdued October as shoppers hold back ahead of Black Friday](https://athenaglauxintelligence.news/event/175349.html): first reported 2026-11-10; 6 outlets, 2 countries.
-- [US aircraft evacuated from second British base due to Iran threat, WSJ reports](https://athenaglauxintelligence.news/event/174451.html): first reported 2026-11-09; 18 outlets, 11 countries.
-- [US demands a seat for Europe at Ukraine peace talks](https://athenaglauxintelligence.news/event/175159.html): first reported 2026-11-09; 9 outlets, 9 countries.
+- [US aircraft evacuated from second British base due to Iran threat, WSJ reports](https://athenaglauxintelligence.news/event/174451.html): first reported 2026-11-09; 22 outlets, 14 countries.
 
 ## Optional
 
