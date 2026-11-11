@@ -23,10 +23,12 @@
 
 ## Latest stories
 
-- [House Democrats to investigate Trump's handling of US spy agencies](https://athenaglauxintelligence.news/event/186293.html): first reported 2026-11-10; 4 outlets, 4 countries.
+- [Judge allows Trump’s $10bn defamation case against BBC to proceed](https://athenaglauxintelligence.news/event/186524.html): first reported 2026-11-10; 8 outlets, 7 countries.
+- [House Democrats to investigate Trump's handling of US spy agencies](https://athenaglauxintelligence.news/event/186293.html): first reported 2026-11-10; 5 outlets, 4 countries.
 - [Macquarie admits ‘bonus’ savings rate failure, agrees to pay $14 million](https://athenaglauxintelligence.news/event/186075.html): first reported 2026-11-10; 3 outlets, 1 countries.
 - [US stocks fall on hot inflation report as Nvidia tumbles again](https://athenaglauxintelligence.news/event/185660.html): first reported 2026-11-10; 3 outlets, 3 countries.
 - [CoreWeave raises revenue forecast as AI demand defies growing doubts](https://athenaglauxintelligence.news/event/186078.html): first reported 2026-11-10; 5 outlets, 2 countries.
+- [US charges three 'Iranian operatives' over UK airbase terrorist plot](https://athenaglauxintelligence.news/event/184953.html): first reported 2026-11-10; 3 outlets, 3 countries.
 - [Candida envelope maker saved from closure in Muri Capital deal](https://athenaglauxintelligence.news/event/184326.html): first reported 2026-11-10; 3 outlets, 1 countries.
 - [US Army soldier arrested in Britain on suspicion of spying for Russia](https://athenaglauxintelligence.news/event/183861.html): first reported 2026-11-10; 38 outlets, 18 countries.
 - [Tillis 'leaning toward' impeaching Hegseth if articles reach Senate](https://athenaglauxintelligence.news/event/184033.html): first reported 2026-11-10; 3 outlets, 3 countries.
@@ -36,8 +38,6 @@
 - [UKMTO says tanker struck by unknown projectile off Oman](https://athenaglauxintelligence.news/event/181582.html): first reported 2026-11-10; 6 outlets, 6 countries.
 - [Russian Diesel Tanker Awaits Destination Off US East Coast](https://athenaglauxintelligence.news/event/181963.html): first reported 2026-11-10; 9 outlets, 4 countries.
 - [Ukraine urges US to speed up interceptor deliveries as Russia targets power grid](https://athenaglauxintelligence.news/event/182726.html): first reported 2026-11-10; 6 outlets, 5 countries.
-- [Gas prices fall below $4 per gallon for the first time since July](https://athenaglauxintelligence.news/event/181464.html): first reported 2026-11-10; 5 outlets, 4 countries.
-- [Reddit Reviews uses AI to summarise what users say about 10,000 products](https://athenaglauxintelligence.news/event/181780.html): first reported 2026-11-10; 6 outlets, 2 countries.
 
 ## Optional
 

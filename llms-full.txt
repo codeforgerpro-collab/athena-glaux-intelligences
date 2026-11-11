@@ -36,10 +36,12 @@
 
 ## Latest stories
 
-- [House Democrats to investigate Trump's handling of US spy agencies](https://athenaglauxintelligence.news/event/186293.html): first reported 2026-11-10; 4 outlets, 4 countries.
+- [Judge allows Trump’s $10bn defamation case against BBC to proceed](https://athenaglauxintelligence.news/event/186524.html): first reported 2026-11-10; 8 outlets, 7 countries.
+- [House Democrats to investigate Trump's handling of US spy agencies](https://athenaglauxintelligence.news/event/186293.html): first reported 2026-11-10; 5 outlets, 4 countries.
 - [Macquarie admits ‘bonus’ savings rate failure, agrees to pay $14 million](https://athenaglauxintelligence.news/event/186075.html): first reported 2026-11-10; 3 outlets, 1 countries.
 - [US stocks fall on hot inflation report as Nvidia tumbles again](https://athenaglauxintelligence.news/event/185660.html): first reported 2026-11-10; 3 outlets, 3 countries.
 - [CoreWeave raises revenue forecast as AI demand defies growing doubts](https://athenaglauxintelligence.news/event/186078.html): first reported 2026-11-10; 5 outlets, 2 countries.
+- [US charges three 'Iranian operatives' over UK airbase terrorist plot](https://athenaglauxintelligence.news/event/184953.html): first reported 2026-11-10; 3 outlets, 3 countries.
 - [Candida envelope maker saved from closure in Muri Capital deal](https://athenaglauxintelligence.news/event/184326.html): first reported 2026-11-10; 3 outlets, 1 countries.
 - [US Army soldier arrested in Britain on suspicion of spying for Russia](https://athenaglauxintelligence.news/event/183861.html): first reported 2026-11-10; 38 outlets, 18 countries.
 - [Tillis 'leaning toward' impeaching Hegseth if articles reach Senate](https://athenaglauxintelligence.news/event/184033.html): first reported 2026-11-10; 3 outlets, 3 countries.
@@ -55,6 +57,7 @@
 - [Adnoc says vessel damaged after attack in UAE waters on November 10](https://athenaglauxintelligence.news/event/181224.html): first reported 2026-11-10; 6 outlets, 3 countries.
 - [Ukrainian strikes cut Russia's oil refining capacity by 30%, Reuters reports](https://athenaglauxintelligence.news/event/182113.html): first reported 2026-11-10; 7 outlets, 5 countries.
 - [Rubio pushes for UK and European allies to have seat at Ukraine peace talks](https://athenaglauxintelligence.news/event/182739.html): first reported 2026-11-10; 5 outlets, 3 countries.
+- [US House blocks bid to impeach Defense Secretary Hegseth](https://athenaglauxintelligence.news/event/181480.html): first reported 2026-11-10; 7 outlets, 5 countries.
 - [Amazon’s new Ring cameras are mounted to roving robots, including $250 Drone Cam](https://athenaglauxintelligence.news/event/179779.html): first reported 2026-11-10; 10 outlets, 4 countries.
 - [Yandex admits it cannot restore nearly 3% of customer data in Yandex Cloud after Ukrainian attacks](https://athenaglauxintelligence.news/event/181861.html): first reported 2026-11-10; 3 outlets, 2 countries.
 - [US inflation runs hotter than expected as higher prices extend beyond gas station](https://athenaglauxintelligence.news/event/180481.html): first reported 2026-11-10; 5 outlets, 2 countries.
@@ -73,9 +76,6 @@
 - [US Republicans elect Jim Jordan as House minority leader](https://athenaglauxintelligence.news/event/179543.html): first reported 2026-11-10; 15 outlets, 13 countries.
 - [Qatar: Mediation Between Iran and USA going Positive](https://athenaglauxintelligence.news/event/179945.html): first reported 2026-11-10; 6 outlets, 5 countries.
 - [Credit card debt mounts amid Democrats' push to cap interest rates](https://athenaglauxintelligence.news/event/179334.html): first reported 2026-11-10; 3 outlets, 1 countries.
-- [Thune elected Senate GOP leader after bruising showdown with critics](https://athenaglauxintelligence.news/event/178732.html): first reported 2026-11-10; 4 outlets, 2 countries.
-- [Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Anders Breivik, says justice minister](https://athenaglauxintelligence.news/event/180001.html): first reported 2026-11-10; 3 outlets, 3 countries.
-- [Here’s why last year’s government shutdown will haunt October’s inflation data.](https://athenaglauxintelligence.news/event/179640.html): first reported 2026-11-10; 5 outlets, 4 countries.
 
 ## Optional
 
