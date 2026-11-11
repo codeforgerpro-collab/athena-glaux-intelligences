@@ -47,6 +47,7 @@
 - [Iran designates Argentina's Navy and Air Force as terrorist organizations](https://athenaglauxintelligence.news/event/189023.html): first reported 2026-11-11; 17 outlets, 10 countries.
 - [South Korea, Ukraine discuss ‘full normalization’ of ties after POW dispute](https://athenaglauxintelligence.news/event/188987.html): first reported 2026-11-11; 4 outlets, 2 countries.
 - [US Senator-elect El-Sayed urges Hegseth to resign](https://athenaglauxintelligence.news/event/188697.html): first reported 2026-11-11; 3 outlets, 2 countries.
+- [Oman Posts Third-Quarter Budget Surplus as Revenue Rises 16%](https://athenaglauxintelligence.news/event/190692.html): first reported 2026-11-11; 3 outlets, 2 countries.
 - [Senior Seoul diplomat says crypto heists carry 'significant' int'l security implications](https://athenaglauxintelligence.news/event/188484.html): first reported 2026-11-11; 3 outlets, 1 countries.
 - [FTC to fine 15 firms 1.62tr won for rigging govt. bond bids](https://athenaglauxintelligence.news/event/188491.html): first reported 2026-11-11; 4 outlets, 2 countries.
 - [Tanker carrying 6 Indian seafarers struck in Arabian Gulf, one injured: Minister](https://athenaglauxintelligence.news/event/188085.html): first reported 2026-11-11; 6 outlets, 3 countries.
@@ -58,7 +59,7 @@
 - [Australia marks Remembrance Day](https://athenaglauxintelligence.news/event/187123.html): first reported 2026-11-11; 4 outlets, 1 countries.
 - [Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes](https://athenaglauxintelligence.news/event/188201.html): first reported 2026-11-11; 9 outlets, 8 countries.
 - [Kennedy family joins lawsuit to block Trump’s proposed arch](https://athenaglauxintelligence.news/event/186828.html): first reported 2026-11-10; 15 outlets, 10 countries.
-- [Russia shoots down 92 drones over Leningrad region](https://athenaglauxintelligence.news/event/187593.html): first reported 2026-11-10; 12 outlets, 9 countries.
+- [Russia shoots down 92 drones over Leningrad region](https://athenaglauxintelligence.news/event/187593.html): first reported 2026-11-10; 13 outlets, 9 countries.
 - [House Democrats to investigate Trump's handling of US spy agencies](https://athenaglauxintelligence.news/event/186293.html): first reported 2026-11-10; 5 outlets, 4 countries.
 - [Macquarie admits ‘bonus’ savings rate failure, agrees to pay $14 million](https://athenaglauxintelligence.news/event/186075.html): first reported 2026-11-10; 3 outlets, 1 countries.
 - [Kryvyi Rih under massive Russian drone attack: Parts of city without electricity and heating](https://athenaglauxintelligence.news/event/186388.html): first reported 2026-11-10; 4 outlets, 2 countries.
@@ -72,10 +73,9 @@
 - [US charges three 'Iranian operatives' over UK airbase terrorist plot](https://athenaglauxintelligence.news/event/184953.html): first reported 2026-11-10; 6 outlets, 6 countries.
 - [‘I know how much you love the American people,’ Trump told Biden in 2021 letter](https://athenaglauxintelligence.news/event/185264.html): first reported 2026-11-10; 4 outlets, 4 countries.
 - [Candida envelope maker saved from closure in Muri Capital deal](https://athenaglauxintelligence.news/event/184326.html): first reported 2026-11-10; 3 outlets, 1 countries.
-- [US Army soldier suspected of spying for Russia arrested in UK](https://athenaglauxintelligence.news/event/183861.html): first reported 2026-11-10; 50 outlets, 23 countries.
+- [US Army soldier suspected of spying for Russia arrested in UK](https://athenaglauxintelligence.news/event/183861.html): first reported 2026-11-10; 51 outlets, 24 countries.
 - [Russia's 163-Drone Assault on Ukraine Sends Missiles Into Moldova](https://athenaglauxintelligence.news/event/186252.html): first reported 2026-11-10; 3 outlets, 1 countries.
 - [Tillis 'leaning toward' impeaching Hegseth if articles reach Senate](https://athenaglauxintelligence.news/event/184033.html): first reported 2026-11-10; 3 outlets, 3 countries.
-- [Anthropic takes on Google and Microsoft with Claude Sheets](https://athenaglauxintelligence.news/event/182982.html): first reported 2026-11-10; 7 outlets, 5 countries.
 
 ## Optional
 
