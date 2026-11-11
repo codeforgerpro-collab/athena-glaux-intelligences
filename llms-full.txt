@@ -36,8 +36,9 @@
 
 ## Latest stories
 
-- [Over 100 Indonesian lawmakers sign petition that could lead to vice-president's impeachment](https://athenaglauxintelligence.news/event/190859.html): first reported 2026-11-11; 3 outlets, 3 countries.
-- [Air India flight to Mumbai moved to isolation bay after hijack threat at Kolkata airport: What we know](https://athenaglauxintelligence.news/event/190239.html): first reported 2026-11-11; 6 outlets, 3 countries.
+- [Taiwan sends Acer's Stan Shih to represent it at APEC summit in China](https://athenaglauxintelligence.news/event/190922.html): first reported 2026-11-11; 3 outlets, 2 countries.
+- [Over 100 Indonesian lawmakers sign petition that could lead to vice-president's impeachment](https://athenaglauxintelligence.news/event/190859.html): first reported 2026-11-11; 5 outlets, 4 countries.
+- [Air India flight to Mumbai moved to isolation bay after hijack threat at Kolkata airport: What we know](https://athenaglauxintelligence.news/event/190239.html): first reported 2026-11-11; 7 outlets, 3 countries.
 - [Russia says it arrests two suspected Polish spies in Kaliningrad, Interfax reports](https://athenaglauxintelligence.news/event/190177.html): first reported 2026-11-11; 4 outlets, 3 countries.
 - [Cathay Pacific orders 14 Airbus aircrafts to expand its fleet](https://athenaglauxintelligence.news/event/189760.html): first reported 2026-11-11; 5 outlets, 4 countries.
 - [PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show](https://athenaglauxintelligence.news/event/189657.html): first reported 2026-11-11; 5 outlets, 5 countries.
@@ -53,7 +54,7 @@
 - [Revised regional currency swap arrangement takes effect](https://athenaglauxintelligence.news/event/187549.html): first reported 2026-11-11; 3 outlets, 1 countries.
 - [Australia marks Remembrance Day](https://athenaglauxintelligence.news/event/187123.html): first reported 2026-11-11; 4 outlets, 1 countries.
 - [Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes](https://athenaglauxintelligence.news/event/188201.html): first reported 2026-11-11; 9 outlets, 8 countries.
-- [US judge says Trump’s US$10bil BBC defamation case can proceed](https://athenaglauxintelligence.news/event/186524.html): first reported 2026-11-10; 19 outlets, 14 countries.
+- [US judge says Trump’s US$10bil BBC defamation case can proceed](https://athenaglauxintelligence.news/event/186524.html): first reported 2026-11-10; 20 outlets, 14 countries.
 - [Kennedy family joins lawsuit to block Trump’s proposed arch](https://athenaglauxintelligence.news/event/186828.html): first reported 2026-11-10; 14 outlets, 9 countries.
 - [Russia shoots down 92 drones over Leningrad region](https://athenaglauxintelligence.news/event/187593.html): first reported 2026-11-10; 11 outlets, 8 countries.
 - [House Democrats to investigate Trump's handling of US spy agencies](https://athenaglauxintelligence.news/event/186293.html): first reported 2026-11-10; 5 outlets, 4 countries.
@@ -62,6 +63,7 @@
 - [US stocks fall on hot inflation report as Nvidia tumbles again](https://athenaglauxintelligence.news/event/185660.html): first reported 2026-11-10; 3 outlets, 3 countries.
 - [Baltic nations, Finland issue overnight drone warnings as Russia, Ukraine exchange strikes](https://athenaglauxintelligence.news/event/185295.html): first reported 2026-11-10; 6 outlets, 5 countries.
 - [CoreWeave targets 2028 profitability as AI demand surges](https://athenaglauxintelligence.news/event/186078.html): first reported 2026-11-10; 6 outlets, 3 countries.
+- [Putin to chair Collective Security Treaty Organization summit in Moscow](https://athenaglauxintelligence.news/event/188748.html): first reported 2026-11-10; 3 outlets, 3 countries.
 - [Ukraine’s Zelensky Welcomes ‘Changes’ in US Approach During Talks with Russia](https://athenaglauxintelligence.news/event/186360.html): first reported 2026-11-10; 7 outlets, 5 countries.
 - [Poland says Pentagon green lit for permanent U.S. military base](https://athenaglauxintelligence.news/event/184477.html): first reported 2026-11-10; 3 outlets, 2 countries.
 - [US charges three 'Iranian operatives' over UK airbase terrorist plot](https://athenaglauxintelligence.news/event/184953.html): first reported 2026-11-10; 6 outlets, 6 countries.
@@ -74,8 +76,6 @@
 - [Gunmen kill MACBAN chairman in Taraba](https://athenaglauxintelligence.news/event/183377.html): first reported 2026-11-10; 3 outlets, 1 countries.
 - [Nvidia Heads for $400 Billion Two-Day Wipeout as CEO Affair Fallout Deepens](https://athenaglauxintelligence.news/event/182333.html): first reported 2026-11-10; 6 outlets, 5 countries.
 - [IBM Ends H-1B Visa, Green Card Sponsorship For Majority Consulting Roles](https://athenaglauxintelligence.news/event/184209.html): first reported 2026-11-10; 8 outlets, 5 countries.
-- [After fridge hacks, home appliances could be next, warns EU cyber chief](https://athenaglauxintelligence.news/event/182597.html): first reported 2026-11-10; 6 outlets, 6 countries.
-- [Pound drops back under 1.34 after a hot US inflation report](https://athenaglauxintelligence.news/event/183595.html): first reported 2026-11-10; 3 outlets, 2 countries.
 
 ## Optional
 
