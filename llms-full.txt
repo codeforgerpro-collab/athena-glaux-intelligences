@@ -38,13 +38,15 @@
 
 - [US and China should stay clear-eyed on AI cooperation and competition: Bessent](https://athenaglauxintelligence.news/event/187589.html): first reported 2026-11-11; 5 outlets, 4 countries.
 - [Sandpaper feuds erupt: Warner takes on ex-coach Lehmann in stunning twist](https://athenaglauxintelligence.news/event/187330.html): first reported 2026-11-11; 3 outlets, 1 countries.
+- [Property investor exodus drives record quarterly fall in Australian home lending](https://athenaglauxintelligence.news/event/187384.html): first reported 2026-11-11; 3 outlets, 3 countries.
 - [David Jones shutting half its stores doors](https://athenaglauxintelligence.news/event/187124.html): first reported 2026-11-11; 7 outlets, 3 countries.
 - [Australia marks Remembrance Day](https://athenaglauxintelligence.news/event/187123.html): first reported 2026-11-11; 4 outlets, 1 countries.
 - [Russia shoots down 92 drones over Leningrad region](https://athenaglauxintelligence.news/event/187593.html): first reported 2026-11-11; 6 outlets, 5 countries.
-- [Judge allows Trump’s $10bn defamation case against BBC to proceed](https://athenaglauxintelligence.news/event/186524.html): first reported 2026-11-10; 15 outlets, 11 countries.
+- [US judge says Trump’s US$10bil BBC defamation case can proceed](https://athenaglauxintelligence.news/event/186524.html): first reported 2026-11-10; 17 outlets, 12 countries.
 - [Kennedy family joins lawsuit to block Trump’s proposed arch](https://athenaglauxintelligence.news/event/186828.html): first reported 2026-11-10; 13 outlets, 8 countries.
 - [House Democrats to investigate Trump's handling of US spy agencies](https://athenaglauxintelligence.news/event/186293.html): first reported 2026-11-10; 5 outlets, 4 countries.
 - [Macquarie admits ‘bonus’ savings rate failure, agrees to pay $14 million](https://athenaglauxintelligence.news/event/186075.html): first reported 2026-11-10; 3 outlets, 1 countries.
+- [Kryvyi Rih under massive Russian drone attack: Parts of city without electricity and heating](https://athenaglauxintelligence.news/event/186388.html): first reported 2026-11-10; 4 outlets, 2 countries.
 - [US stocks fall on hot inflation report as Nvidia tumbles again](https://athenaglauxintelligence.news/event/185660.html): first reported 2026-11-10; 3 outlets, 3 countries.
 - [CoreWeave targets 2028 profitability as AI demand surges](https://athenaglauxintelligence.news/event/186078.html): first reported 2026-11-10; 6 outlets, 3 countries.
 - [Zelenskyy: Ukraine and Russia discuss prisoner exchange involving 1,000 or 1,500 soldiers from each side](https://athenaglauxintelligence.news/event/186360.html): first reported 2026-11-10; 4 outlets, 4 countries.
@@ -55,13 +57,15 @@
 - [Tillis 'leaning toward' impeaching Hegseth if articles reach Senate](https://athenaglauxintelligence.news/event/184033.html): first reported 2026-11-10; 3 outlets, 3 countries.
 - [Anthropic takes on Google and Microsoft with Claude Sheets](https://athenaglauxintelligence.news/event/182982.html): first reported 2026-11-10; 7 outlets, 5 countries.
 - [Nvidia Heads for $400 Billion Two-Day Wipeout as CEO Affair Fallout Deepens](https://athenaglauxintelligence.news/event/182333.html): first reported 2026-11-10; 6 outlets, 5 countries.
+- [IBM Ends H-1B Visa, Green Card Sponsorship For Majority Consulting Roles](https://athenaglauxintelligence.news/event/184209.html): first reported 2026-11-10; 5 outlets, 4 countries.
 - [After fridge hacks, home appliances could be next, warns EU cyber chief](https://athenaglauxintelligence.news/event/182597.html): first reported 2026-11-10; 5 outlets, 5 countries.
 - [Pound drops back under 1.34 after a hot US inflation report](https://athenaglauxintelligence.news/event/183595.html): first reported 2026-11-10; 3 outlets, 2 countries.
 - [UKMTO reports tanker incident in Strait of Hormuz](https://athenaglauxintelligence.news/event/181582.html): first reported 2026-11-10; 9 outlets, 8 countries.
 - [Russian Diesel Tanker Awaits Destination Off US East Coast](https://athenaglauxintelligence.news/event/181963.html): first reported 2026-11-10; 10 outlets, 4 countries.
 - [Ukraine urges US to speed up interceptor deliveries as Russia targets power grid](https://athenaglauxintelligence.news/event/182726.html): first reported 2026-11-10; 6 outlets, 5 countries.
-- [Arrests as Joe Biden makes surprise Dublin visit](https://athenaglauxintelligence.news/event/181600.html): first reported 2026-11-10; 11 outlets, 3 countries.
+- [Arrests as Joe Biden makes surprise Dublin visit](https://athenaglauxintelligence.news/event/181600.html): first reported 2026-11-10; 12 outlets, 4 countries.
 - [Gas prices fall below $4 per gallon for the first time since July](https://athenaglauxintelligence.news/event/181464.html): first reported 2026-11-10; 5 outlets, 4 countries.
+- [2027 budget to be presented at 6 pm on Thursday – Bagbin](https://athenaglauxintelligence.news/event/182632.html): first reported 2026-11-10; 3 outlets, 2 countries.
 - [Reddit Reviews uses AI to summarise what users say about 10,000 products](https://athenaglauxintelligence.news/event/181780.html): first reported 2026-11-10; 6 outlets, 2 countries.
 - [Microsoft presses Trump to scuttle ban on Chinese data centre tech](https://athenaglauxintelligence.news/event/182860.html): first reported 2026-11-10; 5 outlets, 5 countries.
 - [Italy says EU nations failed to commit to Red Sea security, despite calls from FM](https://athenaglauxintelligence.news/event/181777.html): first reported 2026-11-10; 4 outlets, 3 countries.
@@ -72,10 +76,6 @@
 - [G7 agrees on need to avoid 'security void' in Lebanon after UN force mandate ends](https://athenaglauxintelligence.news/event/180863.html): first reported 2026-11-10; 10 outlets, 7 countries.
 - [US House blocks bid to impeach Defense Secretary Hegseth](https://athenaglauxintelligence.news/event/181480.html): first reported 2026-11-10; 17 outlets, 10 countries.
 - [Amazon’s new Ring cameras are mounted to roving robots, including $250 Drone Cam](https://athenaglauxintelligence.news/event/179779.html): first reported 2026-11-10; 10 outlets, 4 countries.
-- [Yandex admits it cannot restore nearly 3% of customer data in Yandex Cloud after Ukrainian attacks](https://athenaglauxintelligence.news/event/181861.html): first reported 2026-11-10; 3 outlets, 2 countries.
-- [US inflation runs hotter than expected as higher prices extend beyond gas station](https://athenaglauxintelligence.news/event/180481.html): first reported 2026-11-10; 5 outlets, 2 countries.
-- [Dangote Cement shelves London listing, blames market conditions in blow to LSE](https://athenaglauxintelligence.news/event/180693.html): first reported 2026-11-10; 5 outlets, 3 countries.
-- [Russia preparing strikes on food industry facilities in Ukraine – intelligence source](https://athenaglauxintelligence.news/event/179964.html): first reported 2026-11-10; 5 outlets, 2 countries.
 
 ## Optional
 
