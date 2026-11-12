@@ -36,17 +36,18 @@
 
 ## Latest stories
 
-- [Who is Colette Kress? 5 things to know about Nvidia’s interim CEO](https://athenaglauxintelligence.news/event/205493.html): first reported 2026-11-12; 5 outlets, 4 countries.
-- [Trump says US 'doesn't need' deal with Iran, claims control of Strait of Hormuz](https://athenaglauxintelligence.news/event/205579.html): first reported 2026-11-12; 5 outlets, 5 countries.
-- [Two men found guilty of helping Iranian spy operation targeting UK-based critics](https://athenaglauxintelligence.news/event/204472.html): first reported 2026-11-12; 5 outlets, 3 countries.
-- [Israeli defence minister says no need for opposition approval to launch strikes](https://athenaglauxintelligence.news/event/203419.html): first reported 2026-11-12; 4 outlets, 4 countries.
-- [Zelensky says Starshield speed limited again, hampering Ukraine’s defences](https://athenaglauxintelligence.news/event/204118.html): first reported 2026-11-12; 9 outlets, 7 countries.
-- [Bomb alert at Calais-Fréthun station in northern France halts Eurostar trains to London](https://athenaglauxintelligence.news/event/203402.html): first reported 2026-11-12; 11 outlets, 8 countries.
+- [Who is Colette Kress? 5 things to know about Nvidia’s interim CEO](https://athenaglauxintelligence.news/event/205493.html): first reported 2026-11-12; 11 outlets, 5 countries.
+- [Trump says US 'doesn't need' deal with Iran, claims control of Strait of Hormuz](https://athenaglauxintelligence.news/event/205579.html): first reported 2026-11-12; 6 outlets, 6 countries.
+- [Putin proposes 'humanitarian mission' in frontline Ukraine city of Kostyantynivka](https://athenaglauxintelligence.news/event/205275.html): first reported 2026-11-12; 4 outlets, 4 countries.
+- [London court finds 2 Iranian men guilty of spying for Tehran](https://athenaglauxintelligence.news/event/204472.html): first reported 2026-11-12; 6 outlets, 4 countries.
+- [Israeli defence minister says no need for opposition approval to launch strikes](https://athenaglauxintelligence.news/event/203419.html): first reported 2026-11-12; 5 outlets, 5 countries.
+- [Zelensky says Starshield speed limited again, hampering Ukraine’s defences](https://athenaglauxintelligence.news/event/204118.html): first reported 2026-11-12; 10 outlets, 7 countries.
+- [Bomb alert at Calais-Fréthun station in northern France halts Eurostar trains to London](https://athenaglauxintelligence.news/event/203402.html): first reported 2026-11-12; 12 outlets, 8 countries.
 - [10 Pakistani police officers, 18 terrorists killed in attack in northwest: police](https://athenaglauxintelligence.news/event/203699.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Burberry reports sales boost from trench coats and says turnaround ‘working’](https://athenaglauxintelligence.news/event/203576.html): first reported 2026-11-12; 7 outlets, 3 countries.
 - [China accuses US of using spy claims to justify tech blockade](https://athenaglauxintelligence.news/event/202944.html): first reported 2026-11-12; 11 outlets, 10 countries.
 - [RBI to ban private equity firms from controlling multiple non-bank lenders](https://athenaglauxintelligence.news/event/202705.html): first reported 2026-11-12; 4 outlets, 2 countries.
-- [Metro Bank up for sale after turnaround pays off](https://athenaglauxintelligence.news/event/202729.html): first reported 2026-11-12; 4 outlets, 2 countries.
+- [Metro Bank up for sale after turnaround pays off](https://athenaglauxintelligence.news/event/202729.html): first reported 2026-11-12; 5 outlets, 3 countries.
 - ['Significant evidence' of placer gold in Punjab rivers, says CM Maryam at minerals investment forum](https://athenaglauxintelligence.news/event/202348.html): first reported 2026-11-12; 5 outlets, 2 countries.
 - [Marsh dodges Sandpapergate questions in testy press conference exchange](https://athenaglauxintelligence.news/event/203639.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [UK economy expanded by 0.7% in third quarter](https://athenaglauxintelligence.news/event/202249.html): first reported 2026-11-12; 5 outlets, 4 countries.
@@ -56,10 +57,11 @@
 - [Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine](https://athenaglauxintelligence.news/event/202433.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter](https://athenaglauxintelligence.news/event/201757.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Xi-Trump-Putin Summit Evokes 1945 Yalta Carve-up](https://athenaglauxintelligence.news/event/202004.html): first reported 2026-11-12; 3 outlets, 3 countries.
-- [Car bomb kills Russian soldier near St Petersburg in latest targeted assassination](https://athenaglauxintelligence.news/event/201981.html): first reported 2026-11-12; 13 outlets, 8 countries.
+- [Russian military officer killed in car explosion in St. Petersburg](https://athenaglauxintelligence.news/event/201981.html): first reported 2026-11-12; 14 outlets, 9 countries.
 - [Ukraine strikes Russian warship near Finland](https://athenaglauxintelligence.news/event/202523.html): first reported 2026-11-12; 4 outlets, 4 countries.
 - [Kenya seeks EU election observers, debt reforms ahead of 2027 polls](https://athenaglauxintelligence.news/event/201083.html): first reported 2026-11-12; 4 outlets, 2 countries.
 - [Wheelock Place renamed Landmark Orchard after Hongkong Land acquisition](https://athenaglauxintelligence.news/event/201471.html): first reported 2026-11-12; 5 outlets, 3 countries.
+- [Global powers head to Asia with trade, AI, security in focus](https://athenaglauxintelligence.news/event/201044.html): first reported 2026-11-12; 5 outlets, 5 countries.
 - [FM Cho to visit China this week for talks with Wang Yi on N. Korea, bilateral ties](https://athenaglauxintelligence.news/event/200695.html): first reported 2026-11-12; 3 outlets, 1 countries.
 - [Two Oil Supertankers Explode in Strait of Hormuz, IRGC Says](https://athenaglauxintelligence.news/event/202574.html): first reported 2026-11-12; 9 outlets, 8 countries.
 - [China's Xi says Taiwan 'reunification' must happen as history cannot be stopped](https://athenaglauxintelligence.news/event/201398.html): first reported 2026-11-12; 9 outlets, 9 countries.
@@ -70,12 +72,10 @@
 - [Lee to attend ASEAN, APEC summits in Philippines, China next week](https://athenaglauxintelligence.news/event/199390.html): first reported 2026-11-12; 4 outlets, 2 countries.
 - [Blackstone plants new flag in Dubai as Gulf wealth draws Wall Street](https://athenaglauxintelligence.news/event/199461.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Asian stocks fragile, Nvidia plummets as board to decide CEO's fate](https://athenaglauxintelligence.news/event/199197.html): first reported 2026-11-12; 8 outlets, 7 countries.
+- ["An Honour": Elon Musk On Hiring Jensen Huang As His Future At Nvidia Hangs In Limbo](https://athenaglauxintelligence.news/event/200595.html): first reported 2026-11-11; 5 outlets, 2 countries.
 - [Strategy, Metaplanet lose MSCI index membership in November reshuffle](https://athenaglauxintelligence.news/event/198490.html): first reported 2026-11-11; 4 outlets, 2 countries.
 - [N. Korea's Kim inspects east coast naval base under construction, urges timely completion](https://athenaglauxintelligence.news/event/199073.html): first reported 2026-11-11; 7 outlets, 5 countries.
 - [US taxpayer group calls on ICC to investigate Trump, Rubio for 'aiding' Gaza genocide](https://athenaglauxintelligence.news/event/198504.html): first reported 2026-11-11; 3 outlets, 2 countries.
-- [ANZ boss warns global markets in 'dangerous situation' as interest rates rise](https://athenaglauxintelligence.news/event/197917.html): first reported 2026-11-11; 3 outlets, 2 countries.
-- [2 DEAD, 17 INJURED AS BUILDING COLLAPSES IN NEW YORK](https://athenaglauxintelligence.news/event/197946.html): first reported 2026-11-11; 54 outlets, 30 countries.
-- [Malcolm in the Middle star Frankie Muniz in hospital after Daytona crash](https://athenaglauxintelligence.news/event/198772.html): first reported 2026-11-11; 7 outlets, 4 countries.
 
 ## Optional
 
