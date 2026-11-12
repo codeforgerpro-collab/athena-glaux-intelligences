@@ -36,12 +36,13 @@
 
 ## Latest stories
 
-- [Who is Colette Kress? 5 things to know about Nvidia’s interim CEO](https://athenaglauxintelligence.news/event/205493.html): first reported 2026-11-12; 12 outlets, 5 countries.
-- [Trump says US 'doesn't need' deal with Iran, claims control of Strait of Hormuz](https://athenaglauxintelligence.news/event/205579.html): first reported 2026-11-12; 9 outlets, 8 countries.
-- [Putin proposes 'humanitarian mission' in frontline Ukraine city of Kostyantynivka](https://athenaglauxintelligence.news/event/205275.html): first reported 2026-11-12; 4 outlets, 4 countries.
-- [Iran pair guilty of spying on London-based journalists 'for Tehran'](https://athenaglauxintelligence.news/event/204472.html): first reported 2026-11-12; 8 outlets, 5 countries.
+- [Ramaphosa to lead a high-level delegation to Silicon Valley in US](https://athenaglauxintelligence.news/event/205864.html): first reported 2026-11-12; 3 outlets, 2 countries.
+- [Trump says US 'doesn't need' deal with Iran, claims control of Strait of Hormuz](https://athenaglauxintelligence.news/event/205579.html): first reported 2026-11-12; 11 outlets, 9 countries.
+- [Putin proposes 'humanitarian mission' in frontline Ukraine city of Kostyantynivka](https://athenaglauxintelligence.news/event/205275.html): first reported 2026-11-12; 5 outlets, 4 countries.
+- [Iran pair guilty of spying on London-based journalists 'for Tehran'](https://athenaglauxintelligence.news/event/204472.html): first reported 2026-11-12; 9 outlets, 6 countries.
 - [Israeli defence minister says no need for opposition approval to launch strikes](https://athenaglauxintelligence.news/event/203419.html): first reported 2026-11-12; 5 outlets, 5 countries.
 - [Zelensky says Starshield speed limited again, hampering Ukraine’s defences](https://athenaglauxintelligence.news/event/204118.html): first reported 2026-11-12; 13 outlets, 8 countries.
+- [Who is Colette Kress? 5 things to know about Nvidia’s interim CEO](https://athenaglauxintelligence.news/event/205493.html): first reported 2026-11-12; 18 outlets, 7 countries.
 - [Bomb alert at Calais-Fréthun station in northern France halts Eurostar trains to London](https://athenaglauxintelligence.news/event/203402.html): first reported 2026-11-12; 13 outlets, 9 countries.
 - [10 Pakistani police officers, 18 terrorists killed in attack in northwest: police](https://athenaglauxintelligence.news/event/203699.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Burberry reports sales boost from trench coats and says turnaround ‘working’](https://athenaglauxintelligence.news/event/203576.html): first reported 2026-11-12; 8 outlets, 4 countries.
@@ -58,12 +59,12 @@
 - [Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter](https://athenaglauxintelligence.news/event/201757.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Xi-Trump-Putin Summit Evokes 1945 Yalta Carve-up](https://athenaglauxintelligence.news/event/202004.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Russian military officer killed in car explosion in St. Petersburg](https://athenaglauxintelligence.news/event/201981.html): first reported 2026-11-12; 14 outlets, 9 countries.
-- [Ukraine strikes Russian warship near Finland](https://athenaglauxintelligence.news/event/202523.html): first reported 2026-11-12; 4 outlets, 4 countries.
+- [Ukraine strikes Russian warship near Finland](https://athenaglauxintelligence.news/event/202523.html): first reported 2026-11-12; 5 outlets, 5 countries.
 - [Kenya seeks EU election observers, debt reforms ahead of 2027 polls](https://athenaglauxintelligence.news/event/201083.html): first reported 2026-11-12; 4 outlets, 2 countries.
 - [Wheelock Place renamed Landmark Orchard after Hongkong Land acquisition](https://athenaglauxintelligence.news/event/201471.html): first reported 2026-11-12; 5 outlets, 3 countries.
 - [Global powers head to Asia with trade, AI, security in focus](https://athenaglauxintelligence.news/event/201044.html): first reported 2026-11-12; 5 outlets, 5 countries.
 - [FM Cho to visit China this week for talks with Wang Yi on N. Korea, bilateral ties](https://athenaglauxintelligence.news/event/200695.html): first reported 2026-11-12; 3 outlets, 1 countries.
-- [China's Xi says Taiwan 'reunification' must happen as history cannot be stopped](https://athenaglauxintelligence.news/event/201398.html): first reported 2026-11-12; 9 outlets, 9 countries.
+- [China's Xi says Taiwan 'reunification' must happen as history cannot be stopped](https://athenaglauxintelligence.news/event/201398.html): first reported 2026-11-12; 10 outlets, 10 countries.
 - [The Kremlin can hide the death toll. It can’t hide the graves.](https://athenaglauxintelligence.news/event/200163.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Teen falls from train on Sydney Harbour Bridge](https://athenaglauxintelligence.news/event/199658.html): first reported 2026-11-12; 6 outlets, 3 countries.
 - [ATI Secures Manila South Harbour Concession Renewal To 2063](https://athenaglauxintelligence.news/event/199910.html): first reported 2026-11-12; 3 outlets, 3 countries.
@@ -75,7 +76,6 @@
 - ["An Honour": Elon Musk On Hiring Jensen Huang As His Future At Nvidia Hangs In Limbo](https://athenaglauxintelligence.news/event/200595.html): first reported 2026-11-11; 5 outlets, 2 countries.
 - [A truce in name only? 1,400 killed in Gaza since ceasefire as winter looms](https://athenaglauxintelligence.news/event/199886.html): first reported 2026-11-11; 3 outlets, 3 countries.
 - [Strategy, Metaplanet lose MSCI index membership in November reshuffle](https://athenaglauxintelligence.news/event/198490.html): first reported 2026-11-11; 4 outlets, 2 countries.
-- [N. Korea's Kim inspects east coast naval base under construction, urges timely completion](https://athenaglauxintelligence.news/event/199073.html): first reported 2026-11-11; 7 outlets, 5 countries.
 
 ## Optional
 
