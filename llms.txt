@@ -23,7 +23,9 @@
 
 ## Latest stories
 
-- [Microsoft 365, Outlook down for thousands of US users](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 6 outlets, 3 countries.
+- [Microsoft investigates reports of Outlook mailbox access problems](https://athenaglauxintelligence.news/event/208172.html): first reported 2026-11-12; 5 outlets, 4 countries.
+- [Microsoft 365, Outlook down for thousands of US users](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 8 outlets, 4 countries.
+- [Home sales in the US are at their lowest level since 2016](https://athenaglauxintelligence.news/event/207432.html): first reported 2026-11-12; 4 outlets, 3 countries.
 - [UK says it's 1st country to target all of Russia's top 10 oil producers with latest round of sanctions](https://athenaglauxintelligence.news/event/206120.html): first reported 2026-11-12; 4 outlets, 3 countries.
 - [Ramaphosa to lead a high-level delegation to Silicon Valley in US](https://athenaglauxintelligence.news/event/205864.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Nvidia shares extend losses to 10% following CEO’s resignation](https://athenaglauxintelligence.news/event/208033.html): first reported 2026-11-12; 3 outlets, 3 countries.
@@ -36,8 +38,6 @@
 - [Zelensky cautions Europe over US-Russia security talks](https://athenaglauxintelligence.news/event/205031.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Croatian PM: Peace process between Azerbaijan and Armenia is constructive](https://athenaglauxintelligence.news/event/205595.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [London court finds 2 Iranian men guilty of spying for Tehran](https://athenaglauxintelligence.news/event/204472.html): first reported 2026-11-12; 14 outlets, 8 countries.
-- [President Mahama: New cedi notes to bring Ghana’s history closer to younger generation](https://athenaglauxintelligence.news/event/206759.html): first reported 2026-11-12; 3 outlets, 1 countries.
-- [First look at BBC Line of Duty series 7 with major AC-12 change and Hollywood star](https://athenaglauxintelligence.news/event/205049.html): first reported 2026-11-12; 5 outlets, 2 countries.
 
 ## Optional
 
