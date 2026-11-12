@@ -36,6 +36,7 @@
 
 ## Latest stories
 
+- [Chinese President Xi Jinping says Taiwan 'reunification' must happen as history cannot be stopped](https://athenaglauxintelligence.news/event/201398.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Japan's Mimura says markets shouldn't forget intervention risks as yen nears 160](https://athenaglauxintelligence.news/event/199127.html): first reported 2026-11-12; 4 outlets, 4 countries.
 - [‘He’s grounded for life’: Teen survives six days in bush on chips and water](https://athenaglauxintelligence.news/event/199475.html): first reported 2026-11-12; 5 outlets, 3 countries.
 - [Lee to attend ASEAN, APEC summits in Philippines, China next week](https://athenaglauxintelligence.news/event/199390.html): first reported 2026-11-12; 4 outlets, 2 countries.
@@ -63,10 +64,9 @@
 - [Israeli army, illegal settlers carry out over 1,180 arson attacks in occupied West Bank](https://athenaglauxintelligence.news/event/195469.html): first reported 2026-11-11; 3 outlets, 3 countries.
 - [Russia’s ambassador to the US, Alexander Darchiev, dies 'suddenly' at 66](https://athenaglauxintelligence.news/event/194064.html): first reported 2026-11-11; 30 outlets, 19 countries.
 - [France denies entry of settler leader Yossi Dagan over West Bank activities](https://athenaglauxintelligence.news/event/194803.html): first reported 2026-11-11; 7 outlets, 4 countries.
-- [UK economic growth expected to have picked up amid AI and defence drive](https://athenaglauxintelligence.news/event/194260.html): first reported 2026-11-11; 3 outlets, 1 countries.
 - [18:56 Plans to work out CSTO agreement on cooperation in biological security Politics](https://athenaglauxintelligence.news/event/193807.html): first reported 2026-11-11; 3 outlets, 3 countries.
 - [OPEC+ Oil Production Rises in October, Nearing Pre-Iran War Rates](https://athenaglauxintelligence.news/event/194188.html): first reported 2026-11-11; 5 outlets, 2 countries.
-- [Trump defends Iran war in Veterans Day address](https://athenaglauxintelligence.news/event/193937.html): first reported 2026-11-11; 10 outlets, 6 countries.
+- [Trump defends Iran war in Veterans Day address](https://athenaglauxintelligence.news/event/193937.html): first reported 2026-11-11; 11 outlets, 6 countries.
 - [Romanian intelligence agency says it identified Russian-linked cyber attack](https://athenaglauxintelligence.news/event/194899.html): first reported 2026-11-11; 3 outlets, 3 countries.
 - [17:51 Lukashenko names mutual support top priority for CSTO President](https://athenaglauxintelligence.news/event/193803.html): first reported 2026-11-11; 3 outlets, 3 countries.
 - [Ryanair changes bag drop rules for all European travellers](https://athenaglauxintelligence.news/event/194232.html): first reported 2026-11-11; 7 outlets, 9 countries.
@@ -74,7 +74,7 @@
 - [Austria tightens laws against spying to protect the international organizations it hosts](https://athenaglauxintelligence.news/event/192718.html): first reported 2026-11-11; 4 outlets, 4 countries.
 - [CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates](https://athenaglauxintelligence.news/event/195710.html): first reported 2026-11-11; 3 outlets, 1 countries.
 - [Russian diplomat says Moscow could conclude non-aggression pacts with NATO member states](https://athenaglauxintelligence.news/event/192824.html): first reported 2026-11-11; 4 outlets, 3 countries.
-- [Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy](https://athenaglauxintelligence.news/event/192340.html): first reported 2026-11-11; 4 outlets, 4 countries.
+- [Nvidia Scandal Unveils a Fierce Spy War Raging Behind Trump and Xi’s Diplomacy](https://athenaglauxintelligence.news/event/192340.html): first reported 2026-11-11; 5 outlets, 5 countries.
 - [Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe](https://athenaglauxintelligence.news/event/193513.html): first reported 2026-11-11; 5 outlets, 3 countries.
 
 ## Optional
