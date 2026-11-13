@@ -54,5 +54,5 @@ Allow: /
 
 User-agent: *
 Allow: /
-Sitemap: https://athenaglauxintelligence.news/sitemap.xml
-Sitemap: https://athenaglauxintelligence.news/news-sitemap.xml
+Sitemap: https://codeforgerpro-collab.github.io/athena-glaux-intelligences/sitemap.xml
+Sitemap: https://codeforgerpro-collab.github.io/athena-glaux-intelligences/news-sitemap.xml
