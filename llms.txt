@@ -23,12 +23,14 @@
 
 ## Latest stories
 
+- [Trump had urged Jensen Huang to fight for his job, New York Times reports](https://athenaglauxintelligence.news/event/210294.html): first reported 2026-11-12; 5 outlets, 4 countries.
+- [China's access to Nvidia chips in doubt as curbs gain traction in US Congress](https://athenaglauxintelligence.news/event/209415.html): first reported 2026-11-12; 6 outlets, 4 countries.
 - [PM not ‘reading too much’ into Ukraine peace talks and urges focus on ceasefire](https://athenaglauxintelligence.news/event/209475.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://athenaglauxintelligence.news/event/207740.html): first reported 2026-11-12; 5 outlets, 2 countries.
 - [US starts 2027 fiscal year with record October budget deficit of US$404bil](https://athenaglauxintelligence.news/event/208116.html): first reported 2026-11-12; 4 outlets, 2 countries.
 - [‘American Doctor’ Doc Distributor Condemns Gaza Hospital Bombing Death of Dr. Rizk Abu Shaaira](https://athenaglauxintelligence.news/event/207787.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Microsoft investigates reports of Outlook mailbox access problems](https://athenaglauxintelligence.news/event/208172.html): first reported 2026-11-12; 5 outlets, 4 countries.
-- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 28 outlets, 13 countries.
+- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 32 outlets, 15 countries.
 - [Trump team mulling Howard Lutnick’s future as commerce secretary after Nvidia scandal, report says](https://athenaglauxintelligence.news/event/208817.html): first reported 2026-11-12; 11 outlets, 5 countries.
 - [US existing home sales fall to lowest level since 2010](https://athenaglauxintelligence.news/event/207432.html): first reported 2026-11-12; 6 outlets, 4 countries.
 - [New Round of Ukraine Talks Set, European Representatives to Participate](https://athenaglauxintelligence.news/event/209236.html): first reported 2026-11-12; 3 outlets, 3 countries.
@@ -36,8 +38,6 @@
 - [Truck crash in UAE kills 14, injures 30](https://athenaglauxintelligence.news/event/206475.html): first reported 2026-11-12; 5 outlets, 5 countries.
 - [USS George H.W. Bush families told to prepare for year-long deployment](https://athenaglauxintelligence.news/event/208853.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [New York building collapse killed two children and six adults, says mayor](https://athenaglauxintelligence.news/event/208339.html): first reported 2026-11-12; 6 outlets, 6 countries.
-- [UK says it's 1st country to target all of Russia's top 10 oil producers with latest round of sanctions](https://athenaglauxintelligence.news/event/206120.html): first reported 2026-11-12; 5 outlets, 3 countries.
-- [Ramaphosa to lead a high-level delegation to Silicon Valley in US](https://athenaglauxintelligence.news/event/205864.html): first reported 2026-11-12; 3 outlets, 2 countries.
 
 ## Optional
 
