@@ -25,8 +25,8 @@
 
 - [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://athenaglauxintelligence.news/event/207740.html): first reported 2026-11-12; 5 outlets, 2 countries.
 - [Microsoft investigates reports of Outlook mailbox access problems](https://athenaglauxintelligence.news/event/208172.html): first reported 2026-11-12; 5 outlets, 4 countries.
-- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 21 outlets, 9 countries.
-- [Trump team mulling Howard Lutnick’s future as commerce secretary after Nvidia scandal, report says](https://athenaglauxintelligence.news/event/208817.html): first reported 2026-11-12; 5 outlets, 4 countries.
+- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 22 outlets, 10 countries.
+- [Trump team mulling Howard Lutnick’s future as commerce secretary after Nvidia scandal, report says](https://athenaglauxintelligence.news/event/208817.html): first reported 2026-11-12; 7 outlets, 4 countries.
 - [Home sales in the US are at their lowest level since 2016](https://athenaglauxintelligence.news/event/207432.html): first reported 2026-11-12; 5 outlets, 3 countries.
 - [New York building collapse killed two children and six adults, says mayor](https://athenaglauxintelligence.news/event/208339.html): first reported 2026-11-12; 5 outlets, 5 countries.
 - [UK says it's 1st country to target all of Russia's top 10 oil producers with latest round of sanctions](https://athenaglauxintelligence.news/event/206120.html): first reported 2026-11-12; 5 outlets, 3 countries.
@@ -35,7 +35,7 @@
 - [Burnham unveils ‘stinging’ sanctions on Russia at major European summit](https://athenaglauxintelligence.news/event/205371.html): first reported 2026-11-12; 4 outlets, 1 countries.
 - [Nine-month-old baby dies of cold in Gaza: Palestinians](https://athenaglauxintelligence.news/event/206164.html): first reported 2026-11-12; 5 outlets, 4 countries.
 - [Witkoff and Kushner met with Zelenskyy in Dublin](https://athenaglauxintelligence.news/event/207311.html): first reported 2026-11-12; 3 outlets, 3 countries.
-- [Trump says ‘we don’t need a deal with Iran’](https://athenaglauxintelligence.news/event/205579.html): first reported 2026-11-12; 23 outlets, 15 countries.
+- [Trump says ‘we don’t need a deal with Iran’](https://athenaglauxintelligence.news/event/205579.html): first reported 2026-11-12; 24 outlets, 16 countries.
 - [Singapore barred Alice Huang from re-entry following investigation](https://athenaglauxintelligence.news/event/205412.html): first reported 2026-11-12; 7 outlets, 6 countries.
 - [Putin proposes 'humanitarian mission' in frontline Ukraine city of Kostyantynivka](https://athenaglauxintelligence.news/event/205275.html): first reported 2026-11-12; 8 outlets, 5 countries.
 
