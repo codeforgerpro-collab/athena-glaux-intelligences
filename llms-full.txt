@@ -38,13 +38,14 @@
 
 - [PM not ‘reading too much’ into Ukraine peace talks and urges focus on ceasefire](https://athenaglauxintelligence.news/event/209475.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://athenaglauxintelligence.news/event/207740.html): first reported 2026-11-12; 5 outlets, 2 countries.
-- [US starts 2027 fiscal year with record October budget deficit of US$404bil](https://athenaglauxintelligence.news/event/208116.html): first reported 2026-11-12; 3 outlets, 2 countries.
+- [US starts 2027 fiscal year with record October budget deficit of US$404bil](https://athenaglauxintelligence.news/event/208116.html): first reported 2026-11-12; 4 outlets, 2 countries.
 - [‘American Doctor’ Doc Distributor Condemns Gaza Hospital Bombing Death of Dr. Rizk Abu Shaaira](https://athenaglauxintelligence.news/event/207787.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Microsoft investigates reports of Outlook mailbox access problems](https://athenaglauxintelligence.news/event/208172.html): first reported 2026-11-12; 5 outlets, 4 countries.
-- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 27 outlets, 13 countries.
-- [Trump team mulling Howard Lutnick’s future as commerce secretary after Nvidia scandal, report says](https://athenaglauxintelligence.news/event/208817.html): first reported 2026-11-12; 9 outlets, 4 countries.
+- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 28 outlets, 13 countries.
+- [Trump team mulling Howard Lutnick’s future as commerce secretary after Nvidia scandal, report says](https://athenaglauxintelligence.news/event/208817.html): first reported 2026-11-12; 11 outlets, 5 countries.
 - [US existing home sales fall to lowest level since 2010](https://athenaglauxintelligence.news/event/207432.html): first reported 2026-11-12; 6 outlets, 4 countries.
 - [New Round of Ukraine Talks Set, European Representatives to Participate](https://athenaglauxintelligence.news/event/209236.html): first reported 2026-11-12; 3 outlets, 3 countries.
+- [What's a Honey Trap? The spy tactic that helped topple Jensen Huang](https://athenaglauxintelligence.news/event/209026.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Truck crash in UAE kills 14, injures 30](https://athenaglauxintelligence.news/event/206475.html): first reported 2026-11-12; 5 outlets, 5 countries.
 - [USS George H.W. Bush families told to prepare for year-long deployment](https://athenaglauxintelligence.news/event/208853.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [New York building collapse killed two children and six adults, says mayor](https://athenaglauxintelligence.news/event/208339.html): first reported 2026-11-12; 6 outlets, 6 countries.
@@ -69,13 +70,12 @@
 - [First look at BBC Line of Duty series 7 with major AC-12 change and Hollywood star](https://athenaglauxintelligence.news/event/205049.html): first reported 2026-11-12; 5 outlets, 2 countries.
 - [Griffin raises $20M to add cards and stablecoins to its banking platform](https://athenaglauxintelligence.news/event/204221.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Israeli defence minister says no need for opposition approval to launch strikes](https://athenaglauxintelligence.news/event/203419.html): first reported 2026-11-12; 5 outlets, 5 countries.
-- [Zelensky: Ukraine New 'Systematic' Restrictions to Starshield](https://athenaglauxintelligence.news/event/204118.html): first reported 2026-11-12; 20 outlets, 9 countries.
+- [Zelensky: Ukraine New 'Systematic' Restrictions to Starshield](https://athenaglauxintelligence.news/event/204118.html): first reported 2026-11-12; 21 outlets, 10 countries.
 - [5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself](https://athenaglauxintelligence.news/event/205822.html): first reported 2026-11-12; 43 outlets, 24 countries.
-- [Who is Colette Kress, the interim CEO replacing Jensen Huang at Nvidia](https://athenaglauxintelligence.news/event/205493.html): first reported 2026-11-12; 39 outlets, 16 countries.
+- [Who is Colette Kress, the interim CEO replacing Jensen Huang at Nvidia](https://athenaglauxintelligence.news/event/205493.html): first reported 2026-11-12; 40 outlets, 17 countries.
 - [Eurostar disruption after bomb alert at French train station](https://athenaglauxintelligence.news/event/203402.html): first reported 2026-11-12; 16 outlets, 10 countries.
 - [Putin suggests no Ukraine compromise in meeting with US envoys](https://athenaglauxintelligence.news/event/203632.html): first reported 2026-11-12; 11 outlets, 7 countries.
 - [10 Pakistani police officers, 18 terrorists killed in attack in northwest: police](https://athenaglauxintelligence.news/event/203699.html): first reported 2026-11-12; 3 outlets, 3 countries.
-- [Burberry reports sales boost from trench coats and says turnaround ‘working’](https://athenaglauxintelligence.news/event/203576.html): first reported 2026-11-12; 9 outlets, 4 countries.
 
 ## Optional
 
