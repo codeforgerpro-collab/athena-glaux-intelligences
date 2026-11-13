@@ -36,15 +36,19 @@
 
 ## Latest stories
 
-- [Oil prices set for second weekly decline as Trump to stay with Iran blockade](https://athenaglauxintelligence.news/event/210274.html): first reported 2026-11-13; 3 outlets, 3 countries.
+- [Liquefied gas carrier blasts after hitting sea mine in Hormuz](https://athenaglauxintelligence.news/event/211467.html): first reported 2026-11-13; 5 outlets, 4 countries.
+- [$400 Million In 18 Months: How North Korean Hackers Stole Money Using Images](https://athenaglauxintelligence.news/event/210785.html): first reported 2026-11-13; 5 outlets, 5 countries.
+- [US senator Chris Van Hollen to challenge Chuck Schumer for Senate majority leader](https://athenaglauxintelligence.news/event/211020.html): first reported 2026-11-13; 10 outlets, 8 countries.
 - [Australia's Cummins says Khawaja '100 per cent wrong' on 'Sandpapergate'](https://athenaglauxintelligence.news/event/210767.html): first reported 2026-11-13; 6 outlets, 5 countries.
+- [Police officers who recorded vulnerable people while on duty sacked](https://athenaglauxintelligence.news/event/209623.html): first reported 2026-11-13; 5 outlets, 2 countries.
 - [Jensen Huang forfeits US$108 million in unvested Nvidia equity](https://athenaglauxintelligence.news/event/209412.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [US Army officer stationed at NATO headquarters in UK arrested on suspicion of spying for Russia](https://athenaglauxintelligence.news/event/209712.html): first reported 2026-11-12; 5 outlets, 4 countries.
-- [China's access to Nvidia chips in doubt as curbs gain traction in US Congress](https://athenaglauxintelligence.news/event/209415.html): first reported 2026-11-12; 8 outlets, 6 countries.
+- [Oil prices set for second weekly decline as Trump to stay with Iran blockade](https://athenaglauxintelligence.news/event/210274.html): first reported 2026-11-12; 5 outlets, 4 countries.
+- [China's access to Nvidia chips in doubt as curbs gain traction in US Congress](https://athenaglauxintelligence.news/event/209415.html): first reported 2026-11-12; 10 outlets, 8 countries.
 - [Mitsotakis Insists Europe Must Have Seat at Ukraine Peace Talks](https://athenaglauxintelligence.news/event/208942.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [SpaceX, Tesla merger talks progress](https://athenaglauxintelligence.news/event/208329.html): first reported 2026-11-12; 5 outlets, 5 countries.
-- [Disruption as Microsoft battles to fix global outage](https://athenaglauxintelligence.news/event/208890.html): first reported 2026-11-12; 7 outlets, 6 countries.
-- [Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine](https://athenaglauxintelligence.news/event/207998.html): first reported 2026-11-12; 8 outlets, 7 countries.
+- [Disruption as Microsoft battles to fix global outage](https://athenaglauxintelligence.news/event/208890.html): first reported 2026-11-12; 8 outlets, 6 countries.
+- [Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine](https://athenaglauxintelligence.news/event/207998.html): first reported 2026-11-12; 10 outlets, 9 countries.
 - [Jensen Huang's 2nd affair fallout shakes up US](https://athenaglauxintelligence.news/event/209050.html): first reported 2026-11-12; 15 outlets, 6 countries.
 - [PM not ‘reading too much’ into Ukraine peace talks and urges focus on ceasefire](https://athenaglauxintelligence.news/event/209475.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://athenaglauxintelligence.news/event/207740.html): first reported 2026-11-12; 5 outlets, 2 countries.
@@ -53,10 +57,10 @@
 - [Oil Prices Rise $1/Barrel As Disruptions Continue in Strait of Hormuz](https://athenaglauxintelligence.news/event/209110.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [‘American Doctor’ Doc Distributor Condemns Gaza Hospital Bombing Death of Dr. Rizk Abu Shaaira](https://athenaglauxintelligence.news/event/207787.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Microsoft investigates reports of Outlook mailbox access problems](https://athenaglauxintelligence.news/event/208172.html): first reported 2026-11-12; 5 outlets, 4 countries.
-- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 60 outlets, 30 countries.
+- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 66 outlets, 32 countries.
 - [Trump team mulling Howard Lutnick’s future as commerce secretary after Nvidia scandal, report says](https://athenaglauxintelligence.news/event/208817.html): first reported 2026-11-12; 16 outlets, 9 countries.
 - [Death toll from Israeli strike on Nasser Medical Complex rises to seven](https://athenaglauxintelligence.news/event/208508.html): first reported 2026-11-12; 3 outlets, 2 countries.
-- [US existing home sales fall to lowest level since 2010](https://athenaglauxintelligence.news/event/207432.html): first reported 2026-11-12; 6 outlets, 4 countries.
+- [US existing home sales fall to lowest level since 2010](https://athenaglauxintelligence.news/event/207432.html): first reported 2026-11-12; 7 outlets, 5 countries.
 - [SpaceX plans $74B of AI computing centres in Arizona and Texas](https://athenaglauxintelligence.news/event/206972.html): first reported 2026-11-12; 5 outlets, 4 countries.
 - [Europe to Join Next Ukraine Peace Talks Following US-Putin Meeting](https://athenaglauxintelligence.news/event/209236.html): first reported 2026-11-12; 4 outlets, 4 countries.
 - [What's a Honey Trap? The spy tactic that helped topple Jensen Huang](https://athenaglauxintelligence.news/event/209026.html): first reported 2026-11-12; 3 outlets, 2 countries.
@@ -67,15 +71,11 @@
 - [Only 28% of PLI employment target met by FY26, says NITI Aayog report](https://athenaglauxintelligence.news/event/207520.html): first reported 2026-11-12; 3 outlets, 1 countries.
 - [Ramaphosa to lead a high-level delegation to Silicon Valley in US](https://athenaglauxintelligence.news/event/205864.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Nvidia shares extend losses to 10% following CEO’s resignation](https://athenaglauxintelligence.news/event/208033.html): first reported 2026-11-12; 3 outlets, 3 countries.
+- [OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development](https://athenaglauxintelligence.news/event/208995.html): first reported 2026-11-12; 5 outlets, 4 countries.
 - [Burnham unveils ‘stinging’ sanctions on Russia at major European summit](https://athenaglauxintelligence.news/event/205371.html): first reported 2026-11-12; 4 outlets, 1 countries.
 - [Nine-month-old baby dies of cold in Gaza: Palestinians](https://athenaglauxintelligence.news/event/206164.html): first reported 2026-11-12; 6 outlets, 5 countries.
 - [Trump says US does not need Iran deal, directs Vance to focus on domestic corruption](https://athenaglauxintelligence.news/event/205579.html): first reported 2026-11-12; 28 outlets, 20 countries.
 - [Finland, Norway Move to Ban Russian Athletes Over Ukraine War](https://athenaglauxintelligence.news/event/205398.html): first reported 2026-11-12; 9 outlets, 7 countries.
-- [PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure](https://athenaglauxintelligence.news/event/205408.html): first reported 2026-11-12; 5 outlets, 4 countries.
-- [Singapore bars Alice Huang from reentry, says investigation into Megaspeed remains ongoing](https://athenaglauxintelligence.news/event/205412.html): first reported 2026-11-12; 12 outlets, 9 countries.
-- [Putin proposes 'humanitarian mission' in frontline Ukraine city of Kostyantynivka](https://athenaglauxintelligence.news/event/205275.html): first reported 2026-11-12; 8 outlets, 5 countries.
-- [Zelensky cautions Europe over US-Russia security talks](https://athenaglauxintelligence.news/event/205031.html): first reported 2026-11-12; 4 outlets, 4 countries.
-- [Croatian PM: Peace process between Azerbaijan and Armenia is constructive](https://athenaglauxintelligence.news/event/205595.html): first reported 2026-11-12; 3 outlets, 2 countries.
 
 ## Optional
 
