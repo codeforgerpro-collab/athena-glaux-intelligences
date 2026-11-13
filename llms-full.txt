@@ -40,6 +40,8 @@
 - [Trump had urged Jensen Huang to fight for his job, New York Times reports](https://athenaglauxintelligence.news/event/210294.html): first reported 2026-11-12; 8 outlets, 4 countries.
 - [US Army officer stationed at NATO headquarters in UK arrested on suspicion of spying for Russia](https://athenaglauxintelligence.news/event/209712.html): first reported 2026-11-12; 4 outlets, 3 countries.
 - [China's access to Nvidia chips in doubt as curbs gain traction in US Congress](https://athenaglauxintelligence.news/event/209415.html): first reported 2026-11-12; 7 outlets, 5 countries.
+- [Mitsotakis Insists Europe Must Have Seat at Ukraine Peace Talks](https://athenaglauxintelligence.news/event/208942.html): first reported 2026-11-12; 3 outlets, 2 countries.
+- [Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine](https://athenaglauxintelligence.news/event/207998.html): first reported 2026-11-12; 6 outlets, 6 countries.
 - [Jensen Huang's 2nd affair fallout shakes up US](https://athenaglauxintelligence.news/event/209050.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [PM not ‘reading too much’ into Ukraine peace talks and urges focus on ceasefire](https://athenaglauxintelligence.news/event/209475.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://athenaglauxintelligence.news/event/207740.html): first reported 2026-11-12; 5 outlets, 2 countries.
@@ -61,9 +63,8 @@
 - [Nvidia shares extend losses to 10% following CEO’s resignation](https://athenaglauxintelligence.news/event/208033.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Burnham unveils ‘stinging’ sanctions on Russia at major European summit](https://athenaglauxintelligence.news/event/205371.html): first reported 2026-11-12; 4 outlets, 1 countries.
 - [Nine-month-old baby dies of cold in Gaza: Palestinians](https://athenaglauxintelligence.news/event/206164.html): first reported 2026-11-12; 6 outlets, 5 countries.
-- [Witkoff and Kushner met with Zelenskyy in Dublin](https://athenaglauxintelligence.news/event/207311.html): first reported 2026-11-12; 4 outlets, 3 countries.
 - [Trump says ‘we don’t need a deal with Iran’](https://athenaglauxintelligence.news/event/205579.html): first reported 2026-11-12; 25 outlets, 17 countries.
-- [Finland tightens visa restrictions for Russian athletes](https://athenaglauxintelligence.news/event/205398.html): first reported 2026-11-12; 8 outlets, 6 countries.
+- [Finland, Norway Move to Ban Russian Athletes Over Ukraine War](https://athenaglauxintelligence.news/event/205398.html): first reported 2026-11-12; 9 outlets, 7 countries.
 - [PsiQuantum and AMD Expand Partnership on Quantum Computing Infrastructure](https://athenaglauxintelligence.news/event/205408.html): first reported 2026-11-12; 5 outlets, 4 countries.
 - [Singapore barred Alice Huang from re-entry following investigation](https://athenaglauxintelligence.news/event/205412.html): first reported 2026-11-12; 9 outlets, 7 countries.
 - [Putin proposes 'humanitarian mission' in frontline Ukraine city of Kostyantynivka](https://athenaglauxintelligence.news/event/205275.html): first reported 2026-11-12; 8 outlets, 5 countries.
@@ -73,9 +74,8 @@
 - [Finance Minister Details 8 Pillars That Will Underpin Ghana’s New Economy](https://athenaglauxintelligence.news/event/204690.html): first reported 2026-11-12; 3 outlets, 1 countries.
 - [EU leaders tussle over who to send to Ukraine, Russia peace talks](https://athenaglauxintelligence.news/event/209654.html): first reported 2026-11-12; 7 outlets, 7 countries.
 - [London court finds 2 Iranian men guilty of spying for Tehran](https://athenaglauxintelligence.news/event/204472.html): first reported 2026-11-12; 14 outlets, 8 countries.
+- [Car catches fire after drone crashes in Kyiv's Shevchenkivskyi district – Klitschko](https://athenaglauxintelligence.news/event/206161.html): first reported 2026-11-12; 3 outlets, 1 countries.
 - [French president urges 'clear and united' European vision for Ukraine, future security](https://athenaglauxintelligence.news/event/205596.html): first reported 2026-11-12; 3 outlets, 3 countries.
-- [President Mahama: New cedi notes to bring Ghana’s history closer to younger generation](https://athenaglauxintelligence.news/event/206759.html): first reported 2026-11-12; 3 outlets, 1 countries.
-- [First look at BBC Line of Duty series 7 with major AC-12 change and Hollywood star](https://athenaglauxintelligence.news/event/205049.html): first reported 2026-11-12; 5 outlets, 2 countries.
 
 ## Optional
 

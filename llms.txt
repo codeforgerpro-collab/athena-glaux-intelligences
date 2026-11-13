@@ -27,6 +27,8 @@
 - [Trump had urged Jensen Huang to fight for his job, New York Times reports](https://athenaglauxintelligence.news/event/210294.html): first reported 2026-11-12; 8 outlets, 4 countries.
 - [US Army officer stationed at NATO headquarters in UK arrested on suspicion of spying for Russia](https://athenaglauxintelligence.news/event/209712.html): first reported 2026-11-12; 4 outlets, 3 countries.
 - [China's access to Nvidia chips in doubt as curbs gain traction in US Congress](https://athenaglauxintelligence.news/event/209415.html): first reported 2026-11-12; 7 outlets, 5 countries.
+- [Mitsotakis Insists Europe Must Have Seat at Ukraine Peace Talks](https://athenaglauxintelligence.news/event/208942.html): first reported 2026-11-12; 3 outlets, 2 countries.
+- [Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine](https://athenaglauxintelligence.news/event/207998.html): first reported 2026-11-12; 6 outlets, 6 countries.
 - [Jensen Huang's 2nd affair fallout shakes up US](https://athenaglauxintelligence.news/event/209050.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [PM not ‘reading too much’ into Ukraine peace talks and urges focus on ceasefire](https://athenaglauxintelligence.news/event/209475.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://athenaglauxintelligence.news/event/207740.html): first reported 2026-11-12; 5 outlets, 2 countries.
@@ -36,8 +38,6 @@
 - [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 45 outlets, 21 countries.
 - [Trump team mulling Howard Lutnick’s future as commerce secretary after Nvidia scandal, report says](https://athenaglauxintelligence.news/event/208817.html): first reported 2026-11-12; 13 outlets, 7 countries.
 - [Death toll from Israeli strike on Nasser Medical Complex rises to seven](https://athenaglauxintelligence.news/event/208508.html): first reported 2026-11-12; 3 outlets, 2 countries.
-- [US existing home sales fall to lowest level since 2010](https://athenaglauxintelligence.news/event/207432.html): first reported 2026-11-12; 6 outlets, 4 countries.
-- [Europe to Join Next Ukraine Peace Talks Following US-Putin Meeting](https://athenaglauxintelligence.news/event/209236.html): first reported 2026-11-12; 4 outlets, 4 countries.
 
 ## Optional
 
