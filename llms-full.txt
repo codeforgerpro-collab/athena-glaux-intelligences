@@ -37,15 +37,16 @@
 ## Latest stories
 
 - [Jensen Huang forfeits US$108 million in unvested Nvidia equity](https://athenaglauxintelligence.news/event/209412.html): first reported 2026-11-12; 3 outlets, 2 countries.
-- [Trump had urged Jensen Huang to fight for his job, New York Times reports](https://athenaglauxintelligence.news/event/210294.html): first reported 2026-11-12; 7 outlets, 4 countries.
+- [Trump had urged Jensen Huang to fight for his job, New York Times reports](https://athenaglauxintelligence.news/event/210294.html): first reported 2026-11-12; 8 outlets, 4 countries.
 - [US Army officer stationed at NATO headquarters in UK arrested on suspicion of spying for Russia](https://athenaglauxintelligence.news/event/209712.html): first reported 2026-11-12; 4 outlets, 3 countries.
 - [China's access to Nvidia chips in doubt as curbs gain traction in US Congress](https://athenaglauxintelligence.news/event/209415.html): first reported 2026-11-12; 7 outlets, 5 countries.
+- [Jensen Huang's 2nd affair fallout shakes up US](https://athenaglauxintelligence.news/event/209050.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [PM not ‘reading too much’ into Ukraine peace talks and urges focus on ceasefire](https://athenaglauxintelligence.news/event/209475.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash](https://athenaglauxintelligence.news/event/207740.html): first reported 2026-11-12; 5 outlets, 2 countries.
 - [US starts 2027 fiscal year with record October budget deficit of US$404bil](https://athenaglauxintelligence.news/event/208116.html): first reported 2026-11-12; 4 outlets, 2 countries.
 - [‘American Doctor’ Doc Distributor Condemns Gaza Hospital Bombing Death of Dr. Rizk Abu Shaaira](https://athenaglauxintelligence.news/event/207787.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Microsoft investigates reports of Outlook mailbox access problems](https://athenaglauxintelligence.news/event/208172.html): first reported 2026-11-12; 5 outlets, 4 countries.
-- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 39 outlets, 18 countries.
+- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 42 outlets, 21 countries.
 - [Trump team mulling Howard Lutnick’s future as commerce secretary after Nvidia scandal, report says](https://athenaglauxintelligence.news/event/208817.html): first reported 2026-11-12; 13 outlets, 7 countries.
 - [Death toll from Israeli strike on Nasser Medical Complex rises to seven](https://athenaglauxintelligence.news/event/208508.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [US existing home sales fall to lowest level since 2010](https://athenaglauxintelligence.news/event/207432.html): first reported 2026-11-12; 6 outlets, 4 countries.
@@ -55,6 +56,7 @@
 - [USS George H.W. Bush families told to prepare for year-long deployment](https://athenaglauxintelligence.news/event/208853.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [New York building collapse kills 8, including 2 children](https://athenaglauxintelligence.news/event/208339.html): first reported 2026-11-12; 7 outlets, 6 countries.
 - [UK says it's 1st country to target all of Russia's top 10 oil producers with latest round of sanctions](https://athenaglauxintelligence.news/event/206120.html): first reported 2026-11-12; 5 outlets, 3 countries.
+- [Only 28% of PLI employment target met by FY26, says NITI Aayog report](https://athenaglauxintelligence.news/event/207520.html): first reported 2026-11-12; 3 outlets, 1 countries.
 - [Ramaphosa to lead a high-level delegation to Silicon Valley in US](https://athenaglauxintelligence.news/event/205864.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Nvidia shares extend losses to 10% following CEO’s resignation](https://athenaglauxintelligence.news/event/208033.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Burnham unveils ‘stinging’ sanctions on Russia at major European summit](https://athenaglauxintelligence.news/event/205371.html): first reported 2026-11-12; 4 outlets, 1 countries.
@@ -68,14 +70,12 @@
 - [Croatian PM: Peace process between Azerbaijan and Armenia is constructive](https://athenaglauxintelligence.news/event/205595.html): first reported 2026-11-12; 3 outlets, 2 countries.
 - [Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex](https://athenaglauxintelligence.news/event/206537.html): first reported 2026-11-12; 5 outlets, 4 countries.
 - [Finance Minister Details 8 Pillars That Will Underpin Ghana’s New Economy](https://athenaglauxintelligence.news/event/204690.html): first reported 2026-11-12; 3 outlets, 1 countries.
-- [EU leaders tussle over who to send to Ukraine, Russia peace talks](https://athenaglauxintelligence.news/event/209654.html): first reported 2026-11-12; 4 outlets, 4 countries.
+- [EU leaders tussle over who to send to Ukraine, Russia peace talks](https://athenaglauxintelligence.news/event/209654.html): first reported 2026-11-12; 6 outlets, 6 countries.
 - [London court finds 2 Iranian men guilty of spying for Tehran](https://athenaglauxintelligence.news/event/204472.html): first reported 2026-11-12; 14 outlets, 8 countries.
 - [French president urges 'clear and united' European vision for Ukraine, future security](https://athenaglauxintelligence.news/event/205596.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [President Mahama: New cedi notes to bring Ghana’s history closer to younger generation](https://athenaglauxintelligence.news/event/206759.html): first reported 2026-11-12; 3 outlets, 1 countries.
 - [First look at BBC Line of Duty series 7 with major AC-12 change and Hollywood star](https://athenaglauxintelligence.news/event/205049.html): first reported 2026-11-12; 5 outlets, 2 countries.
 - [Griffin raises $20M to add cards and stablecoins to its banking platform](https://athenaglauxintelligence.news/event/204221.html): first reported 2026-11-12; 3 outlets, 2 countries.
-- [UAE President receives US delegation participating in trilateral talks](https://athenaglauxintelligence.news/event/204347.html): first reported 2026-11-12; 3 outlets, 3 countries.
-- [Israeli defence minister says no need for opposition approval to launch strikes](https://athenaglauxintelligence.news/event/203419.html): first reported 2026-11-12; 5 outlets, 5 countries.
 
 ## Optional
 
