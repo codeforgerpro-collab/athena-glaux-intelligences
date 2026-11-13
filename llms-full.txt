@@ -37,7 +37,7 @@
 ## Latest stories
 
 - [Microsoft investigates reports of Outlook mailbox access problems](https://athenaglauxintelligence.news/event/208172.html): first reported 2026-11-12; 5 outlets, 4 countries.
-- [Microsoft 365, Outlook down for thousands of US users](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 14 outlets, 7 countries.
+- [Widespread Microsoft outage takes down Outlook and other 365 services](https://athenaglauxintelligence.news/event/208135.html): first reported 2026-11-12; 17 outlets, 7 countries.
 - [Home sales in the US are at their lowest level since 2016](https://athenaglauxintelligence.news/event/207432.html): first reported 2026-11-12; 5 outlets, 3 countries.
 - [UK says it's 1st country to target all of Russia's top 10 oil producers with latest round of sanctions](https://athenaglauxintelligence.news/event/206120.html): first reported 2026-11-12; 5 outlets, 3 countries.
 - [Ramaphosa to lead a high-level delegation to Silicon Valley in US](https://athenaglauxintelligence.news/event/205864.html): first reported 2026-11-12; 3 outlets, 2 countries.
@@ -60,7 +60,7 @@
 - [5 people are shot in DC, including 1 killed at a gym, and then suspect kills himself](https://athenaglauxintelligence.news/event/205822.html): first reported 2026-11-12; 43 outlets, 24 countries.
 - [Who is Colette Kress? 5 things to know about Nvidia’s interim CEO](https://athenaglauxintelligence.news/event/205493.html): first reported 2026-11-12; 37 outlets, 15 countries.
 - [Eurostar disruption after bomb alert at French train station](https://athenaglauxintelligence.news/event/203402.html): first reported 2026-11-12; 16 outlets, 10 countries.
-- [Putin suggests no Ukraine compromise in meeting with US envoys](https://athenaglauxintelligence.news/event/203632.html): first reported 2026-11-12; 10 outlets, 7 countries.
+- [Putin suggests no Ukraine compromise in meeting with US envoys](https://athenaglauxintelligence.news/event/203632.html): first reported 2026-11-12; 11 outlets, 7 countries.
 - [10 Pakistani police officers, 18 terrorists killed in attack in northwest: police](https://athenaglauxintelligence.news/event/203699.html): first reported 2026-11-12; 3 outlets, 3 countries.
 - [Burberry reports sales boost from trench coats and says turnaround ‘working’](https://athenaglauxintelligence.news/event/203576.html): first reported 2026-11-12; 9 outlets, 4 countries.
 - [China accuses US of using spy claims to justify tech blockade](https://athenaglauxintelligence.news/event/202944.html): first reported 2026-11-12; 11 outlets, 10 countries.
