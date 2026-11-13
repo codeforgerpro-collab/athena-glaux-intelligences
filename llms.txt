@@ -4,42 +4,42 @@
 
 ## Sections
 
-- [Front page](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/index.html): The latest assessed stories, newest first.
-- [Daily briefing](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/briefing.html): The day's main developments in a short read.
-- [Warnings](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/warnings.html): Official travel and safety warnings, gathered in one place.
-- [Signals](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/signals.html): Early signals and rising stories across sections.
-- [ATHENA Signals](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/athena-signals.html): How signals are shown and what they mean.
-- [Analysis Desk](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/analysis-desk.html): Risk readings for security and conflict stories: score, band, confidence and what would change the reading.
-- [Analysis Desk method](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/analysis-desk-method.html): What the Desk covers, what it reads, its limits and how to request the full method.
-- [Analysis Desk track record](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/analysis-desk-record.html): Every published reading, logged, and how each held up after 14 days.
-- [Maritime](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/maritime.html): Shipping, chokepoints and sea routes.
-- [Analysis and explainers](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/analysis.html): Background to the stories.
-- [Countries](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/countries.html): A page for each country with its stories.
-- [Topics](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/topics.html): Running trackers on long stories.
-- [About ATHENA](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/about.html): Who runs the site and how.
-- [How this is produced](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/how.html): How stories are collected, grouped and assessed.
-- [Contact](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/contact.html): Write to the editors.
-- [News feed (RSS)](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/feed.xml): The newest stories as a feed.
+- [Front page](https://athenaglauxintelligence.news/index.html): The latest assessed stories, newest first.
+- [Daily briefing](https://athenaglauxintelligence.news/briefing.html): The day's main developments in a short read.
+- [Warnings](https://athenaglauxintelligence.news/warnings.html): Official travel and safety warnings, gathered in one place.
+- [Signals](https://athenaglauxintelligence.news/signals.html): Early signals and rising stories across sections.
+- [ATHENA Signals](https://athenaglauxintelligence.news/athena-signals.html): How signals are shown and what they mean.
+- [Analysis Desk](https://athenaglauxintelligence.news/analysis-desk.html): Risk readings for security and conflict stories: score, band, confidence and what would change the reading.
+- [Analysis Desk method](https://athenaglauxintelligence.news/analysis-desk-method.html): What the Desk covers, what it reads, its limits and how to request the full method.
+- [Analysis Desk track record](https://athenaglauxintelligence.news/analysis-desk-record.html): Every published reading, logged, and how each held up after 14 days.
+- [Maritime](https://athenaglauxintelligence.news/maritime.html): Shipping, chokepoints and sea routes.
+- [Analysis and explainers](https://athenaglauxintelligence.news/analysis.html): Background to the stories.
+- [Countries](https://athenaglauxintelligence.news/countries.html): A page for each country with its stories.
+- [Topics](https://athenaglauxintelligence.news/topics.html): Running trackers on long stories.
+- [About ATHENA](https://athenaglauxintelligence.news/about.html): Who runs the site and how.
+- [How this is produced](https://athenaglauxintelligence.news/how.html): How stories are collected, grouped and assessed.
+- [Contact](https://athenaglauxintelligence.news/contact.html): Write to the editors.
+- [News feed (RSS)](https://athenaglauxintelligence.news/feed.xml): The newest stories as a feed.
 
 ## Latest stories
 
-- [Iran Army Navy shoots down US-made MQ-1drone off Sirik coast](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/213602.html): first reported 2026-11-13; 3 outlets, 2 countries.
-- [India's Paytm gets preliminary RBI nod for wallet licence; shares hit record high](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/213159.html): first reported 2026-11-13; 3 outlets, 2 countries.
-- [Microsoft Races to Fix Outlook in One of Its Longest Outages](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/213863.html): first reported 2026-11-13; 6 outlets, 4 countries.
-- [Russia's advance in Ukraine has slowed significantly, Air Assault Forces commander says](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/212462.html): first reported 2026-11-13; 3 outlets, 1 countries.
-- [Global oil supply to exceed demand in Q4 – IEA](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/213321.html): first reported 2026-11-13; 8 outlets, 7 countries.
-- [Moscow Car Blast Reportedly Injures Former Azarov Spokesman](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/212204.html): first reported 2026-11-13; 8 outlets, 4 countries.
-- [UN watchdog 'increasingly concerned' over Iran nuclear site](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/212620.html): first reported 2026-11-13; 11 outlets, 9 countries.
-- [Microsoft Struggles to Restore Services Even After 12-Hour Global Outage Hits Millions](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/213610.html): first reported 2026-11-13; 12 outlets, 9 countries.
-- [Global Microsoft outage knocks out Outlook and other services](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/213296.html): first reported 2026-11-13; 7 outlets, 6 countries.
-- [What you need to know about the global Microsoft outage](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/212796.html): first reported 2026-11-13; 12 outlets, 8 countries.
-- [Armenia, Azerbaijan FMs chat “while standing” in Dublin (VIDEO)](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/212288.html): first reported 2026-11-13; 4 outlets, 2 countries.
-- [Gold rises on bargain hunting but heads for weekly decline](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/211810.html): first reported 2026-11-13; 3 outlets, 3 countries.
-- [US lawmakers summon Nvidia ex-CEO after affair with suspected spy](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/212050.html): first reported 2026-11-13; 8 outlets, 6 countries.
-- [$400 Million In 18 Months: How North Korean Hackers Stole Money Using Images](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/210785.html): first reported 2026-11-13; 5 outlets, 5 countries.
-- [Microsoft outage drags on for hours, disrupting Outlook, Teams for businesses and governments](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/event/211645.html): first reported 2026-11-13; 13 outlets, 10 countries.
+- [Kremlin Says Ready for Civilian Evacuation From Ukraine’s Kostiantynivka](https://athenaglauxintelligence.news/event/214641.html): first reported 2026-11-13; 3 outlets, 3 countries.
+- [Iran Army Navy shoots down US-made MQ-1drone off Sirik coast](https://athenaglauxintelligence.news/event/213602.html): first reported 2026-11-13; 3 outlets, 2 countries.
+- [India's Paytm gets preliminary RBI nod for wallet licence; shares hit record high](https://athenaglauxintelligence.news/event/213159.html): first reported 2026-11-13; 3 outlets, 2 countries.
+- [Microsoft Races to Fix Outlook in One of Its Longest Outages](https://athenaglauxintelligence.news/event/213863.html): first reported 2026-11-13; 6 outlets, 4 countries.
+- [Russia's advance in Ukraine has slowed significantly, Air Assault Forces commander says](https://athenaglauxintelligence.news/event/212462.html): first reported 2026-11-13; 3 outlets, 1 countries.
+- [Global oil supply to exceed demand in Q4 – IEA](https://athenaglauxintelligence.news/event/213321.html): first reported 2026-11-13; 9 outlets, 8 countries.
+- [Moscow Car Blast Reportedly Injures Former Azarov Spokesman](https://athenaglauxintelligence.news/event/212204.html): first reported 2026-11-13; 9 outlets, 5 countries.
+- [UN watchdog 'increasingly concerned' over Iran nuclear site](https://athenaglauxintelligence.news/event/212620.html): first reported 2026-11-13; 11 outlets, 9 countries.
+- [Microsoft Struggles to Restore Services Even After 12-Hour Global Outage Hits Millions](https://athenaglauxintelligence.news/event/213610.html): first reported 2026-11-13; 13 outlets, 9 countries.
+- [What you need to know about the global Microsoft outage](https://athenaglauxintelligence.news/event/212796.html): first reported 2026-11-13; 12 outlets, 8 countries.
+- [Armenia, Azerbaijan FMs chat “while standing” in Dublin (VIDEO)](https://athenaglauxintelligence.news/event/212288.html): first reported 2026-11-13; 4 outlets, 2 countries.
+- [Gold rises on bargain hunting but heads for weekly decline](https://athenaglauxintelligence.news/event/211810.html): first reported 2026-11-13; 3 outlets, 3 countries.
+- [US lawmakers summon Nvidia ex-CEO after affair with suspected spy](https://athenaglauxintelligence.news/event/212050.html): first reported 2026-11-13; 8 outlets, 6 countries.
+- [Global Microsoft outage knocks out Outlook and other services](https://athenaglauxintelligence.news/event/213296.html): first reported 2026-11-13; 8 outlets, 7 countries.
+- [Bitcoin value drops below $70,000 first time since August 20](https://athenaglauxintelligence.news/event/211579.html): first reported 2026-11-13; 4 outlets, 4 countries.
 
 ## Optional
 
-- [Terms of use](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/terms.html): licence and use of the content.
-- [Media kit](https://codeforgerpro-collab.github.io/athena-glaux-intelligences/media-kit.html): logos and facts for press.
+- [Terms of use](https://athenaglauxintelligence.news/terms.html): licence and use of the content.
+- [Media kit](https://athenaglauxintelligence.news/media-kit.html): logos and facts for press.
