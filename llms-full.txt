@@ -36,11 +36,10 @@
 
 ## Latest stories
 
-- [US Floated Idea of Ukraine Ceding Donbas for NATO Membership, Zelenskiy Says](https://athenaglauxintelligence.news/event/220926.html): first reported 2026-11-14; 7 outlets, 6 countries.
-- [China, US discuss tariffs, farm trade ahead of Xi-Trump meeting](https://athenaglauxintelligence.news/event/220286.html): first reported 2026-11-14; 6 outlets, 5 countries.
-- [‘A moral red line’? World on cusp of autonomous weapons revolution](https://athenaglauxintelligence.news/event/219978.html): first reported 2026-11-14; 5 outlets, 4 countries.
-- [Trump, Xi and Putin plan unprecedented joint meeting at Apec, White House says](https://athenaglauxintelligence.news/event/221281.html): first reported 2026-11-14; 3 outlets, 3 countries.
-- [US lifts ground stop, but passengers face second day of flight disruption](https://athenaglauxintelligence.news/event/219881.html): first reported 2026-11-14; 5 outlets, 5 countries.
+- [US Floated Idea of Ukraine Ceding Donbas for NATO Membership, Zelenskiy Says](https://athenaglauxintelligence.news/event/220926.html): first reported 2026-11-14; 9 outlets, 7 countries.
+- [China, US discuss tariffs, farm trade ahead of Xi-Trump meeting](https://athenaglauxintelligence.news/event/220286.html): first reported 2026-11-14; 7 outlets, 6 countries.
+- [‘A moral red line’? World on cusp of autonomous weapons revolution](https://athenaglauxintelligence.news/event/219978.html): first reported 2026-11-14; 6 outlets, 5 countries.
+- [US lifts ground stop, but passengers face second day of flight disruption](https://athenaglauxintelligence.news/event/219881.html): first reported 2026-11-14; 6 outlets, 5 countries.
 - [Canada’s Carney touts Philippine trade deal on Asia tour](https://athenaglauxintelligence.news/event/218757.html): first reported 2026-11-14; 6 outlets, 5 countries.
 - ['I may lose my mind': Frustrated travelers stuck in US flight havoc](https://athenaglauxintelligence.news/event/218963.html): first reported 2026-11-14; 7 outlets, 7 countries.
 - [US says airspace now 'opened up,' no cyberattack](https://athenaglauxintelligence.news/event/218913.html): first reported 2026-11-14; 8 outlets, 8 countries.
@@ -54,7 +53,8 @@
 - [US airspace reopens after nationwide flight shutdown](https://athenaglauxintelligence.news/event/218549.html): first reported 2026-11-13; 9 outlets, 8 countries.
 - [FAA grounds all departing US flights as DHS chief says 'this isn't another 9/11'](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 79 outlets, 31 countries.
 - [Tanker collides with cruise ship in New Orleans, 32 hospitalized](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 43 outlets, 22 countries.
-- [Microsoft says consumer services recovered after outage](https://athenaglauxintelligence.news/event/217650.html): first reported 2026-11-13; 8 outlets, 8 countries.
+- [Microsoft services fully restored after global outage](https://athenaglauxintelligence.news/event/217650.html): first reported 2026-11-13; 10 outlets, 10 countries.
+- [European Council president explains why EU has chosen team rather than single representative for Ukraine peace talks](https://athenaglauxintelligence.news/event/216404.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Minimum Wage Board for garment workers to meet again on Monday](https://athenaglauxintelligence.news/event/217711.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Microsoft says consumer products 'fully recovered', business services improving](https://athenaglauxintelligence.news/event/216870.html): first reported 2026-11-13; 6 outlets, 5 countries.
 - [Europe Settles on Negotiating Team for Russia-Ukraine Talks](https://athenaglauxintelligence.news/event/217737.html): first reported 2026-11-13; 4 outlets, 3 countries.
@@ -67,6 +67,7 @@
 - [Democrats Are Weighing Impeachment of RFK Jr. While Courting His Supporters](https://athenaglauxintelligence.news/event/214950.html): first reported 2026-11-13; 3 outlets, 3 countries.
 - [Iraq turns to trucks to export oil in overland Syrian route revival](https://athenaglauxintelligence.news/event/217216.html): first reported 2026-11-13; 4 outlets, 4 countries.
 - [Government blames Tories for giving British citizenship to ‘Hamas bodyguard’](https://athenaglauxintelligence.news/event/215952.html): first reported 2026-11-13; 3 outlets, 1 countries.
+- [Nvidia scandal looms over US-China AI talks](https://athenaglauxintelligence.news/event/216595.html): first reported 2026-11-13; 5 outlets, 5 countries.
 - [France favours adding pressure on Yemen's Houthis, foreign ministry spokesperson says](https://athenaglauxintelligence.news/event/215660.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Zelenskyy: Pace of energy sector recovery is too slow](https://athenaglauxintelligence.news/event/214920.html): first reported 2026-11-13; 3 outlets, 1 countries.
 - [Mossad chief visits Washington as Israel presses Trump to resume Iran war: Report](https://athenaglauxintelligence.news/event/214592.html): first reported 2026-11-13; 10 outlets, 6 countries.
@@ -75,7 +76,6 @@
 - ['How can medical staff and patients be exposed to this?': Gaza's Nasser Hospital hit again by Israel amid Hamas accusations](https://athenaglauxintelligence.news/event/215319.html): first reported 2026-11-13; 4 outlets, 2 countries.
 - [US Treasury Secretary Bessent says 'F the Iranian leaders,' confirms move to military base](https://athenaglauxintelligence.news/event/214963.html): first reported 2026-11-13; 4 outlets, 4 countries.
 - [Hamas terror suspect guilty of wounding bailiff over wife’s unpaid parking fines](https://athenaglauxintelligence.news/event/214382.html): first reported 2026-11-13; 8 outlets, 3 countries.
-- [EU institutions, E5 to represent Europe in Ukraine peace talks](https://athenaglauxintelligence.news/event/213545.html): first reported 2026-11-13; 17 outlets, 14 countries.
 
 ## Optional
 
