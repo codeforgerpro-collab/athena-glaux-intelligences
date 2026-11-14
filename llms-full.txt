@@ -36,9 +36,10 @@
 
 ## Latest stories
 
-- [Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say](https://athenaglauxintelligence.news/event/221262.html): first reported 2026-11-14; 7 outlets, 7 countries.
+- [Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say](https://athenaglauxintelligence.news/event/221262.html): first reported 2026-11-14; 10 outlets, 9 countries.
 - [Zelensky says Starshield restrictions give Russia more room to attack, accuses SpaceX of treating occupied territories as 'not ours'](https://athenaglauxintelligence.news/event/221346.html): first reported 2026-11-14; 3 outlets, 1 countries.
-- [US has floated Ukraine ceding Donbas for Nato membership, Zelensky says](https://athenaglauxintelligence.news/event/220926.html): first reported 2026-11-14; 28 outlets, 18 countries.
+- [US has floated Ukraine ceding Donbas for Nato membership, Zelensky says](https://athenaglauxintelligence.news/event/220926.html): first reported 2026-11-14; 32 outlets, 21 countries.
+- [South Sudan postpones first national elections again, to February 2027](https://athenaglauxintelligence.news/event/221508.html): first reported 2026-11-14; 8 outlets, 6 countries.
 - [As smog hangs over Lahore, Pakistan’s new pollution squad races to douse stubble fires](https://athenaglauxintelligence.news/event/220788.html): first reported 2026-11-14; 6 outlets, 5 countries.
 - [Dubai Police bust gang who recruited people to open bank accounts for investment fraud](https://athenaglauxintelligence.news/event/220780.html): first reported 2026-11-14; 3 outlets, 1 countries.
 - [Two killed, five injured in Russian attacks on Kherson region over past day](https://athenaglauxintelligence.news/event/220662.html): first reported 2026-11-14; 4 outlets, 2 countries.
@@ -48,11 +49,11 @@
 - [Russia Says Forces Capture Ukrainian Settlement, Strike Energy and Drone Sites](https://athenaglauxintelligence.news/event/220292.html): first reported 2026-11-14; 3 outlets, 3 countries.
 - [Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican](https://athenaglauxintelligence.news/event/219610.html): first reported 2026-11-14; 6 outlets, 3 countries.
 - [Modi summons telecom secretary over website takedowns, sources say](https://athenaglauxintelligence.news/event/220291.html): first reported 2026-11-14; 6 outlets, 5 countries.
-- [China, US discuss tariffs, farm trade ahead of Xi-Trump meeting](https://athenaglauxintelligence.news/event/220286.html): first reported 2026-11-14; 10 outlets, 7 countries.
-- [Trump, Xi and Putin to meet in China, White House says](https://athenaglauxintelligence.news/event/219664.html): first reported 2026-11-14; 6 outlets, 5 countries.
+- [China, US discuss tariffs, farm trade ahead of Xi-Trump meeting](https://athenaglauxintelligence.news/event/220286.html): first reported 2026-11-14; 11 outlets, 8 countries.
+- [Trump, Xi and Putin to meet in China, White House says](https://athenaglauxintelligence.news/event/219664.html): first reported 2026-11-14; 8 outlets, 6 countries.
 - [Hormuz Shipping Traffic Remains 65% Below Pre-War Levels](https://athenaglauxintelligence.news/event/219034.html): first reported 2026-11-14; 3 outlets, 2 countries.
 - [US lifts ground stop, but passengers face second day of flight disruption](https://athenaglauxintelligence.news/event/219881.html): first reported 2026-11-14; 7 outlets, 5 countries.
-- [Canada’s Carney touts Philippine trade deal on Asia tour](https://athenaglauxintelligence.news/event/218757.html): first reported 2026-11-14; 7 outlets, 6 countries.
+- [India-US trade deal talks almost at the finishing line: says Jaishankar at HTLS](https://athenaglauxintelligence.news/event/219729.html): first reported 2026-11-14; 4 outlets, 1 countries.
 - ['I may lose my mind': Frustrated travelers stuck in US flight havoc](https://athenaglauxintelligence.news/event/218963.html): first reported 2026-11-14; 7 outlets, 7 countries.
 - [US says airspace now 'opened up,' no cyberattack](https://athenaglauxintelligence.news/event/218913.html): first reported 2026-11-14; 11 outlets, 10 countries.
 - [Tesla invites select customers to buy Cybercab for personal use](https://athenaglauxintelligence.news/event/218756.html): first reported 2026-11-14; 8 outlets, 5 countries.
@@ -67,15 +68,14 @@
 - [US airspace reopens after nationwide flight shutdown](https://athenaglauxintelligence.news/event/218549.html): first reported 2026-11-13; 10 outlets, 8 countries.
 - [US continues training Ukrainian pilots to fly F-16 fighter jets](https://athenaglauxintelligence.news/event/217196.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [FAA grounds all departing US flights as DHS chief says 'this isn't another 9/11'](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 79 outlets, 31 countries.
-- [Tanker collides with cruise ship in New Orleans, 32 hospitalized](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 43 outlets, 22 countries.
+- [Tanker collides with cruise ship in New Orleans, 32 hospitalized](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 44 outlets, 22 countries.
 - [Poland says no to funding US-made weapons for Ukraine under PURL — PM](https://athenaglauxintelligence.news/event/216835.html): first reported 2026-11-13; 4 outlets, 4 countries.
 - [European Council president explains why EU has chosen team rather than single representative for Ukraine peace talks](https://athenaglauxintelligence.news/event/216404.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Minimum Wage Board for garment workers to meet again on Monday](https://athenaglauxintelligence.news/event/217711.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Biden recounts failed pleas to Netanyahu to spare Gaza civilians in new memoir](https://athenaglauxintelligence.news/event/217487.html): first reported 2026-11-13; 3 outlets, 2 countries.
-- [Zelenskyy says a new European security framework floated by US could benefit Putin](https://athenaglauxintelligence.news/event/217618.html): first reported 2026-11-13; 4 outlets, 4 countries.
-- [Microsoft services fully restored after global outage](https://athenaglauxintelligence.news/event/217650.html): first reported 2026-11-13; 28 outlets, 19 countries.
+- [Zelenskyy says a new European security framework floated by US could benefit Putin](https://athenaglauxintelligence.news/event/217618.html): first reported 2026-11-13; 6 outlets, 6 countries.
+- [Microsoft services fully restored after global outage](https://athenaglauxintelligence.news/event/217650.html): first reported 2026-11-13; 30 outlets, 20 countries.
 - [Europe Settles on Negotiating Team for Russia-Ukraine Talks](https://athenaglauxintelligence.news/event/217737.html): first reported 2026-11-13; 4 outlets, 3 countries.
-- [B-21 Raider Conducts First Weapons Release Test](https://athenaglauxintelligence.news/event/216483.html): first reported 2026-11-13; 5 outlets, 3 countries.
 
 ## Optional
 
