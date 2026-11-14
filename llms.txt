@@ -1,6 +1,14 @@
 # ATHENA Glaux Intelligence
 
-> ATHENA Glaux Intelligence is an independent news intelligence service. It collects reports from hundreds of outlets in many countries, groups them into one story per event, and shows how widely, how independently and how seriously each story is reported. Published in English, Greek and French. Updated through the day.
+> ATHENA Glaux Intelligence is an independent news intelligence service by Tekmerion. It collects reports from hundreds of outlets in many countries, groups them into one story per event, and shows how widely, how independently and how seriously each story is reported. A story is published only when at least 2 separate outlets report it, and every story page links to the original reports. Published in English, Greek and French. Updated through the day.
+
+## Facts
+
+- Publication rule: at least 2 separate outlets per story; each story page lists them with links.
+- Risk scores run from 0 to 10 with a named band. They describe the reporting, not a probability.
+- Sitemaps: https://athenaglauxintelligence.news/sitemap.xml and https://athenaglauxintelligence.news/news-sitemap.xml (stories of the last two days). Feed: https://athenaglauxintelligence.news/feed.xml.
+- Owner: Tekmerion (https://codeforgerpro-collab.github.io/tekmerion-suite/).
+- Official accounts: https://x.com/athenaglauxinte, https://t.me/athenaglauxintelligence.
 
 ## Sections
 
@@ -23,21 +31,21 @@
 
 ## Latest stories
 
-- [Plateau is Tinubu or nothing, Mutfwang declares at North Central APC rally](https://athenaglauxintelligence.news/event/223010.html): first reported 2026-11-14; 3 outlets, 1 countries.
+- [2027: Tinubu promises to rebuild Plateau communities](https://athenaglauxintelligence.news/event/223751.html): first reported 2026-11-14; 5 outlets, 1 country.
+- [Plateau is Tinubu or nothing, Mutfwang declares at North Central APC rally](https://athenaglauxintelligence.news/event/223010.html): first reported 2026-11-14; 3 outlets, 1 country.
 - [UN official urges Iran, US to let fertilizers through Hormuz Strait](https://athenaglauxintelligence.news/event/222612.html): first reported 2026-11-14; 6 outlets, 4 countries.
 - [Kremlin says Putin, Xi, Trump to hold trilateral meeting in Shenzhen on Nov. 19](https://athenaglauxintelligence.news/event/223282.html): first reported 2026-11-14; 5 outlets, 5 countries.
 - [RSF militias kill 10 civilians in West Kordofan: Sudanese relief group](https://athenaglauxintelligence.news/event/222909.html): first reported 2026-11-14; 4 outlets, 3 countries.
 - [Pakistani Minister To Make Rare India Visit, First Visit Since Op Sindoor](https://athenaglauxintelligence.news/event/222484.html): first reported 2026-11-14; 5 outlets, 3 countries.
+- [Turkish Cypriot premier condemns burning of Turkish, TRNC flags in Southern Cyprus](https://athenaglauxintelligence.news/event/222137.html): first reported 2026-11-14; 3 outlets, 1 country.
 - [Trump, Xi, Putin meet on Nov 19: Why fears of a 'Yalta 2.0' are growing](https://athenaglauxintelligence.news/event/222681.html): first reported 2026-11-14; 3 outlets, 3 countries.
-- [For US, India a 'global force', Pakistan ties regional: Antony Blinken at HT Leadership Summit](https://athenaglauxintelligence.news/event/221375.html): first reported 2026-11-14; 4 outlets, 1 countries.
+- [For US, India a 'global force', Pakistan ties regional: Antony Blinken at HT Leadership Summit](https://athenaglauxintelligence.news/event/221375.html): first reported 2026-11-14; 5 outlets, 2 countries.
 - [Voyager 1 closes in on light-day milestone in interstellar space](https://athenaglauxintelligence.news/event/221976.html): first reported 2026-11-14; 10 outlets, 9 countries.
 - [Democrats pledge climate action at COP31 despite Trump’s absence](https://athenaglauxintelligence.news/event/221710.html): first reported 2026-11-14; 5 outlets, 3 countries.
 - [Zelensky says Starshield restrictions give Russia more room to attack, accuses SpaceX of treating occupied territories as 'not ours'](https://athenaglauxintelligence.news/event/221346.html): first reported 2026-11-14; 5 outlets, 3 countries.
-- [US has floated Ukraine ceding Donbas for Nato membership, Zelensky says](https://athenaglauxintelligence.news/event/220926.html): first reported 2026-11-14; 42 outlets, 26 countries.
-- [UNOFFICIAL: BN-PN secures two-thirds majority in Melaka](https://athenaglauxintelligence.news/event/221995.html): first reported 2026-11-14; 3 outlets, 1 countries.
+- [US has floated Ukraine ceding Donbas for Nato membership, Zelensky says](https://athenaglauxintelligence.news/event/220926.html): first reported 2026-11-14; 43 outlets, 26 countries.
+- [UNOFFICIAL: BN-PN secures two-thirds majority in Melaka](https://athenaglauxintelligence.news/event/221995.html): first reported 2026-11-14; 3 outlets, 1 country.
 - [US Air Force captain arrested in Japan's Okinawa for alleged drunk driving](https://athenaglauxintelligence.news/event/221108.html): first reported 2026-11-14; 5 outlets, 5 countries.
-- [Trump Envoys Help Putin Stall Ukraine Peace Talks](https://athenaglauxintelligence.news/event/221349.html): first reported 2026-11-14; 3 outlets, 3 countries.
-- [Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say](https://athenaglauxintelligence.news/event/221262.html): first reported 2026-11-14; 16 outlets, 13 countries.
 
 ## Optional
 
