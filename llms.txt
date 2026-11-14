@@ -23,13 +23,14 @@
 
 ## Latest stories
 
-- [US lifts nationwide flight shutdown after communications failure cancels over 5,400 flights, delays 10,000 others](https://athenaglauxintelligence.news/event/218392.html): first reported 2026-11-13; 9 outlets, 6 countries.
+- [US lifts nationwide flight shutdown after communications failure cancels over 5,400 flights, delays 10,000 others](https://athenaglauxintelligence.news/event/218392.html): first reported 2026-11-13; 12 outlets, 8 countries.
 - [DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop](https://athenaglauxintelligence.news/event/217995.html): first reported 2026-11-13; 5 outlets, 4 countries.
 - [All departing US flights grounded due to communication problem](https://athenaglauxintelligence.news/event/218163.html): first reported 2026-11-13; 5 outlets, 5 countries.
-- [FAA has lifted its third-ever nationwide ground stop](https://athenaglauxintelligence.news/event/218570.html): first reported 2026-11-13; 5 outlets, 3 countries.
-- [US Flight Shutdown Live Updates: 'This Isn't Another 9/11' - US After All Domestic Flights Grounded](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 61 outlets, 25 countries.
-- [Tanker capsizes cruise boat carrying 129 passengers on Mississippi River](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 31 outlets, 16 countries.
-- [US Treasury chief blames Commerce Dept for failure in Nvidia scandal](https://athenaglauxintelligence.news/event/216365.html): first reported 2026-11-13; 5 outlets, 5 countries.
+- [US flights allowed to take off again as nationwide ground stop lifted but delays expected](https://athenaglauxintelligence.news/event/218549.html): first reported 2026-11-13; 5 outlets, 5 countries.
+- [FAA has lifted its third-ever nationwide ground stop](https://athenaglauxintelligence.news/event/218570.html): first reported 2026-11-13; 8 outlets, 5 countries.
+- [US Flight Shutdown Live Updates: 'This Isn't Another 9/11' - US After All Domestic Flights Grounded](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 62 outlets, 26 countries.
+- [Tanker capsizes cruise boat carrying 129 passengers on Mississippi River](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 33 outlets, 18 countries.
+- [Bessent Blames Lutnick’s Commerce Department for Not Restricting Nvidia Chips to China](https://athenaglauxintelligence.news/event/216365.html): first reported 2026-11-13; 6 outlets, 5 countries.
 - [B-21 Raider Conducts First Weapons Release Test](https://athenaglauxintelligence.news/event/216483.html): first reported 2026-11-13; 4 outlets, 2 countries.
 - [Nvidia approached Arm CEO Haas to succeed Huang, FT reports](https://athenaglauxintelligence.news/event/215584.html): first reported 2026-11-13; 6 outlets, 5 countries.
 - [Scott Bessent says Treasury wanted to blacklist Megaspeed ‘for months,’ blaming Howard Lutnick as Nvidia fallout widens: ‘Commerce has the pen’](https://athenaglauxintelligence.news/event/216464.html): first reported 2026-11-13; 3 outlets, 1 countries.
@@ -37,7 +38,6 @@
 - [Turkey and Qatar pledge unified stance against attacks in mutual defence pact](https://athenaglauxintelligence.news/event/216329.html): first reported 2026-11-13; 4 outlets, 3 countries.
 - [Democrats Are Weighing Impeachment of RFK Jr. While Courting His Supporters](https://athenaglauxintelligence.news/event/214950.html): first reported 2026-11-13; 3 outlets, 3 countries.
 - [Iraq turns to trucks to export oil in overland Syrian route revival](https://athenaglauxintelligence.news/event/217216.html): first reported 2026-11-13; 4 outlets, 4 countries.
-- [Government blames Tories for giving British citizenship to ‘Hamas bodyguard’](https://athenaglauxintelligence.news/event/215952.html): first reported 2026-11-13; 3 outlets, 1 countries.
 
 ## Optional
 
