@@ -36,19 +36,19 @@
 
 ## Latest stories
 
-- [US lifts nationwide flight shutdown after communications failure cancels over 5,400 flights, delays 10,000 others](https://athenaglauxintelligence.news/event/218392.html): first reported 2026-11-13; 12 outlets, 8 countries.
-- [DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop](https://athenaglauxintelligence.news/event/217995.html): first reported 2026-11-13; 5 outlets, 4 countries.
+- [US lifts nationwide flight shutdown after communications failure cancels over 5,400 flights, delays 10,000 others](https://athenaglauxintelligence.news/event/218392.html): first reported 2026-11-13; 14 outlets, 9 countries.
+- [DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop](https://athenaglauxintelligence.news/event/217995.html): first reported 2026-11-13; 7 outlets, 6 countries.
+- [FAA has lifted its third-ever nationwide ground stop](https://athenaglauxintelligence.news/event/218570.html): first reported 2026-11-13; 9 outlets, 4 countries.
 - [All departing US flights grounded due to communication problem](https://athenaglauxintelligence.news/event/218163.html): first reported 2026-11-13; 5 outlets, 5 countries.
 - [US flights allowed to take off again as nationwide ground stop lifted but delays expected](https://athenaglauxintelligence.news/event/218549.html): first reported 2026-11-13; 5 outlets, 5 countries.
-- [FAA has lifted its third-ever nationwide ground stop](https://athenaglauxintelligence.news/event/218570.html): first reported 2026-11-13; 8 outlets, 5 countries.
 - [US Flight Shutdown Live Updates: 'This Isn't Another 9/11' - US After All Domestic Flights Grounded](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 62 outlets, 26 countries.
-- [Tanker capsizes cruise boat carrying 129 passengers on Mississippi River](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 33 outlets, 18 countries.
+- [Tanker capsizes cruise boat carrying 129 passengers on Mississippi River](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 34 outlets, 18 countries.
 - [Bessent Blames Lutnick’s Commerce Department for Not Restricting Nvidia Chips to China](https://athenaglauxintelligence.news/event/216365.html): first reported 2026-11-13; 6 outlets, 5 countries.
 - [B-21 Raider Conducts First Weapons Release Test](https://athenaglauxintelligence.news/event/216483.html): first reported 2026-11-13; 4 outlets, 2 countries.
-- [Nvidia approached Arm CEO Haas to succeed Huang, FT reports](https://athenaglauxintelligence.news/event/215584.html): first reported 2026-11-13; 6 outlets, 5 countries.
-- [Scott Bessent says Treasury wanted to blacklist Megaspeed ‘for months,’ blaming Howard Lutnick as Nvidia fallout widens: ‘Commerce has the pen’](https://athenaglauxintelligence.news/event/216464.html): first reported 2026-11-13; 3 outlets, 1 countries.
+- [Nvidia approached Arm CEO Haas to succeed Huang, FT reports](https://athenaglauxintelligence.news/event/215584.html): first reported 2026-11-13; 8 outlets, 5 countries.
+- [Scott Bessent says Treasury wanted to blacklist Megaspeed ‘for months,’ blaming Howard Lutnick as Nvidia fallout widens: ‘Commerce has the pen’](https://athenaglauxintelligence.news/event/216464.html): first reported 2026-11-13; 4 outlets, 2 countries.
 - [UN rights chief demands Houthis return body of Yemeni staff member](https://athenaglauxintelligence.news/event/215641.html): first reported 2026-11-13; 5 outlets, 4 countries.
-- [Turkey and Qatar pledge unified stance against attacks in mutual defence pact](https://athenaglauxintelligence.news/event/216329.html): first reported 2026-11-13; 4 outlets, 3 countries.
+- [Turkey and Qatar pledge unified stance against attacks in mutual defence pact](https://athenaglauxintelligence.news/event/216329.html): first reported 2026-11-13; 5 outlets, 4 countries.
 - [Democrats Are Weighing Impeachment of RFK Jr. While Courting His Supporters](https://athenaglauxintelligence.news/event/214950.html): first reported 2026-11-13; 3 outlets, 3 countries.
 - [Iraq turns to trucks to export oil in overland Syrian route revival](https://athenaglauxintelligence.news/event/217216.html): first reported 2026-11-13; 4 outlets, 4 countries.
 - [Government blames Tories for giving British citizenship to ‘Hamas bodyguard’](https://athenaglauxintelligence.news/event/215952.html): first reported 2026-11-13; 3 outlets, 1 countries.
@@ -63,7 +63,6 @@
 - [EU institutions, E5 to represent Europe in Ukraine peace talks](https://athenaglauxintelligence.news/event/213545.html): first reported 2026-11-13; 16 outlets, 13 countries.
 - [Lubinets says potential humanitarian mission in Kostiantynivka not discussed](https://athenaglauxintelligence.news/event/214641.html): first reported 2026-11-13; 4 outlets, 3 countries.
 - [Türkiye, Qatar sign landmark defence pact as leaders meet in Istanbul](https://athenaglauxintelligence.news/event/214678.html): first reported 2026-11-13; 8 outlets, 5 countries.
-- [Microsoft 365, Outlook, and Teams Hit by Global Outage Lasting Nearly 20 Hours](https://athenaglauxintelligence.news/event/214655.html): first reported 2026-11-13; 5 outlets, 5 countries.
 - [Who Speaks for Europe? That Depends on How Tough It Wants to Be on Russia](https://athenaglauxintelligence.news/event/213543.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Security Council Hears Competing Gulf, Iranian Narratives on Maritime Insecurity](https://athenaglauxintelligence.news/event/216513.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Amazon’s plan to own the world’s product data and fight AI shopping agents](https://athenaglauxintelligence.news/event/213603.html): first reported 2026-11-13; 5 outlets, 4 countries.
@@ -76,6 +75,7 @@
 - [Athens Polytechnic Gate and Historic Sculpture Granted Protected Monument Status](https://athenaglauxintelligence.news/event/212846.html): first reported 2026-11-13; 3 outlets, 1 countries.
 - [Six Palestinians killed in Israeli strikes across Gaza](https://athenaglauxintelligence.news/event/213612.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Russia's advance in Ukraine has slowed significantly, Air Assault Forces commander says](https://athenaglauxintelligence.news/event/212462.html): first reported 2026-11-13; 3 outlets, 1 countries.
+- [Six-year-old Gaza burn victim caught in Israeli dispute over aid](https://athenaglauxintelligence.news/event/212993.html): first reported 2026-11-13; 3 outlets, 3 countries.
 
 ## Optional
 
