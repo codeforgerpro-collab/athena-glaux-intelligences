@@ -36,7 +36,8 @@
 
 ## Latest stories
 
-- [US lifts nationwide flight shutdown after communications failure cancels over 5,400 flights, delays 10,000 others](https://athenaglauxintelligence.news/event/218392.html): first reported 2026-11-13; 20 outlets, 13 countries.
+- [US lifts nationwide flight shutdown after communications failure cancels over 5,400 flights, delays 10,000 others](https://athenaglauxintelligence.news/event/218392.html): first reported 2026-11-13; 24 outlets, 16 countries.
+- [FAA lifts nationwide ground stop after thousands of flights disrupted](https://athenaglauxintelligence.news/event/219348.html): first reported 2026-11-13; 9 outlets, 5 countries.
 - [DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop](https://athenaglauxintelligence.news/event/217995.html): first reported 2026-11-13; 8 outlets, 7 countries.
 - [All departing US flights grounded due to communication problem](https://athenaglauxintelligence.news/event/218163.html): first reported 2026-11-13; 7 outlets, 7 countries.
 - [US cancels nationwide ground stop after thousands of flights delayed, canceled](https://athenaglauxintelligence.news/event/218740.html): first reported 2026-11-13; 5 outlets, 4 countries.
@@ -71,11 +72,10 @@
 - [India's Paytm gets preliminary RBI nod for wallet licence; shares hit record high](https://athenaglauxintelligence.news/event/213159.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption](https://athenaglauxintelligence.news/event/214126.html): first reported 2026-11-13; 12 outlets, 9 countries.
 - [Microsoft Races to Fix Outlook in One of Its Longest Outages](https://athenaglauxintelligence.news/event/213863.html): first reported 2026-11-13; 8 outlets, 5 countries.
-- [CENTCOM denies Iranian claim of attack on US radar in Bahrain, says 2 drones shot down](https://athenaglauxintelligence.news/event/214093.html): first reported 2026-11-13; 16 outlets, 13 countries.
+- [US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain](https://athenaglauxintelligence.news/event/214093.html): first reported 2026-11-13; 17 outlets, 14 countries.
 - [Athens Polytechnic Gate and Historic Sculpture Granted Protected Monument Status](https://athenaglauxintelligence.news/event/212846.html): first reported 2026-11-13; 3 outlets, 1 countries.
 - [Houthis claim drone attacks on Riyadh airport, Saudi oil pipeline](https://athenaglauxintelligence.news/event/212612.html): first reported 2026-11-13; 5 outlets, 4 countries.
 - [Six Palestinians killed in Israeli strikes across Gaza](https://athenaglauxintelligence.news/event/213612.html): first reported 2026-11-13; 3 outlets, 2 countries.
-- [Russia's advance in Ukraine has slowed significantly, Air Assault Forces commander says](https://athenaglauxintelligence.news/event/212462.html): first reported 2026-11-13; 3 outlets, 1 countries.
 
 ## Optional
 
