@@ -36,8 +36,10 @@
 
 ## Latest stories
 
-- [US Flight Shutdown Live Updates: 'This Isn't Another 9/11' - US After All Domestic Flights Grounded](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 59 outlets, 24 countries.
-- [Tanker capsizes cruise boat carrying 129 passengers on Mississippi River](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 30 outlets, 16 countries.
+- [US lifts nationwide flight shutdown after communications failure cancels over 5,400 flights, delays 10,000 others](https://athenaglauxintelligence.news/event/218392.html): first reported 2026-11-13; 7 outlets, 5 countries.
+- [DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop](https://athenaglauxintelligence.news/event/217995.html): first reported 2026-11-13; 5 outlets, 4 countries.
+- [US Flight Shutdown Live Updates: 'This Isn't Another 9/11' - US After All Domestic Flights Grounded](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 61 outlets, 25 countries.
+- [Tanker capsizes cruise boat carrying 129 passengers on Mississippi River](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 31 outlets, 16 countries.
 - [US Treasury chief blames Commerce Dept for failure in Nvidia scandal](https://athenaglauxintelligence.news/event/216365.html): first reported 2026-11-13; 5 outlets, 5 countries.
 - [Nvidia approached Arm CEO Haas to succeed Huang, FT reports](https://athenaglauxintelligence.news/event/215584.html): first reported 2026-11-13; 6 outlets, 5 countries.
 - [Scott Bessent says Treasury wanted to blacklist Megaspeed ‘for months,’ blaming Howard Lutnick as Nvidia fallout widens: ‘Commerce has the pen’](https://athenaglauxintelligence.news/event/216464.html): first reported 2026-11-13; 3 outlets, 1 countries.
@@ -74,8 +76,6 @@
 - [Russia's advance in Ukraine has slowed significantly, Air Assault Forces commander says](https://athenaglauxintelligence.news/event/212462.html): first reported 2026-11-13; 3 outlets, 1 countries.
 - [Six-year-old Gaza burn victim caught in Israeli dispute over aid](https://athenaglauxintelligence.news/event/212993.html): first reported 2026-11-13; 3 outlets, 3 countries.
 - [Moscow Car Blast Reportedly Injures Former Azarov Spokesman](https://athenaglauxintelligence.news/event/212204.html): first reported 2026-11-13; 10 outlets, 6 countries.
-- [Dutch PM calls crisis talks as coalition acrimony erupts over tax package](https://athenaglauxintelligence.news/event/212327.html): first reported 2026-11-13; 8 outlets, 7 countries.
-- [Nuclear watchdog increasingly concerned about Iranian enrichment plant](https://athenaglauxintelligence.news/event/212620.html): first reported 2026-11-13; 13 outlets, 10 countries.
 
 ## Optional
 
