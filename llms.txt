@@ -23,8 +23,9 @@
 
 ## Latest stories
 
-- [US Flight Shutdown Live Updates: 'This Isn't Another 9/11' - US After All Domestic Flights Grounded](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 51 outlets, 24 countries.
-- [Tanker capsizes cruise boat carrying 129 passengers on Mississippi River](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 21 outlets, 13 countries.
+- [US Flight Shutdown Live Updates: 'This Isn't Another 9/11' - US After All Domestic Flights Grounded](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 54 outlets, 23 countries.
+- [Tanker capsizes cruise boat carrying 129 passengers on Mississippi River](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 24 outlets, 13 countries.
+- [US Treasury chief blames Commerce Dept for failure in Nvidia scandal](https://athenaglauxintelligence.news/event/216365.html): first reported 2026-11-13; 5 outlets, 5 countries.
 - [Nvidia approached Arm CEO Haas to succeed Huang, FT reports](https://athenaglauxintelligence.news/event/215584.html): first reported 2026-11-13; 6 outlets, 5 countries.
 - [Scott Bessent says Treasury wanted to blacklist Megaspeed ‘for months,’ blaming Howard Lutnick as Nvidia fallout widens: ‘Commerce has the pen’](https://athenaglauxintelligence.news/event/216464.html): first reported 2026-11-13; 3 outlets, 1 countries.
 - [UN rights chief demands Houthis return body of Yemeni staff member](https://athenaglauxintelligence.news/event/215641.html): first reported 2026-11-13; 5 outlets, 4 countries.
@@ -37,7 +38,6 @@
 - [France favours adding pressure on Yemen's Houthis, foreign ministry spokesperson says](https://athenaglauxintelligence.news/event/215660.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Zelenskyy: Pace of energy sector recovery is too slow](https://athenaglauxintelligence.news/event/214920.html): first reported 2026-11-13; 3 outlets, 1 countries.
 - [Mossad chief visits Washington as Israel presses Trump to resume Iran war: Report](https://athenaglauxintelligence.news/event/214592.html): first reported 2026-11-13; 9 outlets, 6 countries.
-- [German lawmakers vote to expand spy agency powers for covert operations](https://athenaglauxintelligence.news/event/213903.html): first reported 2026-11-13; 4 outlets, 3 countries.
 
 ## Optional
 

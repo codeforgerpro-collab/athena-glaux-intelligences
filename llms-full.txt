@@ -36,8 +36,9 @@
 
 ## Latest stories
 
-- [US Flight Shutdown Live Updates: 'This Isn't Another 9/11' - US After All Domestic Flights Grounded](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 51 outlets, 24 countries.
-- [Tanker capsizes cruise boat carrying 129 passengers on Mississippi River](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 21 outlets, 13 countries.
+- [US Flight Shutdown Live Updates: 'This Isn't Another 9/11' - US After All Domestic Flights Grounded](https://athenaglauxintelligence.news/event/217126.html): first reported 2026-11-13; 54 outlets, 23 countries.
+- [Tanker capsizes cruise boat carrying 129 passengers on Mississippi River](https://athenaglauxintelligence.news/event/217066.html): first reported 2026-11-13; 24 outlets, 13 countries.
+- [US Treasury chief blames Commerce Dept for failure in Nvidia scandal](https://athenaglauxintelligence.news/event/216365.html): first reported 2026-11-13; 5 outlets, 5 countries.
 - [Nvidia approached Arm CEO Haas to succeed Huang, FT reports](https://athenaglauxintelligence.news/event/215584.html): first reported 2026-11-13; 6 outlets, 5 countries.
 - [Scott Bessent says Treasury wanted to blacklist Megaspeed ‘for months,’ blaming Howard Lutnick as Nvidia fallout widens: ‘Commerce has the pen’](https://athenaglauxintelligence.news/event/216464.html): first reported 2026-11-13; 3 outlets, 1 countries.
 - [UN rights chief demands Houthis return body of Yemeni staff member](https://athenaglauxintelligence.news/event/215641.html): first reported 2026-11-13; 5 outlets, 4 countries.
@@ -55,9 +56,9 @@
 - ['How can medical staff and patients be exposed to this?': Gaza's Nasser Hospital hit again by Israel amid Hamas accusations](https://athenaglauxintelligence.news/event/215319.html): first reported 2026-11-13; 4 outlets, 2 countries.
 - [Carney arrives in Manila for ASEAN summit, seeks trade pact with Philippines](https://athenaglauxintelligence.news/event/215615.html): first reported 2026-11-13; 3 outlets, 3 countries.
 - [Hamas terror suspect guilty of wounding bailiff over wife’s unpaid parking fines](https://athenaglauxintelligence.news/event/214382.html): first reported 2026-11-13; 8 outlets, 3 countries.
-- [EU institutions, E5 to represent Europe in Ukraine peace talks](https://athenaglauxintelligence.news/event/213545.html): first reported 2026-11-13; 12 outlets, 10 countries.
+- [EU institutions, E5 to represent Europe in Ukraine peace talks](https://athenaglauxintelligence.news/event/213545.html): first reported 2026-11-13; 13 outlets, 11 countries.
 - [Lubinets says potential humanitarian mission in Kostiantynivka not discussed](https://athenaglauxintelligence.news/event/214641.html): first reported 2026-11-13; 4 outlets, 3 countries.
-- [Türkiye, Qatar sign landmark defence pact as leaders meet in Istanbul](https://athenaglauxintelligence.news/event/214678.html): first reported 2026-11-13; 6 outlets, 4 countries.
+- [Türkiye, Qatar sign landmark defence pact as leaders meet in Istanbul](https://athenaglauxintelligence.news/event/214678.html): first reported 2026-11-13; 7 outlets, 5 countries.
 - [Microsoft 365, Outlook, and Teams Hit by Global Outage Lasting Nearly 20 Hours](https://athenaglauxintelligence.news/event/214655.html): first reported 2026-11-13; 5 outlets, 5 countries.
 - [Who Speaks for Europe? That Depends on How Tough It Wants to Be on Russia](https://athenaglauxintelligence.news/event/213543.html): first reported 2026-11-13; 3 outlets, 2 countries.
 - [Iran fired over 7,000 missiles and drones at Gulf nations since war began, GCC chief tells UN](https://athenaglauxintelligence.news/event/216513.html): first reported 2026-11-13; 3 outlets, 2 countries.
@@ -65,7 +66,7 @@
 - [Iranian Army shoots down US MQ-1 drone off southern coast](https://athenaglauxintelligence.news/event/213602.html): first reported 2026-11-13; 7 outlets, 4 countries.
 - [Norway's top court rules oil licenses invalid in landmark ruling](https://athenaglauxintelligence.news/event/213556.html): first reported 2026-11-13; 9 outlets, 8 countries.
 - [India's Paytm gets preliminary RBI nod for wallet licence; shares hit record high](https://athenaglauxintelligence.news/event/213159.html): first reported 2026-11-13; 3 outlets, 2 countries.
-- [Microsoft global outage: Services gradually restored in Europe after hours of disruption across 70 countries](https://athenaglauxintelligence.news/event/214126.html): first reported 2026-11-13; 6 outlets, 5 countries.
+- [Microsoft 'deeply sorry' as outage triggers global chaos](https://athenaglauxintelligence.news/event/214126.html): first reported 2026-11-13; 8 outlets, 6 countries.
 - [Microsoft Races to Fix Outlook in One of Its Longest Outages](https://athenaglauxintelligence.news/event/213863.html): first reported 2026-11-13; 7 outlets, 4 countries.
 - [CENTCOM denies Iranian claim of attack on US radar in Bahrain, says 2 drones shot down](https://athenaglauxintelligence.news/event/214093.html): first reported 2026-11-13; 15 outlets, 13 countries.
 - [Israeli forces kill Palestinian in Gaza, raid homes in occupied West Bank](https://athenaglauxintelligence.news/event/213612.html): first reported 2026-11-13; 3 outlets, 2 countries.
@@ -75,7 +76,6 @@
 - [Dutch PM calls crisis talks as coalition acrimony erupts over tax package](https://athenaglauxintelligence.news/event/212327.html): first reported 2026-11-13; 8 outlets, 7 countries.
 - [Nuclear watchdog increasingly concerned about Iranian enrichment plant](https://athenaglauxintelligence.news/event/212620.html): first reported 2026-11-13; 13 outlets, 10 countries.
 - [Microsoft Struggles to Restore Services Even After 12-Hour Global Outage Hits Millions](https://athenaglauxintelligence.news/event/213610.html): first reported 2026-11-13; 19 outlets, 13 countries.
-- [FSB foils terror plot at Stavropol shopping mall](https://athenaglauxintelligence.news/event/211761.html): first reported 2026-11-13; 3 outlets, 3 countries.
 
 ## Optional
 
