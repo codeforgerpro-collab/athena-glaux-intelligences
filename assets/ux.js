@@ -739,7 +739,8 @@ var lv=[[0,T.all],[4,T.b4],[6,T.b6],[8,T.b8]],cur=0;try{cur=+sessionStorage.getI
 bar.innerHTML='<div class="rkbar-r"><span class="rkbar-t"></span></div><details><summary></summary><p></p><ul class="rkbar-s"></ul><p><a></a></p></details>';
 var row=bar.querySelector(".rkbar-r");bar.querySelector(".rkbar-t").textContent=T.label;
 var n=document.createElement("span");n.className="rkbar-n";n.setAttribute("aria-live","polite");
-lv.forEach(function(l){var b=document.createElement("button");b.type="button";b.textContent=l[1];b.setAttribute("data-m",l[0]);row.appendChild(b)});row.appendChild(n);
+var seg=document.createElement("span");seg.className="rkbar-seg";row.appendChild(seg);
+lv.forEach(function(l){var b=document.createElement("button");b.type="button";if(l[0]){var dt=document.createElement("i");dt.className="rkd rkd-"+l[0];b.appendChild(dt)}b.appendChild(document.createTextNode(l[1]));b.setAttribute("data-m",l[0]);seg.appendChild(b)});row.appendChild(n);
 var d=bar.querySelector("details");d.querySelector("summary").textContent=T.what;d.querySelector("p").textContent=T.expl;
 var cl=["","m","e","h","c"];T.scale.forEach(function(s,i){var li=document.createElement("li");li.className=cl[i]==="" ? "" : cl[i];li.innerHTML="<i></i>";li.appendChild(document.createTextNode(s));d.querySelector("ul").appendChild(li)});
 var a=d.querySelector("a");a.textContent=T.more;a.href=root+"about.html#numbers";
@@ -747,7 +748,7 @@ function apply(min){cur=min;var k=0;g.r.forEach(function(r){var off=r.v<min;if(o
 [].forEach.call(row.querySelectorAll("button"),function(b){b.setAttribute("aria-pressed",String(+b.getAttribute("data-m")===min))});
 n.textContent=min?T.shown.replace("{n}",k).replace("{m}",g.r.length):"";try{sessionStorage.setItem("rk",String(min))}catch(e){}}
 row.addEventListener("click",function(ev){var b=ev.target.closest("button[data-m]");if(b)apply(+b.getAttribute("data-m"))});
-g.p.parentNode.insertBefore(bar,g.p);apply(cur)}
+var at=/^(TBODY|THEAD|TFOOT|TABLE)$/.test(g.p.tagName)?g.p.closest("table"):g.p;at.parentNode.insertBefore(bar,at);apply(cur)}
 if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init);else init()})();
 (function(){try{localStorage.removeItem("athena_adx_hide")}catch(e){}})();
 (function(){document.addEventListener("click",function(ev){var b=ev.target.closest&&ev.target.closest(".wr-cp");if(!b)return;
