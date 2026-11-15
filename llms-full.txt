@@ -44,7 +44,7 @@
 
 ## Latest stories
 
-- [Trump, in first comments on air travel halt, blames Biden](https://athenaglauxintelligence.news/event/230601.html): first reported 2026-11-15; 7 outlets, 7 countries.
+- [Trump, in first comments on air travel halt, blames Biden](https://athenaglauxintelligence.news/event/230601.html): first reported 2026-11-15; 8 outlets, 8 countries.
 - [Yemeni presidency: redeployment of forces near Bab Al-Mandab a ‘calculated military move’](https://athenaglauxintelligence.news/event/230430.html): first reported 2026-11-15; 4 outlets, 3 countries.
 - [EU forces board suspected Russian shadow fleet tanker in Mediterranean](https://athenaglauxintelligence.news/event/230533.html): first reported 2026-11-15; 5 outlets, 3 countries.
 - [GCC Secretary-General Condemns Iranian UAV Attacks on Bahrain](https://athenaglauxintelligence.news/event/230142.html): first reported 2026-11-15; 4 outlets, 3 countries.
@@ -59,16 +59,17 @@
 - [‘Ramayana 2 will do 10 times more’: Ram Gopal Varma claims budget of part 1 is Rs 800 cr](https://athenaglauxintelligence.news/event/227699.html): first reported 2026-11-15; 4 outlets, 2 countries.
 - [NATO to skip a leaders’ summit in Albania next year as high-level meetings are scaled back](https://athenaglauxintelligence.news/event/227811.html): first reported 2026-11-15; 5 outlets, 5 countries.
 - [Top scorer on South Korean tax exam confesses to cheating with AI](https://athenaglauxintelligence.news/event/227691.html): first reported 2026-11-15; 11 outlets, 9 countries.
+- [Iraq PM Dismisses Nine Officials Over Alleged Oil Smuggling](https://athenaglauxintelligence.news/event/227582.html): first reported 2026-11-15; 3 outlets, 3 countries.
 - [Nations grapple with loss of 1.5C target at UN climate summit](https://athenaglauxintelligence.news/event/227452.html): first reported 2026-11-15; 5 outlets, 5 countries.
 - [Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base](https://athenaglauxintelligence.news/event/229027.html): first reported 2026-11-15; 16 outlets, 12 countries.
 - [Ukraine strikes two petrochemical plants in Tatarstan and Russian helicopter manufacturing facility](https://athenaglauxintelligence.news/event/227094.html): first reported 2026-11-15; 11 outlets, 7 countries.
 - [Iran rebuilds missile arsenal, intelligence estimates up to 2,500 missiles](https://athenaglauxintelligence.news/event/227260.html): first reported 2026-11-15; 7 outlets, 6 countries.
 - [Andy Burnham writes 'most of his own speeches' after aide pictured using ChatGPT](https://athenaglauxintelligence.news/event/227029.html): first reported 2026-11-15; 10 outlets, 6 countries.
-- [2 injured as passenger, cargo planes collide at Miami international airport](https://athenaglauxintelligence.news/event/227117.html): first reported 2026-11-15; 16 outlets, 13 countries.
+- [2 injured as passenger, cargo planes collide at Miami international airport](https://athenaglauxintelligence.news/event/227117.html): first reported 2026-11-15; 18 outlets, 15 countries.
 - [Reps from 115 Fortune Global 500 to attend APEC CEO Summit](https://athenaglauxintelligence.news/event/226814.html): first reported 2026-11-15; 6 outlets, 3 countries.
 - [US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand](https://athenaglauxintelligence.news/event/226706.html): first reported 2026-11-15; 6 outlets, 6 countries.
 - [Drone attack kills 1, injures 4 in Russia's Rostov Oblast, governor says](https://athenaglauxintelligence.news/event/228085.html): first reported 2026-11-15; 6 outlets, 4 countries.
-- [IRGC's Aerospace targeted US base in Bahrain with 6 drones](https://athenaglauxintelligence.news/event/227459.html): first reported 2026-11-15; 26 outlets, 17 countries.
+- [IRGC's Aerospace targeted US base in Bahrain with 6 drones](https://athenaglauxintelligence.news/event/227459.html): first reported 2026-11-15; 27 outlets, 18 countries.
 - [Bahrain issues first threat alerts since September as Iran says it attacked US base](https://athenaglauxintelligence.news/event/226894.html): first reported 2026-11-15; 18 outlets, 12 countries.
 - [Canadian Prime Minister Mark Carney Visits the Canadian Chamber of Commerce Stand in Cambodia](https://athenaglauxintelligence.news/event/226398.html): first reported 2026-11-15; 5 outlets, 5 countries.
 - [Drone strikes reportedly hit 3 commercial ships near Romania's Black Sea coast](https://athenaglauxintelligence.news/event/226375.html): first reported 2026-11-15; 11 outlets, 6 countries.
@@ -83,7 +84,6 @@
 - [Benjamin Danso defeats NDC Greater Accra chair Ashie Moore by a margin of over 200 votes](https://athenaglauxintelligence.news/event/225476.html): first reported 2026-11-14; 3 outlets, 2 countries.
 - [Suspected Chinese spy Alice Huang left Megaspeed in August 2025, firm says](https://athenaglauxintelligence.news/event/225580.html): first reported 2026-11-14; 4 outlets, 4 countries.
 - [US aviation shutdown blamed on L3 Harris installed router](https://athenaglauxintelligence.news/event/225322.html): first reported 2026-11-14; 10 outlets, 9 countries.
-- [New Orleans port sues for control of China-linked tanker that crashed into cruise ship](https://athenaglauxintelligence.news/event/225296.html): first reported 2026-11-14; 5 outlets, 5 countries.
 
 ## Optional
 
