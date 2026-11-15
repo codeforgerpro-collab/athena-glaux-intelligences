@@ -39,6 +39,37 @@ function pulse(){var s=S(),n=s.n.length;if(n<D.gate.pulse){return lock("pulse",D
  var ov=$("sg-po");function mv(e){var r=ov.getBoundingClientRect(),k=Math.max(0,Math.min(m-1,Math.floor((e.clientX-r.left)/r.width*m))),j=from+k,c=$("sg-pc"),xx=pl+(k+.5)/m*iw;c.setAttribute("x1",xx);c.setAttribute("x2",xx);c.setAttribute("opacity",".5");rd("pulse",dt(j,1)+" · "+s.n[j]+" "+L.ev+" · "+L.risk+" "+(s.r[j]<0?"-":(s.r[j]/10).toFixed(1))+" · "+L.go_day)}
  ov.style.cursor="pointer";ov.addEventListener("click",function(e){var r=ov.getBoundingClientRect(),k=Math.max(0,Math.min(m-1,Math.floor((e.clientX-r.left)/r.width*m)));goDay(from+k)});
  ov.addEventListener("pointermove",mv);ov.addEventListener("pointerleave",function(){$("sg-pc").setAttribute("opacity","0");rd("pulse","")})}
+/* DEN-46: where today sits - the empirical density (bars) and a Gaussian kernel density estimate (Silverman bandwidth) of the
+   chosen section's daily risk index and daily events over the chosen range; the red line is where we are now */
+function kd(xs,g){var n=xs.length,m=0,v=0,i;for(i=0;i<n;i++)m+=xs[i];m/=n;for(i=0;i<n;i++)v+=(xs[i]-m)*(xs[i]-m);
+ var sd=Math.sqrt(v/n),q=xs.slice().sort(function(a,b){return a-b}),iq=(q[Math.floor(.75*(n-1))]-q[Math.floor(.25*(n-1))])/1.34,sg=iq>0?Math.min(sd,iq):sd,
+ h=sg>0?.9*sg*Math.pow(n,-.2):Math.max(Math.abs(m)*.05,.1),c=1/(n*h*Math.sqrt(2*Math.PI));
+ return g.map(function(x){var t=0;for(var j=0;j<n;j++){var z=(x-xs[j])/h;t+=Math.exp(-.5*z*z)}return c*t})}
+function pcl(xs,v){var b=0;xs.forEach(function(x){b+=x<v?1:x===v?.5:0});return Math.round(100*b/xs.length)}
+function fm(v,dec){try{return new Intl.NumberFormat(P.lang,{minimumFractionDigits:dec,maximumFractionDigits:dec}).format(v)}catch(e){return v.toFixed(dec)}}
+function dp(xs,v,lab,title,dec,lo0,hi0){var W=440,H=250,top=56,bot=H-30,i,lo=Math.min.apply(null,xs.concat([v])),hi=Math.max.apply(null,xs.concat([v])),
+ pad=(hi-lo)*.12||Math.max(Math.abs(hi)*.1,.5);lo=Math.max(lo0,lo-pad);hi=Math.min(hi0,hi+pad);if(hi<=lo)hi=lo+1;
+ var nb=Math.max(8,Math.min(16,Math.round(Math.sqrt(xs.length)*1.6))),bw=(hi-lo)/nb,hs=[];for(i=0;i<nb;i++)hs.push(0);
+ xs.forEach(function(x){hs[Math.min(nb-1,Math.max(0,Math.floor((x-lo)/bw)))]++});hs=hs.map(function(k){return k/(xs.length*bw)});
+ var g=[];for(i=0;i<=120;i++)g.push(lo+(hi-lo)*i/120);var dd=kd(xs,g),ym=Math.max(Math.max.apply(null,hs),Math.max.apply(null,dd))*1.12||1,
+ X=function(a){return 8+(W-16)*(a-lo)/(hi-lo)},Y=function(a){return bot-(bot-top)*a/ym},pw=(W-16)/nb,o=T(8,18,title,{c:C.ink,s:13.5,w:600});
+ hs.forEach(function(k,j){if(k>0)o+='<rect x="'+(8+j*pw+1).toFixed(1)+'" y="'+Y(k).toFixed(1)+'" width="'+Math.max(pw-2,1).toFixed(1)+'" height="'+(bot-Y(k)).toFixed(1)+'" fill="'+C.rule+'" opacity=".85"/>'});
+ var pts=g.map(function(a,j){return X(a).toFixed(1)+","+Y(dd[j]).toFixed(1)}).join(" ");
+ o+='<polygon points="'+X(lo).toFixed(1)+','+bot+' '+pts+' '+X(hi).toFixed(1)+','+bot+'" fill="'+C.gold+'" opacity=".12"/><polyline points="'+pts+'" fill="none" stroke="'+C.gold2+'" stroke-width="2.4" stroke-linejoin="round"/>';
+ o+='<line x1="8" x2="'+(W-8)+'" y1="'+bot+'" y2="'+bot+'" stroke="'+C.mut+'" stroke-width=".8"/>';
+ for(i=0;i<=4;i++){var tv=lo+(hi-lo)*i/4;o+=T(X(tv),bot+16,fm(tv,dec),{a:i===0?"start":i===4?"end":"middle",s:10.5})}
+ var p=pcl(xs,v),tx=X(v),an=tx>W*.66?"end":"start",of=an==="end"?-6:6;
+ o+='<line x1="'+tx.toFixed(1)+'" x2="'+tx.toFixed(1)+'" y1="'+(top-10)+'" y2="'+bot+'" stroke="'+C.crit+'" stroke-width="2" stroke-dasharray="5 4"/><circle cx="'+tx.toFixed(1)+'" cy="'+(top-10)+'" r="4" fill="'+C.crit+'"/>';
+ o+=T(tx+of,top+4,lab+" "+fm(v,dec),{a:an,c:C.crit,s:12.5,w:700})+T(tx+of,top+20,f(p>=50?L.dn_hi:L.dn_lo,{p:p>=50?p:100-p}),{a:an,c:C.ink,s:11.5});
+ return svg(W,H,o,title+": "+lab+" "+fm(v,dec)+", "+f(p>=50?L.dn_hi:L.dn_lo,{p:p>=50?p:100-p}))}
+function dens(){var s=S(),n=s.n.length,from=rng>0?Math.max(0,n-rng):0,rr=[],nn=[],i;
+ if(n-1-from<10){return lock("dens",10,Math.max(0,n-1-from))}
+ var lg=D.lv&&D.lv.g&&D.lv.g[sec],rv,rl;
+ for(i=from;i<n-1;i++){nn.push(s.n[i]);if(s.r[i]>=0)rr.push(s.r[i]/10)}
+ if(lg){if(s.r[n-1]>=0)rr.push(s.r[n-1]/10);rv=lg.risk;rl=L.dn_live}else{rv=s.r[n-1]>=0?s.r[n-1]/10:null;rl=L.dn_yday}
+ var h='<div class="sg-dn">'+(rv!=null&&rr.length>=5?'<div>'+dp(rr,rv,rl,L.dn_r,2,0,10)+'</div>':'')+'<div>'+dp(nn,s.n[n-1],L.dn_yday,L.dn_n,0,0,1e12)+'</div></div>'
+  +'<div class="sg-dk"><span><i class="sg-dkb"></i>'+esc(L.dn_bars)+'</span><span><i class="sg-dkk"></i>'+esc(L.dn_kde)+'</span><span><i class="sg-dkm"></i>'+esc(rl)+'</span></div>';
+ body("dens").innerHTML=h;rd("dens",L.dn_note)}
 /* Gauge */
 function gauge(){var g=(D.lv&&D.lv.g[sec])||D.g[sec];if(!g)return lock("gauge",D.gate.gauge,D.nd);var W=520,H=218,o="",pl=12,iw=W-2*pl;
  function meter(y,big,txt,p,col){var x=Math.max(8,iw*p/100);o+=T(pl,y,big,{c:C.ink,s:32,w:700,f:"Georgia,serif"})+T(pl,y+24,txt,{c:C.ink,s:14});o+='<rect x="'+pl+'" y="'+(y+36)+'" width="'+iw+'" height="12" rx="6" fill="'+C.chip+'"/><rect x="'+pl+'" y="'+(y+36)+'" width="'+x.toFixed(1)+'" height="12" rx="6" fill="'+col+'"/><circle cx="'+(pl+x).toFixed(1)+'" cy="'+(y+42)+'" r="9" fill="'+col+'" stroke="'+C.paper+'" stroke-width="2"/>'}
@@ -124,13 +155,13 @@ function share(card,btn){var sv=card.querySelector("svg.sg-svg");if(!sv){if(wind
  img.src="data:image/svg+xml;charset=utf-8,"+encodeURIComponent(new XMLSerializer().serializeToString(cl))}
 function sync(){[].forEach.call(box.querySelectorAll("[data-sh]"),function(b){var c=b.closest(".sg-c");b.hidden=!(c&&c.querySelector("svg.sg-svg"))})}
 function draw(){C=pal();$("sg-hist").textContent=f(L.hist,{n:D.nd,a:D.from,b:D.to})+(D.lv?" · "+f(L.asof,{t:new Date(D.lv.at*1000).toISOString().slice(11,16)}):"");var ld=$("sg-lead"),g=(D.lv&&D.lv.g[sec])||D.g[sec];ld.textContent=g?f(L.g_risk,{p:g.pr,n:g.days})+" · "+nm(sec):f(L.building,{n:D.nd});
- [pulse,gauge,move,heat,sim,lead,quiet,replay,track].forEach(function(fn){try{fn()}catch(e){}});sync()}
+ [pulse,dens,gauge,move,heat,sim,lead,quiet,replay,track].forEach(function(fn){try{fn()}catch(e){}});sync()}
 function hash(){var m=/[#&]s=(\d+)/.exec(location.hash);return m&&P.cats[m[1]]?m[1]:"0"}
 fetch(R+"data/athena-signals.json",{credentials:"omit"}).then(function(r){return r.json()}).then(function(d){if(!d||!d.nd){$("sg-lead").textContent=f(L.building,{n:0});return}D=d;sec=hash();$("sg-sec").value=sec;draw();
  $("sg-sec").addEventListener("change",function(){sec=this.value;try{history.replaceState(null,"","#s="+sec)}catch(e){}draw()});
- [].forEach.call(box.querySelectorAll(".sg-rg button"),function(b){b.addEventListener("click",function(){rng=+b.getAttribute("data-r");[].forEach.call(box.querySelectorAll(".sg-rg button"),function(x){x.classList.toggle("on",x===b)});pulse();sync()})});
+ [].forEach.call(box.querySelectorAll(".sg-rg button"),function(b){b.addEventListener("click",function(){rng=+b.getAttribute("data-r");[].forEach.call(box.querySelectorAll(".sg-rg button"),function(x){x.classList.toggle("on",x===b)});pulse();try{dens()}catch(e){}sync()})});
  [].forEach.call(box.querySelectorAll("[data-sh]"),function(b){b.addEventListener("click",function(e){e.stopPropagation();share(b.closest(".sg-c"),b)})});
- var tm=null,wasN=NW();function again(){clearTimeout(tm);tm=setTimeout(function(){C=pal();[pulse,gauge,move,heat,sim].forEach(function(fn){try{fn()}catch(e){}})},120)}
+ var tm=null,wasN=NW();function again(){clearTimeout(tm);tm=setTimeout(function(){C=pal();[pulse,dens,gauge,move,heat,sim].forEach(function(fn){try{fn()}catch(e){}})},120)}
  window.addEventListener("resize",function(){if(NW()!==wasN){wasN=NW();again()}});
  try{new MutationObserver(again).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme","class"]});matchMedia("(prefers-color-scheme: dark)").addEventListener("change",again)}catch(e){}
 }).catch(function(){$("sg-lead").textContent=f(L.building,{n:0})})})();
