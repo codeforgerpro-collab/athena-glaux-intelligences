@@ -1,0 +1,5 @@
+Contact: mailto:info@athenaglauxintelligence.news
+Expires: 2027-05-01T00:00:00Z
+Preferred-Languages: en, el, fr
+Canonical: https://athenaglauxintelligence.news/.well-known/security.txt
+Policy: https://athenaglauxintelligence.news/legal.html
