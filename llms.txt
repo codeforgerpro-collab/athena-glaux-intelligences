@@ -31,7 +31,10 @@
 
 ## Latest stories
 
-- [Cabo Verde Votes as Incumbent Is Favored](https://athenaglauxintelligence.news/event/229738.html): first reported 2026-11-15; 4 outlets, 4 countries.
+- [EU forces board suspected Russian shadow fleet tanker in Mediterranean](https://athenaglauxintelligence.news/event/230533.html): first reported 2026-11-15; 3 outlets, 3 countries.
+- [Cabo Verde Votes as Incumbent Is Favored](https://athenaglauxintelligence.news/event/229738.html): first reported 2026-11-15; 5 outlets, 5 countries.
+- [Yemeni government force retreats from strait in major setback in war against Houthis](https://athenaglauxintelligence.news/event/229704.html): first reported 2026-11-15; 3 outlets, 3 countries.
+- [Drones Strike Akhtubinsk Military Airfield in Russia’s Astrakhan Region](https://athenaglauxintelligence.news/event/229546.html): first reported 2026-11-15; 3 outlets, 1 country.
 - [[UPDATED] BN never planned to extend cooperation with PN for GE16, says Zahid](https://athenaglauxintelligence.news/event/229010.html): first reported 2026-11-15; 4 outlets, 1 country.
 - [Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather](https://athenaglauxintelligence.news/event/228719.html): first reported 2026-11-15; 4 outlets, 4 countries.
 - ['Tribal communities most affected during Naxal violence': PM Modi accuses previous governments of neglect](https://athenaglauxintelligence.news/event/228449.html): first reported 2026-11-15; 3 outlets, 1 country.
@@ -43,11 +46,9 @@
 - [Nations grapple with loss of 1.5C target at UN climate summit](https://athenaglauxintelligence.news/event/227452.html): first reported 2026-11-15; 5 outlets, 5 countries.
 - [Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base](https://athenaglauxintelligence.news/event/229027.html): first reported 2026-11-15; 13 outlets, 9 countries.
 - [Ukrainian strikes hit major Russian industrial city](https://athenaglauxintelligence.news/event/227094.html): first reported 2026-11-15; 10 outlets, 7 countries.
-- [Iran rebuilds missile arsenal, intelligence estimates up to 2,500 missiles](https://athenaglauxintelligence.news/event/227260.html): first reported 2026-11-15; 5 outlets, 4 countries.
-- [Andy Burnham writes 'most of his own speeches' after aide pictured using ChatGPT](https://athenaglauxintelligence.news/event/227029.html): first reported 2026-11-15; 6 outlets, 3 countries.
-- [2 injured as passenger, cargo planes collide at Miami international airport](https://athenaglauxintelligence.news/event/227117.html): first reported 2026-11-15; 15 outlets, 12 countries.
 
 ## Optional
 
 - [Terms of use](https://athenaglauxintelligence.news/terms.html): licence and use of the content.
 - [Media kit](https://athenaglauxintelligence.news/media-kit.html): logos and facts for press.
+- [Press releases](https://athenaglauxintelligence.news/press/index.html): the fortnightly Maritime & Geopolitical Risk Report (1st and 15th of each month).

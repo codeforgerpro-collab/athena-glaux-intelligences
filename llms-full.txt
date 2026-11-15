@@ -44,7 +44,10 @@
 
 ## Latest stories
 
-- [Cabo Verde Votes as Incumbent Is Favored](https://athenaglauxintelligence.news/event/229738.html): first reported 2026-11-15; 4 outlets, 4 countries.
+- [EU forces board suspected Russian shadow fleet tanker in Mediterranean](https://athenaglauxintelligence.news/event/230533.html): first reported 2026-11-15; 3 outlets, 3 countries.
+- [Cabo Verde Votes as Incumbent Is Favored](https://athenaglauxintelligence.news/event/229738.html): first reported 2026-11-15; 5 outlets, 5 countries.
+- [Yemeni government force retreats from strait in major setback in war against Houthis](https://athenaglauxintelligence.news/event/229704.html): first reported 2026-11-15; 3 outlets, 3 countries.
+- [Drones Strike Akhtubinsk Military Airfield in Russia’s Astrakhan Region](https://athenaglauxintelligence.news/event/229546.html): first reported 2026-11-15; 3 outlets, 1 country.
 - [[UPDATED] BN never planned to extend cooperation with PN for GE16, says Zahid](https://athenaglauxintelligence.news/event/229010.html): first reported 2026-11-15; 4 outlets, 1 country.
 - [Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather](https://athenaglauxintelligence.news/event/228719.html): first reported 2026-11-15; 4 outlets, 4 countries.
 - ['Tribal communities most affected during Naxal violence': PM Modi accuses previous governments of neglect](https://athenaglauxintelligence.news/event/228449.html): first reported 2026-11-15; 3 outlets, 1 country.
@@ -81,11 +84,9 @@
 - [SpaceX’s Starship breakthrough as it’s captured by launch pad after orbit](https://athenaglauxintelligence.news/event/225628.html): first reported 2026-11-14; 24 outlets, 15 countries.
 - [‘Baby, she’s back!’ SpaceX’s Starship is caught midair in a dramatic first](https://athenaglauxintelligence.news/event/224353.html): first reported 2026-11-14; 6 outlets, 5 countries.
 - [US blames system upgrade for longest nationwide FAA ground stop since 9/11](https://athenaglauxintelligence.news/event/224300.html): first reported 2026-11-14; 5 outlets, 3 countries.
-- [Francophone summit opens with DR Congo, Rwandan clash](https://athenaglauxintelligence.news/event/224156.html): first reported 2026-11-14; 6 outlets, 6 countries.
-- [Malaysia’s BN and ally PN declare victory in Melaka state polls in a blow to PM Anwar](https://athenaglauxintelligence.news/event/224012.html): first reported 2026-11-14; 3 outlets, 2 countries.
-- [UK weather: Met Office issues snow and ice warning as London braces for rain](https://athenaglauxintelligence.news/event/223552.html): first reported 2026-11-14; 4 outlets, 1 country.
 
 ## Optional
 
 - [Terms of use](https://athenaglauxintelligence.news/terms.html): licence and use of the content.
 - [Media kit](https://athenaglauxintelligence.news/media-kit.html): logos and facts for press.
+- [Press releases](https://athenaglauxintelligence.news/press/index.html): the fortnightly Maritime & Geopolitical Risk Report (1st and 15th of each month).
