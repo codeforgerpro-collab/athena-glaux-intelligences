@@ -31,11 +31,10 @@
 
 ## Latest stories
 
-- [Iran says 2 oil tankers hit mines, catch fire in Strait of Hormuz](https://athenaglauxintelligence.news/event/236931.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [Oil prices fall on expectations of coming supply surplus](https://athenaglauxintelligence.news/event/236567.html): first reported 2026-11-16; 4 outlets, 3 countries.
 - [China confirms first Xi-Trump-Putin summit on Thursday](https://athenaglauxintelligence.news/event/236245.html): first reported 2026-11-16; 4 outlets, 4 countries.
 - [Indian rupee caught between external pressures and foreign inflows](https://athenaglauxintelligence.news/event/236287.html): first reported 2026-11-16; 3 outlets, 3 countries.
-- [Fire in Phuket shophouse kills 11 injures 16, police say](https://athenaglauxintelligence.news/event/235353.html): first reported 2026-11-16; 12 outlets, 8 countries.
+- [Fire in Phuket shophouse kills 11 injures 16, police say](https://athenaglauxintelligence.news/event/235353.html): first reported 2026-11-16; 13 outlets, 9 countries.
 - [China’s retail sales growth slows in October](https://athenaglauxintelligence.news/event/235826.html): first reported 2026-11-16; 5 outlets, 4 countries.
 - [Thailand's GDP growth picks up to 2.9% in Q3 on strong exports](https://athenaglauxintelligence.news/event/235059.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [Yen steady against euro and dollar after soft Japanese GDP data](https://athenaglauxintelligence.news/event/235501.html): first reported 2026-11-16; 3 outlets, 3 countries.
@@ -46,6 +45,7 @@
 - [Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits households](https://athenaglauxintelligence.news/event/234687.html): first reported 2026-11-16; 6 outlets, 4 countries.
 - [US and Russia to oppose talks on limiting autonomous weapons](https://athenaglauxintelligence.news/event/234761.html): first reported 2026-11-16; 5 outlets, 5 countries.
 - [Japan's Q3 GDP drops an annualized 0.1%, below market expectations](https://athenaglauxintelligence.news/event/234946.html): first reported 2026-11-15; 3 outlets, 3 countries.
+- [Musk, Uber co-founder join call for Jensen Huang's return to Nvidia](https://athenaglauxintelligence.news/event/234767.html): first reported 2026-11-15; 6 outlets, 5 countries.
 
 ## Optional
 
