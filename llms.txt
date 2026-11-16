@@ -31,7 +31,8 @@
 
 ## Latest stories
 
-- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 5 outlets, 4 countries.
+- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 6 outlets, 5 countries.
+- [California sues OpenAI over the rogue AI agents that hacked Hugging Face](https://athenaglauxintelligence.news/event/242450.html): first reported 2026-11-16; 5 outlets, 3 countries.
 - [IDF rules out terror in West Bank ramming that wounded two, continues manhunt for vehicle](https://athenaglauxintelligence.news/event/241270.html): first reported 2026-11-16; 3 outlets, 1 country.
 - [Atteridgeville mass shooting: Child discovers nine people shot dead in Jeffsville shack](https://athenaglauxintelligence.news/event/241622.html): first reported 2026-11-16; 3 outlets, 1 country.
 - [Kremlin says Putin-Xi-Trump meeting in China will have major impact on global affairs](https://athenaglauxintelligence.news/event/240678.html): first reported 2026-11-16; 9 outlets, 7 countries.
@@ -45,7 +46,6 @@
 - [France expects EU sanctions on Iran in December over fridge hack](https://athenaglauxintelligence.news/event/239524.html): first reported 2026-11-16; 6 outlets, 4 countries.
 - [Lindsay Clancy will be retried in March for the killing of her 3 children](https://athenaglauxintelligence.news/event/239307.html): first reported 2026-11-16; 14 outlets, 9 countries.
 - [Iran FM says neighbouring Asian states back two-day Hormuz plan](https://athenaglauxintelligence.news/event/239313.html): first reported 2026-11-16; 5 outlets, 4 countries.
-- [Millions of Palestinians’ photos uploaded by Israel to Amazon facial recognition platform](https://athenaglauxintelligence.news/event/240653.html): first reported 2026-11-16; 5 outlets, 4 countries.
 
 ## Optional
 
