@@ -57,6 +57,7 @@
 - [Oil prices fall on expectations of coming supply surplus](https://athenaglauxintelligence.news/event/236567.html): first reported 2026-11-16; 5 outlets, 3 countries.
 - [US, 9 partners sign agreement to secure AI supply chains](https://athenaglauxintelligence.news/event/236174.html): first reported 2026-11-16; 7 outlets, 4 countries.
 - [China's economy softens across the board as factory output, spending slow](https://athenaglauxintelligence.news/event/236143.html): first reported 2026-11-16; 3 outlets, 2 countries.
+- [DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore](https://athenaglauxintelligence.news/event/235978.html): first reported 2026-11-16; 3 outlets, 2 countries.
 - [India news: Modi heads to ASEAN meet in Manila](https://athenaglauxintelligence.news/event/236316.html): first reported 2026-11-16; 3 outlets, 2 countries.
 - [Indian rupee caught between external pressures and foreign inflows](https://athenaglauxintelligence.news/event/236287.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [Ex-Bangladesh PM Hasina to return home despite 'threat of death'](https://athenaglauxintelligence.news/event/237571.html): first reported 2026-11-16; 9 outlets, 8 countries.
@@ -79,11 +80,10 @@
 - [US airports expected to return to normal after three days of disruption](https://athenaglauxintelligence.news/event/234766.html): first reported 2026-11-15; 5 outlets, 6 countries.
 - [Musk, Uber co-founder join call for Jensen Huang's return to Nvidia](https://athenaglauxintelligence.news/event/234767.html): first reported 2026-11-15; 7 outlets, 5 countries.
 - [Ukraine disables over 55% of Russia’s oil refining capacity – Zelensky](https://athenaglauxintelligence.news/event/234866.html): first reported 2026-11-15; 3 outlets, 1 country.
-- [Russia says it downs 1,300 Ukrainian drones, including hundreds targeting Moscow](https://athenaglauxintelligence.news/event/234885.html): first reported 2026-11-15; 8 outlets, 8 countries.
-- [Intel sued by shareholders following 29pct stock plunge](https://athenaglauxintelligence.news/event/234915.html): first reported 2026-11-15; 5 outlets, 5 countries.
+- [Russia says it downs 1,300 Ukrainian drones, including hundreds targeting Moscow](https://athenaglauxintelligence.news/event/234885.html): first reported 2026-11-15; 9 outlets, 9 countries.
+- [Intel sued by shareholders following 29pct stock plunge](https://athenaglauxintelligence.news/event/234915.html): first reported 2026-11-15; 6 outlets, 6 countries.
 - [UAE Overtakes Mainland China as Biggest Source of New Hong Kong Business at Osome](https://athenaglauxintelligence.news/event/234401.html): first reported 2026-11-15; 3 outlets, 3 countries.
 - [Ukraine and EU preparing winter emergency support package – PM Koretskyi](https://athenaglauxintelligence.news/event/234480.html): first reported 2026-11-15; 3 outlets, 2 countries.
-- [Lee set to depart for ASEAN, APEC summits in Manila, Shenzhen](https://athenaglauxintelligence.news/event/234534.html): first reported 2026-11-15; 3 outlets, 1 country.
 
 ## Optional
 
