@@ -89,6 +89,8 @@ nb.className="nbar k-"+x.kind;nb.setAttribute("role","region");nb.setAttribute("
 nb.innerHTML='<div class="wrap"><span class="nk">'+esc((NL.k||{})[x.kind]||x.kind)+'</span><a class="nt" href="'+esc(page)+'"'+la+'><b>'+esc(ti)+'</b> '
 +'<span>'+esc(tx.split("\n")[0])+'</span></a>'+(open.length>1?'<a class="nmore" href="'+esc(nb.getAttribute("data-root")+nb.getAttribute("data-prefix")+"notices.html")+'">'+esc((NL.plus||"+{n}").replace("{n}",open.length-1))+'</a>':'')
 +'<button class="nx" type="button" aria-label="'+esc(NL.close||"Close")+'" title="'+esc(NL.close||"Close")+'">&times;</button></div>';
+var st=document.getElementById("nstack");if(!st){st=document.createElement("div");st.id="nstack";document.body.appendChild(st);}   // SEO-49 nstack
+st.insertBefore(nb,st.firstChild);
 nb.hidden=false;
 nb.querySelector(".nx").addEventListener("click",function(){try{localStorage.setItem("athena-nb-"+x.id,String(x.rev));}catch(e){}nb.hidden=true;});
 }).catch(function(){});
@@ -226,7 +228,8 @@ function pick(i){var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++
 function draw(){if(!D.sections.length)return;var on=(m.getAttribute("data-on")||"").replace("cat",""),first=0;
 var left=D.sections.map(function(s,i){if(String(s.id)===on)first=i;return '<a href="'+u(s.url)+'" data-i="'+i+'"'+tip(s)+'><i style="background:'+x(s.color)+'"></i>'+x(s.name)+spark(s)+'<em>'+(s.lv!=null?'<b class="dt '+s.lv+'"></b>':'')+s.n+'</em></a>'}).join("");
 var ex=D.extra.map(function(b){return '<a href="'+u(b.url)+'">'+x(b.name)+'</a>'}).join("");
-dd.classList.add("full");dd.innerHTML='<div class="mg3"><div class="mg-l">'+left+'</div><div class="mg-c"></div><div class="mg-r"></div></div><div class="mg-x">'+ex+'</div>';
+var wt=dd.querySelector("template.mg-wtpl"),wh=wt?wt.innerHTML:"",sl=m.getAttribute("data-sl");
+dd.classList.add("full");dd.innerHTML='<div class="mg3"><div class="mg-l">'+(sl?'<p class="mg-lh">'+x(sl)+'</p>':'')+left+'</div><div class="mg-c"></div><div class="mg-r"></div></div>'+wh+'<div class="mg-x">'+ex+'</div>';
 var l=dd.querySelectorAll(".mg-l a");for(var k=0;k<l.length;k++){(function(a){var i=+a.getAttribute("data-i");a.addEventListener("mouseenter",function(){pick(i)});a.addEventListener("focus",function(){pick(i)})})(l[k])}
 pick(first)}
 m.addEventListener("toggle",function(){if(!m.open||state||(window.matchMedia&&window.matchMedia("(max-width:820px)").matches))return;state=1;

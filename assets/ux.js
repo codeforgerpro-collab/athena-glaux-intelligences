@@ -218,7 +218,7 @@ var FLAGS = ["grc", "cyp", "tur", "usa", "gbr", "deu", "fra", "ita", "esp", "ukr
 function img(src) { var i = new Image(); i.decoding = "async"; i.onload = function () { SPR = {}; if (still) start(); }; i.src = src; return i; }
 FLAGS.forEach(function (k) { FLK.push("f:" + k); });
 var FLOK = document.readyState === "complete";
-if (!FLOK) window.addEventListener("load", function () { setTimeout(function () { FLOK = true; }, 1200); });
+if (!FLOK) window.addEventListener("load", function () { setTimeout(function () { FLOK = true; SPR = {}; if (still) start(); }, 1200); });
 function flagImg(c) { return FL[c] || (FLOK ? (FL[c] = img(root + "assets/cf/" + c + ".svg")) : null); }   /* BAND-55: any country's flag, loaded when first needed */
 var OWL = img(root + "assets/athena_mark.svg"), PART = [], SYMS = { btc: true, eth: true, x: [] }, SC = {};
 try { SC = JSON.parse(box.getAttribute("data-sc") || "{}"); } catch (e) { SC = {}; }
@@ -673,8 +673,9 @@ bar.innerHTML = '<div class="wrap"><span class="nk">ATHENA</span><span class="nt
 bar.querySelector(".nt").textContent = (up.getAttribute("data-big") || "").replace("{n}", String(left));
 var x = bar.querySelector(".nx"); x.setAttribute("aria-label", up.getAttribute("data-close") || "Close");
 x.addEventListener("click", function () { bar.remove(); try { sessionStorage.setItem(key, j.started); } catch (e) { /* private */ } });
-var nb = document.getElementById("nbar");
-if (nb && nb.parentNode) nb.parentNode.insertBefore(bar, nb.nextSibling); else document.body.insertBefore(bar, document.body.firstChild);
+var st = document.getElementById("nstack");                    /* SEO-49 nstack: the bottom dock, no layout shift */
+if (!st) { st = document.createElement("div"); st.id = "nstack"; document.body.appendChild(st); }
+st.appendChild(bar);
 }).catch(function () { /* no status file: nothing to say */ });
 })();
 })();
