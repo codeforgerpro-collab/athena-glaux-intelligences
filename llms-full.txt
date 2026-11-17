@@ -45,15 +45,18 @@
 
 ## Latest stories
 
-- [National Security Agency’s Highly Classified Internal Network Has Gone Down, Report Says](https://athenaglauxintelligence.news/event/250196.html): first reported 2026-11-17; 3 outlets, 3 countries.
+- [National Security Agency’s Highly Classified Internal Network Has Gone Down, Report Says](https://athenaglauxintelligence.news/event/250196.html): first reported 2026-11-17; 8 outlets, 6 countries.
 - [European Commission Raises Bulgaria's 2026 Growth Forecast to 2.7%, Expects Growth to Slow to 2.1% in 2027](https://athenaglauxintelligence.news/event/248326.html): first reported 2026-11-17; 3 outlets, 3 countries.
 - [Sri Lanka docked 15 WTC points for slow over rate, Pakistan gets five points deducted](https://athenaglauxintelligence.news/event/248345.html): first reported 2026-11-17; 3 outlets, 3 countries.
-- [North Macedonia and Greece Uncover Iran-Linked Assassination Plot, Five Arrested](https://athenaglauxintelligence.news/event/247875.html): first reported 2026-11-17; 5 outlets, 4 countries.
-- [Serbian military pilot reportedly killed as MiG-29 fighter jet crashes near Belgrade](https://athenaglauxintelligence.news/event/247429.html): first reported 2026-11-17; 6 outlets, 6 countries.
+- [North Macedonia and Greece Uncover Iran-Linked Assassination Plot, Five Arrested](https://athenaglauxintelligence.news/event/247875.html): first reported 2026-11-17; 6 outlets, 4 countries.
+- [Britain Sanctions Israeli Settlement Builders, Gaza Aid-Blocking Activists](https://athenaglauxintelligence.news/event/249090.html): first reported 2026-11-17; 3 outlets, 3 countries.
+- [Serbian military pilot reportedly killed as MiG-29 fighter jet crashes near Belgrade](https://athenaglauxintelligence.news/event/247429.html): first reported 2026-11-17; 7 outlets, 7 countries.
 - [Amazon to invest $7 billion in renewable energy in India by 2030](https://athenaglauxintelligence.news/event/248142.html): first reported 2026-11-17; 5 outlets, 3 countries.
 - [Alonso, Loeb to make Dakar Rally return for Aston Martin](https://athenaglauxintelligence.news/event/247113.html): first reported 2026-11-17; 8 outlets, 6 countries.
 - [Germany to contribute $300M to new PURL package with Patriot missiles – Pistorius](https://athenaglauxintelligence.news/event/247428.html): first reported 2026-11-17; 5 outlets, 3 countries.
+- [NATO’s AI cyber defense work hits up to 300 billion OpenAI tokens a month](https://athenaglauxintelligence.news/event/248232.html): first reported 2026-11-17; 3 outlets, 2 countries.
 - [Trump says Kim 'would like to' attend APEC summit in China](https://athenaglauxintelligence.news/event/246517.html): first reported 2026-11-17; 4 outlets, 3 countries.
+- [Deutsche Bank exposed: The $582 million in transactions involving Epstein, payments to women, and warnings that were ignored](https://athenaglauxintelligence.news/event/247879.html): first reported 2026-11-17; 3 outlets, 2 countries.
 - [Japan proposes ‘Asian IEA’ to manage oil stockpiles](https://athenaglauxintelligence.news/event/246462.html): first reported 2026-11-17; 6 outlets, 5 countries.
 - [Ukraine missile strike severs Russia’s Crimean bridge](https://athenaglauxintelligence.news/event/248342.html): first reported 2026-11-17; 9 outlets, 5 countries.
 - [9 detained as Turkish police target new Kurdish political alliance](https://athenaglauxintelligence.news/event/247196.html): first reported 2026-11-17; 3 outlets, 3 countries.
@@ -61,9 +64,9 @@
 - [Ghalibaf warns dams near US bases are "dual-use" too](https://athenaglauxintelligence.news/event/246445.html): first reported 2026-11-17; 8 outlets, 5 countries.
 - [Tuned Instagram systems in India to curb sexually suggestive, violent content: Meta](https://athenaglauxintelligence.news/event/245722.html): first reported 2026-11-17; 5 outlets, 3 countries.
 - [Popular websites subverted in bid to steal crypto, target iPhone users](https://athenaglauxintelligence.news/event/245733.html): first reported 2026-11-17; 11 outlets, 7 countries.
-- [Mongolia’s president announces resignation amid corruption allegations](https://athenaglauxintelligence.news/event/246009.html): first reported 2026-11-17; 11 outlets, 9 countries.
+- [Mongolia’s president announces resignation amid corruption allegations](https://athenaglauxintelligence.news/event/246009.html): first reported 2026-11-17; 12 outlets, 10 countries.
 - [Greece Marks Anniversary of 1973 Student Uprising against Military Regime](https://athenaglauxintelligence.news/event/245347.html): first reported 2026-11-17; 4 outlets, 3 countries.
-- [Japan proposes Asia oil security task force at ASEAN summit](https://athenaglauxintelligence.news/event/245730.html): first reported 2026-11-17; 7 outlets, 5 countries.
+- [Japan proposes Asia oil security task force at ASEAN summit](https://athenaglauxintelligence.news/event/245730.html): first reported 2026-11-17; 8 outlets, 6 countries.
 - [Fire breaks out at a petrochemical complex after attack in Russia’s Bashkortostan – media](https://athenaglauxintelligence.news/event/245908.html): first reported 2026-11-17; 6 outlets, 2 countries.
 - [Witkoff, Kushner to meet with Ukrainians, Europeans in Berlin on November 19 — Axios](https://athenaglauxintelligence.news/event/245640.html): first reported 2026-11-17; 4 outlets, 4 countries.
 - [Malaysia loosens rare earths curbs for France amid upgrade of ties to strategic partnership](https://athenaglauxintelligence.news/event/246030.html): first reported 2026-11-17; 7 outlets, 4 countries.
@@ -81,10 +84,7 @@
 - [Ukraine, Russia hit key bridges ahead of Putin-Xi-Trump summit](https://athenaglauxintelligence.news/event/245591.html): first reported 2026-11-17; 14 outlets, 10 countries.
 - [Costa Rican journalist gunned down near capital](https://athenaglauxintelligence.news/event/245214.html): first reported 2026-11-16; 7 outlets, 6 countries.
 - [Oil slips as recovering Mideast exports blunt Gulf tensions](https://athenaglauxintelligence.news/event/243885.html): first reported 2026-11-16; 6 outlets, 6 countries.
-- [US President Trump arrives in Manila ahead of ASEAN summit](https://athenaglauxintelligence.news/event/245606.html): first reported 2026-11-16; 8 outlets, 7 countries.
-- [Gender pay gap drops below 20 per cent, but women still fall short of the top job](https://athenaglauxintelligence.news/event/244842.html): first reported 2026-11-16; 3 outlets, 2 countries.
-- [Iran dismisses report of ‘dirty bomb’ plot](https://athenaglauxintelligence.news/event/244421.html): first reported 2026-11-16; 29 outlets, 19 countries.
-- [N. Korean leader's close aide meets senior officials in Moscow amid deepening ties](https://athenaglauxintelligence.news/event/244432.html): first reported 2026-11-16; 4 outlets, 2 countries.
+- [US President Trump arrives in Manila ahead of ASEAN summit](https://athenaglauxintelligence.news/event/245606.html): first reported 2026-11-16; 9 outlets, 8 countries.
 
 ## Optional
 
