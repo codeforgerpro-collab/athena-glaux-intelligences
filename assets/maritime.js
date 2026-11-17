@@ -102,7 +102,12 @@
     A.sort(function (a, b) { return b.now - a.now; });
     var h = '<div class="shwl"><span><i style="background:var(--crit)"></i>' + esc(T.tanker) + '</span><span><i style="background:var(--gold)"></i>' + esc(T.cargo)
       + '</span><span><i style="background:#3f8fd1"></i>' + esc(T.passenger) + '</span><span><i style="background:var(--ink2);opacity:.45"></i>' + esc(T.other) + "</span></div>";
+    // SHIP-52: areas without AIS reception go last and say so instead of showing a misleading 0
+    var rank = function (a) { return a.coverage === "none" ? 2 : a.coverage === "warming" ? 1 : 0; };
+    A.sort(function (a, b) { return rank(a) - rank(b) || b.now - a.now; });
     s.querySelector(".shwg").innerHTML = A.map(function (a) {
+      if (a.coverage === "none" || a.coverage === "warming")
+        return '<div class="shwk q"><h3>' + esc(a.name) + '</h3><div class="n">&ndash;</div><div class="m">' + esc(a.coverage === "none" ? T.nocov : T.warm) + "</div></div>";
       var b = a.by_type || {}, tot = Math.max(1, a.now), w = function (k) { return (100 * (b[k] || 0) / tot).toFixed(1) + "%"; };
       var norm = a.normal_day == null ? esc(T.build) : a.normal_day;
       var vs = a.normal_day ? Math.round(100 * (a.seen_24h - a.normal_day) / Math.max(1, a.normal_day)) : null;

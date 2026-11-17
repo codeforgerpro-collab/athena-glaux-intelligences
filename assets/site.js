@@ -311,3 +311,57 @@ if(x[iL]>seen&&seen){var s=document.createElement("b");s.className="fy-n";s.text
 box.hidden=false;try{localStorage.setItem(S,String(Math.floor(Date.now()/1000)))}catch(e){}
 }).catch(function(){});
 })();
+(function () {
+var s = document.getElementById("shiphome");
+if (!s || !window.fetch) return;
+var T = {}; try { T = JSON.parse(s.getAttribute("data-t") || "{}"); } catch (e) {}
+var A = [], mode = "now", c = s.querySelector(".shh-c"), d = s.querySelector(".shh-d");
+function esc(x) { return String(x == null ? "" : x).replace(/[&<>"]/g, function (k) { return {"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[k]; }); }
+function fill(tpl, o) { return (tpl || "").replace(/\{(\w+)\}/g, function (m, k) { return o[k] == null ? "" : o[k]; }); }
+function detail(a) {
+var b = a.by_type || {};
+d.textContent = mode === "now"
+? fill(T.det_now, {n: a.name, v: a.now, tk: b.tanker || 0, cg: b.cargo || 0, ps: b.passenger || 0, ot: b.other || 0, d: a.seen_24h})
+: fill(T.det_24, {n: a.name, v: a.seen_24h, nm: a.normal_day ? fill(T.nm, {v: a.normal_day}) : ""});
+}
+function draw() {
+var key = mode === "now" ? "now" : "seen_24h";
+var L = A.filter(function (a) { return a[key] > 0; }).sort(function (x, y) { return y[key] - x[key]; });
+var mx = Math.max.apply(null, L.map(function (a) { return Math.max(a[key], mode === "d24" ? (a.normal_day || 0) : 0); }).concat([1]));
+c.innerHTML = L.map(function (a, i) {
+var b = a.by_type || {}, v = a[key], w = function (n) { return (100 * n / mx).toFixed(2) + "%"; }, bar;
+if (mode === "now") bar = '<i class="tk" style="width:' + w(b.tanker || 0) + '"></i><i class="cg" style="width:' + w(b.cargo || 0) + '"></i><i class="ps" style="width:'
++ w(b.passenger || 0) + '"></i><i class="ot" style="width:' + w(b.other || 0) + '"></i>';
+else bar = '<i class="all" style="width:' + w(v) + '"></i>' + (a.normal_day ? '<span class="nm" style="inset-inline-start:' + w(a.normal_day) + '"></span>' : "");
+return '<button type="button" class="shh-r" role="listitem" data-i="' + A.indexOf(a) + '" aria-label="' + esc(a.name + ": " + v + " " + (T.ships || "")) + '">'
++ '<span class="shh-n">' + esc(a.name) + '</span><span class="shh-b">' + bar + '</span><span class="shh-v">' + v + "</span></button>";
+}).join("");
+s.querySelector(".shh-l").innerHTML = mode === "now"
+? '<i style="background:var(--crit)"></i>' + esc(T.tanker) + '<i style="background:var(--gold)"></i>' + esc(T.cargo) + '<i style="background:#3f8fd1"></i>' + esc(T.passenger)
++ '<i style="background:var(--ink2);opacity:.45"></i>' + esc(T.other)
+: "";
+if (L.length) detail(L[0]);
+}
+function pick(ev) {
+var r = ev.target.closest && ev.target.closest(".shh-r");
+if (!r) return;
+[].forEach.call(c.querySelectorAll(".shh-r.on"), function (x) { x.classList.remove("on"); });
+r.classList.add("on");
+detail(A[+r.getAttribute("data-i")]);
+}
+c.addEventListener("mouseover", pick); c.addEventListener("focusin", pick); c.addEventListener("click", pick);
+[].forEach.call(s.querySelectorAll(".shh-tg button"), function (b) {
+b.addEventListener("click", function () {
+mode = b.getAttribute("data-m");
+[].forEach.call(s.querySelectorAll(".shh-tg button"), function (x) { x.setAttribute("aria-pressed", x === b ? "true" : "false"); });
+draw();
+});
+});
+fetch(s.getAttribute("data-src"), {cache: "no-store"}).then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+A = ((j && j.areas) || []).filter(function (a) { return (a.coverage || "ok") === "ok" && a.seen_24h > 0; });
+if (!A.length) return;
+if (j.updated_utc && Date.now() - Date.parse(j.updated_utc) > 6 * 3600 * 1000) return;   // an old file is not shown on the front page
+draw();
+s.hidden = false;
+}).catch(function () {});
+})();
