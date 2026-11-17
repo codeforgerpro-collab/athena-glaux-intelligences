@@ -31,10 +31,10 @@
 
 ## Latest stories
 
-- [United Airlines says ‘widespread’ system outage resolved](https://athenaglauxintelligence.news/event/243819.html): first reported 2026-11-16; 10 outlets, 7 countries.
+- [United Airlines says ‘widespread’ system outage resolved](https://athenaglauxintelligence.news/event/243819.html): first reported 2026-11-16; 11 outlets, 8 countries.
 - [US banking app users report outages from software bugs](https://athenaglauxintelligence.news/event/243467.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [California sues OpenAI over the rogue AI agents that hacked Hugging Face](https://athenaglauxintelligence.news/event/242450.html): first reported 2026-11-16; 10 outlets, 5 countries.
-- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 13 outlets, 8 countries.
+- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 16 outlets, 11 countries.
 - [Five EU countries announce plan to send rejected asylum seekers to Rwanda](https://athenaglauxintelligence.news/event/243352.html): first reported 2026-11-16; 5 outlets, 5 countries.
 - [Hyperscale data centers use 2% of US electricity](https://athenaglauxintelligence.news/event/241714.html): first reported 2026-11-16; 5 outlets, 2 countries.
 - [IDF rules out terror in West Bank ramming that wounded two, continues manhunt for vehicle](https://athenaglauxintelligence.news/event/241270.html): first reported 2026-11-16; 3 outlets, 1 country.
