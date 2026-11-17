@@ -44,11 +44,12 @@
 
 ## Latest stories
 
+- [FirstFT: Leak of 15mn Deutsche Bank files exposes systemic failures](https://athenaglauxintelligence.news/event/246626.html): first reported 2026-11-17; 3 outlets, 3 countries.
 - [Ghalibaf warns dams near US bases are "dual-use" too](https://athenaglauxintelligence.news/event/246445.html): first reported 2026-11-17; 6 outlets, 4 countries.
-- [Popular websites subverted in bid to steal crypto, target iPhone users](https://athenaglauxintelligence.news/event/245733.html): first reported 2026-11-17; 7 outlets, 5 countries.
+- [Popular websites subverted in bid to steal crypto, target iPhone users](https://athenaglauxintelligence.news/event/245733.html): first reported 2026-11-17; 8 outlets, 5 countries.
 - [Mongolia President Announces Resignation After Graft Accusations](https://athenaglauxintelligence.news/event/246009.html): first reported 2026-11-17; 7 outlets, 7 countries.
 - [Greece Marks Anniversary of 1973 Student Uprising against Military Regime](https://athenaglauxintelligence.news/event/245347.html): first reported 2026-11-17; 4 outlets, 3 countries.
-- [Japan proposes Asia oil security task force at ASEAN summit](https://athenaglauxintelligence.news/event/245730.html): first reported 2026-11-17; 6 outlets, 4 countries.
+- [Japan proposes Asia oil security task force at ASEAN summit](https://athenaglauxintelligence.news/event/245730.html): first reported 2026-11-17; 7 outlets, 5 countries.
 - [Ukraine Hits Major Russian Petrochemical Hub as Moscow Claims Record 1,441 Drones Downed](https://athenaglauxintelligence.news/event/245908.html): first reported 2026-11-17; 4 outlets, 2 countries.
 - [Witkoff, Kushner to meet with Ukrainians, Europeans in Berlin on November 19 — Axios](https://athenaglauxintelligence.news/event/245640.html): first reported 2026-11-17; 3 outlets, 3 countries.
 - [West Bank’s displaced Palestinians hold little hope for post-Netanyahu era](https://athenaglauxintelligence.news/event/245202.html): first reported 2026-11-17; 3 outlets, 3 countries.
@@ -57,16 +58,17 @@
 - [Cyberattack targets 178 websites; CNN, BBC, Fox News hit](https://athenaglauxintelligence.news/event/246393.html): first reported 2026-11-17; 6 outlets, 4 countries.
 - [IMF Reports Major Progress in Ukraine Talks, Bringing $1.6 Billion in Aid Closer](https://athenaglauxintelligence.news/event/244964.html): first reported 2026-11-17; 3 outlets, 3 countries.
 - [Japan scrambles jets after suspected Russian planes enter airspace, Tokyo says](https://athenaglauxintelligence.news/event/244449.html): first reported 2026-11-17; 16 outlets, 14 countries.
-- [Russia strikes bridges in Kyiv](https://athenaglauxintelligence.news/event/245591.html): first reported 2026-11-17; 4 outlets, 4 countries.
+- [Russia strikes bridges in Kyiv](https://athenaglauxintelligence.news/event/245591.html): first reported 2026-11-17; 5 outlets, 5 countries.
 - [Costa Rican journalist gunned down near capital](https://athenaglauxintelligence.news/event/245214.html): first reported 2026-11-16; 5 outlets, 4 countries.
-- [US intelligence suggests Iran planning 'dirty bomb' attack targeting officials in DC - report](https://athenaglauxintelligence.news/event/244421.html): first reported 2026-11-16; 12 outlets, 6 countries.
+- [Oil slips as recovering Mideast exports blunt Gulf tensions](https://athenaglauxintelligence.news/event/243885.html): first reported 2026-11-16; 6 outlets, 6 countries.
+- [US intelligence suggests Iran planning 'dirty bomb' attack targeting officials in DC - report](https://athenaglauxintelligence.news/event/244421.html): first reported 2026-11-16; 14 outlets, 8 countries.
 - [United Airlines says ‘widespread’ system outage resolved](https://athenaglauxintelligence.news/event/243819.html): first reported 2026-11-16; 31 outlets, 15 countries.
 - [Pentagon fails ninth straight audit despite progress in organizing finances](https://athenaglauxintelligence.news/event/245184.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [A technical issue at JPMorgan Chase triggers online banking delays for major US banks](https://athenaglauxintelligence.news/event/245311.html): first reported 2026-11-16; 5 outlets, 4 countries.
 - [World can’t afford to take freedom of navigation for granted](https://athenaglauxintelligence.news/event/244951.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case](https://athenaglauxintelligence.news/event/243112.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [US banking app users report outages from software bugs](https://athenaglauxintelligence.news/event/243467.html): first reported 2026-11-16; 7 outlets, 7 countries.
-- [Forensic expert says his analysis of autopsy photos suggests Epstein was killed](https://athenaglauxintelligence.news/event/242742.html): first reported 2026-11-16; 11 outlets, 9 countries.
+- [Forensic expert says his analysis of autopsy photos suggests Epstein was killed](https://athenaglauxintelligence.news/event/242742.html): first reported 2026-11-16; 12 outlets, 10 countries.
 - [US judge tosses new visa rules for Nigerians, other foreign students, journalists](https://athenaglauxintelligence.news/event/243536.html): first reported 2026-11-16; 10 outlets, 7 countries.
 - [N. Korea Sends Russia Dozens of Missiles Monthly: Zelensky](https://athenaglauxintelligence.news/event/243160.html): first reported 2026-11-16; 3 outlets, 1 country.
 - [Iraq’s move on militia stronghold may do little to curb Iran’s influence](https://athenaglauxintelligence.news/event/244601.html): first reported 2026-11-16; 4 outlets, 4 countries.
@@ -79,11 +81,9 @@
 - [Trump administration targets further limits on skilled foreign workers](https://athenaglauxintelligence.news/event/241803.html): first reported 2026-11-16; 5 outlets, 3 countries.
 - [Federal Reserve’s Warsh says emerging technologies like AI to have ‘significant impact’, but there are risks](https://athenaglauxintelligence.news/event/242468.html): first reported 2026-11-16; 5 outlets, 2 countries.
 - [RBI tells Tata Sons to comply with upper-layer NBFC rules, including listing](https://athenaglauxintelligence.news/event/241806.html): first reported 2026-11-16; 4 outlets, 2 countries.
-- [Five EU countries announce plan to send rejected asylum seekers to Rwanda](https://athenaglauxintelligence.news/event/243352.html): first reported 2026-11-16; 7 outlets, 7 countries.
+- [Former Wall Street regulator warns AI bubble could burst, trigger recession](https://athenaglauxintelligence.news/event/244126.html): first reported 2026-11-16; 3 outlets, 3 countries.
+- [Five EU countries announce plan to send rejected asylum seekers to Rwanda](https://athenaglauxintelligence.news/event/243352.html): first reported 2026-11-16; 6 outlets, 6 countries.
 - [Supertanker Rates Plunge More Than 60% From Record Highs](https://athenaglauxintelligence.news/event/243172.html): first reported 2026-11-16; 3 outlets, 2 countries.
-- [Hyperscale data centers use 2% of US electricity](https://athenaglauxintelligence.news/event/241714.html): first reported 2026-11-16; 6 outlets, 2 countries.
-- [CDF Munir, Iranian FM discuss regional security, evolving geopolitical developments](https://athenaglauxintelligence.news/event/242243.html): first reported 2026-11-16; 3 outlets, 1 country.
-- [IDF rules out terror in West Bank ramming that wounded two, continues manhunt for vehicle](https://athenaglauxintelligence.news/event/241270.html): first reported 2026-11-16; 3 outlets, 1 country.
 
 ## Optional
 
