@@ -86,6 +86,37 @@
   if (hh) open(hh, true);
 })();
 
+/* SHIP-51 Ship Watch: counts from data/ships.json (refreshed by each publish) */
+(function () {
+  var s = document.getElementById("shipwatch");
+  if (!s || !window.fetch) return;
+  var T = {}; try { T = JSON.parse(s.getAttribute("data-t") || "{}"); } catch (e) { /* defaults */ }
+  function esc(x) { return String(x == null ? "" : x).replace(/[&<>"]/g, function (c) { return {"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]; }); }
+  function draw(d) {
+    var A = (d && d.areas) || [];
+    if (!A.length || !A.some(function (a) { return a.seen_24h > 0; })) return;
+    s.querySelector(".shwx").textContent = (T.x || "").replace("{w}", d.window_minutes || 20);
+    var up = d.updated_utc || "", age = up ? (Date.now() - Date.parse(up)) / 60000 : 1e9, u = s.querySelector(".shwu");
+    u.textContent = (T.upd || "").replace("{t}", up.slice(11, 16)) + (age > 45 ? " - " + (T.stale || "") : "");
+    if (age > 45) u.classList.add("old");
+    A.sort(function (a, b) { return b.now - a.now; });
+    var h = '<div class="shwl"><span><i style="background:var(--crit)"></i>' + esc(T.tanker) + '</span><span><i style="background:var(--gold)"></i>' + esc(T.cargo)
+      + '</span><span><i style="background:#3f8fd1"></i>' + esc(T.passenger) + '</span><span><i style="background:var(--ink2);opacity:.45"></i>' + esc(T.other) + "</span></div>";
+    s.querySelector(".shwg").innerHTML = A.map(function (a) {
+      var b = a.by_type || {}, tot = Math.max(1, a.now), w = function (k) { return (100 * (b[k] || 0) / tot).toFixed(1) + "%"; };
+      var norm = a.normal_day == null ? esc(T.build) : a.normal_day;
+      var vs = a.normal_day ? Math.round(100 * (a.seen_24h - a.normal_day) / Math.max(1, a.normal_day)) : null;
+      return '<div class="shwk' + (a.seen_24h ? "" : " q") + '"><h3>' + esc(a.name) + '</h3><div class="n">' + a.now + "<small>" + esc(T.now) + "</small></div>"
+        + (a.now ? '<div class="shwb"><i class="tk" style="width:' + w("tanker") + '"></i><i class="cg" style="width:' + w("cargo") + '"></i><i class="ps" style="width:' + w("passenger")
+          + '"></i><i class="ot" style="width:' + w("other") + '"></i></div>' : '<div class="m">' + esc(a.seen_24h ? "" : T.none) + "</div>")
+        + '<div class="m">' + esc(T.d24) + ": <b>" + a.seen_24h + "</b> · " + esc(T.norm) + ": " + norm
+        + (vs != null ? ' <b style="color:' + (vs < -25 ? "var(--crit)" : vs > 25 ? "var(--high)" : "inherit") + '">(' + (vs > 0 ? "+" : "") + vs + "% " + esc(T.vs) + ")</b>" : "") + "</div></div>";
+    }).join("") + h;
+    s.hidden = false;
+  }
+  fetch(s.getAttribute("data-src"), {cache: "no-store"}).then(function (r) { return r.ok ? r.json() : null; }).then(draw).catch(function () { /* section stays hidden */ });
+})();
+
 /* MAR-41: a port on the map opens its panel */
 (function(){var m=document.querySelectorAll(".cpm-p[data-open]");[].forEach.call(m,function(a){a.addEventListener("click",function(ev){
   var id=a.getAttribute("data-open"),c=document.querySelector('.mtc[data-place="'+id+'"]');if(!c)return;ev.preventDefault();c.click();
