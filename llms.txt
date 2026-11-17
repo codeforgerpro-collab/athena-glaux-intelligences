@@ -31,11 +31,11 @@
 
 ## Latest stories
 
-- [United Airlines says ‘widespread’ system outage resolved](https://athenaglauxintelligence.news/event/243819.html): first reported 2026-11-16; 13 outlets, 9 countries.
-- [US banking app users report outages from software bugs](https://athenaglauxintelligence.news/event/243467.html): first reported 2026-11-16; 4 outlets, 4 countries.
+- [United Airlines says ‘widespread’ system outage resolved](https://athenaglauxintelligence.news/event/243819.html): first reported 2026-11-16; 14 outlets, 9 countries.
+- [US banking app users report outages from software bugs](https://athenaglauxintelligence.news/event/243467.html): first reported 2026-11-16; 5 outlets, 5 countries.
 - [US envoy Kushner says preparations are underway for multilateral meeting on war in Ukraine](https://athenaglauxintelligence.news/event/242494.html): first reported 2026-11-16; 5 outlets, 5 countries.
-- [California sues OpenAI over the rogue AI agents that hacked Hugging Face](https://athenaglauxintelligence.news/event/242450.html): first reported 2026-11-16; 12 outlets, 6 countries.
-- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 20 outlets, 14 countries.
+- [California sues OpenAI over the rogue AI agents that hacked Hugging Face](https://athenaglauxintelligence.news/event/242450.html): first reported 2026-11-16; 13 outlets, 6 countries.
+- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 21 outlets, 15 countries.
 - [EU's top diplomat outlines Europe's demands on Russia: respect for Ukraine's borders and accountability for war crimes](https://athenaglauxintelligence.news/event/242995.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [Five EU countries announce plan to send rejected asylum seekers to Rwanda](https://athenaglauxintelligence.news/event/243352.html): first reported 2026-11-16; 5 outlets, 5 countries.
 - [Hyperscale data centers use 2% of US electricity](https://athenaglauxintelligence.news/event/241714.html): first reported 2026-11-16; 5 outlets, 2 countries.

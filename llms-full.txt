@@ -44,11 +44,11 @@
 
 ## Latest stories
 
-- [United Airlines says ‘widespread’ system outage resolved](https://athenaglauxintelligence.news/event/243819.html): first reported 2026-11-16; 13 outlets, 9 countries.
-- [US banking app users report outages from software bugs](https://athenaglauxintelligence.news/event/243467.html): first reported 2026-11-16; 4 outlets, 4 countries.
+- [United Airlines says ‘widespread’ system outage resolved](https://athenaglauxintelligence.news/event/243819.html): first reported 2026-11-16; 14 outlets, 9 countries.
+- [US banking app users report outages from software bugs](https://athenaglauxintelligence.news/event/243467.html): first reported 2026-11-16; 5 outlets, 5 countries.
 - [US envoy Kushner says preparations are underway for multilateral meeting on war in Ukraine](https://athenaglauxintelligence.news/event/242494.html): first reported 2026-11-16; 5 outlets, 5 countries.
-- [California sues OpenAI over the rogue AI agents that hacked Hugging Face](https://athenaglauxintelligence.news/event/242450.html): first reported 2026-11-16; 12 outlets, 6 countries.
-- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 20 outlets, 14 countries.
+- [California sues OpenAI over the rogue AI agents that hacked Hugging Face](https://athenaglauxintelligence.news/event/242450.html): first reported 2026-11-16; 13 outlets, 6 countries.
+- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 21 outlets, 15 countries.
 - [EU's top diplomat outlines Europe's demands on Russia: respect for Ukraine's borders and accountability for war crimes](https://athenaglauxintelligence.news/event/242995.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [Five EU countries announce plan to send rejected asylum seekers to Rwanda](https://athenaglauxintelligence.news/event/243352.html): first reported 2026-11-16; 5 outlets, 5 countries.
 - [Hyperscale data centers use 2% of US electricity](https://athenaglauxintelligence.news/event/241714.html): first reported 2026-11-16; 5 outlets, 2 countries.
@@ -59,6 +59,7 @@
 - [After Yemen setback, Saudi Arabia replaces military commander](https://athenaglauxintelligence.news/event/241116.html): first reported 2026-11-16; 13 outlets, 10 countries.
 - [‘I was in awe of Indira Gandhi; she was formidable,’ says Sonia Gandhi at launch of her memoir Belonging](https://athenaglauxintelligence.news/event/239889.html): first reported 2026-11-16; 5 outlets, 1 country.
 - [Dangote challenges Ghana to tap into West African market of 450 million people, boost local production](https://athenaglauxintelligence.news/event/239992.html): first reported 2026-11-16; 3 outlets, 1 country.
+- [Frictionless ASEAN trade seen boosting growth](https://athenaglauxintelligence.news/event/240813.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [5 countries announce plan to deport failed asylum-seekers to Rwanda](https://athenaglauxintelligence.news/event/240687.html): first reported 2026-11-16; 6 outlets, 5 countries.
 - [Chay Bowes put on EU sanctions list for allegedly spreading Russian ‘propaganda’](https://athenaglauxintelligence.news/event/239915.html): first reported 2026-11-16; 4 outlets, 2 countries.
 - [Iranian FM Araghchi holds phone call with Russian counterpart Lavrov](https://athenaglauxintelligence.news/event/241302.html): first reported 2026-11-16; 4 outlets, 3 countries.
@@ -81,9 +82,8 @@
 - [EU foreign policy chief: We have a lot to discuss with South Caucasus partners](https://athenaglauxintelligence.news/event/240467.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [Trump says he may meet with Kim Jong-un while in China](https://athenaglauxintelligence.news/event/239633.html): first reported 2026-11-16; 23 outlets, 14 countries.
 - [Ukraine Facility: EU approves largest-ever payment of EUR 8B to Kyiv](https://athenaglauxintelligence.news/event/239651.html): first reported 2026-11-16; 8 outlets, 5 countries.
-- [Robert Pattinson said he would wait 20 years to ‘go for’ Bond – he got it in 14](https://athenaglauxintelligence.news/event/240183.html): first reported 2026-11-16; 67 outlets, 28 countries.
+- [Robert Pattinson said he would wait 20 years to ‘go for’ Bond – he got it in 14](https://athenaglauxintelligence.news/event/240183.html): first reported 2026-11-16; 68 outlets, 29 countries.
 - [Global economy 'standing on one leg' as AI financing risks mount: IMF chief](https://athenaglauxintelligence.news/event/238937.html): first reported 2026-11-16; 3 outlets, 3 countries.
-- [Romania will launch Black Sea region security talks with Azerbaijan, Armenia, Turkey](https://athenaglauxintelligence.news/event/240487.html): first reported 2026-11-16; 3 outlets, 3 countries.
 
 ## Optional
 
