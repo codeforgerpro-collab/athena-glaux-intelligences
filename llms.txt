@@ -32,8 +32,11 @@
 ## Latest stories
 
 - [United Airlines says ‘widespread’ system outage resolved](https://athenaglauxintelligence.news/event/243819.html): first reported 2026-11-16; 10 outlets, 7 countries.
-- [California sues OpenAI over the rogue AI agents that hacked Hugging Face](https://athenaglauxintelligence.news/event/242450.html): first reported 2026-11-16; 9 outlets, 4 countries.
-- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 12 outlets, 7 countries.
+- [US banking app users report outages from software bugs](https://athenaglauxintelligence.news/event/243467.html): first reported 2026-11-16; 3 outlets, 3 countries.
+- [California sues OpenAI over the rogue AI agents that hacked Hugging Face](https://athenaglauxintelligence.news/event/242450.html): first reported 2026-11-16; 10 outlets, 5 countries.
+- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 13 outlets, 8 countries.
+- [Five EU countries announce plan to send rejected asylum seekers to Rwanda](https://athenaglauxintelligence.news/event/243352.html): first reported 2026-11-16; 5 outlets, 5 countries.
+- [Hyperscale data centers use 2% of US electricity](https://athenaglauxintelligence.news/event/241714.html): first reported 2026-11-16; 5 outlets, 2 countries.
 - [IDF rules out terror in West Bank ramming that wounded two, continues manhunt for vehicle](https://athenaglauxintelligence.news/event/241270.html): first reported 2026-11-16; 3 outlets, 1 country.
 - [Atteridgeville mass shooting: Child discovers nine people shot dead in Jeffsville shack](https://athenaglauxintelligence.news/event/241622.html): first reported 2026-11-16; 3 outlets, 1 country.
 - [Oborevwori presents N1.23trn 2027 appropriation bill, earmarks N320bn for roads](https://athenaglauxintelligence.news/event/240960.html): first reported 2026-11-16; 3 outlets, 1 country.
@@ -43,9 +46,6 @@
 - [Dangote challenges Ghana to tap into West African market of 450 million people, boost local production](https://athenaglauxintelligence.news/event/239992.html): first reported 2026-11-16; 3 outlets, 1 country.
 - [5 countries announce plan to deport failed asylum-seekers to Rwanda](https://athenaglauxintelligence.news/event/240687.html): first reported 2026-11-16; 6 outlets, 5 countries.
 - [Chay Bowes put on EU sanctions list for allegedly spreading Russian ‘propaganda’](https://athenaglauxintelligence.news/event/239915.html): first reported 2026-11-16; 4 outlets, 2 countries.
-- [Iranian FM Araghchi holds phone call with Russian counterpart Lavrov](https://athenaglauxintelligence.news/event/241302.html): first reported 2026-11-16; 4 outlets, 3 countries.
-- [Ukraine's naval drones are now fighting Russian ones in gun battles](https://athenaglauxintelligence.news/event/239745.html): first reported 2026-11-16; 3 outlets, 3 countries.
-- [DR Congo-Rwanda tensions force Francophonie leadership election delay until 2027](https://athenaglauxintelligence.news/event/240292.html): first reported 2026-11-16; 3 outlets, 2 countries.
 
 ## Optional
 
