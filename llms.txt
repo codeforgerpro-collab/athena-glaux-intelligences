@@ -31,8 +31,9 @@
 
 ## Latest stories
 
+- [United Airlines says ‘widespread’ system outage resolved](https://athenaglauxintelligence.news/event/243819.html): first reported 2026-11-16; 8 outlets, 6 countries.
 - [California sues OpenAI over the rogue AI agents that hacked Hugging Face](https://athenaglauxintelligence.news/event/242450.html): first reported 2026-11-16; 9 outlets, 4 countries.
-- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 10 outlets, 7 countries.
+- [Customers at major US banks report difficulty accessing accounts online](https://athenaglauxintelligence.news/event/242353.html): first reported 2026-11-16; 12 outlets, 7 countries.
 - [IDF rules out terror in West Bank ramming that wounded two, continues manhunt for vehicle](https://athenaglauxintelligence.news/event/241270.html): first reported 2026-11-16; 3 outlets, 1 country.
 - [Atteridgeville mass shooting: Child discovers nine people shot dead in Jeffsville shack](https://athenaglauxintelligence.news/event/241622.html): first reported 2026-11-16; 3 outlets, 1 country.
 - [Oborevwori presents N1.23trn 2027 appropriation bill, earmarks N320bn for roads](https://athenaglauxintelligence.news/event/240960.html): first reported 2026-11-16; 3 outlets, 1 country.
@@ -45,7 +46,6 @@
 - [Iranian FM Araghchi holds phone call with Russian counterpart Lavrov](https://athenaglauxintelligence.news/event/241302.html): first reported 2026-11-16; 4 outlets, 3 countries.
 - [Ukraine's naval drones are now fighting Russian ones in gun battles](https://athenaglauxintelligence.news/event/239745.html): first reported 2026-11-16; 3 outlets, 3 countries.
 - [DR Congo-Rwanda tensions force Francophonie leadership election delay until 2027](https://athenaglauxintelligence.news/event/240292.html): first reported 2026-11-16; 3 outlets, 2 countries.
-- [France expects EU sanctions on Iran in December over fridge hack](https://athenaglauxintelligence.news/event/239524.html): first reported 2026-11-16; 6 outlets, 4 countries.
 
 ## Optional
 
