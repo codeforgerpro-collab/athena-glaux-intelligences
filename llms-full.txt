@@ -53,7 +53,7 @@
 - [Yemen's Houthis say they launched drones towards Saudi East-West Pipeline](https://athenaglauxintelligence.news/event/250762.html): first reported 2026-11-17; 4 outlets, 3 countries.
 - [US hits out at Ukraine’s ‘deep strikes’ against Russia](https://athenaglauxintelligence.news/event/251222.html): first reported 2026-11-17; 8 outlets, 7 countries.
 - [Prince William’s presents Earthshot Prize winners with $1.3M each in Mumbai](https://athenaglauxintelligence.news/event/251564.html): first reported 2026-11-17; 8 outlets, 6 countries.
-- [Apple Services, Including iCloud And App Store, Down For Thousands Of Users](https://athenaglauxintelligence.news/event/250723.html): first reported 2026-11-17; 9 outlets, 3 countries.
+- [Apple Services, Including iCloud And App Store, Down For Thousands Of Users](https://athenaglauxintelligence.news/event/250723.html): first reported 2026-11-17; 10 outlets, 3 countries.
 - [Zelensky calls on allies to exchange missiles, provide 40 more F-16 jets for Ukraine](https://athenaglauxintelligence.news/event/251712.html): first reported 2026-11-17; 4 outlets, 2 countries.
 - [Seven drones enter Moldovan airspace](https://athenaglauxintelligence.news/event/251698.html): first reported 2026-11-17; 4 outlets, 1 country.
 - [US Fed’s Lisa Cook refuses to attend White House hearing](https://athenaglauxintelligence.news/event/250798.html): first reported 2026-11-17; 4 outlets, 3 countries.
@@ -63,11 +63,10 @@
 - [19 Killed As Russian Military Transport Plane Crashes In Siberia](https://athenaglauxintelligence.news/event/250001.html): first reported 2026-11-17; 21 outlets, 12 countries.
 - [Quad leaders announce plans for 1st maritime patrol aircraft exercise in 2027](https://athenaglauxintelligence.news/event/250296.html): first reported 2026-11-17; 3 outlets, 2 countries.
 - [Trump meets Quad leaders, says 4 nations agree on 'critical mineral deals'](https://athenaglauxintelligence.news/event/250769.html): first reported 2026-11-17; 3 outlets, 2 countries.
-- [Iran reports US strikes on Qeshm Island](https://athenaglauxintelligence.news/event/249257.html): first reported 2026-11-17; 19 outlets, 12 countries.
+- [Iran reports US strikes on Qeshm Island](https://athenaglauxintelligence.news/event/249257.html): first reported 2026-11-17; 20 outlets, 13 countries.
 - [Scrap dealer stabbed to death over GH¢1,000 debt](https://athenaglauxintelligence.news/event/248780.html): first reported 2026-11-17; 3 outlets, 2 countries.
 - [Uber and Zipline’s drone delivery service takes flight in Houston](https://athenaglauxintelligence.news/event/249320.html): first reported 2026-11-17; 3 outlets, 2 countries.
 - [European Commission Raises Bulgaria's 2026 Growth Forecast to 2.7%, Expects Growth to Slow to 2.1% in 2027](https://athenaglauxintelligence.news/event/248326.html): first reported 2026-11-17; 4 outlets, 3 countries.
-- [Quad Meeting Gave Fresh Momentum To Indo-Pacific Vision: PM Modi](https://athenaglauxintelligence.news/event/250734.html): first reported 2026-11-17; 3 outlets, 1 country.
 - [Sweden allocates €65m to support Ukraine's defence](https://athenaglauxintelligence.news/event/249085.html): first reported 2026-11-17; 4 outlets, 1 country.
 - [Isomorphic Labs raises $5bn from Sequoia and Greenoaks for AI drug design](https://athenaglauxintelligence.news/event/248653.html): first reported 2026-11-17; 5 outlets, 4 countries.
 - [EU economy to maintain growth amid higher inflation: Commission](https://athenaglauxintelligence.news/event/248542.html): first reported 2026-11-17; 3 outlets, 2 countries.
@@ -85,6 +84,7 @@
 - [Amazon to invest $7 billion in renewable energy in India by 2030](https://athenaglauxintelligence.news/event/248142.html): first reported 2026-11-17; 7 outlets, 4 countries.
 - [Alonso, Loeb to make Dakar Rally return for Aston Martin](https://athenaglauxintelligence.news/event/247113.html): first reported 2026-11-17; 8 outlets, 6 countries.
 - [Germany to contribute $300M to new PURL package with Patriot missiles – Pistorius](https://athenaglauxintelligence.news/event/247428.html): first reported 2026-11-17; 5 outlets, 3 countries.
+- [NATO’s AI cyber defense work hits up to 300 billion OpenAI tokens a month](https://athenaglauxintelligence.news/event/248232.html): first reported 2026-11-17; 5 outlets, 4 countries.
 
 ## Optional
 
