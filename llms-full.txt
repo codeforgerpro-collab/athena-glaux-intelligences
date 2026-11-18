@@ -46,10 +46,12 @@
 ## Latest stories
 
 - [US Reissues Security Warnings To Citizens In Bahrain, Saudi](https://athenaglauxintelligence.news/event/260218.html): first reported 2026-11-18; 3 outlets, 2 countries.
-- [US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says](https://athenaglauxintelligence.news/event/259878.html): first reported 2026-11-18; 4 outlets, 3 countries.
+- [US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says](https://athenaglauxintelligence.news/event/259878.html): first reported 2026-11-18; 5 outlets, 4 countries.
 - [Gulf Stocks Lower as US-Iran Hostilities Escalate Further](https://athenaglauxintelligence.news/event/258720.html): first reported 2026-11-18; 3 outlets, 2 countries.
+- [BAE Systems plans to cut up to 1,070 jobs in air division and head office](https://athenaglauxintelligence.news/event/260254.html): first reported 2026-11-18; 3 outlets, 2 countries.
 - [‘The Comeback King’ Trailer: Glen Powell Is a Cancelled Country Star in Judd Apatow’s Latest Directing Project](https://athenaglauxintelligence.news/event/259662.html): first reported 2026-11-18; 3 outlets, 2 countries.
-- [Israeli spy chief lobbied for joint Iran strikes on US visit](https://athenaglauxintelligence.news/event/257918.html): first reported 2026-11-18; 6 outlets, 5 countries.
+- [Israeli spy chief lobbied for joint Iran strikes on US visit](https://athenaglauxintelligence.news/event/257918.html): first reported 2026-11-18; 7 outlets, 6 countries.
+- [Bank chief says interest rates not ‘pre-set’ amid further potential rise](https://athenaglauxintelligence.news/event/258408.html): first reported 2026-11-18; 3 outlets, 1 country.
 - [Drone debris hits high-rise building in Kyiv's Pecherskyi district](https://athenaglauxintelligence.news/event/257691.html): first reported 2026-11-18; 3 outlets, 1 country.
 - [IAEA says North Korea is expanding uranium-enrichment plant at Yongbyon](https://athenaglauxintelligence.news/event/256870.html): first reported 2026-11-18; 5 outlets, 5 countries.
 - [Indonesia and Chinese partners set out USD 63 billion in cooperation at APEC Shenzhen](https://athenaglauxintelligence.news/event/256769.html): first reported 2026-11-18; 3 outlets, 3 countries.
@@ -58,12 +60,13 @@
 - [Israeli military begins a new thrust in Gaza, kills three people](https://athenaglauxintelligence.news/event/256667.html): first reported 2026-11-18; 14 outlets, 12 countries.
 - [We did not know route after being separated from convoy, soldier tells inquest](https://athenaglauxintelligence.news/event/256934.html): first reported 2026-11-18; 5 outlets, 2 countries.
 - [Iranian embassy in Athens denies allegations](https://athenaglauxintelligence.news/event/257221.html): first reported 2026-11-18; 5 outlets, 3 countries.
-- [Putin, Trump to meet at summit but no full-scale talks planned](https://athenaglauxintelligence.news/event/257656.html): first reported 2026-11-18; 7 outlets, 7 countries.
-- [Iraq sentences six French ISIS members to life in prison: What to know](https://athenaglauxintelligence.news/event/255819.html): first reported 2026-11-18; 8 outlets, 6 countries.
+- [Putin, Trump to meet at summit but no full-scale talks planned](https://athenaglauxintelligence.news/event/257656.html): first reported 2026-11-18; 8 outlets, 7 countries.
+- [Iraq sentences six French ISIS members to life in prison: What to know](https://athenaglauxintelligence.news/event/255819.html): first reported 2026-11-18; 9 outlets, 6 countries.
 - [World Bank official says Lebanon slow to act on reconstruction](https://athenaglauxintelligence.news/event/256999.html): first reported 2026-11-18; 5 outlets, 3 countries.
 - [EU proposes 45-billion-euro Ukraine loan for 2027](https://athenaglauxintelligence.news/event/258464.html): first reported 2026-11-18; 5 outlets, 4 countries.
 - [Bangladesh deploys paramilitary as unrest grows over Hasina’s return](https://athenaglauxintelligence.news/event/256891.html): first reported 2026-11-18; 4 outlets, 4 countries.
-- [Zelensky on strikes on Odesa: Those who want peace do not step up killing](https://athenaglauxintelligence.news/event/257864.html): first reported 2026-11-18; 3 outlets, 2 countries.
+- [Major AI platforms generated viable plans for terrorist attacks, GAO finds](https://athenaglauxintelligence.news/event/256343.html): first reported 2026-11-18; 3 outlets, 2 countries.
+- [Ukraine says Russian strikes kill four in Odesa](https://athenaglauxintelligence.news/event/257864.html): first reported 2026-11-18; 4 outlets, 3 countries.
 - [SpiceJet board approves Rs 5,500 crore fund raising proposal](https://athenaglauxintelligence.news/event/255426.html): first reported 2026-11-18; 5 outlets, 1 country.
 - [EnQuest Sells NEO NEXT+ in UK North Sea Retreat](https://athenaglauxintelligence.news/event/255478.html): first reported 2026-11-18; 11 outlets, 2 countries.
 - [Ghana's new Shs250bn presidential jet sparks public outrage](https://athenaglauxintelligence.news/event/257298.html): first reported 2026-11-18; 5 outlets, 4 countries.
@@ -72,19 +75,16 @@
 - [Armenian Economy Minister: Armenia not considering replacing EAEU with European Union](https://athenaglauxintelligence.news/event/255419.html): first reported 2026-11-18; 3 outlets, 2 countries.
 - [Jotun to supply coatings for Knutsen’s LNG carrier series](https://athenaglauxintelligence.news/event/254885.html): first reported 2026-11-18; 3 outlets, 2 countries.
 - [Winter energy bill misery on way as price cap set to jump by 26% in January](https://athenaglauxintelligence.news/event/255049.html): first reported 2026-11-18; 10 outlets, 1 country.
-- [Ukrainian Drones Target Krasnodar Region Refineries](https://athenaglauxintelligence.news/event/255668.html): first reported 2026-11-18; 5 outlets, 4 countries.
+- [Ukrainian Drone Attacks Halve Russian Oil Refining in November](https://athenaglauxintelligence.news/event/255668.html): first reported 2026-11-18; 6 outlets, 5 countries.
 - [Iran’s army chief vows ‘more crushing’ response if US attacks again](https://athenaglauxintelligence.news/event/256110.html): first reported 2026-11-18; 5 outlets, 4 countries.
 - [Indonesia central bank hikes rates to support rupiah](https://athenaglauxintelligence.news/event/254932.html): first reported 2026-11-18; 6 outlets, 6 countries.
 - [Johann Wadephul: Germany encourages peace and cooperation between Azerbaijan and Armenia](https://athenaglauxintelligence.news/event/255938.html): first reported 2026-11-18; 3 outlets, 2 countries.
 - [Myanmar Regime Chief to Review Relations With ASEAN After Manila Snub](https://athenaglauxintelligence.news/event/255596.html): first reported 2026-11-18; 5 outlets, 4 countries.
 - [Bombay High Court quashes ICICI Bank’s nod to prosecute ex-CEO Chanda Kochhar in ‘loan fraud’ case](https://athenaglauxintelligence.news/event/255450.html): first reported 2026-11-18; 6 outlets, 1 country.
 - [Chinese Robots Learn from Humans in Tech Hub Shenzhen](https://athenaglauxintelligence.news/event/255008.html): first reported 2026-11-18; 5 outlets, 5 countries.
-- [Voyager 1 spacecraft reaches one light-day milestone](https://athenaglauxintelligence.news/event/255737.html): first reported 2026-11-18; 8 outlets, 6 countries.
+- [Voyager 1 spacecraft reaches one light-day milestone](https://athenaglauxintelligence.news/event/255737.html): first reported 2026-11-18; 9 outlets, 6 countries.
 - [Yemen’s Interior Ministry Tightens Crackdown on Arms Smuggling to Houthis](https://athenaglauxintelligence.news/event/255217.html): first reported 2026-11-18; 3 outlets, 3 countries.
 - [Putin, Xi Jinping conclude talks after more than two hours](https://athenaglauxintelligence.news/event/254640.html): first reported 2026-11-18; 6 outlets, 5 countries.
-- [After 13-year wait, ‘Grand Theft Auto 6’ to arrive with enormous hype and expectations](https://athenaglauxintelligence.news/event/258314.html): first reported 2026-11-18; 7 outlets, 5 countries.
-- [US–Saudi Nuclear Deal Deemed ‘Satisfactory’ by IAEA](https://athenaglauxintelligence.news/event/255220.html): first reported 2026-11-18; 6 outlets, 5 countries.
-- [The GTA VI flu: Why the global economy is taking a sick day](https://athenaglauxintelligence.news/event/256926.html): first reported 2026-11-18; 3 outlets, 3 countries.
 
 ## Optional
 
