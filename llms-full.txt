@@ -45,9 +45,9 @@
 
 ## Latest stories
 
-- [Middle East crisis poses biggest energy security threat in history, IEA warns](https://athenaglauxintelligence.news/event/264154.html): first reported 2026-11-19; 5 outlets, 5 countries.
 - [‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking](https://athenaglauxintelligence.news/event/264281.html): first reported 2026-11-19; 3 outlets, 2 countries.
 - [Russia is integral part of Asia-Pacific, Putin tells APEC leaders](https://athenaglauxintelligence.news/event/262848.html): first reported 2026-11-19; 6 outlets, 5 countries.
+- [Mideast crisis ‘largest threat’ to energy security ever: IEA](https://athenaglauxintelligence.news/event/264154.html): first reported 2026-11-19; 7 outlets, 7 countries.
 - [Claude-maker Anthropic poised for stock market debut worth up to $1.5tn](https://athenaglauxintelligence.news/event/263951.html): first reported 2026-11-19; 3 outlets, 3 countries.
 - [APEC serves as a backdrop for big power politics, eclipsing talk of open trade, AI](https://athenaglauxintelligence.news/event/263553.html): first reported 2026-11-19; 3 outlets, 3 countries.
 - [Islam forecast to soon exceed Christianity as world’s biggest faith](https://athenaglauxintelligence.news/event/263132.html): first reported 2026-11-19; 3 outlets, 3 countries.
@@ -60,7 +60,7 @@
 - [Musk says he felt ‘pretty foolish’ about scale of midterm spending after Republican rout](https://athenaglauxintelligence.news/event/261640.html): first reported 2026-11-18; 20 outlets, 13 countries.
 - [‘A crazy perfect storm’: Satya Nadella explains what caused Microsoft Outlook outage](https://athenaglauxintelligence.news/event/261208.html): first reported 2026-11-18; 5 outlets, 2 countries.
 - [8 new rules and laws for 5 million leaseholders confirmed under Andy Burnham](https://athenaglauxintelligence.news/event/261691.html): first reported 2026-11-18; 3 outlets, 1 country.
-- [US, China want to help end Ukraine war: Trump](https://athenaglauxintelligence.news/event/262863.html): first reported 2026-11-18; 7 outlets, 5 countries.
+- [US, China want to help end Ukraine war: Trump](https://athenaglauxintelligence.news/event/262863.html): first reported 2026-11-18; 9 outlets, 6 countries.
 - [Grand Theft Auto VI released as gamers rejoice globally](https://athenaglauxintelligence.news/event/260521.html): first reported 2026-11-18; 6 outlets, 6 countries.
 - [Saudi Arabia says danger has passed in three southern cities after alerts](https://athenaglauxintelligence.news/event/260629.html): first reported 2026-11-18; 5 outlets, 4 countries.
 - [Houthis claim cruise missile strike on airport and financial center in Riyadh](https://athenaglauxintelligence.news/event/261109.html): first reported 2026-11-18; 6 outlets, 6 countries.
