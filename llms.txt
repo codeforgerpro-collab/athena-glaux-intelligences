@@ -8,7 +8,7 @@
 - Risk scores run from 0 to 10 with a named band. They describe the reporting, not a probability.
 - Sitemaps: https://athenaglauxintelligence.news/sitemap.xml and https://athenaglauxintelligence.news/news-sitemap.xml (stories of the last two days). Feed: https://athenaglauxintelligence.news/feed.xml.
 - Owner: Tekmerion (https://codeforgerpro-collab.github.io/tekmerion-suite/).
-- Related, from the same owner: The Oracle Hunters (https://codeforgerpro-collab.github.io/the-oracle-hunters/), the public record of what governments and central banks say about the future, checked against official data.
+- Related, from the same owner: The Oracle Hunters (https://theoraclehunters.com/), the public record of what governments and central banks say about the future, checked against official data.
 - Official accounts: https://x.com/athenaglauxinte, https://t.me/athenaglauxintelligence.
 
 ## Sections
@@ -35,13 +35,13 @@
 - [US Reissues Security Warnings To Citizens In Bahrain, Saudi](https://athenaglauxintelligence.news/event/260218.html): first reported 2026-11-18; 3 outlets, 2 countries.
 - [US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says](https://athenaglauxintelligence.news/event/259878.html): first reported 2026-11-18; 5 outlets, 4 countries.
 - [Gulf Stocks Lower as US-Iran Hostilities Escalate Further](https://athenaglauxintelligence.news/event/258720.html): first reported 2026-11-18; 3 outlets, 2 countries.
-- [US, Venezuela announce military cooperation agreement during Hegseth visit to Caracas](https://athenaglauxintelligence.news/event/259969.html): first reported 2026-11-18; 12 outlets, 12 countries.
+- [US, Venezuela announce military cooperation agreement during Hegseth visit to Caracas](https://athenaglauxintelligence.news/event/259969.html): first reported 2026-11-18; 14 outlets, 14 countries.
 - [BAE Systems plans to cut up to 1,070 jobs in air division and head office](https://athenaglauxintelligence.news/event/260254.html): first reported 2026-11-18; 4 outlets, 2 countries.
 - [‘The Comeback King’ Trailer: Glen Powell Is a Cancelled Country Star in Judd Apatow’s Latest Directing Project](https://athenaglauxintelligence.news/event/259662.html): first reported 2026-11-18; 3 outlets, 2 countries.
 - [Israeli spy chief lobbied for joint Iran strikes on US visit](https://athenaglauxintelligence.news/event/257918.html): first reported 2026-11-18; 7 outlets, 6 countries.
 - [Bank chief says interest rates not ‘pre-set’ amid further potential rise](https://athenaglauxintelligence.news/event/258408.html): first reported 2026-11-18; 3 outlets, 1 country.
 - [Azam Khan released from Ghaziabad jail after Allahabad High Court grants interim bail](https://athenaglauxintelligence.news/event/257905.html): first reported 2026-11-18; 5 outlets, 1 country.
-- [Drone debris hits high-rise building in Kyiv's Pecherskyi district](https://athenaglauxintelligence.news/event/257691.html): first reported 2026-11-18; 3 outlets, 1 country.
+- [Debris from Russian drone hits high-rise residential building in Kyiv's Pecherskyi district](https://athenaglauxintelligence.news/event/257691.html): first reported 2026-11-18; 3 outlets, 1 country.
 - [IAEA says North Korea is expanding uranium-enrichment plant at Yongbyon](https://athenaglauxintelligence.news/event/256870.html): first reported 2026-11-18; 5 outlets, 5 countries.
 - [Indonesia and Chinese partners set out USD 63 billion in cooperation at APEC Shenzhen](https://athenaglauxintelligence.news/event/256769.html): first reported 2026-11-18; 3 outlets, 3 countries.
 - [EU Proposes 45-Billion Euro Loan For Ukraine, To Be 'Repaid' By Russia](https://athenaglauxintelligence.news/event/257937.html): first reported 2026-11-18; 6 outlets, 5 countries.
