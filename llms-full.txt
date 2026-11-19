@@ -69,6 +69,7 @@
 - [Saudi Arabia says danger has passed in three southern cities after alerts](https://athenaglauxintelligence.news/event/260629.html): first reported 2026-11-18; 5 outlets, 4 countries.
 - [Yemen's Houthis claim strikes on Riyadh airport, financial center as cross-border fighting continues](https://athenaglauxintelligence.news/event/261109.html): first reported 2026-11-18; 7 outlets, 6 countries.
 - [Australia may have ‘one foot in recession’ as unemployment surges to five-year high](https://athenaglauxintelligence.news/event/261666.html): first reported 2026-11-18; 4 outlets, 3 countries.
+- [Trump administration appeals to Supreme Court over legal protections for Venezuelan migrants](https://athenaglauxintelligence.news/event/260071.html): first reported 2026-11-18; 6 outlets, 4 countries.
 - [Google ‘rejects Government’s request to remove Russell Brand video from YouTube’](https://athenaglauxintelligence.news/event/260756.html): first reported 2026-11-18; 9 outlets, 5 countries.
 - [Zelensky arrives in Berlin for Coalition of the Willing meeting](https://athenaglauxintelligence.news/event/261512.html): first reported 2026-11-18; 4 outlets, 2 countries.
 - [US Reissues Security Warnings To Citizens In Bahrain, Saudi](https://athenaglauxintelligence.news/event/260218.html): first reported 2026-11-18; 4 outlets, 3 countries.
@@ -84,7 +85,6 @@
 - [This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls](https://athenaglauxintelligence.news/event/260442.html): first reported 2026-11-18; 5 outlets, 4 countries.
 - [Skydance CEO David Ellison says it's a 'privilege' to have Elon Musk's investment, and commits to showing 'Musk' doc on HBO](https://athenaglauxintelligence.news/event/258351.html): first reported 2026-11-18; 6 outlets, 1 country.
 - [Strike Risk Grows at Busiest US Ports as Contract Talks Stall](https://athenaglauxintelligence.news/event/260121.html): first reported 2026-11-18; 5 outlets, 2 countries.
-- [Hegseth, in Caracas, announces US-Venezuela military partnership agreement](https://athenaglauxintelligence.news/event/259969.html): first reported 2026-11-18; 30 outlets, 22 countries.
 
 ## Optional
 
