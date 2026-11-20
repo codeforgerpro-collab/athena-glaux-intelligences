@@ -62,6 +62,7 @@
 - [Anthropic’s blockbuster debut tests Wall Street’s faith in AI boom](https://athenaglauxintelligence.news/event/270527.html): first reported 2026-11-19; 7 outlets, 7 countries.
 - [Houthis accuse Saudi forces of killing 19 in attack on civilian boat](https://athenaglauxintelligence.news/event/271307.html): first reported 2026-11-19; 3 outlets, 2 countries.
 - [Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns](https://athenaglauxintelligence.news/event/269713.html): first reported 2026-11-19; 4 outlets, 2 countries.
+- [Haiti police operation kills 34 suspected gang members in capital](https://athenaglauxintelligence.news/event/269118.html): first reported 2026-11-19; 12 outlets, 11 countries.
 - [Thousands rally in Tokyo against Takaichi administration's policies](https://athenaglauxintelligence.news/event/268311.html): first reported 2026-11-19; 5 outlets, 3 countries.
 - [Hegseth visits Ecuador, Honduras to boost anti-narco fight](https://athenaglauxintelligence.news/event/269292.html): first reported 2026-11-19; 3 outlets, 3 countries.
 - [Trump prefers peace over profits — Kushner](https://athenaglauxintelligence.news/event/269280.html): first reported 2026-11-19; 4 outlets, 3 countries.
@@ -71,7 +72,7 @@
 - [Fidan Talks ‘Good Neighbourliness’ While Repeating Ankara’s Claims on Thrace, the Dodecanese and Cyprus](https://athenaglauxintelligence.news/event/269198.html): first reported 2026-11-19; 3 outlets, 2 countries.
 - [Anthropic surges in market debut after biggest IPO on record, despite fears that AI is running amok](https://athenaglauxintelligence.news/event/270623.html): first reported 2026-11-19; 7 outlets, 5 countries.
 - [GIC, one of Anthropic’s largest investors, to stay invested beyond IPO](https://athenaglauxintelligence.news/event/270452.html): first reported 2026-11-19; 3 outlets, 2 countries.
-- [Germany’s Merz says ‘Yalta format’ cannot bring peace in Ukraine](https://athenaglauxintelligence.news/event/268168.html): first reported 2026-11-19; 10 outlets, 8 countries.
+- [New Ukraine talks including Europe to be held 'soon' — Merz](https://athenaglauxintelligence.news/event/268168.html): first reported 2026-11-19; 10 outlets, 8 countries.
 - [EU ambassador to Ukraine narrowly escapes Russian drone attack in Kyiv](https://athenaglauxintelligence.news/event/269288.html): first reported 2026-11-19; 3 outlets, 3 countries.
 - [This Is the Powerful C-130 Hercules That the United States Has Just Donated to Colombia](https://athenaglauxintelligence.news/event/267963.html): first reported 2026-11-19; 4 outlets, 3 countries.
 - [Toronto faction of Italy-based global drug trafficking mafia sanctioned by U.S.](https://athenaglauxintelligence.news/event/270995.html): first reported 2026-11-19; 4 outlets, 3 countries.
@@ -84,7 +85,6 @@
 - [Four arrested as PSNI probes extreme right-wing terrorism](https://athenaglauxintelligence.news/event/268562.html): first reported 2026-11-19; 4 outlets, 2 countries.
 - [Air Force One reporters' phones locked away over China spying fears](https://athenaglauxintelligence.news/event/267999.html): first reported 2026-11-19; 8 outlets, 6 countries.
 - [Tech stocks fall as Anthropic IPO fails to reignite AI trade](https://athenaglauxintelligence.news/event/268653.html): first reported 2026-11-19; 6 outlets, 6 countries.
-- [Xi-Putin-Trump summit to open up space for dialogue, lasting peace: Malaysian Premier Anwar](https://athenaglauxintelligence.news/event/268185.html): first reported 2026-11-19; 3 outlets, 4 countries.
 
 ## Optional
 
