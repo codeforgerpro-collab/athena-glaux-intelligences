@@ -49,7 +49,7 @@
 - [Coalition of the Willing calls on Russia for winter energy truce](https://athenaglauxintelligence.news/event/271960.html): first reported 2026-11-20; 3 outlets, 2 countries.
 - [(2nd LD) Appeals court upholds Kakao founder's acquittal on stock price manipulation charges](https://athenaglauxintelligence.news/event/271852.html): first reported 2026-11-20; 3 outlets, 1 country.
 - [Nasdaq futures jump on renewed AI optimism ahead of Anthropic’s market debut](https://athenaglauxintelligence.news/event/270776.html): first reported 2026-11-20; 3 outlets, 3 countries.
-- [Ukraine says Russian missile strikes kill 3 in Kyiv, damage key bridges](https://athenaglauxintelligence.news/event/272360.html): first reported 2026-11-19; 11 outlets, 9 countries.
+- [Ukraine says Russian missile strikes kill 3 in Kyiv, damage key bridges](https://athenaglauxintelligence.news/event/272360.html): first reported 2026-11-19; 12 outlets, 10 countries.
 - [Japan's core inflation accelerates to 2.2% in October](https://athenaglauxintelligence.news/event/271090.html): first reported 2026-11-19; 5 outlets, 4 countries.
 - [White House national cyber director Sean Cairncross 'fired' amid widespread tech outages](https://athenaglauxintelligence.news/event/271146.html): first reported 2026-11-19; 22 outlets, 12 countries.
 - [Anthropic Shares End First Day Of Trading Up 17% In Volatile Session As AI Giant Goes Public](https://athenaglauxintelligence.news/event/271195.html): first reported 2026-11-19; 3 outlets, 2 countries.
@@ -57,6 +57,7 @@
 - [Producer prices drop in Oct. on lower food prices](https://athenaglauxintelligence.news/event/270768.html): first reported 2026-11-19; 3 outlets, 1 country.
 - [Fidelity Bank Names Stanley Amuchie MD/CEO Effective January 1, 2027](https://athenaglauxintelligence.news/event/270111.html): first reported 2026-11-19; 3 outlets, 2 countries.
 - [Anthropic’s blockbuster debut tests Wall Street’s faith in AI boom](https://athenaglauxintelligence.news/event/270527.html): first reported 2026-11-19; 6 outlets, 6 countries.
+- [Houthis accuse Saudi forces of killing 19 in attack on civilian boat](https://athenaglauxintelligence.news/event/271307.html): first reported 2026-11-19; 3 outlets, 2 countries.
 - [Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns](https://athenaglauxintelligence.news/event/269713.html): first reported 2026-11-19; 4 outlets, 2 countries.
 - [Thousands rally in Tokyo against Takaichi administration's policies](https://athenaglauxintelligence.news/event/268311.html): first reported 2026-11-19; 5 outlets, 3 countries.
 - [Hegseth visits Ecuador, Honduras to boost anti-narco fight](https://athenaglauxintelligence.news/event/269292.html): first reported 2026-11-19; 3 outlets, 3 countries.
@@ -70,9 +71,9 @@
 - [EU ambassador to Ukraine narrowly escapes Russian drone attack in Kyiv](https://athenaglauxintelligence.news/event/269288.html): first reported 2026-11-19; 3 outlets, 3 countries.
 - [This Is the Powerful C-130 Hercules That the United States Has Just Donated to Colombia](https://athenaglauxintelligence.news/event/267963.html): first reported 2026-11-19; 4 outlets, 3 countries.
 - [Toronto faction of Italy-based global drug trafficking mafia sanctioned by U.S.](https://athenaglauxintelligence.news/event/270995.html): first reported 2026-11-19; 4 outlets, 3 countries.
-- [Europe strong, organised and ready to enter Ukraine peace talks, says Burnham](https://athenaglauxintelligence.news/event/268536.html): first reported 2026-11-19; 12 outlets, 8 countries.
+- [Europe warns against Ukraine peace deal made over its head](https://athenaglauxintelligence.news/event/268536.html): first reported 2026-11-19; 14 outlets, 9 countries.
 - [Trump nominee refuses to call Jan 6 an attack: ‘Were you alive on the planet’](https://athenaglauxintelligence.news/event/268210.html): first reported 2026-11-19; 6 outlets, 4 countries.
-- [El Salvador's Bukele seeks unprecedented third term as leader](https://athenaglauxintelligence.news/event/268691.html): first reported 2026-11-19; 4 outlets, 4 countries.
+- [El Salvador's Bukele to run for third presidential term](https://athenaglauxintelligence.news/event/268691.html): first reported 2026-11-19; 5 outlets, 5 countries.
 - [China, Russia, US Talk UN Reform, Nuclear Risks, and Ukraine at Trilateral Summit](https://athenaglauxintelligence.news/event/270534.html): first reported 2026-11-19; 3 outlets, 3 countries.
 - [Iran demands emergency OIC ministerial meeting on Gaza](https://athenaglauxintelligence.news/event/268218.html): first reported 2026-11-19; 3 outlets, 2 countries.
 - [Australian Comanchero gang hit with US sanctions for links to drug trafficking groups](https://athenaglauxintelligence.news/event/267526.html): first reported 2026-11-19; 6 outlets, 4 countries.
@@ -84,7 +85,6 @@
 - [Trump envoy: US convinces Russia of need for Article 5-style security guarantees for Ukraine](https://athenaglauxintelligence.news/event/269284.html): first reported 2026-11-19; 12 outlets, 7 countries.
 - [Saudi Arabia among 16 countries backing UK and Australian sanctions on Israeli settlement expansion](https://athenaglauxintelligence.news/event/270678.html): first reported 2026-11-19; 5 outlets, 4 countries.
 - [Trump unveils $17 billion of Southeast Asia deals for US firms, White House says](https://athenaglauxintelligence.news/event/267298.html): first reported 2026-11-19; 4 outlets, 4 countries.
-- [ASX slumps, Wall Street dives despite strong debut for Anthropic](https://athenaglauxintelligence.news/event/266993.html): first reported 2026-11-19; 5 outlets, 4 countries.
 
 ## Optional
 
