@@ -51,7 +51,7 @@
 - [Germany’s Merz says ‘Yalta format’ cannot bring peace in Ukraine](https://athenaglauxintelligence.news/event/268168.html): first reported 2026-11-19; 5 outlets, 4 countries.
 - [U.S. sanctions Canadian branch of Italian criminal organization, including funeral homes in Toronto area](https://athenaglauxintelligence.news/event/270995.html): first reported 2026-11-19; 3 outlets, 3 countries.
 - [Europe strong, organised and ready to enter Ukraine peace talks, says Burnham](https://athenaglauxintelligence.news/event/268536.html): first reported 2026-11-19; 7 outlets, 3 countries.
-- [Trump nominee refuses to call Jan 6 an attack: ‘Were you alive on the planet’](https://athenaglauxintelligence.news/event/268210.html): first reported 2026-11-19; 3 outlets, 3 countries.
+- [Trump nominee refuses to call Jan 6 an attack: ‘Were you alive on the planet’](https://athenaglauxintelligence.news/event/268210.html): first reported 2026-11-19; 4 outlets, 3 countries.
 - [Four arrested as PSNI probes extreme right-wing terrorism](https://athenaglauxintelligence.news/event/268562.html): first reported 2026-11-19; 4 outlets, 2 countries.
 - [Stocks look to blockbuster Anthropic IPO to break losing streak](https://athenaglauxintelligence.news/event/268653.html): first reported 2026-11-19; 4 outlets, 4 countries.
 - [Putin defends his ‘Yalta’, as 3-way summit draws parallels to post-war carve-up](https://athenaglauxintelligence.news/event/268696.html): first reported 2026-11-19; 3 outlets, 3 countries.
@@ -59,6 +59,7 @@
 - [Arab and Muslim countries welcome UK and Australian sanctions over Israeli settlements](https://athenaglauxintelligence.news/event/270678.html): first reported 2026-11-19; 4 outlets, 3 countries.
 - [Trump unveils $17 billion of Southeast Asia deals for US firms, White House says](https://athenaglauxintelligence.news/event/267298.html): first reported 2026-11-19; 4 outlets, 4 countries.
 - [ASX slumps, Wall Street dives despite strong debut for Anthropic](https://athenaglauxintelligence.news/event/266993.html): first reported 2026-11-19; 5 outlets, 4 countries.
+- [Houthi attack damages tower and nearby buildings in Riyadh financial district](https://athenaglauxintelligence.news/event/266524.html): first reported 2026-11-19; 3 outlets, 2 countries.
 - [Myanmar guilty of genocide: top UN court](https://athenaglauxintelligence.news/event/266246.html): first reported 2026-11-19; 11 outlets, 10 countries.
 - [Iran’s IRGC vows to challenge US blockade](https://athenaglauxintelligence.news/event/268276.html): first reported 2026-11-19; 3 outlets, 2 countries.
 - [Australia captain Cummins faces pressure](https://athenaglauxintelligence.news/event/267743.html): first reported 2026-11-19; 3 outlets, 3 countries.
@@ -67,7 +68,7 @@
 - [Russia cannot dictate 'unrealistic security demands': UK premier](https://athenaglauxintelligence.news/event/267482.html): first reported 2026-11-19; 5 outlets, 3 countries.
 - [Two Palestinians killed, several injured in Israeli attacks across Gaza](https://athenaglauxintelligence.news/event/266430.html): first reported 2026-11-19; 3 outlets, 1 country.
 - [U.S. Indicts Russian National for Stalking Palantir Employees as ‘Foreign Agent’](https://athenaglauxintelligence.news/event/266401.html): first reported 2026-11-19; 3 outlets, 2 countries.
-- [Anthropic boss says firm created for ‘benefit of humankind’ as record IPO begins](https://athenaglauxintelligence.news/event/265515.html): first reported 2026-11-19; 14 outlets, 6 countries.
+- [Anthropic boss says firm created for ‘benefit of humankind’ as record IPO begins](https://athenaglauxintelligence.news/event/265515.html): first reported 2026-11-19; 15 outlets, 7 countries.
 - [Leading charities give Gaza peace plan failing grade one year on](https://athenaglauxintelligence.news/event/266426.html): first reported 2026-11-19; 4 outlets, 2 countries.
 - [A cyberattack using artificial intelligence targeted the EU in October, official says](https://athenaglauxintelligence.news/event/266316.html): first reported 2026-11-19; 10 outlets, 7 countries.
 - [European Commission targeted in cyberattack lasting 10 days, sensitive personal data at risk](https://athenaglauxintelligence.news/event/265525.html): first reported 2026-11-19; 8 outlets, 7 countries.
@@ -84,7 +85,6 @@
 - [Armenia has been invited to participate in the proceedings of the G20 summit](https://athenaglauxintelligence.news/event/265426.html): first reported 2026-11-19; 5 outlets, 3 countries.
 - [Anthropic valuation soars above £1.5 trillion in record stock market float](https://athenaglauxintelligence.news/event/268545.html): first reported 2026-11-19; 8 outlets, 6 countries.
 - [Top UN court finds Myanmar committed state-sponsored genocide against Muslim Rohingya](https://athenaglauxintelligence.news/event/265652.html): first reported 2026-11-19; 16 outlets, 12 countries.
-- [Xi, Trump and Putin Agree to Increase Refined Oil Supply in Joint Declaration](https://athenaglauxintelligence.news/event/266571.html): first reported 2026-11-19; 12 outlets, 11 countries.
 
 ## Optional
 
