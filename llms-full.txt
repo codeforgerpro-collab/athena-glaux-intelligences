@@ -45,13 +45,15 @@
 
 ## Latest stories
 
+- [TikTok launches tool to help public figures detect deepfakes globally](https://athenaglauxintelligence.news/event/273389.html): first reported 2026-11-20; 5 outlets, 4 countries.
+- [PSA Singapore breaks ground on Tuas Port Phase Two](https://athenaglauxintelligence.news/event/272735.html): first reported 2026-11-20; 3 outlets, 2 countries.
 - [Rupee strengthens 17 paise to 93.15 against US dollar in early trade](https://athenaglauxintelligence.news/event/272526.html): first reported 2026-11-20; 3 outlets, 2 countries.
 - [Coalition of the Willing calls on Russia for winter energy truce](https://athenaglauxintelligence.news/event/271960.html): first reported 2026-11-20; 3 outlets, 2 countries.
 - [(2nd LD) Appeals court upholds Kakao founder's acquittal on stock price manipulation charges](https://athenaglauxintelligence.news/event/271852.html): first reported 2026-11-20; 3 outlets, 1 country.
 - [Nasdaq futures jump on renewed AI optimism ahead of Anthropic’s market debut](https://athenaglauxintelligence.news/event/270776.html): first reported 2026-11-20; 3 outlets, 3 countries.
-- [Ukraine says Russian missile strikes kill 3 in Kyiv, damage key bridges](https://athenaglauxintelligence.news/event/272360.html): first reported 2026-11-19; 12 outlets, 10 countries.
+- [Ukraine says Russian missile strikes kill 3 in Kyiv, damage key bridges](https://athenaglauxintelligence.news/event/272360.html): first reported 2026-11-19; 14 outlets, 11 countries.
 - [Japan's core inflation accelerates to 2.2% in October](https://athenaglauxintelligence.news/event/271090.html): first reported 2026-11-19; 5 outlets, 4 countries.
-- [White House national cyber director Sean Cairncross 'fired' amid widespread tech outages](https://athenaglauxintelligence.news/event/271146.html): first reported 2026-11-19; 22 outlets, 12 countries.
+- [White House national cyber director Sean Cairncross 'fired' amid widespread tech outages](https://athenaglauxintelligence.news/event/271146.html): first reported 2026-11-19; 24 outlets, 14 countries.
 - [Anthropic Shares End First Day Of Trading Up 17% In Volatile Session As AI Giant Goes Public](https://athenaglauxintelligence.news/event/271195.html): first reported 2026-11-19; 3 outlets, 2 countries.
 - [Judge orders US agriculture chief to stop sending religious emails from official account](https://athenaglauxintelligence.news/event/271343.html): first reported 2026-11-19; 5 outlets, 5 countries.
 - [Producer prices drop in Oct. on lower food prices](https://athenaglauxintelligence.news/event/270768.html): first reported 2026-11-19; 3 outlets, 1 country.
@@ -71,7 +73,7 @@
 - [EU ambassador to Ukraine narrowly escapes Russian drone attack in Kyiv](https://athenaglauxintelligence.news/event/269288.html): first reported 2026-11-19; 3 outlets, 3 countries.
 - [This Is the Powerful C-130 Hercules That the United States Has Just Donated to Colombia](https://athenaglauxintelligence.news/event/267963.html): first reported 2026-11-19; 4 outlets, 3 countries.
 - [Toronto faction of Italy-based global drug trafficking mafia sanctioned by U.S.](https://athenaglauxintelligence.news/event/270995.html): first reported 2026-11-19; 4 outlets, 3 countries.
-- [Europe warns against Ukraine peace deal made over its head](https://athenaglauxintelligence.news/event/268536.html): first reported 2026-11-19; 14 outlets, 9 countries.
+- [Europe warns against Ukraine peace deal made over its head](https://athenaglauxintelligence.news/event/268536.html): first reported 2026-11-19; 15 outlets, 9 countries.
 - [Trump nominee refuses to call Jan 6 an attack: ‘Were you alive on the planet’](https://athenaglauxintelligence.news/event/268210.html): first reported 2026-11-19; 6 outlets, 4 countries.
 - [El Salvador's Bukele to run for third presidential term](https://athenaglauxintelligence.news/event/268691.html): first reported 2026-11-19; 5 outlets, 5 countries.
 - [China, Russia, US Talk UN Reform, Nuclear Risks, and Ukraine at Trilateral Summit](https://athenaglauxintelligence.news/event/270534.html): first reported 2026-11-19; 3 outlets, 3 countries.
@@ -80,11 +82,9 @@
 - [Four arrested as PSNI probes extreme right-wing terrorism](https://athenaglauxintelligence.news/event/268562.html): first reported 2026-11-19; 4 outlets, 2 countries.
 - [Air Force One reporters' phones locked away over China spying fears](https://athenaglauxintelligence.news/event/267999.html): first reported 2026-11-19; 8 outlets, 6 countries.
 - [Stocks look to blockbuster Anthropic IPO to break losing streak](https://athenaglauxintelligence.news/event/268653.html): first reported 2026-11-19; 5 outlets, 5 countries.
+- [Xi-Putin-Trump summit to open up space for dialogue, lasting peace: Malaysian Premier Anwar](https://athenaglauxintelligence.news/event/268185.html): first reported 2026-11-19; 3 outlets, 4 countries.
 - [Putin didn’t get his Yalta, but he’s happy nonetheless](https://athenaglauxintelligence.news/event/268696.html): first reported 2026-11-19; 4 outlets, 4 countries.
 - [Nigeria’s Tinubu asks parliament to decriminalize attempted suicide](https://athenaglauxintelligence.news/event/268583.html): first reported 2026-11-19; 4 outlets, 3 countries.
-- [Trump envoy: US convinces Russia of need for Article 5-style security guarantees for Ukraine](https://athenaglauxintelligence.news/event/269284.html): first reported 2026-11-19; 12 outlets, 7 countries.
-- [Saudi Arabia among 16 countries backing UK and Australian sanctions on Israeli settlement expansion](https://athenaglauxintelligence.news/event/270678.html): first reported 2026-11-19; 5 outlets, 4 countries.
-- [Trump unveils $17 billion of Southeast Asia deals for US firms, White House says](https://athenaglauxintelligence.news/event/267298.html): first reported 2026-11-19; 4 outlets, 4 countries.
 
 ## Optional
 
