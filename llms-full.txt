@@ -61,7 +61,6 @@
 - [France calls for UN Security Council meeting over Russian strikes on Kyiv and embassies](https://athenaglauxintelligence.news/event/275322.html): first reported 2026-11-20; 3 outlets, 3 countries.
 - [US sanctions Cambodia and Myanmar scam networks targeting Americans](https://athenaglauxintelligence.news/event/273181.html): first reported 2026-11-20; 5 outlets, 3 countries.
 - [Andy Burnham's Brexit deal with EU is at risk over tuition fees row](https://athenaglauxintelligence.news/event/273581.html): first reported 2026-11-20; 11 outlets, 3 countries.
-- [Gulf Sees Iran Oil Movement as US Widens Blockade](https://athenaglauxintelligence.news/event/274220.html): first reported 2026-11-20; 4 outlets, 3 countries.
 - [‘Keep your children away’: GTA 6’s viral clip sparks debate over graphic content](https://athenaglauxintelligence.news/event/274079.html): first reported 2026-11-20; 3 outlets, 2 countries.
 - [TikTok launches tool to help public figures detect deepfakes globally](https://athenaglauxintelligence.news/event/273389.html): first reported 2026-11-20; 5 outlets, 4 countries.
 - [PSA Singapore breaks ground on Tuas Port Phase Two](https://athenaglauxintelligence.news/event/272735.html): first reported 2026-11-20; 4 outlets, 3 countries.
@@ -75,7 +74,8 @@
 - [US religious freedom panel says India is targeting minorities in voter roll revisions](https://athenaglauxintelligence.news/event/273222.html): first reported 2026-11-20; 5 outlets, 3 countries.
 - [(2nd LD) Appeals court upholds Kakao founder's acquittal on stock price manipulation charges](https://athenaglauxintelligence.news/event/271852.html): first reported 2026-11-20; 3 outlets, 1 country.
 - [Yemen's Houthis threaten to strike Saudi Red Sea ports](https://athenaglauxintelligence.news/event/275506.html): first reported 2026-11-20; 10 outlets, 7 countries.
-- [Thousands of UK fridges and freezers protected from hackers in secret operation](https://athenaglauxintelligence.news/event/272473.html): first reported 2026-11-20; 6 outlets, 5 countries.
+- [European troops take part in exercise with eye on postwar Ukraine](https://athenaglauxintelligence.news/event/271972.html): first reported 2026-11-20; 6 outlets, 5 countries.
+- [Thousands of UK fridges and freezers protected from hackers in secret operation](https://athenaglauxintelligence.news/event/272473.html): first reported 2026-11-20; 7 outlets, 5 countries.
 - [Nasdaq futures jump on renewed AI optimism ahead of Anthropic’s market debut](https://athenaglauxintelligence.news/event/270776.html): first reported 2026-11-20; 4 outlets, 4 countries.
 - [China Says Japan Must Change ‘Attitude’, After Xi Snub of Takaichi](https://athenaglauxintelligence.news/event/270777.html): first reported 2026-11-20; 6 outlets, 6 countries.
 - [At Least 8 Killed In Russian Attacks On Ukraine, Kyiv Bridges Damaged](https://athenaglauxintelligence.news/event/272360.html): first reported 2026-11-19; 23 outlets, 16 countries.
@@ -83,8 +83,8 @@
 - [Japan's core inflation accelerates to 2.2% in October](https://athenaglauxintelligence.news/event/271090.html): first reported 2026-11-19; 5 outlets, 4 countries.
 - [White House replaces cyber director Sean Cairncross amid widespread tech outages](https://athenaglauxintelligence.news/event/271146.html): first reported 2026-11-19; 30 outlets, 17 countries.
 - [Anthropic Shares End First Day Of Trading Up 17% In Volatile Session As AI Giant Goes Public](https://athenaglauxintelligence.news/event/271195.html): first reported 2026-11-19; 4 outlets, 3 countries.
-- [Gaza children appeal to world ahead of World Children’s Day: ‘Don’t forget us’](https://athenaglauxintelligence.news/event/271267.html): first reported 2026-11-19; 4 outlets, 3 countries.
 - [Judge orders US agriculture chief to stop sending religious emails from official account](https://athenaglauxintelligence.news/event/271343.html): first reported 2026-11-19; 6 outlets, 6 countries.
+- [Producer prices drop in Oct. on lower food prices](https://athenaglauxintelligence.news/event/270768.html): first reported 2026-11-19; 3 outlets, 1 country.
 
 ## Optional
 
