@@ -23,7 +23,7 @@ if(inUS(place))jobs.push(jget("https://api.weather.gov/alerts/active?point="+pla
 all.push({title:(p.headline||p.event||"").slice(0,220),meta:T.src+": "+T.nws+(p.senderName?" - "+p.senderName:"")+" - "+T.pub+" "+when(Date.parse(p.sent||p.effective)),lvl:p.severity==="Extreme"||p.severity==="Severe"?"Red":p.severity==="Moderate"?"Orange":"Green",href:"https://forecast.weather.gov/MapClick.php?lat="+place.lat.toFixed(4)+"&lon="+place.lon.toFixed(4),t:Date.parse(p.sent||p.effective)||0});});}).catch(function(){return"x";}));
 jobs.push(jget("https://www.gdacs.org/gdacsapi/api/events/geteventlist/EVENTS4APP").then(function(j){var lim=Math.max(radius,500),cut=Date.now()-14*864e5;
 (j.features||[]).forEach(function(f){var p=f.properties||{},g=f.geometry||{},c=g.coordinates;if(g.type!=="Point"||!c)return;var d=km(place.lat,place.lon,c[1],c[0]);
-var to=Date.parse(p.todate)||Date.parse(p.fromdate)||0;if(to<cut)return;var same=place.country&&p.country&&String(p.country).toLowerCase().indexOf(place.country.toLowerCase())>=0;if(d>lim&&!same)return;
+var to=Date.parse(p.todate)||Date.parse(p.fromdate)||0;if(to<cut)return;if(d>lim)return;
 var u=p.url&&p.url.report;all.push({title:(p.name||p.description||p.eventtype||"").slice(0,220),meta:T.src+": "+T.gdacs+" - "+(p.country||"")+" - "+Math.round(d)+" "+T.km+" - "+T.pub+" "+when(Date.parse(p.fromdate)),lvl:p.alertlevel,href:u,t:to});});}).catch(function(){return"x";}));
 Promise.all(jobs).then(function(r){if(r.length&&r.every(function(x){return x==="x";}))return fail("mp-off");all.sort(function(a,b){return b.t-a.t;});put("mp-off",all.slice(0,20),T.off_none);});}
 function quakes(){load("mp-eq");jget("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson").then(function(j){var o=[];
