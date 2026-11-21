@@ -45,15 +45,17 @@
 
 ## Latest stories
 
-- [Trump threatens tax on US tech firms building AI data centres abroad](https://athenaglauxintelligence.news/event/279140.html): first reported 2026-11-20; 8 outlets, 7 countries.
-- [Trump defends calling Russia’s Putin a friend, but says he ‘can’t speak’ to whether he’s a friend to the US](https://athenaglauxintelligence.news/event/278530.html): first reported 2026-11-20; 8 outlets, 6 countries.
+- [Trump threatens tax on US tech firms building AI data centres abroad](https://athenaglauxintelligence.news/event/279140.html): first reported 2026-11-20; 10 outlets, 8 countries.
+- [Trump defends calling Russia’s Putin a friend, but says he ‘can’t speak’ to whether he’s a friend to the US](https://athenaglauxintelligence.news/event/278530.html): first reported 2026-11-20; 9 outlets, 6 countries.
 - [Trump warns US tech firms of ‘tremendous tax’ if they build AI data centres overseas](https://athenaglauxintelligence.news/event/277974.html): first reported 2026-11-20; 5 outlets, 4 countries.
-- [Denmark expels Russian diplomat over attempt to kill Ukrainian rapper](https://athenaglauxintelligence.news/event/277913.html): first reported 2026-11-20; 7 outlets, 7 countries.
+- [Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil](https://athenaglauxintelligence.news/event/278025.html): first reported 2026-11-20; 3 outlets, 3 countries.
+- [Denmark expels Russian diplomat over attempt to kill Ukrainian rapper](https://athenaglauxintelligence.news/event/277913.html): first reported 2026-11-20; 9 outlets, 8 countries.
 - [New York Mayor Zohran Mamdani injured in soccer match against journalists](https://athenaglauxintelligence.news/event/278378.html): first reported 2026-11-20; 6 outlets, 4 countries.
 - [US Missile Strikes Outskirts of Qeshm Island in Southern Iran](https://athenaglauxintelligence.news/event/277919.html): first reported 2026-11-20; 5 outlets, 5 countries.
-- [US wants Ukraine and Russia to sign peace deal by January 2027](https://athenaglauxintelligence.news/event/276879.html): first reported 2026-11-20; 6 outlets, 3 countries.
+- [Anthropic mathematician claims to have solved 167-year-old math problem with Claude](https://athenaglauxintelligence.news/event/277832.html): first reported 2026-11-20; 9 outlets, 5 countries.
+- [Trump wants Ukraine peace deal by early January before Democrats take Congress: Report](https://athenaglauxintelligence.news/event/276879.html): first reported 2026-11-20; 8 outlets, 4 countries.
 - [US Treasury presses Singapore, Malaysia on Iran sanctions compliance](https://athenaglauxintelligence.news/event/278461.html): first reported 2026-11-20; 6 outlets, 5 countries.
-- [Trump, Xi agreed that military AI decisions should involve humans, Bessent says](https://athenaglauxintelligence.news/event/277904.html): first reported 2026-11-20; 7 outlets, 6 countries.
+- [Trump, Xi agreed that military AI decisions should involve humans, Bessent says](https://athenaglauxintelligence.news/event/277904.html): first reported 2026-11-20; 8 outlets, 6 countries.
 - [In Yemen's Aden, divided government forces prepare for a Houthi assault](https://athenaglauxintelligence.news/event/278260.html): first reported 2026-11-20; 3 outlets, 3 countries.
 - [Two men killed as glider crashes into loch](https://athenaglauxintelligence.news/event/276881.html): first reported 2026-11-20; 6 outlets, 1 country.
 - [From cheese checks to young people: What was agreed at EU-UK summit](https://athenaglauxintelligence.news/event/276579.html): first reported 2026-11-20; 4 outlets, 10 countries.
@@ -62,29 +64,27 @@
 - [Putin urges Ukrainians to join Russia on the ‘right side of history’ despite today’s ‘tragedies’](https://athenaglauxintelligence.news/event/276110.html): first reported 2026-11-20; 4 outlets, 2 countries.
 - [Russia Has No Timeline for Crimean Bridge Repairs, Deputy PM Says](https://athenaglauxintelligence.news/event/276458.html): first reported 2026-11-20; 5 outlets, 2 countries.
 - [Smith stepping down after almost 17 years as Britain's Davis Cup captain](https://athenaglauxintelligence.news/event/276353.html): first reported 2026-11-20; 5 outlets, 5 countries.
-- [Warsaw says Russian missiles hit Poland](https://athenaglauxintelligence.news/event/276082.html): first reported 2026-11-20; 20 outlets, 14 countries.
+- [Warsaw says Russian missiles hit Poland](https://athenaglauxintelligence.news/event/276082.html): first reported 2026-11-20; 21 outlets, 15 countries.
 - [21st-century technology has created new possibilities for cultural connectivity: PM Modi](https://athenaglauxintelligence.news/event/276156.html): first reported 2026-11-20; 6 outlets, 2 countries.
 - [Cyprus talks progress would help EU-Turkey relations, Fitto tells Fidan](https://athenaglauxintelligence.news/event/276647.html): first reported 2026-11-20; 3 outlets, 3 countries.
+- [Two Danes suspected of being hired by Russia to kill Ukrainian rapper](https://athenaglauxintelligence.news/event/275885.html): first reported 2026-11-20; 8 outlets, 7 countries.
 - [UK anthem returns to the EU stage in symbolic post-Brexit moment](https://athenaglauxintelligence.news/event/278136.html): first reported 2026-11-20; 3 outlets, 2 countries.
-- [Britain and EU strike Brexit reset deal to ease youth mobility and food trade](https://athenaglauxintelligence.news/event/276979.html): first reported 2026-11-20; 9 outlets, 8 countries.
+- [Britain and EU strike Brexit reset deal to ease youth mobility and food trade](https://athenaglauxintelligence.news/event/276979.html): first reported 2026-11-20; 10 outlets, 9 countries.
 - [German minister sorry for calling Pentagon official's view 'stupid'](https://athenaglauxintelligence.news/event/276406.html): first reported 2026-11-20; 5 outlets, 5 countries.
 - [Anthropic sinks by 10% in premarket after record IPO debut](https://athenaglauxintelligence.news/event/275008.html): first reported 2026-11-20; 3 outlets, 3 countries.
 - [‘All our relationships will improve’: Pakistan minister in Delhi for SCO summit](https://athenaglauxintelligence.news/event/275827.html): first reported 2026-11-20; 3 outlets, 1 country.
 - [Estonia to shut border with Russia over GRU-linked sabotage attack](https://athenaglauxintelligence.news/event/276466.html): first reported 2026-11-20; 4 outlets, 4 countries.
-- [Thursday was coldest night of autumn so far with temperatures set to dip further](https://athenaglauxintelligence.news/event/274276.html): first reported 2026-11-20; 7 outlets, 2 countries.
+- [Thursday was coldest night of autumn so far with temperatures set to dip further](https://athenaglauxintelligence.news/event/274276.html): first reported 2026-11-20; 8 outlets, 3 countries.
+- [Trump describes his relations with Putin as ‘fantastic’](https://athenaglauxintelligence.news/event/276480.html): first reported 2026-11-20; 4 outlets, 2 countries.
 - [DGCA issues show cause notice to SpiceJet on flight cancellations, various violations](https://athenaglauxintelligence.news/event/274485.html): first reported 2026-11-20; 6 outlets, 2 countries.
 - [US reportedly floats Ukraine NATO membership in exchange for territorial concessions to Russia](https://athenaglauxintelligence.news/event/274623.html): first reported 2026-11-20; 9 outlets, 5 countries.
-- [Lufthansa plans to cut 1,000 jobs amid Iran war fallout](https://athenaglauxintelligence.news/event/274848.html): first reported 2026-11-20; 9 outlets, 8 countries.
+- [Lufthansa plans to cut 1,000 jobs amid Iran war fallout](https://athenaglauxintelligence.news/event/274848.html): first reported 2026-11-20; 10 outlets, 9 countries.
 - [German metalworkers' union calls 24-hour strike for first time in eight years](https://athenaglauxintelligence.news/event/275184.html): first reported 2026-11-20; 3 outlets, 2 countries.
 - [European shares head for steepest weekly drop since March](https://athenaglauxintelligence.news/event/274030.html): first reported 2026-11-20; 3 outlets, 3 countries.
 - [Greece submits 2027 budget with 2.3% growth forecast, €1,000 minimum wage target and €500 public sector Christmas bonus](https://athenaglauxintelligence.news/event/275089.html): first reported 2026-11-20; 3 outlets, 1 country.
+- [France welcomes Putin's invitation to Moscow: "We have never cut ties with Russia"](https://athenaglauxintelligence.news/event/273862.html): first reported 2026-11-20; 3 outlets, 2 countries.
 - [Anthropic shares fall a day after blockbuster debut as wider tech sell off continues](https://athenaglauxintelligence.news/event/273944.html): first reported 2026-11-20; 6 outlets, 5 countries.
-- [At least 1,144 children killed or injured in Ukraine during Russia's war this year, UNICEF says](https://athenaglauxintelligence.news/event/274199.html): first reported 2026-11-20; 11 outlets, 6 countries.
-- [Kenya investigates deaths of seven hippos](https://athenaglauxintelligence.news/event/274232.html): first reported 2026-11-20; 6 outlets, 5 countries.
-- [Russia pummels Ukraine after Putin vowed revenge, killing eight](https://athenaglauxintelligence.news/event/273723.html): first reported 2026-11-20; 10 outlets, 8 countries.
-- [Poland condemns Russian ‘provocation’ after 3 airspace violations](https://athenaglauxintelligence.news/event/273863.html): first reported 2026-11-20; 23 outlets, 19 countries.
-- [France calls for UN Security Council meeting over Russian strikes on Kyiv and embassies](https://athenaglauxintelligence.news/event/275322.html): first reported 2026-11-20; 3 outlets, 3 countries.
-- [US sanctions Cambodia and Myanmar scam networks targeting Americans](https://athenaglauxintelligence.news/event/273181.html): first reported 2026-11-20; 5 outlets, 3 countries.
+- [Death toll from Russian attack on Kyiv rises to seven, 17 injured](https://athenaglauxintelligence.news/event/276434.html): first reported 2026-11-20; 5 outlets, 2 countries.
 
 ## Optional
 
