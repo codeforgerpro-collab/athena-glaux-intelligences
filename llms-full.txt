@@ -45,13 +45,16 @@
 
 ## Latest stories
 
-- [Vladimir Putin is a 'cold-blooded killer', says Wes Streeting during meeting with Volodymyr Zelenskyy in Kyiv](https://athenaglauxintelligence.news/event/282156.html): first reported 2026-11-21; 3 outlets, 2 countries.
-- [Briton swims in Strait of Hormuz to highlight ‘environmental cost of war’](https://athenaglauxintelligence.news/event/282193.html): first reported 2026-11-21; 4 outlets, 2 countries.
+- [Vladimir Putin is a 'cold-blooded killer', says Wes Streeting during meeting with Volodymyr Zelenskyy in Kyiv](https://athenaglauxintelligence.news/event/282156.html): first reported 2026-11-21; 4 outlets, 2 countries.
+- [APC rally: Traders make brisk business in Ibadan, awaiting Tinubu’s arrival](https://athenaglauxintelligence.news/event/282346.html): first reported 2026-11-21; 3 outlets, 1 country.
+- [Briton swims in Strait of Hormuz to highlight ‘environmental cost of war’](https://athenaglauxintelligence.news/event/282193.html): first reported 2026-11-21; 6 outlets, 3 countries.
+- [Iran facing ‘silent economic war’ that is 'tougher' than missile war, says President Pezeshkian](https://athenaglauxintelligence.news/event/280705.html): first reported 2026-11-21; 3 outlets, 3 countries.
 - [Chay Bowes: our man in Moscow](https://athenaglauxintelligence.news/event/279507.html): first reported 2026-11-21; 3 outlets, 1 country.
 - [FBI, US Agriculture Department breached by hackers: reports](https://athenaglauxintelligence.news/event/281011.html): first reported 2026-11-21; 9 outlets, 9 countries.
 - [11 dead, over 180 hospitalised after drinking alcohol](https://athenaglauxintelligence.news/event/279632.html): first reported 2026-11-21; 10 outlets, 9 countries.
 - [All 146 Air Niugini Plane Passengers and Crew Safe after an Emergency Landing in Philippines](https://athenaglauxintelligence.news/event/280579.html): first reported 2026-11-21; 8 outlets, 6 countries.
 - [The FBI was hacked again, this time the breach targeted its crime database](https://athenaglauxintelligence.news/event/279987.html): first reported 2026-11-21; 14 outlets, 12 countries.
+- [Young boy one of two killed in ballistic missile attack on Zelensky’s home town](https://athenaglauxintelligence.news/event/280233.html): first reported 2026-11-21; 3 outlets, 2 countries.
 - [Climate talks in overtime as nations wrestle with response to worsening global warming](https://athenaglauxintelligence.news/event/280339.html): first reported 2026-11-21; 6 outlets, 6 countries.
 - [4 killed, 35 injured in fire at power station in Iraq’s Basra](https://athenaglauxintelligence.news/event/279835.html): first reported 2026-11-21; 17 outlets, 12 countries.
 - [Andy Burnham says EU and UK will spend a year 'brainstorming' future ties](https://athenaglauxintelligence.news/event/280030.html): first reported 2026-11-21; 6 outlets, 2 countries.
@@ -60,14 +63,14 @@
 - [Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer](https://athenaglauxintelligence.news/event/279477.html): first reported 2026-11-20; 9 outlets, 6 countries.
 - ['India is growing at 7%’: Trump uses India’s growth, RBI rates to slam Fed | Key takeaways from press briefing](https://athenaglauxintelligence.news/event/281195.html): first reported 2026-11-20; 3 outlets, 3 countries.
 - [Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60](https://athenaglauxintelligence.news/event/282159.html): first reported 2026-11-20; 6 outlets, 5 countries.
-- [Countries open path towards 'killer robots' pact](https://athenaglauxintelligence.news/event/278921.html): first reported 2026-11-20; 10 outlets, 9 countries.
+- [Countries open path towards 'killer robots' pact](https://athenaglauxintelligence.news/event/278921.html): first reported 2026-11-20; 11 outlets, 10 countries.
 - [Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend](https://athenaglauxintelligence.news/event/278530.html): first reported 2026-11-20; 18 outlets, 12 countries.
 - [Trump threatens tax on US tech firms building AI data centres abroad](https://athenaglauxintelligence.news/event/279140.html): first reported 2026-11-20; 21 outlets, 14 countries.
 - [Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper](https://athenaglauxintelligence.news/event/278025.html): first reported 2026-11-20; 9 outlets, 5 countries.
 - [Denmark expels Russian diplomat over attempt to kill Ukrainian rapper](https://athenaglauxintelligence.news/event/277913.html): first reported 2026-11-20; 15 outlets, 12 countries.
 - [New York Mayor Zohran Mamdani injured in soccer match against journalists](https://athenaglauxintelligence.news/event/278378.html): first reported 2026-11-20; 6 outlets, 4 countries.
 - [US Missile Strikes Outskirts of Qeshm Island in Southern Iran](https://athenaglauxintelligence.news/event/277919.html): first reported 2026-11-20; 5 outlets, 5 countries.
-- [Anthropic researcher claims to solve Riemann maths problem with Claude](https://athenaglauxintelligence.news/event/277832.html): first reported 2026-11-20; 16 outlets, 8 countries.
+- [Anthropic claims AI-assisted breakthrough on 167-year-old math problem](https://athenaglauxintelligence.news/event/277832.html): first reported 2026-11-20; 17 outlets, 9 countries.
 - [Trump wants Ukraine peace deal by early January before Democrats take Congress: Report](https://athenaglauxintelligence.news/event/276879.html): first reported 2026-11-20; 9 outlets, 5 countries.
 - [Italy Gives Tesla Green Light for Assisted Driving](https://athenaglauxintelligence.news/event/277307.html): first reported 2026-11-20; 5 outlets, 4 countries.
 - [US Treasury presses Singapore and Malaysia on Iran sanctions](https://athenaglauxintelligence.news/event/278461.html): first reported 2026-11-20; 10 outlets, 8 countries.
@@ -82,9 +85,6 @@
 - [From cheese checks to young people: What was agreed at EU-UK summit](https://athenaglauxintelligence.news/event/276579.html): first reported 2026-11-20; 5 outlets, 11 countries.
 - [NIA seeks UAE documents, permission to question individuals in Flydubai hijacking attempt probe](https://athenaglauxintelligence.news/event/277376.html): first reported 2026-11-20; 5 outlets, 2 countries.
 - [Houthi attacks adds concerns over Trump Saudi nuclear power pact](https://athenaglauxintelligence.news/event/277499.html): first reported 2026-11-20; 5 outlets, 4 countries.
-- [Melania Trump gives a peek inside her marriage, motherhood and more in new series](https://athenaglauxintelligence.news/event/276624.html): first reported 2026-11-20; 3 outlets, 2 countries.
-- [Saudi Arabia Agrees to Store Additional 16 Million Barrels of Crude in Japan](https://athenaglauxintelligence.news/event/276756.html): first reported 2026-11-20; 5 outlets, 6 countries.
-- [Putin urges Ukrainians to join Russia on the ‘right side of history’ despite today’s ‘tragedies’](https://athenaglauxintelligence.news/event/276110.html): first reported 2026-11-20; 4 outlets, 2 countries.
 
 ## Optional
 
