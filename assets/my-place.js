@@ -24,7 +24,7 @@ function sv(t,a){var n=document.createElementNS(NS,t);for(var k in a)n.setAttrib
 function tx(x,y,s,a){var n=sv("text",Object.assign({x:x,y:y,fill:"currentColor","font-size":11},a||{}));n.textContent=s;return n;}
 function fig(id,title,build){var b=$(id);b.textContent="";var f=el("figure","mp-fig"),c=el("figcaption",null,title),s=sv("svg",{viewBox:"0 0 600 220",role:"img","aria-label":title,width:"100%"});f.appendChild(c);
 if(!build(s)){f.appendChild(el("p","mp-none",T.ch_none));}else f.appendChild(s);b.appendChild(f);}
-function charts(){var C=$("mp-ch");C.textContent="";["mp-c1","mp-c2","mp-c3"].forEach(function(i){var d=el("div","mp-chart");d.id=i;C.appendChild(d);});
+function charts(){var C=$("mp-ch");C.textContent="";["mp-c1","mp-c2","mp-c3","mp-c4"].forEach(function(i){var d=el("div","mp-chart");d.id=i;C.appendChild(d);});
 var q=D.q;
 fig("mp-c1",T.ch_daily,function(s){var n=[],lab=[],now=new Date();for(var i=6;i>=0;i--){var d=new Date(now.getFullYear(),now.getMonth(),now.getDate()-i);var c=0;
 q.forEach(function(e){var z=new Date(e.t);if(z.getFullYear()===d.getFullYear()&&z.getMonth()===d.getMonth()&&z.getDate()===d.getDate())c++;});n.push(c);
@@ -39,7 +39,10 @@ s.appendChild(tx(6,14,T.y_mag));q.forEach(function(e){var c=sv("circle",{cx:40+M
 var t=sv("title",{});t.textContent="M"+e.mag.toFixed(1)+" - "+Math.round(e.d)+" "+T.km;c.appendChild(t);s.appendChild(c);});return true;});
 fig("mp-c3",T.ch_mix,function(s){var m={};if(D.q.length)m[T.t_eq]=D.q.length;D.gd.forEach(function(g){var k=T["t_"+g.type];if(k&&g.type!=="eq")m[k]=(m[k]||0)+1;});D.ev.forEach(function(e){m[e.cat]=(m[e.cat]||0)+1;});
 var rows=Object.keys(m).map(function(k){return[k,m[k]];}).sort(function(a,b){return b[1]-a[1];}).slice(0,7);if(!rows.length)return false;var mx=rows[0][1],H=Math.min(26,190/rows.length);
-rows.forEach(function(r,i){var y=8+i*(H+4),w=r[1]/mx*330;s.appendChild(tx(190,y+H/2+4,r[0].slice(0,26),{"text-anchor":"end"}));s.appendChild(sv("rect",{x:198,y:y,width:Math.max(w,2),height:H,fill:"var(--accent,#1f4e79)",opacity:.85}));s.appendChild(tx(204+w,y+H/2+4,String(r[1])));});return true;});}
+rows.forEach(function(r,i){var y=8+i*(H+4),w=r[1]/mx*330;s.appendChild(tx(190,y+H/2+4,r[0].slice(0,26),{"text-anchor":"end"}));s.appendChild(sv("rect",{x:198,y:y,width:Math.max(w,2),height:H,fill:"var(--accent,#1f4e79)",opacity:.85}));s.appendChild(tx(204+w,y+H/2+4,String(r[1])));});return true;});
+fig("mp-c4",T.ch_cmp,function(s){var Z=D.cmp;if(!Z)return false;var nm=[T.cmp_all,T.cmp_25,T.cmp_max];
+for(var i=0;i<3;i++){var y=6+i*70,m=Math.max(Z.n[i],Z.p[i],i===2?1:1),fm=function(v){return i===2?v.toFixed(1):String(v);};s.appendChild(tx(6,y+10,nm[i],{"font-weight":600}));
+[[Z.p[i],T.cmp_prev,.35],[Z.n[i],T.cmp_now,.9]].forEach(function(q,k){var yy=y+16+k*22,w=q[0]/m*330;s.appendChild(tx(200,yy+13,q[1],{"text-anchor":"end"}));s.appendChild(sv("rect",{x:208,y:yy,width:Math.max(w,2),height:17,fill:"var(--accent,#1f4e79)",opacity:q[2]}));s.appendChild(tx(214+w,yy+13,fm(q[0])));});}return true;});}
 /* ---- sources ---- */
 function official(){load("mp-off");var jobs=[],all=[];D.gd=[];
 if(inUS(place))jobs.push(jget("https://api.weather.gov/alerts/active?point="+place.lat.toFixed(4)+","+place.lon.toFixed(4)).then(function(j){(j.features||[]).forEach(function(f){var p=f.properties||{};
@@ -55,10 +58,15 @@ var a=jget("https://www.seismicportal.eu/fdsnws/event/1/query?format=json&limit=
 o.push({t:Date.parse(p.time),mag:+p.mag,d:d,lat:la,lon:lo,title:"M"+(+p.mag).toFixed(1)+" - "+(p.flynn_region||""),src:T.emsc,href:p.unid?"https://www.seismicportal.eu/eventdetails.html?unid="+encodeURIComponent(p.unid):null});});return o;}).catch(function(){return null;});
 var b=jget("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson").then(function(j){var o=[];(j.features||[]).forEach(function(f){var c=f.geometry.coordinates,d=km(place.lat,place.lon,c[1],c[0]);if(d>radius)return;var p=f.properties;
 o.push({t:p.time,mag:+p.mag,d:d,lat:c[1],lon:c[0],title:"M"+(p.mag!=null?p.mag.toFixed(1):"?")+" - "+(p.place||""),src:T.usgs,href:p.url});});return o;}).catch(function(){return null;});
-Promise.all([a,b]).then(function(r){if(r[0]===null&&r[1]===null){D.q=[];fail("mp-eq");charts();return;}var e1=r[0]||[],o=e1.slice();
+var pst=new Date(Date.now()-14*864e5).toISOString().slice(0,19);
+var c=jget("https://www.seismicportal.eu/fdsnws/event/1/query?format=json&limit=300&orderby=time&minmag=0&lat="+place.lat.toFixed(3)+"&lon="+place.lon.toFixed(3)+"&maxradius="+deg.toFixed(2)+"&starttime="+pst+"&endtime="+st).then(function(j){var o=[];(j.features||[]).forEach(function(f){var p=f.properties||{},k=f.geometry&&f.geometry.coordinates;if(!k||p.mag==null)return;var la=p.lat!=null?p.lat:k[1],lo=p.lon!=null?p.lon:k[0];if(km(place.lat,place.lon,la,lo)>radius)return;o.push(+p.mag);});o.cap=(j.features||[]).length>=300;return o;}).catch(function(){return null;});
+Promise.all([a,b,c]).then(function(r){D.cmp=null;if(r[0]===null&&r[1]===null){D.q=[];fail("mp-eq");charts();return;}var e1=r[0]||[],o=e1.slice();
+if(r[0]&&r[2]){var nw=e1.map(function(e){return e.mag;}),pv=r[2];function mx(a){return a.length?Math.max.apply(null,a):0;}function c25(a){return a.filter(function(m){return m>=2.5;}).length;}D.cmp={n:[nw.length,c25(nw),mx(nw)],p:[pv.length,c25(pv),mx(pv)],cap:!!(pv.cap||e1.length>=300)};}
 (r[1]||[]).forEach(function(u){var dup=e1.some(function(e){return Math.abs(e.t-u.t)<120000&&km(e.lat,e.lon,u.lat,u.lon)<150;});if(!dup)o.push(u);});
 o.sort(function(x,y){return y.t-x.t;});D.q=o;put("mp-eq",o.slice(0,30).map(function(e){return{title:e.title,meta:Math.round(e.d)+" "+T.km+" - "+T.src+": "+e.src+" - "+T.pub+" "+when(e.t),href:e.href};}),T.eq_none);
-if(o.length>30){$("mp-eq").appendChild(el("p","mp-priv",T.more.replace("{n}",String(o.length-30))));}charts();});}
+if(o.length>30){$("mp-eq").appendChild(el("p","mp-priv",T.more.replace("{n}",String(o.length-30))));}
+if(D.cmp){var a0=D.cmp.n[0],b0=D.cmp.p[0],pc=b0?Math.round((a0-b0)/b0*100):null,ps=b0===0?(a0===0?T.cmp_same:T.cmp_none):(pc===0?T.cmp_same:(pc>0?"+":"")+pc+"%");$("mp-eq").appendChild(el("p","mp-priv",T.cmp_line.replace("{a}",String(a0)).replace("{b}",String(b0)).replace("{p}",ps)+(D.cmp.cap?" "+T.cmp_cap:"")));}
+charts();});}
 function events(){load("mp-ev");D.ev=[];jget("https://eonet.gsfc.nasa.gov/api/v3/events?days=7&status=all&limit=300").then(function(j){var o=[];
 (j.events||[]).forEach(function(e){var g=(e.geometry||[]).slice(-1)[0];if(!g)return;var c=g.coordinates;if(g.type==="Polygon")c=c[0][0];if(!c||c.length<2||typeof c[0]!=="number")return;
 var d=km(place.lat,place.lon,c[1],c[0]);if(d>radius)return;var cat=(e.categories||[{}])[0].title||"",s=(e.sources||[{}])[0].url;
