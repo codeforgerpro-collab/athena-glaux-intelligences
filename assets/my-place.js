@@ -51,5 +51,5 @@ $("mp-rad").addEventListener("change",function(){radius=+this.value;ls("athena.p
 $("mp-print").addEventListener("click",function(){window.print();});
 var r0=ls("athena.place.r");if(r0){radius=+r0;$("mp-rad").value=String(radius);}
 var saved=ls(KIT)||{};var boxes=R.querySelectorAll("input.mp-k");for(var i=0;i<boxes.length;i++){(function(b){b.checked=!!saved[b.value];b.addEventListener("change",function(){var s=ls(KIT)||{};s[b.value]=b.checked;ls(KIT,s);});})(boxes[i]);}
-place=ls(KEY);show();
+var qs=new URLSearchParams(location.search).get("q");if(qs)$("mp-q").value=qs.slice(0,80);place=qs?null:ls(KEY);show();if(qs)search();
 })();
