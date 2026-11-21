@@ -32,16 +32,16 @@
 
 ## Latest stories
 
-- [Fire at Iraq's Basra power station kills at least four, injures 30](https://athenaglauxintelligence.news/event/279835.html): first reported 2026-11-21; 6 outlets, 5 countries.
+- [Fire at Iraq's Basra power station kills at least four, injures 30](https://athenaglauxintelligence.news/event/279835.html): first reported 2026-11-21; 8 outlets, 6 countries.
 - [The FBI was hacked again, this time the breach targeted its crime database](https://athenaglauxintelligence.news/event/279987.html): first reported 2026-11-21; 6 outlets, 5 countries.
 - [Trump threatens tax on US tech firms building AI data centres abroad](https://athenaglauxintelligence.news/event/279140.html): first reported 2026-11-20; 10 outlets, 8 countries.
-- [Trump defends calling Russia’s Putin a friend, but says he ‘can’t speak’ to whether he’s a friend to the US](https://athenaglauxintelligence.news/event/278530.html): first reported 2026-11-20; 10 outlets, 7 countries.
+- [Trump defends calling Putin a friend, unsure if he's a friend to US](https://athenaglauxintelligence.news/event/278530.html): first reported 2026-11-20; 11 outlets, 8 countries.
 - [Trump warns US tech firms of ‘tremendous tax’ if they build AI data centres overseas](https://athenaglauxintelligence.news/event/277974.html): first reported 2026-11-20; 7 outlets, 5 countries.
 - [Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil](https://athenaglauxintelligence.news/event/278025.html): first reported 2026-11-20; 3 outlets, 3 countries.
 - [Denmark expels Russian diplomat over attempt to kill Ukrainian rapper](https://athenaglauxintelligence.news/event/277913.html): first reported 2026-11-20; 10 outlets, 9 countries.
 - [New York Mayor Zohran Mamdani injured in soccer match against journalists](https://athenaglauxintelligence.news/event/278378.html): first reported 2026-11-20; 6 outlets, 4 countries.
 - [US Missile Strikes Outskirts of Qeshm Island in Southern Iran](https://athenaglauxintelligence.news/event/277919.html): first reported 2026-11-20; 5 outlets, 5 countries.
-- [Anthropic researcher claims to solve Riemann maths problem with Claude](https://athenaglauxintelligence.news/event/277832.html): first reported 2026-11-20; 10 outlets, 5 countries.
+- [Anthropic researcher claims to solve Riemann maths problem with Claude](https://athenaglauxintelligence.news/event/277832.html): first reported 2026-11-20; 12 outlets, 6 countries.
 - [Trump wants Ukraine peace deal by early January before Democrats take Congress: Report](https://athenaglauxintelligence.news/event/276879.html): first reported 2026-11-20; 8 outlets, 4 countries.
 - [US Treasury presses Singapore and Malaysia on Iran sanctions](https://athenaglauxintelligence.news/event/278461.html): first reported 2026-11-20; 8 outlets, 7 countries.
 - [Trump, Xi agreed that military AI decisions should involve humans, Bessent says](https://athenaglauxintelligence.news/event/277904.html): first reported 2026-11-20; 8 outlets, 6 countries.
