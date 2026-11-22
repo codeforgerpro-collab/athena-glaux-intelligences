@@ -46,7 +46,7 @@
 ## Latest stories
 
 - [Bahrain says Iranian attack hits industrial facility, causes fire](https://athenaglauxintelligence.news/event/284562.html): first reported 2026-11-21; 11 outlets, 7 countries.
-- [Eisenkot invites Netanyahu's party to coalition talks](https://athenaglauxintelligence.news/event/284621.html): first reported 2026-11-21; 13 outlets, 9 countries.
+- [Eisenkot invites Netanyahu's party to coalition talks](https://athenaglauxintelligence.news/event/284621.html): first reported 2026-11-21; 14 outlets, 9 countries.
 - [Khmara prepares for international meetings in Europe in coming days – Zelensky](https://athenaglauxintelligence.news/event/283513.html): first reported 2026-11-21; 3 outlets, 3 countries.
 - [EU leaders’ chair pushes budget cuts, suggests digital tax](https://athenaglauxintelligence.news/event/283247.html): first reported 2026-11-21; 6 outlets, 6 countries.
 - [Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO](https://athenaglauxintelligence.news/event/283728.html): first reported 2026-11-21; 4 outlets, 3 countries.
@@ -55,11 +55,12 @@
 - [US denies Iranian account that missile damaged F-16 over Gulf](https://athenaglauxintelligence.news/event/283115.html): first reported 2026-11-21; 23 outlets, 14 countries.
 - [Vladimir Putin is a 'cold-blooded killer', says Wes Streeting during meeting with Volodymyr Zelenskyy in Kyiv](https://athenaglauxintelligence.news/event/282156.html): first reported 2026-11-21; 6 outlets, 2 countries.
 - [Tinubu arrives Lagos after Ibadan APC rally](https://athenaglauxintelligence.news/event/282346.html): first reported 2026-11-21; 5 outlets, 1 country.
+- [Severe Storm Destroys Thousands Of Homes, Kills Three In Brazil](https://athenaglauxintelligence.news/event/282406.html): first reported 2026-11-21; 5 outlets, 5 countries.
 - [As e-bike battery fires mount, New York weighs tougher restrictions](https://athenaglauxintelligence.news/event/282190.html): first reported 2026-11-21; 5 outlets, 5 countries.
 - [Israeli strike kills 3 in vehicle distributing aid in Gaza, witnesses say](https://athenaglauxintelligence.news/event/283288.html): first reported 2026-11-21; 10 outlets, 9 countries.
 - [Iran’s seven conditions basis for reopening Strait of Hormuz, negotiations: Araghchi](https://athenaglauxintelligence.news/event/282215.html): first reported 2026-11-21; 5 outlets, 4 countries.
 - [Briton swims in Strait of Hormuz to highlight ‘environmental cost of war’](https://athenaglauxintelligence.news/event/282193.html): first reported 2026-11-21; 9 outlets, 4 countries.
-- [Mexico captures top drug lord ‘El Chapo Isidro’](https://athenaglauxintelligence.news/event/282796.html): first reported 2026-11-21; 39 outlets, 24 countries.
+- [Mexico captures FBI most-wanted drug kingpin as 11 killed in raid](https://athenaglauxintelligence.news/event/282796.html): first reported 2026-11-21; 39 outlets, 24 countries.
 - [Iran facing ‘silent economic war’ that is 'tougher' than missile war, says President Pezeshkian](https://athenaglauxintelligence.news/event/280705.html): first reported 2026-11-21; 4 outlets, 4 countries.
 - [Tinubu Mourns Bayelsa Boat Victims, Orders Rescue Agencies To Recover Bodies](https://athenaglauxintelligence.news/event/282419.html): first reported 2026-11-21; 7 outlets, 3 countries.
 - [Protests sweep across Europe over living costs, wages, public services](https://athenaglauxintelligence.news/event/281765.html): first reported 2026-11-21; 3 outlets, 2 countries.
@@ -69,10 +70,11 @@
 - [Titanic survivor’s diamond ring sells for £150,000 at auction](https://athenaglauxintelligence.news/event/281616.html): first reported 2026-11-21; 5 outlets, 2 countries.
 - [Chay Bowes: our man in Moscow](https://athenaglauxintelligence.news/event/279507.html): first reported 2026-11-21; 3 outlets, 1 country.
 - [Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks](https://athenaglauxintelligence.news/event/280832.html): first reported 2026-11-21; 3 outlets, 3 countries.
+- [Trump orders federal contractors to check with White House before responding to Congress](https://athenaglauxintelligence.news/event/281367.html): first reported 2026-11-21; 5 outlets, 4 countries.
 - [FBI, US Agriculture Department breached by hackers: reports](https://athenaglauxintelligence.news/event/281011.html): first reported 2026-11-21; 11 outlets, 11 countries.
 - [11 dead, over 180 hospitalised after drinking alcohol](https://athenaglauxintelligence.news/event/279632.html): first reported 2026-11-21; 11 outlets, 10 countries.
 - [All 146 Air Niugini Plane Passengers and Crew Safe after an Emergency Landing in Philippines](https://athenaglauxintelligence.news/event/280579.html): first reported 2026-11-21; 8 outlets, 7 countries.
-- [The FBI was hacked again, this time the breach targeted its crime database](https://athenaglauxintelligence.news/event/279987.html): first reported 2026-11-21; 30 outlets, 21 countries.
+- [The FBI was hacked again, this time the breach targeted its crime database](https://athenaglauxintelligence.news/event/279987.html): first reported 2026-11-21; 31 outlets, 21 countries.
 - [Young boy one of two killed in ballistic missile attack on Zelensky’s home town](https://athenaglauxintelligence.news/event/280233.html): first reported 2026-11-21; 4 outlets, 3 countries.
 - [Climate talks in overtime as nations wrestle with response to worsening global warming](https://athenaglauxintelligence.news/event/280339.html): first reported 2026-11-21; 7 outlets, 6 countries.
 - [Pentagon moves to restrict US-Canada defence ties](https://athenaglauxintelligence.news/event/281325.html): first reported 2026-11-21; 9 outlets, 7 countries.
@@ -80,11 +82,9 @@
 - [Pakistan minister Musadik Malik gets approval for Taj Mahal visit, but Nizamuddin Dargah request rejected: Report](https://athenaglauxintelligence.news/event/281638.html): first reported 2026-11-21; 3 outlets, 2 countries.
 - [Andy Burnham says EU and UK will spend a year 'brainstorming' future ties](https://athenaglauxintelligence.news/event/280030.html): first reported 2026-11-21; 6 outlets, 2 countries.
 - [Man convicted of starting deadly 2025 Palisades blaze in Los Angeles](https://athenaglauxintelligence.news/event/279509.html): first reported 2026-11-20; 16 outlets, 9 countries.
-- [24 dead in Nigeria when boat capsizes while carrying people to a funeral](https://athenaglauxintelligence.news/event/279843.html): first reported 2026-11-20; 5 outlets, 5 countries.
+- [24 dead in Nigeria when boat capsizes while carrying people to a funeral](https://athenaglauxintelligence.news/event/279843.html): first reported 2026-11-20; 6 outlets, 5 countries.
 - [Araqchi says Iran wants diplomacy to end war; Trump says terms unacceptable](https://athenaglauxintelligence.news/event/280453.html): first reported 2026-11-20; 12 outlets, 9 countries.
 - ['India is growing at 7%’: Trump uses India’s growth, RBI rates to slam Fed | Key takeaways from press briefing](https://athenaglauxintelligence.news/event/281195.html): first reported 2026-11-20; 3 outlets, 3 countries.
-- [Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60](https://athenaglauxintelligence.news/event/282159.html): first reported 2026-11-20; 9 outlets, 5 countries.
-- [Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy](https://athenaglauxintelligence.news/event/279465.html): first reported 2026-11-20; 5 outlets, 4 countries.
 
 ## Optional
 
