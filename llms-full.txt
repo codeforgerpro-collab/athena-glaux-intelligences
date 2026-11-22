@@ -46,13 +46,14 @@
 ## Latest stories
 
 - [Dubai's Nakheel raises Dh5.5bn after selling out first phase of new Palm Springs project](https://athenaglauxintelligence.news/event/288993.html): first reported 2026-11-22; 4 outlets, 1 country.
-- [COP31 climate talks break down as EU, others reject deal](https://athenaglauxintelligence.news/event/289079.html): first reported 2026-11-22; 10 outlets, 8 countries.
+- [COP31 climate talks break down as EU, others reject deal](https://athenaglauxintelligence.news/event/289079.html): first reported 2026-11-22; 16 outlets, 13 countries.
 - [Just accept Brexit and move on, Theresa May urges Andy Burnham](https://athenaglauxintelligence.news/event/288097.html): first reported 2026-11-22; 11 outlets, 8 countries.
-- ['Jewish terrorism in every sense': Eisenkot blames Smotrich and Ben Gvir for settler attacks](https://athenaglauxintelligence.news/event/287548.html): first reported 2026-11-22; 5 outlets, 4 countries.
+- ['Jewish terrorism in every sense': Eisenkot blames Smotrich and Ben Gvir for settler attacks](https://athenaglauxintelligence.news/event/287548.html): first reported 2026-11-22; 8 outlets, 7 countries.
 - [At least 14 people missing after Russian drone hit building in Kyiv region, says Zelensky](https://athenaglauxintelligence.news/event/288379.html): first reported 2026-11-22; 3 outlets, 3 countries.
 - [Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers](https://athenaglauxintelligence.news/event/288603.html): first reported 2026-11-22; 5 outlets, 3 countries.
 - [Sudan Capital Faces New Drone Threat](https://athenaglauxintelligence.news/event/288021.html): first reported 2026-11-22; 4 outlets, 4 countries.
 - [Israeli occupiers attack 4 Palestinian villages in occupied West Bank, torch vehicles](https://athenaglauxintelligence.news/event/288258.html): first reported 2026-11-22; 11 outlets, 7 countries.
+- [South Korea Education Minister Resigns Over AI Cheating Scandal](https://athenaglauxintelligence.news/event/286407.html): first reported 2026-11-22; 3 outlets, 2 countries.
 - [ICE arrests 2 at Seattle airport in 'chilling' scenes — governor](https://athenaglauxintelligence.news/event/286185.html): first reported 2026-11-22; 17 outlets, 10 countries.
 - [Australia dismisses US concerns over AUKUS submarine deal, backs overseas AI data centres](https://athenaglauxintelligence.news/event/285749.html): first reported 2026-11-22; 6 outlets, 4 countries.
 - [Fidan Blames Greek and Israeli Lobbies for Blocking S-400 Sanctions Relief](https://athenaglauxintelligence.news/event/285643.html): first reported 2026-11-21; 4 outlets, 1 country.
@@ -63,9 +64,10 @@
 - [Ukraine, UK agree to jointly produce Ukrainian middle- and deep-strike drones in Britain](https://athenaglauxintelligence.news/event/284755.html): first reported 2026-11-21; 4 outlets, 1 country.
 - [Government intervention ‘a drop in the ocean’ ahead of energy price cap rise](https://athenaglauxintelligence.news/event/284203.html): first reported 2026-11-21; 5 outlets, 1 country.
 - [Pro-Israel Hakeem Jeffries says he will push legislation targeting settler violence](https://athenaglauxintelligence.news/event/284426.html): first reported 2026-11-21; 5 outlets, 2 countries.
+- [Lithuania denies involvement in incident in Russia’s Kaliningrad Region](https://athenaglauxintelligence.news/event/284114.html): first reported 2026-11-21; 6 outlets, 4 countries.
 - [Israel, Greece eye €1 billion in new arms deals amid tensions with Turkey](https://athenaglauxintelligence.news/event/284359.html): first reported 2026-11-21; 4 outlets, 3 countries.
-- [Seven body bags recovered, 50 missing after Indonesia factory fire](https://athenaglauxintelligence.news/event/284917.html): first reported 2026-11-21; 35 outlets, 24 countries.
-- [Eisenkot invites Netanyahu's party for Israeli coalition talks](https://athenaglauxintelligence.news/event/284621.html): first reported 2026-11-21; 20 outlets, 11 countries.
+- [Seven body bags recovered, 50 missing after Indonesia factory fire](https://athenaglauxintelligence.news/event/284917.html): first reported 2026-11-21; 36 outlets, 25 countries.
+- [Eisenkot invites Netanyahu's party for Israeli coalition talks](https://athenaglauxintelligence.news/event/284621.html): first reported 2026-11-21; 21 outlets, 12 countries.
 - [Turkish intelligence chief meets Hamas delegation in Istanbul](https://athenaglauxintelligence.news/event/284440.html): first reported 2026-11-21; 3 outlets, 1 country.
 - [PM Modi Credits People For Fall In Gold Prices, Links It To His May Appeal](https://athenaglauxintelligence.news/event/283920.html): first reported 2026-11-21; 4 outlets, 1 country.
 - [Khmara prepares for international meetings in Europe in coming days – Zelensky](https://athenaglauxintelligence.news/event/283513.html): first reported 2026-11-21; 3 outlets, 3 countries.
@@ -75,7 +77,6 @@
 - [Saudi Arabia issues emergency danger alert for Mecca region](https://athenaglauxintelligence.news/event/283136.html): first reported 2026-11-21; 4 outlets, 3 countries.
 - [Russia attacks Zelensky's hometown, Ukraine reaffirms wish to join NATO](https://athenaglauxintelligence.news/event/283728.html): first reported 2026-11-21; 4 outlets, 3 countries.
 - [Constitution may be amended to permanently ban AL if needed: Shahe Alam](https://athenaglauxintelligence.news/event/283030.html): first reported 2026-11-21; 3 outlets, 1 country.
-- [Britain’s Princess Catherine reflects on life after cancer diagnosis in a new documentary](https://athenaglauxintelligence.news/event/282492.html): first reported 2026-11-21; 29 outlets, 18 countries.
 - [Bezzecchi wins Portuguese MotoGP sprint, Marc Marquez crashes](https://athenaglauxintelligence.news/event/283249.html): first reported 2026-11-21; 6 outlets, 5 countries.
 - [US denies Iranian account that missile damaged F-16 over Gulf](https://athenaglauxintelligence.news/event/283115.html): first reported 2026-11-21; 23 outlets, 14 countries.
 - [Vladimir Putin is a 'cold-blooded killer', says Wes Streeting during meeting with Volodymyr Zelenskyy in Kyiv](https://athenaglauxintelligence.news/event/282156.html): first reported 2026-11-21; 6 outlets, 2 countries.
@@ -84,7 +85,6 @@
 - [Supercell storm devastates Brazilian town](https://athenaglauxintelligence.news/event/282406.html): first reported 2026-11-21; 9 outlets, 9 countries.
 - [Russia's Wildberries CEO Steps Down Days After EU Sanctions, Media Report](https://athenaglauxintelligence.news/event/282500.html): first reported 2026-11-21; 5 outlets, 5 countries.
 - [As e-bike battery fires mount, New York weighs tougher restrictions](https://athenaglauxintelligence.news/event/282190.html): first reported 2026-11-21; 5 outlets, 5 countries.
-- [Coalition destroys Houthi ballistic missile as alerts sound in Mecca region](https://athenaglauxintelligence.news/event/282402.html): first reported 2026-11-21; 3 outlets, 2 countries.
 
 ## Optional
 
