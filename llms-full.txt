@@ -45,12 +45,12 @@
 
 ## Latest stories
 
-- [Theresa May tells PM: Brexit is done, move on](https://athenaglauxintelligence.news/event/288097.html): first reported 2026-11-22; 4 outlets, 3 countries.
-- [Israeli prime minister-designate calls occupier attacks in West Bank ‘Jewish terrorism’](https://athenaglauxintelligence.news/event/287548.html): first reported 2026-11-22; 3 outlets, 3 countries.
+- [Theresa May tells PM: Brexit is done, move on](https://athenaglauxintelligence.news/event/288097.html): first reported 2026-11-22; 7 outlets, 5 countries.
+- ['Jewish terrorism in every sense': Eisenkot blames Smotrich and Ben Gvir for settler attacks](https://athenaglauxintelligence.news/event/287548.html): first reported 2026-11-22; 4 outlets, 3 countries.
 - [At least 14 people missing after Russian drone hit building in Kyiv region, says Zelensky](https://athenaglauxintelligence.news/event/288379.html): first reported 2026-11-22; 3 outlets, 3 countries.
 - [Sudan Capital Faces New Drone Threat](https://athenaglauxintelligence.news/event/288021.html): first reported 2026-11-22; 4 outlets, 4 countries.
-- [Israeli occupiers attack 4 Palestinian villages in occupied West Bank, torch vehicles](https://athenaglauxintelligence.news/event/288258.html): first reported 2026-11-22; 6 outlets, 3 countries.
-- [ICE arrests 2 at Seattle airport in 'chilling' scenes — governor](https://athenaglauxintelligence.news/event/286185.html): first reported 2026-11-22; 15 outlets, 9 countries.
+- [Israeli occupiers attack 4 Palestinian villages in occupied West Bank, torch vehicles](https://athenaglauxintelligence.news/event/288258.html): first reported 2026-11-22; 7 outlets, 4 countries.
+- [ICE arrests 2 at Seattle airport in 'chilling' scenes — governor](https://athenaglauxintelligence.news/event/286185.html): first reported 2026-11-22; 16 outlets, 9 countries.
 - [Australia dismisses US concerns over AUKUS submarine deal, backs overseas AI data centres](https://athenaglauxintelligence.news/event/285749.html): first reported 2026-11-22; 6 outlets, 4 countries.
 - [Fidan Blames Greek and Israeli Lobbies for Blocking S-400 Sanctions Relief](https://athenaglauxintelligence.news/event/285643.html): first reported 2026-11-21; 4 outlets, 1 country.
 - [Ukraine: Dashcam captures massive explosion on Lviv street](https://athenaglauxintelligence.news/event/285333.html): first reported 2026-11-21; 3 outlets, 2 countries.
@@ -65,6 +65,7 @@
 - [Eisenkot invites Netanyahu's Likud for Israeli coalition talks](https://athenaglauxintelligence.news/event/284621.html): first reported 2026-11-21; 19 outlets, 10 countries.
 - [PM Modi Credits People For Fall In Gold Prices, Links It To His May Appeal](https://athenaglauxintelligence.news/event/283920.html): first reported 2026-11-21; 4 outlets, 1 country.
 - [Khmara prepares for international meetings in Europe in coming days – Zelensky](https://athenaglauxintelligence.news/event/283513.html): first reported 2026-11-21; 3 outlets, 3 countries.
+- [Beyond Degrees: Skills Take Centre Stage in Hiring](https://athenaglauxintelligence.news/event/284357.html): first reported 2026-11-21; 3 outlets, 3 countries.
 - [Zelenskyy meets with UK defense secretary in Kyiv](https://athenaglauxintelligence.news/event/283133.html): first reported 2026-11-21; 4 outlets, 4 countries.
 - [EU leaders’ chair proposes new cuts to EU 2028-2034 budget draft, suggests digital tax](https://athenaglauxintelligence.news/event/283247.html): first reported 2026-11-21; 8 outlets, 7 countries.
 - [Saudi Arabia issues emergency danger alert for Mecca region](https://athenaglauxintelligence.news/event/283136.html): first reported 2026-11-21; 4 outlets, 3 countries.
@@ -84,7 +85,6 @@
 - [Hamas seeks emergency talks after Israeli strike kills 3 Gaza aid workers](https://athenaglauxintelligence.news/event/283288.html): first reported 2026-11-21; 12 outlets, 11 countries.
 - [How ‘GTA VI’ surpassed all expectations](https://athenaglauxintelligence.news/event/281713.html): first reported 2026-11-21; 3 outlets, 3 countries.
 - [Iran’s seven conditions basis for reopening Strait of Hormuz, negotiations: Araghchi](https://athenaglauxintelligence.news/event/282215.html): first reported 2026-11-21; 6 outlets, 5 countries.
-- [Athlete swims Strait of Hormuz to highlight Iran war's wildlife toll](https://athenaglauxintelligence.news/event/282193.html): first reported 2026-11-21; 16 outlets, 9 countries.
 
 ## Optional
 
