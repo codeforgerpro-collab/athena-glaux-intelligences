@@ -18,9 +18,9 @@
 - [Warnings](https://athenaglauxintelligence.news/warnings.html): Official travel and safety warnings, gathered in one place.
 - [Signals](https://athenaglauxintelligence.news/signals.html): Early signals and rising stories across sections.
 - [ATHENA Signals](https://athenaglauxintelligence.news/athena-signals.html): How signals are shown and what they mean.
-- [Analysis Desk](https://athenaglauxintelligence.news/analysis-desk.html): Risk readings for security and conflict stories: score, band, confidence and what would change the reading.
-- [Analysis Desk method](https://athenaglauxintelligence.news/analysis-desk-method.html): What the Desk covers, what it reads, its limits and how to request the full method.
-- [Analysis Desk track record](https://athenaglauxintelligence.news/analysis-desk-record.html): Every published reading, logged, and how each held up after 14 days.
+- [Assessment Desk](https://athenaglauxintelligence.news/analysis-desk.html): Risk readings for security and conflict stories: score, band, confidence and what would change the reading.
+- [Assessment Desk method](https://athenaglauxintelligence.news/analysis-desk-method.html): What the Desk covers, what it reads, its limits and how to request the full method.
+- [Assessment Desk track record](https://athenaglauxintelligence.news/analysis-desk-record.html): Every published reading, logged, and how each held up after 14 days.
 - [Maritime](https://athenaglauxintelligence.news/maritime.html): Shipping, chokepoints and sea routes.
 - [Analysis and explainers](https://athenaglauxintelligence.news/analysis.html): Background to the stories.
 - [Countries](https://athenaglauxintelligence.news/countries.html): A page for each country with its stories.
@@ -32,21 +32,21 @@
 
 ## Latest stories
 
-- [Delta ground delay could affect thousands of flights ahead of Thanksgiving travel](https://athenaglauxintelligence.news/event/290308.html): first reported 2026-11-22; 5 outlets, 4 countries.
+- [Delta ground delay could affect thousands of flights ahead of Thanksgiving travel](https://athenaglauxintelligence.news/event/290308.html): first reported 2026-11-22; 6 outlets, 4 countries.
 - [Dubai's Nakheel raises Dh5.5bn after selling out first phase of new Palm Springs project](https://athenaglauxintelligence.news/event/288993.html): first reported 2026-11-22; 4 outlets, 1 country.
 - [Six killed in Russian strikes across Kyiv](https://athenaglauxintelligence.news/event/289303.html): first reported 2026-11-22; 4 outlets, 4 countries.
-- [COP31 climate talks collapse as EU and others reject deal](https://athenaglauxintelligence.news/event/289079.html): first reported 2026-11-22; 40 outlets, 26 countries.
+- [COP31 climate talks collapse as EU and others reject deal](https://athenaglauxintelligence.news/event/289079.html): first reported 2026-11-22; 43 outlets, 28 countries.
 - [Just accept Brexit and move on, Theresa May urges Andy Burnham](https://athenaglauxintelligence.news/event/288097.html): first reported 2026-11-22; 11 outlets, 8 countries.
-- [Opposition leader Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'](https://athenaglauxintelligence.news/event/287548.html): first reported 2026-11-22; 11 outlets, 9 countries.
+- [Opposition leader Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'](https://athenaglauxintelligence.news/event/287548.html): first reported 2026-11-22; 12 outlets, 10 countries.
 - [At least 14 people missing after Russian drone hit building in Kyiv region, says Zelensky](https://athenaglauxintelligence.news/event/288379.html): first reported 2026-11-22; 6 outlets, 6 countries.
 - [Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers](https://athenaglauxintelligence.news/event/288603.html): first reported 2026-11-22; 6 outlets, 4 countries.
-- [Sudan Capital Faces New Drone Threat](https://athenaglauxintelligence.news/event/288021.html): first reported 2026-11-22; 5 outlets, 5 countries.
-- [Israel investigates West Bank fires blamed on settlers](https://athenaglauxintelligence.news/event/288258.html): first reported 2026-11-22; 12 outlets, 8 countries.
+- [Sudan: Drones hit UN building, residential area in Khartoum](https://athenaglauxintelligence.news/event/288021.html): first reported 2026-11-22; 8 outlets, 8 countries.
+- [Israel investigates West Bank fires blamed on settlers](https://athenaglauxintelligence.news/event/288258.html): first reported 2026-11-22; 13 outlets, 8 countries.
+- [US intelligence chief says Putin is 'not America's friend in Ukraine'](https://athenaglauxintelligence.news/event/286897.html): first reported 2026-11-22; 4 outlets, 3 countries.
 - [South Korea Education Minister Resigns Over AI Cheating Scandal](https://athenaglauxintelligence.news/event/286407.html): first reported 2026-11-22; 3 outlets, 2 countries.
-- [ICE arrests 2 at Seattle airport in 'chilling' scenes — governor](https://athenaglauxintelligence.news/event/286185.html): first reported 2026-11-22; 17 outlets, 10 countries.
+- [Washington governor calls ICE 'out of control' after Seattle airport arrests](https://athenaglauxintelligence.news/event/286185.html): first reported 2026-11-22; 18 outlets, 10 countries.
 - [3 killed, one injured in a shooting in US State of Ohio](https://athenaglauxintelligence.news/event/286193.html): first reported 2026-11-22; 5 outlets, 5 countries.
-- [Australia dismisses US concerns over AUKUS submarine deal, backs overseas AI data centres](https://athenaglauxintelligence.news/event/285749.html): first reported 2026-11-22; 6 outlets, 4 countries.
-- [Fidan Blames Greek and Israeli Lobbies for Blocking S-400 Sanctions Relief](https://athenaglauxintelligence.news/event/285643.html): first reported 2026-11-21; 4 outlets, 1 country.
+- [Australia Criticizes US Congressional Budget Office Over AUKUS Comments](https://athenaglauxintelligence.news/event/285749.html): first reported 2026-11-22; 7 outlets, 5 countries.
 
 ## Optional
 
