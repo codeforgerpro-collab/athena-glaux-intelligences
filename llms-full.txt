@@ -45,17 +45,17 @@
 
 ## Latest stories
 
-- [European Commission presents latest sanctions package against Russia](https://athenaglauxintelligence.news/event/297842.html): first reported 2026-11-23; 4 outlets, 4 countries.
 - [Historic: Hungarian PM Magyar to visit Ukraine’s Transcarpathia region](https://athenaglauxintelligence.news/event/297254.html): first reported 2026-11-23; 5 outlets, 5 countries.
 - [Zelensky calls for four-way talks with Russia ‘as soon as possible’](https://athenaglauxintelligence.news/event/297257.html): first reported 2026-11-23; 3 outlets, 3 countries.
 - [Belgian PM De Wever sets December 31 deadline for budget talks](https://athenaglauxintelligence.news/event/297251.html): first reported 2026-11-23; 4 outlets, 4 countries.
 - [Virginia, Oregon sue Musk's SpaceX over Grok AI's creation of child sexual abuse images and videos](https://athenaglauxintelligence.news/event/297240.html): first reported 2026-11-23; 6 outlets, 4 countries.
 - [Over 450 German schools receive bomb threats](https://athenaglauxintelligence.news/event/296606.html): first reported 2026-11-23; 10 outlets, 8 countries.
-- [NATO believes Russia is ready to launch nuclear-armed satellite, German media say](https://athenaglauxintelligence.news/event/296032.html): first reported 2026-11-23; 5 outlets, 5 countries.
+- [NATO believes Russia is ready to launch nuclear-armed satellite, German media say](https://athenaglauxintelligence.news/event/296032.html): first reported 2026-11-23; 6 outlets, 6 countries.
 - [Cold weather threatens Europe's already strained gas reserves](https://athenaglauxintelligence.news/event/296448.html): first reported 2026-11-23; 3 outlets, 2 countries.
 - [Three pedestrians killed on Irish roads since Friday as man (40s) dies after being struck by car in Donegal](https://athenaglauxintelligence.news/event/296209.html): first reported 2026-11-23; 5 outlets, 2 countries.
 - [Democrats win largest US House majority since 1992: media](https://athenaglauxintelligence.news/event/295811.html): first reported 2026-11-23; 7 outlets, 6 countries.
 - [PM Modi Announces Rs 15,000-Crore Development Package For Nepal](https://athenaglauxintelligence.news/event/295200.html): first reported 2026-11-23; 4 outlets, 1 country.
+- [2-term lawmaker nominated to lead interior ministry](https://athenaglauxintelligence.news/event/295318.html): first reported 2026-11-23; 3 outlets, 1 country.
 - [Iran not to retreat its conditions under pressure, threats](https://athenaglauxintelligence.news/event/295660.html): first reported 2026-11-23; 4 outlets, 3 countries.
 - [Drone Strikes Hit Homes, UN Building In Sudan’s Capital](https://athenaglauxintelligence.news/event/296286.html): first reported 2026-11-23; 3 outlets, 2 countries.
 - [PM Modi gifts Gangajal to Nepal's Balen Shah; receives Rudraksh, Chandan from Pashupatinath in return](https://athenaglauxintelligence.news/event/294934.html): first reported 2026-11-23; 3 outlets, 1 country.
@@ -77,6 +77,7 @@
 - [Gold rebounds as traders pare bets on near-term Fed rate hikes](https://athenaglauxintelligence.news/event/293132.html): first reported 2026-11-23; 3 outlets, 3 countries.
 - [Parts of the UK brace for ‘early arrival of winter’ with snow and frost forecast](https://athenaglauxintelligence.news/event/292953.html): first reported 2026-11-23; 4 outlets, 2 countries.
 - [COP31 fails to reach consensus on Antalya Pact](https://athenaglauxintelligence.news/event/292545.html): first reported 2026-11-22; 7 outlets, 4 countries.
+- [European Commission presents latest sanctions package against Russia](https://athenaglauxintelligence.news/event/297842.html): first reported 2026-11-22; 5 outlets, 4 countries.
 - [Eurozone November flash services PMI 51.2 vs 51.8 expected](https://athenaglauxintelligence.news/event/295022.html): first reported 2026-11-22; 3 outlets, 2 countries.
 - [Retail sales volumes jump 2.2%, biggest rise since December 2021](https://athenaglauxintelligence.news/event/292495.html): first reported 2026-11-22; 3 outlets, 2 countries.
 - [US intelligence chief predicts more tech outages as systems undergo upgrades](https://athenaglauxintelligence.news/event/292989.html): first reported 2026-11-22; 6 outlets, 6 countries.
@@ -84,7 +85,6 @@
 - [Turkish Authorities Search for Lion Spotted on Outskirts of Istanbul](https://athenaglauxintelligence.news/event/292102.html): first reported 2026-11-22; 10 outlets, 6 countries.
 - [OpenAI chief scientist urges industry limits on AI development](https://athenaglauxintelligence.news/event/292326.html): first reported 2026-11-22; 7 outlets, 5 countries.
 - [Trump to welcome investors at gala for his plunging meme coin](https://athenaglauxintelligence.news/event/292668.html): first reported 2026-11-22; 20 outlets, 14 countries.
-- [Presidential villa suffers water and power cuts, Nigerian leader says](https://athenaglauxintelligence.news/event/291908.html): first reported 2026-11-22; 8 outlets, 6 countries.
 
 ## Optional
 
