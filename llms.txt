@@ -32,6 +32,7 @@
 
 ## Latest stories
 
+- [Landmine blast kills 5 children in northwest Syria: state media](https://athenaglauxintelligence.news/event/290515.html): first reported 2026-11-22; 5 outlets, 3 countries.
 - [US ports face surge in cyberattack attempts, threatening vital trade routes: Report](https://athenaglauxintelligence.news/event/290761.html): first reported 2026-11-22; 3 outlets, 2 countries.
 - [Canada’s PM appears next to Trump impersonator at press dinner](https://athenaglauxintelligence.news/event/291322.html): first reported 2026-11-22; 3 outlets, 3 countries.
 - [Delta flights in and out of Atlanta delayed due to system outage](https://athenaglauxintelligence.news/event/290308.html): first reported 2026-11-22; 14 outlets, 8 countries.
@@ -40,13 +41,12 @@
 - [Body of third victim recovered from rubble of building in Dymer, Kyiv region](https://athenaglauxintelligence.news/event/288967.html): first reported 2026-11-22; 3 outlets, 2 countries.
 - [Dubai's Nakheel raises Dh5.5bn after selling out first phase of new Palm Springs project](https://athenaglauxintelligence.news/event/288993.html): first reported 2026-11-22; 4 outlets, 1 country.
 - [Russian strike kills two in collapsed block of flats near Kyiv](https://athenaglauxintelligence.news/event/289303.html): first reported 2026-11-22; 5 outlets, 5 countries.
-- [COP31 climate talks collapse as EU and others reject deal](https://athenaglauxintelligence.news/event/289079.html): first reported 2026-11-22; 54 outlets, 32 countries.
+- [COP31 climate talks collapse as EU and others reject deal](https://athenaglauxintelligence.news/event/289079.html): first reported 2026-11-22; 55 outlets, 32 countries.
 - [Just accept Brexit and move on, Theresa May urges Andy Burnham](https://athenaglauxintelligence.news/event/288097.html): first reported 2026-11-22; 13 outlets, 9 countries.
-- [Opposition leader Gadi Eisenkot calls West Bank arson attacks 'Jewish terrorism'](https://athenaglauxintelligence.news/event/287548.html): first reported 2026-11-22; 15 outlets, 12 countries.
+- ['Jewish terrorism': Eisenkot condemns West Bank arson attacks](https://athenaglauxintelligence.news/event/287548.html): first reported 2026-11-22; 16 outlets, 12 countries.
 - [Israel expands 'Yellow Line' of control in Gaza's Maghazi camp](https://athenaglauxintelligence.news/event/287597.html): first reported 2026-11-22; 3 outlets, 2 countries.
 - [Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers](https://athenaglauxintelligence.news/event/288603.html): first reported 2026-11-22; 7 outlets, 5 countries.
-- [Sudan: Drones hit UN building, residential area in Khartoum](https://athenaglauxintelligence.news/event/288021.html): first reported 2026-11-22; 10 outlets, 9 countries.
-- [Israel investigates West Bank fires blamed on settlers](https://athenaglauxintelligence.news/event/288258.html): first reported 2026-11-22; 13 outlets, 8 countries.
+- [Sudan: Drones hit UN building, residential area in Khartoum](https://athenaglauxintelligence.news/event/288021.html): first reported 2026-11-22; 11 outlets, 9 countries.
 
 ## Optional
 
