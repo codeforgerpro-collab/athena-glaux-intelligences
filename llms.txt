@@ -33,11 +33,10 @@
 ## Latest stories
 
 - [Spotify back online after brief outage, Downdetector shows](https://athenaglauxintelligence.news/event/304079.html): first reported 2026-11-24; 5 outlets, 3 countries.
-- [2 arrested on suspicion of burglary, trespass at Prince William’s country home](https://athenaglauxintelligence.news/event/304084.html): first reported 2026-11-24; 11 outlets, 8 countries.
+- [2 arrested on suspicion of burglary, trespass at Prince William’s country home](https://athenaglauxintelligence.news/event/304084.html): first reported 2026-11-24; 12 outlets, 9 countries.
 - [Anthropic falls below $83 IPO price in swift reversal after record listing](https://athenaglauxintelligence.news/event/304345.html): first reported 2026-11-24; 3 outlets, 2 countries.
-- [England logged record 5,258 heat-linked deaths this summer: health agency](https://athenaglauxintelligence.news/event/303996.html): first reported 2026-11-24; 5 outlets, 3 countries.
+- [England logged record 5,258 heat-linked deaths this summer: health agency](https://athenaglauxintelligence.news/event/303996.html): first reported 2026-11-24; 6 outlets, 4 countries.
 - [Port of Gothenburg Invests in Electrification Infrastructure for Container Terminal](https://athenaglauxintelligence.news/event/303680.html): first reported 2026-11-24; 3 outlets, 2 countries.
-- [Kyiv Defends Strike on Russian Corvette in Libya as Act of Self-Defense](https://athenaglauxintelligence.news/event/304166.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Japan accelerates ICC funding as US sanctions threaten court](https://athenaglauxintelligence.news/event/302331.html): first reported 2026-11-24; 3 outlets, 3 countries.
 - [‘Alliance is necessity, not choice’: Congress' Raj Kumar Verka targets BJP-SAD tie-up in Punjab](https://athenaglauxintelligence.news/event/304591.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Lithuanian prepaid SIM cards found in Russian drones used against Ukraine – media](https://athenaglauxintelligence.news/event/303192.html): first reported 2026-11-24; 3 outlets, 3 countries.
@@ -47,6 +46,7 @@
 - [Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims](https://athenaglauxintelligence.news/event/303325.html): first reported 2026-11-24; 3 outlets, 3 countries.
 - [Pakistani astronaut set to make history as first foreigner aboard China's space station](https://athenaglauxintelligence.news/event/303575.html): first reported 2026-11-24; 6 outlets, 5 countries.
 - [UK warns of Russian sabotage threat to companies that supply Ukraine](https://athenaglauxintelligence.news/event/301443.html): first reported 2026-11-24; 4 outlets, 4 countries.
+- [Tech giants to face billions of dollars in fines under Australian internet safety bill](https://athenaglauxintelligence.news/event/302855.html): first reported 2026-11-24; 6 outlets, 6 countries.
 
 ## Optional
 
