@@ -46,12 +46,15 @@
 ## Latest stories
 
 - [Spotify back online after brief outage, Downdetector shows](https://athenaglauxintelligence.news/event/304079.html): first reported 2026-11-24; 5 outlets, 3 countries.
+- [2 arrested on suspicion of burglary, trespass at Prince William’s country home](https://athenaglauxintelligence.news/event/304084.html): first reported 2026-11-24; 8 outlets, 6 countries.
 - [England logged record 5,258 heat-linked deaths this summer: health agency](https://athenaglauxintelligence.news/event/303996.html): first reported 2026-11-24; 5 outlets, 3 countries.
+- [Kyiv Defends Strike on Russian Corvette in Libya as Act of Self-Defense](https://athenaglauxintelligence.news/event/304166.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Japan accelerates ICC funding as US sanctions threaten court](https://athenaglauxintelligence.news/event/302331.html): first reported 2026-11-24; 3 outlets, 3 countries.
 - [‘Alliance is necessity, not choice’: Congress' Raj Kumar Verka targets BJP-SAD tie-up in Punjab](https://athenaglauxintelligence.news/event/304591.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Lithuanian prepaid SIM cards found in Russian drones used against Ukraine – media](https://athenaglauxintelligence.news/event/303192.html): first reported 2026-11-24; 3 outlets, 3 countries.
-- [German public opinion shifts against military aid to Ukraine](https://athenaglauxintelligence.news/event/302914.html): first reported 2026-11-24; 4 outlets, 4 countries.
+- [German public opinion shifts against military aid to Ukraine](https://athenaglauxintelligence.news/event/302914.html): first reported 2026-11-24; 5 outlets, 4 countries.
 - [Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims](https://athenaglauxintelligence.news/event/303325.html): first reported 2026-11-24; 3 outlets, 3 countries.
+- [Pakistani astronaut set to make history as first foreigner aboard China's space station](https://athenaglauxintelligence.news/event/303575.html): first reported 2026-11-24; 5 outlets, 4 countries.
 - [Asian Stocks Rally as Huang’s Return to Nvidia Revives the AI Trade](https://athenaglauxintelligence.news/event/301585.html): first reported 2026-11-24; 4 outlets, 4 countries.
 - [Tech giants to face billions of dollars in fines under Australian internet safety bill](https://athenaglauxintelligence.news/event/302855.html): first reported 2026-11-24; 6 outlets, 6 countries.
 - [Magnitude 5.3 earthquake strikes Nepal, rattles eastern India](https://athenaglauxintelligence.news/event/301176.html): first reported 2026-11-24; 7 outlets, 3 countries.
@@ -64,15 +67,15 @@
 - [Singapore raises 2026 growth forecast to ‘around 6%’; Q3 GDP revised up at 6.1%](https://athenaglauxintelligence.news/event/300640.html): first reported 2026-11-24; 5 outlets, 3 countries.
 - [CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses](https://athenaglauxintelligence.news/event/300519.html): first reported 2026-11-23; 4 outlets, 2 countries.
 - [Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review](https://athenaglauxintelligence.news/event/302146.html): first reported 2026-11-23; 3 outlets, 3 countries.
-- [(4th LD) S. Korea briefly issues alert on eastern island after Russian warplanes near airspace](https://athenaglauxintelligence.news/event/300558.html): first reported 2026-11-23; 17 outlets, 10 countries.
+- [(4th LD) S. Korea briefly issues alert on eastern island after Russian warplanes near airspace](https://athenaglauxintelligence.news/event/300558.html): first reported 2026-11-23; 19 outlets, 11 countries.
 - [U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy](https://athenaglauxintelligence.news/event/300926.html): first reported 2026-11-23; 7 outlets, 4 countries.
 - [N. Korea threatens to close Swiss office in Pyongyang over sanctions on children's camp](https://athenaglauxintelligence.news/event/300944.html): first reported 2026-11-23; 11 outlets, 9 countries.
 - [Indonesia Factory Fire Kills 26 as Rescuers Search for Missing Workers](https://athenaglauxintelligence.news/event/300013.html): first reported 2026-11-23; 6 outlets, 5 countries.
 - [Qatar working to resume talks between US and Iran](https://athenaglauxintelligence.news/event/300557.html): first reported 2026-11-23; 7 outlets, 6 countries.
 - [Former HSE director general questions minister’s role in Anne O’Connor’s sacking](https://athenaglauxintelligence.news/event/302619.html): first reported 2026-11-23; 5 outlets, 1 country.
-- [Libyan prime minister warns military groups against dragging Libya into Russia-Ukraine war](https://athenaglauxintelligence.news/event/300853.html): first reported 2026-11-23; 3 outlets, 3 countries.
+- [Italy warns Ukraine war risks spreading to Mediterranean after attack on Russian ship in Libya](https://athenaglauxintelligence.news/event/300853.html): first reported 2026-11-23; 3 outlets, 3 countries.
 - [Rep. Jimmy Gomez to resign after House ethics panel sexual misconduct report](https://athenaglauxintelligence.news/event/299942.html): first reported 2026-11-23; 7 outlets, 3 countries.
-- [US Imposes Sanctions on Dozens Linked to Iran’s Shadow Banking Networks](https://athenaglauxintelligence.news/event/299669.html): first reported 2026-11-23; 10 outlets, 8 countries.
+- [US Imposes Sanctions on Dozens Linked to Iran’s Shadow Banking Networks](https://athenaglauxintelligence.news/event/299669.html): first reported 2026-11-23; 11 outlets, 9 countries.
 - [Germany to become first country granted access to Ukraine’s DELTA combat system](https://athenaglauxintelligence.news/event/299765.html): first reported 2026-11-23; 5 outlets, 3 countries.
 - [Saurav Das says ‘passport discrepancies’ cited to stop him from flying to London](https://athenaglauxintelligence.news/event/300313.html): first reported 2026-11-23; 8 outlets, 2 countries.
 - [Gisele Pelicot 'shocked' after publisher uses nude images in book campaign](https://athenaglauxintelligence.news/event/299670.html): first reported 2026-11-23; 10 outlets, 4 countries.
@@ -82,9 +85,6 @@
 - [Eight weeks of part-time work for €3k up for grabs as Census 2027 jobs open](https://athenaglauxintelligence.news/event/301813.html): first reported 2026-11-23; 3 outlets, 2 countries.
 - [Moscow accuses Estonia of hostile actions on ‘verge of triggering open war’](https://athenaglauxintelligence.news/event/298536.html): first reported 2026-11-23; 9 outlets, 9 countries.
 - [Microsoft Azure flaw exploited to steal customers' API credentials](https://athenaglauxintelligence.news/event/300075.html): first reported 2026-11-23; 5 outlets, 3 countries.
-- [GTA VI hacker released despite being sentenced to 7 years in UK prison](https://athenaglauxintelligence.news/event/299039.html): first reported 2026-11-23; 11 outlets, 6 countries.
-- [German-Ukrainian SPYS interceptor drone shoots down Russian jet-powered Geran-5](https://athenaglauxintelligence.news/event/298564.html): first reported 2026-11-23; 3 outlets, 2 countries.
-- [Trump to Meet NATO Chief Mark Rutte on Wednesday, White House Says](https://athenaglauxintelligence.news/event/298566.html): first reported 2026-11-23; 7 outlets, 4 countries.
 
 ## Optional
 
