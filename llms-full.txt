@@ -46,10 +46,11 @@
 ## Latest stories
 
 - [Spotify back online after brief outage, Downdetector shows](https://athenaglauxintelligence.news/event/304079.html): first reported 2026-11-24; 5 outlets, 3 countries.
-- [2 arrested on suspicion of burglary, trespass at Prince William’s country home](https://athenaglauxintelligence.news/event/304084.html): first reported 2026-11-24; 12 outlets, 9 countries.
+- [2 arrested on suspicion of burglary, trespass at Prince William’s country home](https://athenaglauxintelligence.news/event/304084.html): first reported 2026-11-24; 15 outlets, 10 countries.
 - [Anthropic falls below $83 IPO price in swift reversal after record listing](https://athenaglauxintelligence.news/event/304345.html): first reported 2026-11-24; 3 outlets, 2 countries.
 - [England logged record 5,258 heat-linked deaths this summer: health agency](https://athenaglauxintelligence.news/event/303996.html): first reported 2026-11-24; 6 outlets, 4 countries.
 - [Port of Gothenburg Invests in Electrification Infrastructure for Container Terminal](https://athenaglauxintelligence.news/event/303680.html): first reported 2026-11-24; 3 outlets, 2 countries.
+- [Kurdistan rejects Baghdad takeover of border crossings, oil fields](https://athenaglauxintelligence.news/event/304312.html): first reported 2026-11-24; 5 outlets, 5 countries.
 - [Japan accelerates ICC funding as US sanctions threaten court](https://athenaglauxintelligence.news/event/302331.html): first reported 2026-11-24; 3 outlets, 3 countries.
 - [‘Alliance is necessity, not choice’: Congress' Raj Kumar Verka targets BJP-SAD tie-up in Punjab](https://athenaglauxintelligence.news/event/304591.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Lithuanian prepaid SIM cards found in Russian drones used against Ukraine – media](https://athenaglauxintelligence.news/event/303192.html): first reported 2026-11-24; 3 outlets, 3 countries.
@@ -57,7 +58,7 @@
 - [Iraqi PM orders ministry to manage oilfields in areas under Kurdish control](https://athenaglauxintelligence.news/event/303564.html): first reported 2026-11-24; 3 outlets, 3 countries.
 - [German public opinion shifts against military aid to Ukraine](https://athenaglauxintelligence.news/event/302914.html): first reported 2026-11-24; 5 outlets, 4 countries.
 - [Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims](https://athenaglauxintelligence.news/event/303325.html): first reported 2026-11-24; 3 outlets, 3 countries.
-- [Pakistani astronaut set to make history as first foreigner aboard China's space station](https://athenaglauxintelligence.news/event/303575.html): first reported 2026-11-24; 6 outlets, 5 countries.
+- [Pakistani astronaut set to make history as first foreigner aboard China's space station](https://athenaglauxintelligence.news/event/303575.html): first reported 2026-11-24; 8 outlets, 7 countries.
 - [UK warns of Russian sabotage threat to companies that supply Ukraine](https://athenaglauxintelligence.news/event/301443.html): first reported 2026-11-24; 4 outlets, 4 countries.
 - [Tech giants to face billions of dollars in fines under Australian internet safety bill](https://athenaglauxintelligence.news/event/302855.html): first reported 2026-11-24; 6 outlets, 6 countries.
 - [Magnitude 5.3 earthquake strikes Nepal, rattles eastern India](https://athenaglauxintelligence.news/event/301176.html): first reported 2026-11-24; 7 outlets, 3 countries.
@@ -82,9 +83,8 @@
 - [US Imposes Sanctions on Dozens Linked to Iran’s Shadow Banking Networks](https://athenaglauxintelligence.news/event/299669.html): first reported 2026-11-23; 11 outlets, 9 countries.
 - [Germany to become first country granted access to Ukraine’s DELTA combat system](https://athenaglauxintelligence.news/event/299765.html): first reported 2026-11-23; 5 outlets, 3 countries.
 - [CJP Co-Convenor Saurav Das stopped from flying to London amid document scrutiny](https://athenaglauxintelligence.news/event/300313.html): first reported 2026-11-23; 8 outlets, 2 countries.
-- [Gisele Pelicot 'shocked' after publisher uses nude images in book campaign](https://athenaglauxintelligence.news/event/299670.html): first reported 2026-11-23; 10 outlets, 4 countries.
+- [Gisele Pelicot 'shocked' after publisher uses nude images in book campaign](https://athenaglauxintelligence.news/event/299670.html): first reported 2026-11-23; 11 outlets, 5 countries.
 - [Trump attacks Newsom over death row commutations, governor fires back](https://athenaglauxintelligence.news/event/299622.html): first reported 2026-11-23; 11 outlets, 8 countries.
-- [Zelenskiy says intelligence shows Russia planning new strikes on Ukraine](https://athenaglauxintelligence.news/event/300128.html): first reported 2026-11-23; 6 outlets, 5 countries.
 
 ## Optional
 
