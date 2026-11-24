@@ -46,8 +46,9 @@
 ## Latest stories
 
 - [Spotify back online after brief outage, Downdetector shows](https://athenaglauxintelligence.news/event/304079.html): first reported 2026-11-24; 5 outlets, 3 countries.
-- [2 arrested on suspicion of burglary, trespass at Prince William’s country home](https://athenaglauxintelligence.news/event/304084.html): first reported 2026-11-24; 8 outlets, 6 countries.
+- [2 arrested on suspicion of burglary, trespass at Prince William’s country home](https://athenaglauxintelligence.news/event/304084.html): first reported 2026-11-24; 11 outlets, 8 countries.
 - [England logged record 5,258 heat-linked deaths this summer: health agency](https://athenaglauxintelligence.news/event/303996.html): first reported 2026-11-24; 5 outlets, 3 countries.
+- [Port of Gothenburg Invests in Electrification Infrastructure for Container Terminal](https://athenaglauxintelligence.news/event/303680.html): first reported 2026-11-24; 3 outlets, 2 countries.
 - [Kyiv Defends Strike on Russian Corvette in Libya as Act of Self-Defense](https://athenaglauxintelligence.news/event/304166.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Japan accelerates ICC funding as US sanctions threaten court](https://athenaglauxintelligence.news/event/302331.html): first reported 2026-11-24; 3 outlets, 3 countries.
 - [‘Alliance is necessity, not choice’: Congress' Raj Kumar Verka targets BJP-SAD tie-up in Punjab](https://athenaglauxintelligence.news/event/304591.html): first reported 2026-11-24; 3 outlets, 1 country.
@@ -84,7 +85,6 @@
 - [UN food agency chief warns wars jeopardize food aid for 7.3 million more people](https://athenaglauxintelligence.news/event/300683.html): first reported 2026-11-23; 6 outlets, 6 countries.
 - [Eight weeks of part-time work for €3k up for grabs as Census 2027 jobs open](https://athenaglauxintelligence.news/event/301813.html): first reported 2026-11-23; 3 outlets, 2 countries.
 - [Moscow accuses Estonia of hostile actions on ‘verge of triggering open war’](https://athenaglauxintelligence.news/event/298536.html): first reported 2026-11-23; 9 outlets, 9 countries.
-- [Microsoft Azure flaw exploited to steal customers' API credentials](https://athenaglauxintelligence.news/event/300075.html): first reported 2026-11-23; 5 outlets, 3 countries.
 
 ## Optional
 
