@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-25T13:33:01Z",
+ "generated": "2026-11-25T13:52:20Z",
  "window_days": 7,
  "language": "el",
- "count": 976,
+ "count": 969,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -42,11 +42,11 @@
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-25T05:36:26Z",
    "last_reported": "2026-11-25T12:57:59Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 4.0,
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 5.1,
    "risk_band": "elevated",
-   "confidence_pct": 70,
+   "confidence_pct": 77,
    "status": "peaking"
   },
   {
@@ -503,12 +503,12 @@
    "title": "Uzbekistan and Jordan to expand pharmaceutical cooperation",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-24T13:03:24Z",
-   "last_reported": "2026-11-25T04:00:59Z",
+   "last_reported": "2026-11-25T09:10:00Z",
    "outlets": 4,
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 64,
+   "confidence_pct": 63,
    "status": "fading"
   },
   {
@@ -923,12 +923,12 @@
    "title": "2027: Court sacks Omo-Agege as NDC Senatorial candidate for Delta",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-24T07:36:42Z",
-   "last_reported": "2026-11-25T08:28:16Z",
-   "outlets": 8,
+   "last_reported": "2026-11-25T12:30:19Z",
+   "outlets": 9,
    "countries": 1,
    "risk_score": 5.2,
    "risk_band": "elevated",
-   "confidence_pct": 75,
+   "confidence_pct": 76,
    "status": "fading"
   },
   {
@@ -1161,12 +1161,12 @@
    "title": "Utah drops charges against Kalshi after company halts operations there",
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-24T04:28:02Z",
-   "last_reported": "2026-11-24T22:00:51Z",
-   "outlets": 6,
+   "last_reported": "2026-11-25T01:29:46Z",
+   "outlets": 7,
    "countries": 1,
-   "risk_score": 1.1,
+   "risk_score": 1.0,
    "risk_band": "low",
-   "confidence_pct": 65,
+   "confidence_pct": 69,
    "status": "fading"
   },
   {
@@ -1347,7 +1347,7 @@
    "outlets": 20,
    "countries": 14,
    "risk_score": 6.0,
-   "risk_band": "high",
+   "risk_band": "elevated",
    "confidence_pct": 93,
    "status": "fading"
   },
@@ -1606,15 +1606,15 @@
   {
    "id": 301393,
    "url": "https://athenaglauxintelligence.news/el/event/301393.html",
-   "title": "Morocco asks CAS to delay AFCON ruling notification over alleged arbitrator’s call",
+   "title": "MOROCCO REJECTS CAS RULING, VOWS TO CONTINUE LEGAL BATTLE OVER AFCON TITLE",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-23T20:45:49Z",
    "last_reported": "2026-11-25T08:10:44Z",
    "outlets": 5,
    "countries": 5,
-   "risk_score": 0.9,
+   "risk_score": 0.8,
    "risk_band": "low",
-   "confidence_pct": 78,
+   "confidence_pct": 79,
    "status": "fading"
   },
   {
@@ -2869,8 +2869,8 @@
    "title": "Senegal vs Morocco Afcon verdict: CAS ruling explained and what happens next",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-23T09:48:15Z",
-   "last_reported": "2026-11-25T08:15:56Z",
-   "outlets": 54,
+   "last_reported": "2026-11-25T12:36:48Z",
+   "outlets": 55,
    "countries": 29,
    "risk_score": 1.9,
    "risk_band": "low",
@@ -4348,20 +4348,6 @@
    "status": "fading"
   },
   {
-   "id": 309354,
-   "url": "https://athenaglauxintelligence.news/el/event/309354.html",
-   "title": "COP31: Nigeria absent at closing plenary",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-22T18:04:04Z",
-   "last_reported": "2026-11-24T23:30:00Z",
-   "outlets": 8,
-   "countries": 2,
-   "risk_score": 1.0,
-   "risk_band": "low",
-   "confidence_pct": 78,
-   "status": "fading"
-  },
-  {
    "id": 290515,
    "url": "https://athenaglauxintelligence.news/el/event/290515.html",
    "title": "Landmine blast kills 5 children in northwest Syria: state media",
@@ -5244,20 +5230,6 @@
    "status": "fading"
   },
   {
-   "id": 285749,
-   "url": "https://athenaglauxintelligence.news/el/event/285749.html",
-   "title": "Australia Criticizes US Congressional Budget Office Over AUKUS Comments",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-22T00:07:49Z",
-   "last_reported": "2026-11-23T12:23:14Z",
-   "outlets": 12,
-   "countries": 7,
-   "risk_score": 1.2,
-   "risk_band": "low",
-   "confidence_pct": 91,
-   "status": "fading"
-  },
-  {
    "id": 285643,
    "url": "https://athenaglauxintelligence.news/el/event/285643.html",
    "title": "Fidan Blames Greek and Israeli Lobbies for Blocking S-400 Sanctions Relief",
@@ -5872,20 +5844,6 @@
    "risk_band": "elevated",
    "confidence_pct": 55,
    "status": "emerging"
-  },
-  {
-   "id": 307468,
-   "url": "https://athenaglauxintelligence.news/el/event/307468.html",
-   "title": "23 civilians killed in airstrikes in Yemen",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-21T12:54:45Z",
-   "last_reported": "2026-11-25T09:00:53Z",
-   "outlets": 20,
-   "countries": 14,
-   "risk_score": 6.0,
-   "risk_band": "elevated",
-   "confidence_pct": 91,
-   "status": "fading"
   },
   {
    "id": 283960,
@@ -13614,62 +13572,6 @@
    "risk_band": "none detected",
    "confidence_pct": 78,
    "status": "fading"
-  },
-  {
-   "id": 258349,
-   "url": "https://athenaglauxintelligence.news/el/event/258349.html",
-   "title": "Former Prime Minister Mosisili of Lesotho to lead Commonwealth election observation mission to The Gambia",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-18T13:46:21Z",
-   "last_reported": "2026-11-19T07:28:03Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 74,
-   "status": "fading"
-  },
-  {
-   "id": 256722,
-   "url": "https://athenaglauxintelligence.news/el/event/256722.html",
-   "title": "Houthi attacks on Saudi Arabia",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-18T13:45:09Z",
-   "last_reported": "2026-11-19T16:46:31Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 6.2,
-   "risk_band": "high",
-   "confidence_pct": 75,
-   "status": "fading"
-  },
-  {
-   "id": 256870,
-   "url": "https://athenaglauxintelligence.news/el/event/256870.html",
-   "title": "North Korea expanding original uranium enrichment facility, UN nuclear watchdog says",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-18T13:42:39Z",
-   "last_reported": "2026-11-19T09:16:47Z",
-   "outlets": 10,
-   "countries": 9,
-   "risk_score": 1.0,
-   "risk_band": "low",
-   "confidence_pct": 91,
-   "status": "fading"
-  },
-  {
-   "id": 258393,
-   "url": "https://athenaglauxintelligence.news/el/event/258393.html",
-   "title": "Aamer Jamal, Razaullah strike for Pakistan as Sri Lanka lose two wickets early on day three of second Test",
-   "section": "Επιχειρήσεις",
-   "first_reported": "2026-11-18T13:39:06Z",
-   "last_reported": "2026-11-19T08:00:41Z",
-   "outlets": 6,
-   "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 74,
-   "status": "peaking"
   }
  ]
 }
