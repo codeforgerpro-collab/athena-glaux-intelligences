@@ -29,11 +29,14 @@
 - [How this is produced](https://athenaglauxintelligence.news/how.html): How stories are collected, grouped and assessed.
 - [Contact](https://athenaglauxintelligence.news/contact.html): Write to the editors.
 - [News feed (RSS)](https://athenaglauxintelligence.news/feed.xml): The newest stories as a feed.
+- [Open data (JSON)](https://athenaglauxintelligence.news/data/events.json): Scored stories of the last 7 days: outlets, countries, risk score, confidence. A CSV is next to it.
 
 ## Latest stories
 
+- [Israel's genocidal actions are preventing births in Gaza](https://athenaglauxintelligence.news/event/310018.html): first reported 2026-11-25; 3 outlets, 2 countries.
 - [Cybersecurity Breach Reported At CIA And National Intelligence Director’s Office](https://athenaglauxintelligence.news/event/307944.html): first reported 2026-11-24; 16 outlets, 9 countries.
-- [China's Huawei convicted in sprawling US criminal trial over Iran business](https://athenaglauxintelligence.news/event/308462.html): first reported 2026-11-24; 29 outlets, 19 countries.
+- [‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper](https://athenaglauxintelligence.news/event/308650.html): first reported 2026-11-24; 5 outlets, 3 countries.
+- [China's Huawei convicted in sprawling US criminal trial over Iran business](https://athenaglauxintelligence.news/event/308462.html): first reported 2026-11-24; 31 outlets, 21 countries.
 - [Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation](https://athenaglauxintelligence.news/event/307026.html): first reported 2026-11-24; 6 outlets, 6 countries.
 - [End Western ‘irresolution’ to show Putin he can’t win in Ukraine, says Johnson](https://athenaglauxintelligence.news/event/305957.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Senior member of Turkish ruling party resigns amid fund probe](https://athenaglauxintelligence.news/event/309073.html): first reported 2026-11-24; 4 outlets, 4 countries.
@@ -45,8 +48,6 @@
 - [Insiders say Anthropic, OpenAI struggle to contain unreleased AI models: Axios](https://athenaglauxintelligence.news/event/305280.html): first reported 2026-11-24; 6 outlets, 3 countries.
 - [Houthis hit Riyadh’s tallest tower, 11 wounded, Saudi Civil defense says](https://athenaglauxintelligence.news/event/306606.html): first reported 2026-11-24; 10 outlets, 8 countries.
 - [Russian strike kills two people in Ukraine's Odesa region, governor says](https://athenaglauxintelligence.news/event/306215.html): first reported 2026-11-24; 3 outlets, 2 countries.
-- [Central Bank launches electronic payment system to replace manual cheques](https://athenaglauxintelligence.news/event/305604.html): first reported 2026-11-24; 3 outlets, 1 country.
-- [Uzbekistan, Jordan agree to elevate relations to strategic partnership](https://athenaglauxintelligence.news/event/304877.html): first reported 2026-11-24; 4 outlets, 2 countries.
 
 ## Optional
 

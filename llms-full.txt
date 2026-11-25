@@ -42,11 +42,14 @@
 - [How this is produced](https://athenaglauxintelligence.news/how.html): How stories are collected, grouped and assessed.
 - [Contact](https://athenaglauxintelligence.news/contact.html): Write to the editors.
 - [News feed (RSS)](https://athenaglauxintelligence.news/feed.xml): The newest stories as a feed.
+- [Open data (JSON)](https://athenaglauxintelligence.news/data/events.json): Scored stories of the last 7 days: outlets, countries, risk score, confidence. A CSV is next to it.
 
 ## Latest stories
 
+- [Israel's genocidal actions are preventing births in Gaza](https://athenaglauxintelligence.news/event/310018.html): first reported 2026-11-25; 3 outlets, 2 countries.
 - [Cybersecurity Breach Reported At CIA And National Intelligence Director’s Office](https://athenaglauxintelligence.news/event/307944.html): first reported 2026-11-24; 16 outlets, 9 countries.
-- [China's Huawei convicted in sprawling US criminal trial over Iran business](https://athenaglauxintelligence.news/event/308462.html): first reported 2026-11-24; 29 outlets, 19 countries.
+- [‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper](https://athenaglauxintelligence.news/event/308650.html): first reported 2026-11-24; 5 outlets, 3 countries.
+- [China's Huawei convicted in sprawling US criminal trial over Iran business](https://athenaglauxintelligence.news/event/308462.html): first reported 2026-11-24; 31 outlets, 21 countries.
 - [Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation](https://athenaglauxintelligence.news/event/307026.html): first reported 2026-11-24; 6 outlets, 6 countries.
 - [End Western ‘irresolution’ to show Putin he can’t win in Ukraine, says Johnson](https://athenaglauxintelligence.news/event/305957.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Senior member of Turkish ruling party resigns amid fund probe](https://athenaglauxintelligence.news/event/309073.html): first reported 2026-11-24; 4 outlets, 4 countries.
@@ -79,12 +82,10 @@
 - [Death toll in Israel’s genocidal war on Gaza rises to 74,746](https://athenaglauxintelligence.news/event/305517.html): first reported 2026-11-24; 3 outlets, 2 countries.
 - [S. Korea's foreign ministry expresses regret to Russia over warplanes' KADIZ entry](https://athenaglauxintelligence.news/event/302860.html): first reported 2026-11-24; 3 outlets, 2 countries.
 - [Poll: 53% of Germans oppose continued military aid to Ukraine](https://athenaglauxintelligence.news/event/302914.html): first reported 2026-11-24; 8 outlets, 6 countries.
-- [US envoy calls resetting Russia-Europe relations 'big prize' of Ukraine talks](https://athenaglauxintelligence.news/event/303378.html): first reported 2026-11-24; 3 outlets, 3 countries.
 - [Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims](https://athenaglauxintelligence.news/event/303325.html): first reported 2026-11-24; 4 outlets, 4 countries.
 - [Vaibhav Sooryavanshi’s 53-ball 204 powers India A into Asia Cup Rising Stars semifinals](https://athenaglauxintelligence.news/event/302447.html): first reported 2026-11-24; 14 outlets, 7 countries.
 - [Utah drops charges against Kalshi after company halts operations there](https://athenaglauxintelligence.news/event/304260.html): first reported 2026-11-24; 6 outlets, 1 country.
-- [China’s Shenzhou-24 space flight takes off with Pakistani national as first foreign astronaut](https://athenaglauxintelligence.news/event/303575.html): first reported 2026-11-24; 21 outlets, 16 countries.
-- [Seatrium to Cut 2% of Singapore Workforce in Yard Shake-Up](https://athenaglauxintelligence.news/event/301572.html): first reported 2026-11-24; 6 outlets, 3 countries.
+- [China’s Shenzhou-24 space flight takes off with Pakistani national as first foreign astronaut](https://athenaglauxintelligence.news/event/303575.html): first reported 2026-11-24; 22 outlets, 17 countries.
 
 ## Optional
 
