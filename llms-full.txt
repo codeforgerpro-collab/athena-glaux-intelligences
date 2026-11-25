@@ -47,6 +47,7 @@
 
 - [Cybersecurity Breach Reported At CIA And National Intelligence Director’s Office](https://athenaglauxintelligence.news/event/307944.html): first reported 2026-11-24; 6 outlets, 6 countries.
 - [China's Huawei convicted in sprawling US criminal trial over Iran business](https://athenaglauxintelligence.news/event/308462.html): first reported 2026-11-24; 7 outlets, 7 countries.
+- [Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants](https://athenaglauxintelligence.news/event/307026.html): first reported 2026-11-24; 4 outlets, 4 countries.
 - [Turkish military helicopter crash kills 5 during training flight](https://athenaglauxintelligence.news/event/306672.html): first reported 2026-11-24; 8 outlets, 6 countries.
 - [Israeli Defense Minister Says Iran Developing Chemical Weapons](https://athenaglauxintelligence.news/event/306408.html): first reported 2026-11-24; 7 outlets, 5 countries.
 - [11 injured as Riyadh skyscraper hit second time in less than a week](https://athenaglauxintelligence.news/event/306606.html): first reported 2026-11-24; 4 outlets, 4 countries.
@@ -57,6 +58,7 @@
 - [England logged record 5,258 heat-linked deaths this summer: health agency](https://athenaglauxintelligence.news/event/303996.html): first reported 2026-11-24; 10 outlets, 6 countries.
 - [Norway and Ukraine to Expand Cooperation on Anti-Drone System](https://athenaglauxintelligence.news/event/303195.html): first reported 2026-11-24; 3 outlets, 3 countries.
 - [Port of Gothenburg Invests in Electrification Infrastructure for Container Terminal](https://athenaglauxintelligence.news/event/303680.html): first reported 2026-11-24; 3 outlets, 2 countries.
+- [6 years after split, Akalis & BJP tie up for Punjab assembly polls](https://athenaglauxintelligence.news/event/303872.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Japan says to advance ICC funding after US sanctions](https://athenaglauxintelligence.news/event/302331.html): first reported 2026-11-24; 5 outlets, 5 countries.
 - [‘Alliance is necessity, not choice’: Congress' Raj Kumar Verka targets BJP-SAD tie-up in Punjab](https://athenaglauxintelligence.news/event/304591.html): first reported 2026-11-24; 4 outlets, 1 country.
 - [2027: Court sacks Omo-Agege as NDC Senatorial candidate for Delta](https://athenaglauxintelligence.news/event/303063.html): first reported 2026-11-24; 8 outlets, 1 country.
@@ -66,9 +68,10 @@
 - [Iraq targets oil smugglers, orders Kurdish oilfield takeover](https://athenaglauxintelligence.news/event/303564.html): first reported 2026-11-24; 15 outlets, 10 countries.
 - [Poll: 53% of Germans oppose continued military aid to Ukraine](https://athenaglauxintelligence.news/event/302914.html): first reported 2026-11-24; 6 outlets, 5 countries.
 - [Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims](https://athenaglauxintelligence.news/event/303325.html): first reported 2026-11-24; 4 outlets, 4 countries.
+- [Vaibhav Sooryavanshi’s 53-ball 204 powers India A into Asia Cup Rising Stars semifinals](https://athenaglauxintelligence.news/event/302447.html): first reported 2026-11-24; 14 outlets, 7 countries.
 - [10:51 Pakistani astronaut to become first foreign crew member to visit China’s Tiangong space station Partners](https://athenaglauxintelligence.news/event/303575.html): first reported 2026-11-24; 13 outlets, 10 countries.
 - [Seatrium to Cut 2% of Singapore Workforce in Yard Shake-Up](https://athenaglauxintelligence.news/event/301572.html): first reported 2026-11-24; 6 outlets, 3 countries.
-- [UK’s MI5 warns local defense firms of Russian sabotage risk](https://athenaglauxintelligence.news/event/301443.html): first reported 2026-11-24; 11 outlets, 8 countries.
+- [UK’s MI5 warns local defense firms of Russian sabotage risk](https://athenaglauxintelligence.news/event/301443.html): first reported 2026-11-24; 12 outlets, 8 countries.
 - [CBN MPC retains interest rate at 23%](https://athenaglauxintelligence.news/event/301229.html): first reported 2026-11-24; 5 outlets, 1 country.
 - [Magnitude 5.3 earthquake strikes Nepal, rattles eastern India](https://athenaglauxintelligence.news/event/301176.html): first reported 2026-11-24; 7 outlets, 3 countries.
 - [Death toll rises to 13 in passenger bus and truck crash in Ras Al Khaimah](https://athenaglauxintelligence.news/event/301730.html): first reported 2026-11-24; 20 outlets, 14 countries.
@@ -82,9 +85,6 @@
 - [Pentagon sharply rebukes Canada over defense spending and the F-35 fighter jet review](https://athenaglauxintelligence.news/event/302146.html): first reported 2026-11-23; 3 outlets, 3 countries.
 - [(4th LD) S. Korea briefly issues alert on eastern island after Russian warplanes near airspace](https://athenaglauxintelligence.news/event/300558.html): first reported 2026-11-23; 21 outlets, 13 countries.
 - [U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy](https://athenaglauxintelligence.news/event/300926.html): first reported 2026-11-23; 7 outlets, 4 countries.
-- [N. Korea threatens to close Swiss office in Pyongyang over sanctions on children's camp](https://athenaglauxintelligence.news/event/300944.html): first reported 2026-11-23; 12 outlets, 10 countries.
-- [Indonesia Factory Fire Kills 26 as Rescuers Search for Missing Workers](https://athenaglauxintelligence.news/event/300013.html): first reported 2026-11-23; 7 outlets, 5 countries.
-- [OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems](https://athenaglauxintelligence.news/event/302548.html): first reported 2026-11-23; 6 outlets, 4 countries.
 
 ## Optional
 
