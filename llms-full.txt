@@ -45,9 +45,9 @@
 
 ## Latest stories
 
-- [Unclassified materials from CIA, intelligence office exposed in cyberattack: NYT](https://athenaglauxintelligence.news/event/309741.html): first reported 2026-11-24; 3 outlets, 3 countries.
+- [Unclassified materials from CIA, intelligence office exposed in cyberattack: NYT](https://athenaglauxintelligence.news/event/309741.html): first reported 2026-11-24; 4 outlets, 4 countries.
 - [Cybersecurity Breach Reported At CIA And National Intelligence Director’s Office](https://athenaglauxintelligence.news/event/307944.html): first reported 2026-11-24; 6 outlets, 6 countries.
-- [China's Huawei convicted in sprawling US criminal trial over Iran business](https://athenaglauxintelligence.news/event/308462.html): first reported 2026-11-24; 15 outlets, 12 countries.
+- [China's Huawei convicted in sprawling US criminal trial over Iran business](https://athenaglauxintelligence.news/event/308462.html): first reported 2026-11-24; 18 outlets, 13 countries.
 - [Senior member of Turkish ruling party resigns amid fund probe](https://athenaglauxintelligence.news/event/309073.html): first reported 2026-11-24; 3 outlets, 3 countries.
 - [Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation](https://athenaglauxintelligence.news/event/307026.html): first reported 2026-11-24; 6 outlets, 6 countries.
 - [End Western ‘irresolution’ to show Putin he can’t win in Ukraine, says Johnson](https://athenaglauxintelligence.news/event/305957.html): first reported 2026-11-24; 3 outlets, 1 country.
@@ -56,7 +56,7 @@
 - [Twenty-five hostages taken in botched robbery in Colombia’s Cartagena](https://athenaglauxintelligence.news/event/306945.html): first reported 2026-11-24; 7 outlets, 6 countries.
 - [Ukraine Needs at Least €115B in 2027 to Sustain War Effort, Zelensky Says](https://athenaglauxintelligence.news/event/305281.html): first reported 2026-11-24; 4 outlets, 3 countries.
 - [Insiders say Anthropic, OpenAI struggle to contain unreleased AI models: Axios](https://athenaglauxintelligence.news/event/305280.html): first reported 2026-11-24; 5 outlets, 3 countries.
-- [11 injured as Riyadh skyscraper hit second time in less than a week](https://athenaglauxintelligence.news/event/306606.html): first reported 2026-11-24; 9 outlets, 8 countries.
+- [Houthis hit Riyadh’s tallest tower, 11 wounded, Saudi Civil defense says](https://athenaglauxintelligence.news/event/306606.html): first reported 2026-11-24; 10 outlets, 8 countries.
 - [Russian strike kills two people in Ukraine's Odesa region, governor says](https://athenaglauxintelligence.news/event/306215.html): first reported 2026-11-24; 3 outlets, 2 countries.
 - [Central Bank launches electronic payment system to replace manual cheques](https://athenaglauxintelligence.news/event/305604.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Uzbekistan, Jordan agree to elevate relations to strategic partnership](https://athenaglauxintelligence.news/event/304877.html): first reported 2026-11-24; 4 outlets, 2 countries.
@@ -65,7 +65,7 @@
 - [Norway in talks with Ukraine over attacks on Russian ships and regional stability](https://athenaglauxintelligence.news/event/304135.html): first reported 2026-11-24; 4 outlets, 3 countries.
 - [Health Ministry declares ‘epidemic alert’ in Gaza amid sharp rise in meningitis infections](https://athenaglauxintelligence.news/event/303769.html): first reported 2026-11-24; 7 outlets, 5 countries.
 - [England logged record 5,258 heat-linked deaths this summer: health agency](https://athenaglauxintelligence.news/event/303996.html): first reported 2026-11-24; 10 outlets, 6 countries.
-- [Norway and Ukraine to Expand Cooperation on Anti-Drone System](https://athenaglauxintelligence.news/event/303195.html): first reported 2026-11-24; 3 outlets, 3 countries.
+- [Norway and Ukraine to Expand Cooperation on Anti-Drone System](https://athenaglauxintelligence.news/event/303195.html): first reported 2026-11-24; 4 outlets, 3 countries.
 - [Port of Gothenburg Invests in Electrification Infrastructure for Container Terminal](https://athenaglauxintelligence.news/event/303680.html): first reported 2026-11-24; 3 outlets, 2 countries.
 - [6 years after split, Akalis & BJP tie up for Punjab assembly polls](https://athenaglauxintelligence.news/event/303872.html): first reported 2026-11-24; 3 outlets, 1 country.
 - [Equinor Inks 18-Year Gas Supply Deal with Germany's VNG](https://athenaglauxintelligence.news/event/303321.html): first reported 2026-11-24; 5 outlets, 3 countries.
@@ -82,7 +82,7 @@
 - [Utah drops charges against Kalshi after company halts operations there](https://athenaglauxintelligence.news/event/304260.html): first reported 2026-11-24; 5 outlets, 1 country.
 - [China’s Shenzhou-24 space flight takes off with Pakistani national as first foreign astronaut](https://athenaglauxintelligence.news/event/303575.html): first reported 2026-11-24; 17 outlets, 14 countries.
 - [Seatrium to Cut 2% of Singapore Workforce in Yard Shake-Up](https://athenaglauxintelligence.news/event/301572.html): first reported 2026-11-24; 6 outlets, 3 countries.
-- [UK’s MI5 warns local defense firms of Russian sabotage risk](https://athenaglauxintelligence.news/event/301443.html): first reported 2026-11-24; 14 outlets, 10 countries.
+- [UK’s MI5 warns local defense firms of Russian sabotage risk](https://athenaglauxintelligence.news/event/301443.html): first reported 2026-11-24; 15 outlets, 10 countries.
 - [20:06 Lukashenko ready to fly to Moscow with Zelensky for talks with Putin President](https://athenaglauxintelligence.news/event/300865.html): first reported 2026-11-24; 4 outlets, 4 countries.
 - [CBN MPC retains interest rate at 23%](https://athenaglauxintelligence.news/event/301229.html): first reported 2026-11-24; 5 outlets, 1 country.
 
