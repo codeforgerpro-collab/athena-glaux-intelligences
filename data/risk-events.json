@@ -1,6 +1,6 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-25T18:53:08Z",
+ "generated": "2026-11-25T19:34:27Z",
  "window_days": 7,
  "language": "en",
  "count": 965,
@@ -8,18 +8,32 @@
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
   {
+   "id": 314835,
+   "url": "https://athenaglauxintelligence.news/event/314835.html",
+   "title": "Amazon and Meta in talks to end the Muse blockade, Fortune reports",
+   "section": "Technology & Cyber",
+   "first_reported": "2026-11-25T14:10:18Z",
+   "last_reported": "2026-11-25T14:13:52Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 4.3,
+   "risk_band": "elevated",
+   "confidence_pct": 62,
+   "status": "fading"
+  },
+  {
    "id": 314407,
    "url": "https://athenaglauxintelligence.news/event/314407.html",
    "title": "Qatar LNG exports hit post-war high despite rising insurance costs",
    "section": "Energy & Environment",
    "first_reported": "2026-11-25T13:49:00Z",
-   "last_reported": "2026-11-25T14:06:41Z",
-   "outlets": 3,
+   "last_reported": "2026-11-25T16:29:56Z",
+   "outlets": 4,
    "countries": 2,
-   "risk_score": 4.3,
-   "risk_band": "elevated",
-   "confidence_pct": 60,
-   "status": "spreading"
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 66,
+   "status": "fading"
   },
   {
    "id": 314688,
@@ -41,27 +55,27 @@
    "title": "Britain moving military aircraft to hangars at night over possible drone threats, media reports say",
    "section": "Geopolitics",
    "first_reported": "2026-11-25T12:40:44Z",
-   "last_reported": "2026-11-25T16:26:35Z",
-   "outlets": 6,
-   "countries": 6,
-   "risk_score": 5.5,
+   "last_reported": "2026-11-25T18:29:34Z",
+   "outlets": 7,
+   "countries": 7,
+   "risk_score": 5.8,
    "risk_band": "elevated",
-   "confidence_pct": 86,
-   "status": "fading"
+   "confidence_pct": 89,
+   "status": "peaking"
   },
   {
    "id": 312143,
    "url": "https://athenaglauxintelligence.news/event/312143.html",
    "title": "US Army to detonate unstable lead-based explosives in Iowa",
-   "section": "Business",
+   "section": "Geopolitics",
    "first_reported": "2026-11-25T09:41:05Z",
-   "last_reported": "2026-11-25T11:33:00Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 1.6,
-   "risk_band": "low",
-   "confidence_pct": 72,
-   "status": "fading"
+   "last_reported": "2026-11-25T17:06:00Z",
+   "outlets": 6,
+   "countries": 6,
+   "risk_score": 2.3,
+   "risk_band": "moderate",
+   "confidence_pct": 81,
+   "status": "peaking"
   },
   {
    "id": 313274,
@@ -98,12 +112,12 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-25T08:57:02Z",
    "last_reported": "2026-11-25T15:42:50Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 4.1,
-   "risk_band": "elevated",
-   "confidence_pct": 66,
-   "status": "emerging"
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 4.0,
+   "risk_band": "moderate",
+   "confidence_pct": 73,
+   "status": "fading"
   },
   {
    "id": 311769,
@@ -223,13 +237,13 @@
    "title": "Libyan Army Vows Retaliation After 2 Naval Officers Die of Wounds From Ukrainian Drone Attack",
    "section": "Geopolitics",
    "first_reported": "2026-11-25T05:36:26Z",
-   "last_reported": "2026-11-25T13:37:41Z",
-   "outlets": 7,
+   "last_reported": "2026-11-25T16:57:41Z",
+   "outlets": 8,
    "countries": 7,
-   "risk_score": 5.7,
+   "risk_score": 5.9,
    "risk_band": "elevated",
-   "confidence_pct": 86,
-   "status": "peaking"
+   "confidence_pct": 88,
+   "status": "fading"
   },
   {
    "id": 316101,
@@ -251,13 +265,13 @@
    "title": "Police declare Arise News owner Nduka Obaigbena, others wanted for threatening FirstBank CEO",
    "section": "Business",
    "first_reported": "2026-11-25T04:50:55Z",
-   "last_reported": "2026-11-25T12:43:09Z",
-   "outlets": 4,
+   "last_reported": "2026-11-25T18:29:58Z",
+   "outlets": 5,
    "countries": 1,
    "risk_score": 0.9,
    "risk_band": "low",
-   "confidence_pct": 60,
-   "status": "emerging"
+   "confidence_pct": 63,
+   "status": "fading"
   },
   {
    "id": 312090,
@@ -288,18 +302,32 @@
    "status": "fading"
   },
   {
+   "id": 311945,
+   "url": "https://athenaglauxintelligence.news/event/311945.html",
+   "title": "Trump: Iran regime change ‘probably doable,’ but not his goal",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-25T04:05:13Z",
+   "last_reported": "2026-11-25T10:34:45Z",
+   "outlets": 4,
+   "countries": 2,
+   "risk_score": 4.2,
+   "risk_band": "elevated",
+   "confidence_pct": 71,
+   "status": "fading"
+  },
+  {
    "id": 311377,
    "url": "https://athenaglauxintelligence.news/event/311377.html",
-   "title": "Senegal regains Africa Cup title after sports court overturns ruling favoring Morocco",
+   "title": "Senegal football chief denies contact with CAS arbitrator before AFCON ruling",
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-25T03:01:00Z",
-   "last_reported": "2026-11-25T15:23:23Z",
-   "outlets": 8,
-   "countries": 7,
-   "risk_score": 1.8,
+   "last_reported": "2026-11-25T17:20:08Z",
+   "outlets": 10,
+   "countries": 9,
+   "risk_score": 1.9,
    "risk_band": "low",
-   "confidence_pct": 85,
-   "status": "fading"
+   "confidence_pct": 87,
+   "status": "peaking"
   },
   {
    "id": 310563,
@@ -420,12 +448,12 @@
    "section": "Technology & Cyber",
    "first_reported": "2026-11-24T23:00:00Z",
    "last_reported": "2026-11-25T15:13:07Z",
-   "outlets": 8,
-   "countries": 5,
+   "outlets": 9,
+   "countries": 6,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 84,
-   "status": "spreading"
+   "confidence_pct": 86,
+   "status": "fading"
   },
   {
    "id": 310044,
@@ -475,12 +503,12 @@
    "title": "California braces for flooding threat from huge tides, El Niño",
    "section": "Energy & Environment",
    "first_reported": "2026-11-24T21:40:42Z",
-   "last_reported": "2026-11-25T11:40:04Z",
+   "last_reported": "2026-11-25T18:04:46Z",
    "outlets": 5,
    "countries": 4,
    "risk_score": 5.0,
    "risk_band": "elevated",
-   "confidence_pct": 80,
+   "confidence_pct": 78,
    "status": "fading"
   },
   {
@@ -509,6 +537,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 81,
+   "status": "fading"
+  },
+  {
+   "id": 310863,
+   "url": "https://athenaglauxintelligence.news/event/310863.html",
+   "title": "Wells Fargo Tells Customers They Are Responsible for AI Agents",
+   "section": "Technology & Cyber",
+   "first_reported": "2026-11-24T20:04:45Z",
+   "last_reported": "2026-11-25T09:00:46Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 66,
    "status": "fading"
   },
   {
@@ -596,16 +638,30 @@
    "status": "fading"
   },
   {
+   "id": 308898,
+   "url": "https://athenaglauxintelligence.news/event/308898.html",
+   "title": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity",
+   "section": "Energy & Environment",
+   "first_reported": "2026-11-24T18:30:00Z",
+   "last_reported": "2026-11-25T15:01:46Z",
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 79,
+   "status": "fading"
+  },
+  {
    "id": 306672,
    "url": "https://athenaglauxintelligence.news/event/306672.html",
    "title": "Türkiye mourns 5 soldiers killed in military helicopter crash",
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-24T17:42:40Z",
    "last_reported": "2026-11-25T10:02:00Z",
-   "outlets": 15,
+   "outlets": 16,
    "countries": 10,
    "risk_score": 6.0,
-   "risk_band": "high",
+   "risk_band": "elevated",
    "confidence_pct": 89,
    "status": "fading"
   },
@@ -621,6 +677,20 @@
    "risk_score": 1.0,
    "risk_band": "low",
    "confidence_pct": 64,
+   "status": "fading"
+  },
+  {
+   "id": 307547,
+   "url": "https://athenaglauxintelligence.news/event/307547.html",
+   "title": "Tamil Nadu government set to ink 70 MoUs for investments to the tune of over ₹50,000 crore",
+   "section": "Business",
+   "first_reported": "2026-11-24T17:12:33Z",
+   "last_reported": "2026-11-25T10:02:06Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 1.5,
+   "risk_band": "low",
+   "confidence_pct": 55,
    "status": "fading"
   },
   {
@@ -1030,6 +1100,20 @@
    "status": "fading"
   },
   {
+   "id": 304059,
+   "url": "https://athenaglauxintelligence.news/event/304059.html",
+   "title": "Karthigai deepam lit only at traditional spot atop Thirupparankundram hills",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-24T12:46:17Z",
+   "last_reported": "2026-11-25T08:25:07Z",
+   "outlets": 5,
+   "countries": 1,
+   "risk_score": 1.3,
+   "risk_band": "low",
+   "confidence_pct": 64,
+   "status": "fading"
+  },
+  {
    "id": 305993,
    "url": "https://athenaglauxintelligence.news/event/305993.html",
    "title": "Best Black Friday 2026 3D Printer deals live",
@@ -1184,6 +1268,20 @@
    "status": "fading"
   },
   {
+   "id": 303330,
+   "url": "https://athenaglauxintelligence.news/event/303330.html",
+   "title": "Merz: Russia wants more than Ukraine",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-24T10:57:29Z",
+   "last_reported": "2026-11-25T14:08:44Z",
+   "outlets": 7,
+   "countries": 8,
+   "risk_score": 1.8,
+   "risk_band": "low",
+   "confidence_pct": 86,
+   "status": "fading"
+  },
+  {
    "id": 306513,
    "url": "https://athenaglauxintelligence.news/event/306513.html",
    "title": "New Israeli army gates could cut off 70,000 Palestinians in southern West Bank, mayor warns",
@@ -1287,9 +1385,9 @@
    "title": "29 miners believed trapped by flooding in an unauthorized gold mine in Indonesia",
    "section": "Energy & Environment",
    "first_reported": "2026-11-24T09:50:37Z",
-   "last_reported": "2026-11-25T16:01:25Z",
-   "outlets": 15,
-   "countries": 13,
+   "last_reported": "2026-11-25T16:11:00Z",
+   "outlets": 17,
+   "countries": 14,
    "risk_score": 5.5,
    "risk_band": "elevated",
    "confidence_pct": 91,
@@ -1358,11 +1456,11 @@
    "section": "Trade & Industry",
    "first_reported": "2026-11-24T09:15:34Z",
    "last_reported": "2026-11-25T13:46:48Z",
-   "outlets": 5,
+   "outlets": 6,
    "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 78,
+   "confidence_pct": 80,
    "status": "fading"
   },
   {
@@ -1436,6 +1534,20 @@
    "status": "fading"
   },
   {
+   "id": 303955,
+   "url": "https://athenaglauxintelligence.news/event/303955.html",
+   "title": "Landmine ban treaty facing ‘greatest test’: Monitor",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-24T08:00:00Z",
+   "last_reported": "2026-11-25T11:08:19Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 3.7,
+   "risk_band": "moderate",
+   "confidence_pct": 73,
+   "status": "fading"
+  },
+  {
    "id": 302129,
    "url": "https://athenaglauxintelligence.news/event/302129.html",
    "title": "Economic Watch: China's emerging sectors unleash fresh employment opportunities",
@@ -1462,20 +1574,6 @@
    "risk_band": "low",
    "confidence_pct": 63,
    "status": "emerging"
-  },
-  {
-   "id": 303063,
-   "url": "https://athenaglauxintelligence.news/event/303063.html",
-   "title": "2027: Court sacks Omo-Agege as NDC Senatorial candidate for Delta",
-   "section": "Accidents & emergencies",
-   "first_reported": "2026-11-24T07:36:42Z",
-   "last_reported": "2026-11-25T12:30:19Z",
-   "outlets": 9,
-   "countries": 1,
-   "risk_score": 5.2,
-   "risk_band": "elevated",
-   "confidence_pct": 76,
-   "status": "fading"
   },
   {
    "id": 303324,
@@ -1906,7 +2004,7 @@
    "last_reported": "2026-11-25T11:43:02Z",
    "outlets": 20,
    "countries": 14,
-   "risk_score": 6.0,
+   "risk_score": 5.9,
    "risk_band": "elevated",
    "confidence_pct": 93,
    "status": "fading"
@@ -2351,13 +2449,13 @@
    "title": "US proposes new tariffs on 14 trading partners, including China and the EU",
    "section": "Trade & Industry",
    "first_reported": "2026-11-23T18:48:19Z",
-   "last_reported": "2026-11-25T15:26:21Z",
-   "outlets": 29,
-   "countries": 14,
-   "risk_score": 4.5,
+   "last_reported": "2026-11-25T17:35:31Z",
+   "outlets": 32,
+   "countries": 15,
+   "risk_score": 4.1,
    "risk_band": "elevated",
-   "confidence_pct": 93,
-   "status": "spreading"
+   "confidence_pct": 92,
+   "status": "fading"
   },
   {
    "id": 301133,
@@ -2698,15 +2796,15 @@
   {
    "id": 298726,
    "url": "https://athenaglauxintelligence.news/event/298726.html",
-   "title": "Qatar, Canada to sign investment pact on Tuesday, source says",
+   "title": "Qatar and Canada sign deal on Afghanistan, investment at first Strategic Dialogue",
    "section": "Business",
    "first_reported": "2026-11-23T16:47:26Z",
-   "last_reported": "2026-11-25T04:22:29Z",
-   "outlets": 5,
-   "countries": 3,
+   "last_reported": "2026-11-25T08:28:01Z",
+   "outlets": 6,
+   "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 78,
+   "confidence_pct": 83,
    "status": "fading"
   },
   {
@@ -2889,6 +2987,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 66,
+   "status": "fading"
+  },
+  {
+   "id": 300163,
+   "url": "https://athenaglauxintelligence.news/event/300163.html",
+   "title": "Ireland ease to victory over Costa Rica at U17 World Cup",
+   "section": "Health & Science",
+   "first_reported": "2026-11-23T14:30:00Z",
+   "last_reported": "2026-11-25T12:45:00Z",
+   "outlets": 6,
+   "countries": 4,
+   "risk_score": 3.1,
+   "risk_band": "moderate",
+   "confidence_pct": 77,
    "status": "fading"
   },
   {
@@ -6187,7 +6299,7 @@
    "title": "China's Shenzhou-24 docks with Tiangong, welcomes Pakistani astronaut",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-21T16:56:42Z",
-   "last_reported": "2026-11-25T07:17:27Z",
+   "last_reported": "2026-11-25T08:07:55Z",
    "outlets": 21,
    "countries": 12,
    "risk_score": 1.9,
@@ -7630,12 +7742,12 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-20T18:11:00Z",
    "last_reported": "2026-11-25T15:25:00Z",
-   "outlets": 26,
+   "outlets": 27,
    "countries": 16,
-   "risk_score": 5.5,
+   "risk_score": 5.2,
    "risk_band": "elevated",
    "confidence_pct": 91,
-   "status": "spreading"
+   "status": "fading"
   },
   {
    "id": 284348,
@@ -13403,118 +13515,6 @@
    "risk_score": 3.4,
    "risk_band": "moderate",
    "confidence_pct": 45,
-   "status": "fading"
-  },
-  {
-   "id": 260218,
-   "url": "https://athenaglauxintelligence.news/event/260218.html",
-   "title": "US Reissues Security Warnings To Citizens In Bahrain, Saudi",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-18T19:33:50Z",
-   "last_reported": "2026-11-19T14:51:00Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 1.4,
-   "risk_band": "low",
-   "confidence_pct": 79,
-   "status": "fading"
-  },
-  {
-   "id": 261228,
-   "url": "https://athenaglauxintelligence.news/event/261228.html",
-   "title": "Ukraine's NATO membership is relevant for European security, Macron says",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-18T19:29:00Z",
-   "last_reported": "2026-11-20T04:47:50Z",
-   "outlets": 7,
-   "countries": 5,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 87,
-   "status": "fading"
-  },
-  {
-   "id": 261219,
-   "url": "https://athenaglauxintelligence.news/event/261219.html",
-   "title": "Old Infrastructure, AI-Driven Fixes Behind Wave Of US Outages",
-   "section": "Trade & Industry",
-   "first_reported": "2026-11-18T19:26:10Z",
-   "last_reported": "2026-11-19T06:30:00Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 3.6,
-   "risk_band": "moderate",
-   "confidence_pct": 76,
-   "status": "emerging"
-  },
-  {
-   "id": 260010,
-   "url": "https://athenaglauxintelligence.news/event/260010.html",
-   "title": "Best Early Black Friday Phone Deals (2026)",
-   "section": "Business",
-   "first_reported": "2026-11-18T19:17:06Z",
-   "last_reported": "2026-11-19T19:58:01Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 64,
-   "status": "fading"
-  },
-  {
-   "id": 259794,
-   "url": "https://athenaglauxintelligence.news/event/259794.html",
-   "title": "Sanctioned Russian online retailer Wildberries expands operations in Georgia",
-   "section": "Business",
-   "first_reported": "2026-11-18T19:14:36Z",
-   "last_reported": "2026-11-19T11:01:50Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 62,
-   "status": "fading"
-  },
-  {
-   "id": 262012,
-   "url": "https://athenaglauxintelligence.news/event/262012.html",
-   "title": "Lawmakers urge Trump to press Xi on detained Americans, political prisoners",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-18T19:08:52Z",
-   "last_reported": "2026-11-19T02:34:33Z",
-   "outlets": 5,
-   "countries": 5,
-   "risk_score": 1.1,
-   "risk_band": "low",
-   "confidence_pct": 81,
-   "status": "emerging"
-  },
-  {
-   "id": 259878,
-   "url": "https://athenaglauxintelligence.news/event/259878.html",
-   "title": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-18T19:07:00Z",
-   "last_reported": "2026-11-19T09:21:24Z",
-   "outlets": 7,
-   "countries": 5,
-   "risk_score": 3.4,
-   "risk_band": "moderate",
-   "confidence_pct": 86,
-   "status": "fading"
-  },
-  {
-   "id": 259440,
-   "url": "https://athenaglauxintelligence.news/event/259440.html",
-   "title": "Serbia elects academic as parliament speaker",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-18T19:04:00Z",
-   "last_reported": "2026-11-20T04:31:52Z",
-   "outlets": 6,
-   "countries": 6,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 82,
    "status": "fading"
   }
  ]
