@@ -154,14 +154,14 @@ function share(card,btn){var sv=card.querySelector("svg.sg-svg");if(!sv){if(wind
    save(function(){});try{navigator.clipboard.writeText(u).then(function(){rd(id,L.saved2)},function(){rd(id,L.saved)})}catch(e){rd(id,L.saved)}},"image/png")};
  img.src="data:image/svg+xml;charset=utf-8,"+encodeURIComponent(new XMLSerializer().serializeToString(cl))}
 function sync(){[].forEach.call(box.querySelectorAll("[data-sh]"),function(b){var c=b.closest(".sg-c");b.hidden=!(c&&c.querySelector("svg.sg-svg"))})}
-function draw(){C=pal();$("sg-hist").textContent=f(L.hist,{n:D.nd,a:D.from,b:D.to})+(D.lv?" · "+f(L.asof,{t:new Date(D.lv.at*1000).toISOString().slice(11,16)}):"");var ld=$("sg-lead"),g=(D.lv&&D.lv.g[sec])||D.g[sec];ld.textContent=g?f(L.g_risk,{p:g.pr,n:g.days})+" · "+nm(sec):f(L.building,{n:D.nd});
+function draw(){C=pal();$("sg-hist").textContent=f(L.hist,{n:D.nd,a:D.from,b:D.to})+(D.lv?" · "+f(L.asof,{t:new Date(D.lv.at*1000).toISOString().slice(11,16)}):"");var ld=$("sg-top"),g=(D.lv&&D.lv.g[sec])||D.g[sec];ld.textContent=g?f(L.g_risk,{p:g.pr,n:g.days})+" · "+nm(sec):f(L.building,{n:D.nd});
  [pulse,dens,gauge,move,heat,sim,lead,quiet,replay,track].forEach(function(fn){try{fn()}catch(e){}});sync()}
 function hash(){var m=/[#&]s=(\d+)/.exec(location.hash);return m&&P.cats[m[1]]?m[1]:"0"}
-fetch(R+"data/athena-signals.json",{credentials:"omit"}).then(function(r){return r.json()}).then(function(d){if(!d||!d.nd){$("sg-lead").textContent=f(L.building,{n:0});return}D=d;sec=hash();$("sg-sec").value=sec;draw();
+fetch(R+"data/athena-signals.json",{credentials:"omit"}).then(function(r){return r.json()}).then(function(d){if(!d||!d.nd){$("sg-top").textContent=f(L.building,{n:0});return}D=d;sec=hash();$("sg-sec").value=sec;draw();
  $("sg-sec").addEventListener("change",function(){sec=this.value;try{history.replaceState(null,"","#s="+sec)}catch(e){}draw()});
  [].forEach.call(box.querySelectorAll(".sg-rg button"),function(b){b.addEventListener("click",function(){rng=+b.getAttribute("data-r");[].forEach.call(box.querySelectorAll(".sg-rg button"),function(x){x.classList.toggle("on",x===b)});pulse();try{dens()}catch(e){}sync()})});
  [].forEach.call(box.querySelectorAll("[data-sh]"),function(b){b.addEventListener("click",function(e){e.stopPropagation();share(b.closest(".sg-c"),b)})});
  var tm=null,wasN=NW();function again(){clearTimeout(tm);tm=setTimeout(function(){C=pal();[pulse,dens,gauge,move,heat,sim].forEach(function(fn){try{fn()}catch(e){}})},120)}
  window.addEventListener("resize",function(){if(NW()!==wasN){wasN=NW();again()}});
  try{new MutationObserver(again).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme","class"]});matchMedia("(prefers-color-scheme: dark)").addEventListener("change",again)}catch(e){}
-}).catch(function(){$("sg-lead").textContent=f(L.building,{n:0})})})();
+}).catch(function(){$("sg-top").textContent=f(L.building,{n:0})})})();
