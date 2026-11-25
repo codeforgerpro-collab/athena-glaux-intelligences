@@ -36,7 +36,9 @@
 - [Israeli opposition advances October 7 attack probe opposed by Netanyahu](https://athenaglauxintelligence.news/event/314688.html): first reported 2026-11-25; 4 outlets, 4 countries.
 - [Britain moving military aircraft to hangars at night over possible drone threats, media reports say](https://athenaglauxintelligence.news/event/314485.html): first reported 2026-11-25; 6 outlets, 6 countries.
 - [Unclassified CIA system breached in cyberattack: Report](https://athenaglauxintelligence.news/event/313274.html): first reported 2026-11-25; 4 outlets, 3 countries.
+- [South Africa's Ramaphosa wins court battle over impeachment threat](https://athenaglauxintelligence.news/event/312334.html): first reported 2026-11-25; 3 outlets, 3 countries.
 - [Jordan sentences man to death over attack that killed officer](https://athenaglauxintelligence.news/event/311769.html): first reported 2026-11-25; 3 outlets, 2 countries.
+- [Libya's NOC plans 2027 bid round for undeveloped fields, exploration round in 2028](https://athenaglauxintelligence.news/event/311744.html): first reported 2026-11-25; 3 outlets, 2 countries.
 - [Flipkart leadership shake-up: CEO Kalyan Krishnamurthy to step down after 11 years](https://athenaglauxintelligence.news/event/311607.html): first reported 2026-11-25; 7 outlets, 2 countries.
 - [Pakistan says nuclear weapons decisions must remain under human control](https://athenaglauxintelligence.news/event/310808.html): first reported 2026-11-25; 3 outlets, 2 countries.
 - [Amazon to sell cars online in UK from next year](https://athenaglauxintelligence.news/event/311205.html): first reported 2026-11-25; 5 outlets, 3 countries.
@@ -45,9 +47,7 @@
 - [At least 3 killed, 14 injured after under-construction building collapses near Karachi's Baloch Colony](https://athenaglauxintelligence.news/event/312090.html): first reported 2026-11-25; 6 outlets, 2 countries.
 - [Jennifer Barreto of Puerto Rico Is Crowned Miss Universe 2026](https://athenaglauxintelligence.news/event/310392.html): first reported 2026-11-25; 11 outlets, 10 countries.
 - [Senegal regains Africa Cup title after sports court overturns ruling favoring Morocco](https://athenaglauxintelligence.news/event/311377.html): first reported 2026-11-25; 8 outlets, 7 countries.
-- [Israeli strike kills four members of Palestinian family in Gaza in latest ceasefire violation](https://athenaglauxintelligence.news/event/310563.html): first reported 2026-11-25; 4 outlets, 3 countries.
-- [Treasury's FinCEN takes systems offline after cybersecurity incident](https://athenaglauxintelligence.news/event/310475.html): first reported 2026-11-25; 5 outlets, 4 countries.
-- [Plane crash off the coast of Mississippi kills 6, including 2 children](https://athenaglauxintelligence.news/event/311254.html): first reported 2026-11-25; 9 outlets, 6 countries.
+- [Israeli strike kills four members of Palestinian family in Gaza in latest ceasefire violation](https://athenaglauxintelligence.news/event/310563.html): first reported 2026-11-25; 5 outlets, 4 countries.
 
 ## Optional
 

@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-25T18:12:05Z",
+ "generated": "2026-11-25T18:53:08Z",
  "window_days": 7,
  "language": "fr",
- "count": 966,
+ "count": 965,
  "licence": "https://athenaglauxintelligence.news/fr/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -92,6 +92,20 @@
    "status": "fading"
   },
   {
+   "id": 312334,
+   "url": "https://athenaglauxintelligence.news/fr/event/312334.html",
+   "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-25T08:57:02Z",
+   "last_reported": "2026-11-25T15:42:50Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 4.1,
+   "risk_band": "elevated",
+   "confidence_pct": 66,
+   "status": "emerging"
+  },
+  {
    "id": 311769,
    "url": "https://athenaglauxintelligence.news/fr/event/311769.html",
    "title": "Jordan sentences man to death over attack that killed officer",
@@ -103,6 +117,20 @@
    "risk_score": 3.8,
    "risk_band": "moderate",
    "confidence_pct": 68,
+   "status": "emerging"
+  },
+  {
+   "id": 311744,
+   "url": "https://athenaglauxintelligence.news/fr/event/311744.html",
+   "title": "Libya's NOC plans 2027 bid round for undeveloped fields, exploration round in 2028",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-25T08:15:08Z",
+   "last_reported": "2026-11-25T18:33:49Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 56,
    "status": "emerging"
   },
   {
@@ -146,6 +174,20 @@
    "risk_band": "low",
    "confidence_pct": 76,
    "status": "emerging"
+  },
+  {
+   "id": 310829,
+   "url": "https://athenaglauxintelligence.news/fr/event/310829.html",
+   "title": "Alice Huang-linked firms listed US$270 million in AI servers in China, records show",
+   "section": "Technologie et cyber",
+   "first_reported": "2026-11-25T07:02:09Z",
+   "last_reported": "2026-11-25T10:12:49Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 68,
+   "status": "fading"
   },
   {
    "id": 310808,
@@ -266,11 +308,11 @@
    "section": "Géopolitique",
    "first_reported": "2026-11-25T02:29:10Z",
    "last_reported": "2026-11-25T12:49:13Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 3.3,
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 3.9,
    "risk_band": "moderate",
-   "confidence_pct": 73,
+   "confidence_pct": 79,
    "status": "fading"
   },
   {
@@ -322,11 +364,11 @@
    "section": "Accidents et urgences",
    "first_reported": "2026-11-25T00:54:03Z",
    "last_reported": "2026-11-25T14:02:14Z",
-   "outlets": 9,
-   "countries": 6,
+   "outlets": 11,
+   "countries": 7,
    "risk_score": 5.2,
    "risk_band": "elevated",
-   "confidence_pct": 87,
+   "confidence_pct": 90,
    "status": "fading"
   },
   {
@@ -349,13 +391,13 @@
    "title": "AI consumes less water per dollar spent than almond milk or golf: Report",
    "section": "Technologie et cyber",
    "first_reported": "2026-11-24T23:30:00Z",
-   "last_reported": "2026-11-25T05:11:11Z",
+   "last_reported": "2026-11-25T18:33:49Z",
    "outlets": 3,
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 58,
-   "status": "peaking"
+   "confidence_pct": 57,
+   "status": "fading"
   },
   {
    "id": 309390,
@@ -391,12 +433,12 @@
    "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations",
    "section": "Commerce et industrie",
    "first_reported": "2026-11-24T22:49:17Z",
-   "last_reported": "2026-11-25T16:44:00Z",
-   "outlets": 10,
-   "countries": 9,
-   "risk_score": 4.2,
+   "last_reported": "2026-11-25T17:22:03Z",
+   "outlets": 13,
+   "countries": 10,
+   "risk_score": 4.3,
    "risk_band": "elevated",
-   "confidence_pct": 88,
+   "confidence_pct": 90,
    "status": "peaking"
   },
   {
@@ -425,6 +467,20 @@
    "risk_score": 6.7,
    "risk_band": "high",
    "confidence_pct": 82,
+   "status": "fading"
+  },
+  {
+   "id": 309227,
+   "url": "https://athenaglauxintelligence.news/fr/event/309227.html",
+   "title": "California braces for flooding threat from huge tides, El Niño",
+   "section": "Énergie et environnement",
+   "first_reported": "2026-11-24T21:40:42Z",
+   "last_reported": "2026-11-25T11:40:04Z",
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 5.0,
+   "risk_band": "elevated",
+   "confidence_pct": 80,
    "status": "fading"
   },
   {
@@ -475,13 +531,13 @@
    "title": "Argentina enters technical recession after two quarters of contraction, the first since 2024",
    "section": "Économie et marchés",
    "first_reported": "2026-11-24T19:26:20Z",
-   "last_reported": "2026-11-25T16:56:52Z",
+   "last_reported": "2026-11-25T17:15:54Z",
    "outlets": 4,
    "countries": 4,
-   "risk_score": 5.0,
+   "risk_score": 5.3,
    "risk_band": "elevated",
    "confidence_pct": 78,
-   "status": "fading"
+   "status": "peaking"
   },
   {
    "id": 307026,
@@ -601,26 +657,12 @@
    "title": "All Hostages Released After Supermarket Robbery in Cartagena",
    "section": "Géopolitique",
    "first_reported": "2026-11-24T16:25:25Z",
-   "last_reported": "2026-11-25T14:54:03Z",
-   "outlets": 22,
+   "last_reported": "2026-11-25T16:20:14Z",
+   "outlets": 23,
    "countries": 13,
    "risk_score": 5.7,
    "risk_band": "elevated",
    "confidence_pct": 91,
-   "status": "fading"
-  },
-  {
-   "id": 307074,
-   "url": "https://athenaglauxintelligence.news/fr/event/307074.html",
-   "title": "HIV infections could rise amid aid cuts, UN warns",
-   "section": "Santé et science",
-   "first_reported": "2026-11-24T16:09:00Z",
-   "last_reported": "2026-11-25T04:31:59Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 2.2,
-   "risk_band": "moderate",
-   "confidence_pct": 69,
    "status": "fading"
   },
   {
@@ -636,6 +678,20 @@
    "risk_band": "none detected",
    "confidence_pct": 60,
    "status": "fading"
+  },
+  {
+   "id": 308809,
+   "url": "https://athenaglauxintelligence.news/fr/event/308809.html",
+   "title": "Interactive: 720,000 Russian soldiers killed? Who are the men dying in Putin’s war",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-24T15:38:04Z",
+   "last_reported": "2026-11-25T18:27:12Z",
+   "outlets": 8,
+   "countries": 7,
+   "risk_score": 6.8,
+   "risk_band": "high",
+   "confidence_pct": 90,
+   "status": "peaking"
   },
   {
    "id": 306862,
@@ -691,6 +747,20 @@
    "risk_score": 1.7,
    "risk_band": "low",
    "confidence_pct": 63,
+   "status": "fading"
+  },
+  {
+   "id": 305574,
+   "url": "https://athenaglauxintelligence.news/fr/event/305574.html",
+   "title": "Police disrupt 57 illegal IPTV services and trace €26 million in crypto",
+   "section": "Économie et marchés",
+   "first_reported": "2026-11-24T15:10:10Z",
+   "last_reported": "2026-11-25T08:59:36Z",
+   "outlets": 6,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 78,
    "status": "fading"
   },
   {
@@ -932,6 +1002,20 @@
    "status": "fading"
   },
   {
+   "id": 304768,
+   "url": "https://athenaglauxintelligence.news/fr/event/304768.html",
+   "title": "Palanca awards honor 60 Filipino writers; Poet, essayist warns AI threatens the struggle for words",
+   "section": "Technologie et cyber",
+   "first_reported": "2026-11-24T13:00:00Z",
+   "last_reported": "2026-11-25T06:14:21Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 1.7,
+   "risk_band": "low",
+   "confidence_pct": 49,
+   "status": "fading"
+  },
+  {
    "id": 304338,
    "url": "https://athenaglauxintelligence.news/fr/event/304338.html",
    "title": "Not all job losses at BBC Scotland will be voluntary, MSPs are told",
@@ -1016,20 +1100,6 @@
    "status": "fading"
   },
   {
-   "id": 304412,
-   "url": "https://athenaglauxintelligence.news/fr/event/304412.html",
-   "title": "Zimbabwe court issues arrest warrant for Robert Mugabe’s son",
-   "section": "Accidents et urgences",
-   "first_reported": "2026-11-24T11:56:40Z",
-   "last_reported": "2026-11-25T11:09:56Z",
-   "outlets": 6,
-   "countries": 3,
-   "risk_score": 1.1,
-   "risk_band": "low",
-   "confidence_pct": 83,
-   "status": "fading"
-  },
-  {
    "id": 304124,
    "url": "https://athenaglauxintelligence.news/fr/event/304124.html",
    "title": "UKRAINE PROTESTS SANCTIONED RUSSIAN OFFICIAL’S APPOINTMENT TO IAEA LEADERSHIP",
@@ -1041,6 +1111,20 @@
    "risk_score": 1.5,
    "risk_band": "low",
    "confidence_pct": 75,
+   "status": "fading"
+  },
+  {
+   "id": 304342,
+   "url": "https://athenaglauxintelligence.news/fr/event/304342.html",
+   "title": "Pat Finucane ‘murdered because he posed challenge to security forces’",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-24T11:42:18Z",
+   "last_reported": "2026-11-25T15:55:20Z",
+   "outlets": 5,
+   "countries": 2,
+   "risk_score": 4.5,
+   "risk_band": "elevated",
+   "confidence_pct": 69,
    "status": "fading"
   },
   {
@@ -1204,11 +1288,11 @@
    "section": "Énergie et environnement",
    "first_reported": "2026-11-24T09:50:37Z",
    "last_reported": "2026-11-25T16:01:25Z",
-   "outlets": 13,
-   "countries": 12,
-   "risk_score": 5.9,
+   "outlets": 15,
+   "countries": 13,
+   "risk_score": 5.5,
    "risk_band": "elevated",
-   "confidence_pct": 90,
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -1394,29 +1478,15 @@
    "status": "fading"
   },
   {
-   "id": 302673,
-   "url": "https://athenaglauxintelligence.news/fr/event/302673.html",
-   "title": "International News: Decades of gains against AIDS at risk as global HIV funding dries up",
-   "section": "Santé et science",
-   "first_reported": "2026-11-24T07:27:13Z",
-   "last_reported": "2026-11-25T11:25:00Z",
-   "outlets": 9,
-   "countries": 6,
-   "risk_score": 4.6,
-   "risk_band": "elevated",
-   "confidence_pct": 84,
-   "status": "fading"
-  },
-  {
    "id": 303324,
    "url": "https://athenaglauxintelligence.news/fr/event/303324.html",
    "title": "Israeli strike kills Hamas official, his wife and children",
    "section": "Géopolitique",
    "first_reported": "2026-11-24T07:25:49Z",
-   "last_reported": "2026-11-25T13:28:20Z",
-   "outlets": 15,
-   "countries": 12,
-   "risk_score": 5.4,
+   "last_reported": "2026-11-25T14:06:13Z",
+   "outlets": 16,
+   "countries": 13,
+   "risk_score": 5.5,
    "risk_band": "elevated",
    "confidence_pct": 93,
    "status": "fading"
@@ -1988,11 +2058,11 @@
    "section": "Technologie et cyber",
    "first_reported": "2026-11-23T23:43:00Z",
    "last_reported": "2026-11-25T10:47:46Z",
-   "outlets": 6,
+   "outlets": 7,
    "countries": 4,
    "risk_score": 1.8,
    "risk_band": "low",
-   "confidence_pct": 78,
+   "confidence_pct": 80,
    "status": "fading"
   },
   {
@@ -2030,9 +2100,9 @@
    "section": "Géopolitique",
    "first_reported": "2026-11-23T22:44:00Z",
    "last_reported": "2026-11-25T17:22:03Z",
-   "outlets": 19,
-   "countries": 16,
-   "risk_score": 6.7,
+   "outlets": 20,
+   "countries": 17,
+   "risk_score": 6.8,
    "risk_band": "high",
    "confidence_pct": 92,
    "status": "peaking"
@@ -6588,20 +6658,6 @@
    "status": "fading"
   },
   {
-   "id": 285427,
-   "url": "https://athenaglauxintelligence.news/fr/event/285427.html",
-   "title": "Democrats Win at Least 258 House Seats, Matching Their Biggest Majority Since 1992",
-   "section": "Géopolitique",
-   "first_reported": "2026-11-21T11:00:00Z",
-   "last_reported": "2026-11-23T18:29:36Z",
-   "outlets": 29,
-   "countries": 21,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 91,
-   "status": "fading"
-  },
-  {
    "id": 282477,
    "url": "https://athenaglauxintelligence.news/fr/event/282477.html",
    "title": "8 years, 10 billion km: Japan-Europe spacecraft enters Mercury's orbit",
@@ -6613,6 +6669,20 @@
    "risk_score": 1.5,
    "risk_band": "low",
    "confidence_pct": 85,
+   "status": "fading"
+  },
+  {
+   "id": 285427,
+   "url": "https://athenaglauxintelligence.news/fr/event/285427.html",
+   "title": "Democrats Win at Least 258 House Seats, Matching Their Biggest Majority Since 1992",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-21T11:00:00Z",
+   "last_reported": "2026-11-23T18:29:36Z",
+   "outlets": 29,
+   "countries": 21,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -13445,90 +13515,6 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 82,
-   "status": "fading"
-  },
-  {
-   "id": 259930,
-   "url": "https://athenaglauxintelligence.news/fr/event/259930.html",
-   "title": "US Central Command denies reports of personnel injured in Iranian attacks",
-   "section": "Accidents et urgences",
-   "first_reported": "2026-11-18T18:42:25Z",
-   "last_reported": "2026-11-19T03:20:19Z",
-   "outlets": 5,
-   "countries": 4,
-   "risk_score": 5.7,
-   "risk_band": "elevated",
-   "confidence_pct": 79,
-   "status": "emerging"
-  },
-  {
-   "id": 260535,
-   "url": "https://athenaglauxintelligence.news/fr/event/260535.html",
-   "title": "Lebanon Charges 5 Hezbollah Members with Recruiting, Arming Others",
-   "section": "Géopolitique",
-   "first_reported": "2026-11-18T18:35:09Z",
-   "last_reported": "2026-11-19T21:42:00Z",
-   "outlets": 5,
-   "countries": 4,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 79,
-   "status": "fading"
-  },
-  {
-   "id": 259793,
-   "url": "https://athenaglauxintelligence.news/fr/event/259793.html",
-   "title": "NGINX2Root: F5 patches five critical NGINX vulnerabilities",
-   "section": "Technologie et cyber",
-   "first_reported": "2026-11-18T18:31:17Z",
-   "last_reported": "2026-11-19T18:25:50Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 3.2,
-   "risk_band": "moderate",
-   "confidence_pct": 71,
-   "status": "fading"
-  },
-  {
-   "id": 262251,
-   "url": "https://athenaglauxintelligence.news/fr/event/262251.html",
-   "title": "Safaricom dispute leaves Vodacom billions in limbo",
-   "section": "Technologie et cyber",
-   "first_reported": "2026-11-18T18:30:00Z",
-   "last_reported": "2026-11-19T12:18:54Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 1.1,
-   "risk_band": "low",
-   "confidence_pct": 64,
-   "status": "fading"
-  },
-  {
-   "id": 259556,
-   "url": "https://athenaglauxintelligence.news/fr/event/259556.html",
-   "title": "Grimes Shares AI-Assisted Billy Corgan Collab From AI-Inspired Album, Calls Out Elon Musk Over AI “Sex Slave”",
-   "section": "Technologie et cyber",
-   "first_reported": "2026-11-18T18:18:43Z",
-   "last_reported": "2026-11-20T14:14:15Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 61,
-   "status": "fading"
-  },
-  {
-   "id": 259238,
-   "url": "https://athenaglauxintelligence.news/fr/event/259238.html",
-   "title": "PTA says submarine cable fault may cause internet connectivity issues",
-   "section": "Technologie et cyber",
-   "first_reported": "2026-11-18T18:12:19Z",
-   "last_reported": "2026-11-19T12:30:00Z",
-   "outlets": 6,
-   "countries": 4,
-   "risk_score": 1.7,
-   "risk_band": "low",
-   "confidence_pct": 79,
    "status": "fading"
   }
  ]
