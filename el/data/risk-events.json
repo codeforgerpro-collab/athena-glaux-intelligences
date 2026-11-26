@@ -1,12 +1,26 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-26T18:02:07Z",
+ "generated": "2026-11-26T18:47:14Z",
  "window_days": 7,
  "language": "el",
- "count": 901,
+ "count": 905,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
+  {
+   "id": 323783,
+   "url": "https://athenaglauxintelligence.news/el/event/323783.html",
+   "title": "Zamfara: Lawal rules out talks with bandits as forest guards graduate",
+   "section": "Επιχειρήσεις",
+   "first_reported": "2026-11-26T14:57:36Z",
+   "last_reported": "2026-11-26T17:29:49Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 54,
+   "status": "peaking"
+  },
   {
    "id": 323075,
    "url": "https://athenaglauxintelligence.news/el/event/323075.html",
@@ -89,6 +103,20 @@
    "risk_score": 0.9,
    "risk_band": "low",
    "confidence_pct": 57,
+   "status": "emerging"
+  },
+  {
+   "id": 323275,
+   "url": "https://athenaglauxintelligence.news/el/event/323275.html",
+   "title": "India’s kharif foodgrains estimate 5% lower on weather woes",
+   "section": "Εμπόριο & Βιομηχανία",
+   "first_reported": "2026-11-26T08:37:19Z",
+   "last_reported": "2026-11-26T14:50:40Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 1.7,
+   "risk_band": "low",
+   "confidence_pct": 56,
    "status": "emerging"
   },
   {
@@ -442,6 +470,20 @@
    "status": "fading"
   },
   {
+   "id": 318027,
+   "url": "https://athenaglauxintelligence.news/el/event/318027.html",
+   "title": "Duran Duran guitarist Andy Taylor dies at 65",
+   "section": "Πολιτισμός & Πρόσωπα",
+   "first_reported": "2026-11-25T21:24:39Z",
+   "last_reported": "2026-11-26T16:13:49Z",
+   "outlets": 32,
+   "countries": 13,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 90,
+   "status": "fading"
+  },
+  {
    "id": 318949,
    "url": "https://athenaglauxintelligence.news/el/event/318949.html",
    "title": "(URGENT) N. Korean leader inspects nuclear facility, calls attention to use of tactical nukes in diverse areas: KCNA",
@@ -524,6 +566,20 @@
    "risk_band": "high",
    "confidence_pct": 86,
    "status": "spreading"
+  },
+  {
+   "id": 317791,
+   "url": "https://athenaglauxintelligence.news/el/event/317791.html",
+   "title": "Dangote Refinery to list on Nigerian Exchange December 1",
+   "section": "Οικονομία & Αγορές",
+   "first_reported": "2026-11-25T20:16:51Z",
+   "last_reported": "2026-11-26T12:50:01Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 61,
+   "status": "fading"
   },
   {
    "id": 318835,
@@ -666,6 +722,20 @@
    "status": "fading"
   },
   {
+   "id": 319058,
+   "url": "https://athenaglauxintelligence.news/el/event/319058.html",
+   "title": "INQToday: Duterte’s ICC trial participation, rainy weather in focus",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-25T18:05:05Z",
+   "last_reported": "2026-11-26T10:24:31Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 1.1,
+   "risk_band": "low",
+   "confidence_pct": 60,
+   "status": "peaking"
+  },
+  {
    "id": 316559,
    "url": "https://athenaglauxintelligence.news/el/event/316559.html",
    "title": "US stocks fall further as fears over AI intensify",
@@ -728,11 +798,11 @@
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-25T16:59:20Z",
    "last_reported": "2026-11-26T15:39:18Z",
-   "outlets": 5,
+   "outlets": 6,
    "countries": 1,
    "risk_score": 1.4,
    "risk_band": "low",
-   "confidence_pct": 62,
+   "confidence_pct": 66,
    "status": "fading"
   },
   {
@@ -820,6 +890,20 @@
    "status": "fading"
   },
   {
+   "id": 317639,
+   "url": "https://athenaglauxintelligence.news/el/event/317639.html",
+   "title": "Bayer plans 1 bln euro investment in China through 2030",
+   "section": "Επιχειρήσεις",
+   "first_reported": "2026-11-25T15:55:19Z",
+   "last_reported": "2026-11-26T14:51:13Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 60,
+   "status": "fading"
+  },
+  {
    "id": 317544,
    "url": "https://athenaglauxintelligence.news/el/event/317544.html",
    "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
@@ -854,11 +938,11 @@
    "section": "Οικονομία & Αγορές",
    "first_reported": "2026-11-25T15:34:01Z",
    "last_reported": "2026-11-26T09:04:35Z",
-   "outlets": 5,
+   "outlets": 6,
    "countries": 3,
-   "risk_score": 2.3,
+   "risk_score": 2.2,
    "risk_band": "moderate",
-   "confidence_pct": 75,
+   "confidence_pct": 77,
    "status": "fading"
   },
   {
@@ -979,12 +1063,12 @@
    "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-25T14:20:28Z",
-   "last_reported": "2026-11-26T10:02:29Z",
-   "outlets": 10,
-   "countries": 4,
+   "last_reported": "2026-11-26T10:54:24Z",
+   "outlets": 11,
+   "countries": 5,
    "risk_score": 5.1,
    "risk_band": "elevated",
-   "confidence_pct": 88,
+   "confidence_pct": 90,
    "status": "fading"
   },
   {
@@ -1028,6 +1112,20 @@
    "risk_band": "none detected",
    "confidence_pct": 65,
    "status": "fading"
+  },
+  {
+   "id": 314627,
+   "url": "https://athenaglauxintelligence.news/el/event/314627.html",
+   "title": "Nigeria: President Tinubu Felicitates ADC Presidential Candidate Atiku Abubakar At 80",
+   "section": "Ενέργεια & Περιβάλλον",
+   "first_reported": "2026-11-25T14:05:13Z",
+   "last_reported": "2026-11-26T17:15:04Z",
+   "outlets": 5,
+   "countries": 1,
+   "risk_score": 4.0,
+   "risk_band": "elevated",
+   "confidence_pct": 67,
+   "status": "peaking"
   },
   {
    "id": 315684,
@@ -1088,7 +1186,7 @@
   {
    "id": 319267,
    "url": "https://athenaglauxintelligence.news/el/event/319267.html",
-   "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+   "title": "Explained: How Trump’s proposed tariffs for India compare with rival nations",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-25T13:40:17Z",
    "last_reported": "2026-11-26T15:34:27Z",
@@ -1167,6 +1265,20 @@
    "risk_score": 5.9,
    "risk_band": "elevated",
    "confidence_pct": 94,
+   "status": "fading"
+  },
+  {
+   "id": 316752,
+   "url": "https://athenaglauxintelligence.news/el/event/316752.html",
+   "title": "Afreximbank, Ibom LNG partner to raise $1.5bn for gas project",
+   "section": "Ενέργεια & Περιβάλλον",
+   "first_reported": "2026-11-25T12:09:31Z",
+   "last_reported": "2026-11-26T11:47:37Z",
+   "outlets": 5,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -1329,12 +1441,12 @@
    "title": "Three MiG-31 and two Su-34 aircraft reportedly hit at Russian military airfield",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-25T10:29:00Z",
-   "last_reported": "2026-11-26T09:01:25Z",
-   "outlets": 8,
-   "countries": 5,
+   "last_reported": "2026-11-26T10:30:00Z",
+   "outlets": 9,
+   "countries": 6,
    "risk_score": 2.2,
    "risk_band": "moderate",
-   "confidence_pct": 88,
+   "confidence_pct": 89,
    "status": "fading"
   },
   {
@@ -2589,7 +2701,7 @@
    "title": "EDB Investment in Uzbekistan Could Reach $3 Billion by 2031",
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-24T15:30:00Z",
-   "last_reported": "2026-11-26T07:00:28Z",
+   "last_reported": "2026-11-26T15:30:00Z",
    "outlets": 6,
    "countries": 3,
    "risk_score": 0.0,
@@ -3514,7 +3626,7 @@
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-24T08:00:00Z",
    "last_reported": "2026-11-26T16:13:48Z",
-   "outlets": 20,
+   "outlets": 21,
    "countries": 11,
    "risk_score": 0.0,
    "risk_band": "none detected",
@@ -4564,12 +4676,12 @@
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-23T18:29:49Z",
    "last_reported": "2026-11-26T09:44:02Z",
-   "outlets": 10,
-   "countries": 8,
-   "risk_score": 1.9,
+   "outlets": 11,
+   "countries": 9,
+   "risk_score": 1.7,
    "risk_band": "low",
-   "confidence_pct": 87,
-   "status": "peaking"
+   "confidence_pct": 88,
+   "status": "fading"
   },
   {
    "id": 299761,
@@ -4821,6 +4933,20 @@
    "risk_score": 5.3,
    "risk_band": "elevated",
    "confidence_pct": 89,
+   "status": "fading"
+  },
+  {
+   "id": 312909,
+   "url": "https://athenaglauxintelligence.news/el/event/312909.html",
+   "title": "SEBI's Big IPO Move | Grey Market Premium Under Scanner | What Investors Should Know",
+   "section": "Οικονομία & Αγορές",
+   "first_reported": "2026-11-23T16:58:11Z",
+   "last_reported": "2026-11-26T05:31:51Z",
+   "outlets": 4,
+   "countries": 1,
+   "risk_score": 0.6,
+   "risk_band": "low",
+   "confidence_pct": 63,
    "status": "fading"
   },
   {
@@ -5622,20 +5748,6 @@
    "status": "fading"
   },
   {
-   "id": 296415,
-   "url": "https://athenaglauxintelligence.news/el/event/296415.html",
-   "title": "Govt reduces diesel price by Rs4 per litre, petrol by Re1 per litre",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-23T10:00:00Z",
-   "last_reported": "2026-11-24T18:23:14Z",
-   "outlets": 6,
-   "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 78,
-   "status": "fading"
-  },
-  {
    "id": 296505,
    "url": "https://athenaglauxintelligence.news/el/event/296505.html",
    "title": "DNC Sets 12 Presidential Debates and Tells 2028 Hopefuls to Denounce “Dark Money”",
@@ -5647,6 +5759,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 73,
+   "status": "fading"
+  },
+  {
+   "id": 296415,
+   "url": "https://athenaglauxintelligence.news/el/event/296415.html",
+   "title": "Govt reduces diesel price by Rs4 per litre, petrol by Re1 per litre",
+   "section": "Ενέργεια & Περιβάλλον",
+   "first_reported": "2026-11-23T10:00:00Z",
+   "last_reported": "2026-11-24T18:23:14Z",
+   "outlets": 6,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 78,
    "status": "fading"
   },
   {
@@ -6840,6 +6966,20 @@
    "status": "fading"
   },
   {
+   "id": 293076,
+   "url": "https://athenaglauxintelligence.news/el/event/293076.html",
+   "title": "ICC Trial Chamber III sets conduct for Duterte trial proceedings",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-23T01:00:00Z",
+   "last_reported": "2026-11-26T16:10:05Z",
+   "outlets": 4,
+   "countries": 2,
+   "risk_score": 4.0,
+   "risk_band": "moderate",
+   "confidence_pct": 67,
+   "status": "peaking"
+  },
+  {
    "id": 292953,
    "url": "https://athenaglauxintelligence.news/el/event/292953.html",
    "title": "Parts of the UK brace for ‘early arrival of winter’ with snow and frost forecast",
@@ -7713,12 +7853,12 @@
    "title": "Netanyahu Welcomes Reported Reinstatement of Nvidia Founder Jensen Huang as CEO",
    "section": "Οικονομία & Αγορές",
    "first_reported": "2026-11-22T08:25:11Z",
-   "last_reported": "2026-11-24T15:26:14Z",
-   "outlets": 21,
-   "countries": 15,
-   "risk_score": 2.8,
+   "last_reported": "2026-11-25T01:46:09Z",
+   "outlets": 22,
+   "countries": 16,
+   "risk_score": 2.6,
    "risk_band": "moderate",
-   "confidence_pct": 87,
+   "confidence_pct": 83,
    "status": "fading"
   },
   {
@@ -8884,20 +9024,6 @@
    "status": "fading"
   },
   {
-   "id": 285427,
-   "url": "https://athenaglauxintelligence.news/el/event/285427.html",
-   "title": "Democrats Win at Least 258 House Seats, Matching Their Biggest Majority Since 1992",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-21T11:00:00Z",
-   "last_reported": "2026-11-23T18:29:36Z",
-   "outlets": 29,
-   "countries": 21,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 91,
-   "status": "fading"
-  },
-  {
    "id": 282477,
    "url": "https://athenaglauxintelligence.news/el/event/282477.html",
    "title": "8 years, 10 billion km: Japan-Europe spacecraft enters Mercury's orbit",
@@ -8909,6 +9035,20 @@
    "risk_score": 1.5,
    "risk_band": "low",
    "confidence_pct": 85,
+   "status": "fading"
+  },
+  {
+   "id": 285427,
+   "url": "https://athenaglauxintelligence.news/el/event/285427.html",
+   "title": "Democrats Win at Least 258 House Seats, Matching Their Biggest Majority Since 1992",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-21T11:00:00Z",
+   "last_reported": "2026-11-23T18:29:36Z",
+   "outlets": 29,
+   "countries": 21,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -10183,6 +10323,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 83,
+   "status": "fading"
+  },
+  {
+   "id": 306262,
+   "url": "https://athenaglauxintelligence.news/el/event/306262.html",
+   "title": "Taliban Say Second-Phase Excavation on Qosh Tepa Canal Is 99% Complete",
+   "section": "Ενέργεια & Περιβάλλον",
+   "first_reported": "2026-11-20T15:38:16Z",
+   "last_reported": "2026-11-26T11:26:48Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 63,
    "status": "fading"
   },
   {
@@ -12521,104 +12675,6 @@
    "risk_score": 4.6,
    "risk_band": "elevated",
    "confidence_pct": 72,
-   "status": "fading"
-  },
-  {
-   "id": 269277,
-   "url": "https://athenaglauxintelligence.news/el/event/269277.html",
-   "title": "Russia rejects US proposal for Nato-style Ukraine security guarantees",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-19T18:27:00Z",
-   "last_reported": "2026-11-21T03:46:21Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 1.9,
-   "risk_band": "low",
-   "confidence_pct": 78,
-   "status": "fading"
-  },
-  {
-   "id": 274220,
-   "url": "https://athenaglauxintelligence.news/el/event/274220.html",
-   "title": "Gulf Sees Iran Oil Movement as US Widens Blockade",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-19T18:21:00Z",
-   "last_reported": "2026-11-20T18:06:00Z",
-   "outlets": 10,
-   "countries": 6,
-   "risk_score": 5.5,
-   "risk_band": "elevated",
-   "confidence_pct": 87,
-   "status": "fading"
-  },
-  {
-   "id": 268302,
-   "url": "https://athenaglauxintelligence.news/el/event/268302.html",
-   "title": "European-Japanese spacecraft reaches Mercury after eight-year journey, suffers glitch",
-   "section": "Τεχνολογία & Κυβερνοασφάλεια",
-   "first_reported": "2026-11-19T18:17:13Z",
-   "last_reported": "2026-11-23T18:52:12Z",
-   "outlets": 12,
-   "countries": 11,
-   "risk_score": 1.8,
-   "risk_band": "low",
-   "confidence_pct": 87,
-   "status": "fading"
-  },
-  {
-   "id": 268311,
-   "url": "https://athenaglauxintelligence.news/el/event/268311.html",
-   "title": "Thousands rally in Tokyo against Takaichi administration's policies",
-   "section": "Επιχειρήσεις",
-   "first_reported": "2026-11-19T18:17:13Z",
-   "last_reported": "2026-11-20T16:10:08Z",
-   "outlets": 6,
-   "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 55,
-   "status": "fading"
-  },
-  {
-   "id": 269292,
-   "url": "https://athenaglauxintelligence.news/el/event/269292.html",
-   "title": "Hegseth visits Ecuador, Honduras to boost anti-narco fight",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-19T18:15:59Z",
-   "last_reported": "2026-11-20T18:46:00Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 4.8,
-   "risk_band": "elevated",
-   "confidence_pct": 71,
-   "status": "fading"
-  },
-  {
-   "id": 269280,
-   "url": "https://athenaglauxintelligence.news/el/event/269280.html",
-   "title": "Trump prefers peace over profits — Kushner",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-19T18:15:00Z",
-   "last_reported": "2026-11-19T19:59:03Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 73,
-   "status": "fading"
-  },
-  {
-   "id": 270350,
-   "url": "https://athenaglauxintelligence.news/el/event/270350.html",
-   "title": "Constanta Port Grain Exports Rise by Double Digits in 2026",
-   "section": "Εμπόριο & Βιομηχανία",
-   "first_reported": "2026-11-19T18:07:54Z",
-   "last_reported": "2026-11-19T23:03:00Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 57,
    "status": "fading"
   }
  ]
