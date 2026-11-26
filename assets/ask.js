@@ -78,10 +78,24 @@
       +'<div class="meta c"><span>'+esc(ago(e[7]))+'</span><span>'+esc(L.outlets)+' '+e[5]+'</span><span>'+esc(L.countries)+' '+e[6]+'</span>'
       +'<span class="rk '+rc(e[3])+'">'+esc(L.risk)+' '+(+e[3]).toFixed(1)+'</span></div></li>';}
   var helped=false;
-  function draw(){var T=V.text;
-    if(!last.length){out.innerHTML=helped?"":'<div class="empty"><b>'+esc(T.none)+'</b><br>'+esc(T.none_tip)+'</div>';return;}
+  function gtxt(){return GEN?String(GEN).replace("T"," ").replace(/\.\d+/,"").replace(/Z$/," UTC").replace(/\+00:00$/," UTC"):"-";}
+  function mfill(s,v){return String(s||"").replace(/\{v\}/g,v);}
+  // ASK-B: how this answer was made - the site's published method applied to the question that was asked (also written into the answer sheet)
+  function mlines(){var M=V.text.mm;if(!M||!lastR)return [];var r=lastR,T=V.text,c=[];
+    if(helped)c.push(M.help);if(helped&&!last.length)return c;
+    c.push(M.scope,M.read);
+    r.country.forEach(function(x){c.push(mfill(M.country,V.cname[x]||x));});r.region.forEach(function(x){c.push(mfill(M.region,V.rname[x]||x));});
+    r.topic.forEach(function(x){c.push(mfill(M.topic,V.tname[x]||x));});r.section.forEach(function(x){c.push(mfill(M.section,V.catname[x]||x));});
+    if(r.since)c.push(mfill(M.since,T.hours[String(r.since)]||r.since+" h"));if(r.risk)c.push(mfill(M.risk,r.risk));if(r.rmax)c.push(mfill(M.rmax,r.rmax));
+    if(r.words.length)c.push(mfill(M.words,r.words.join(" ")));c.push(M["sort_"+r.sortUsed]||"");
+    c.push(M.scale,M.count.replace("{n}",last.length).replace("{m}",EV.length),M.data.replace("{gen}",gtxt()),M.limits);
+    return c.filter(Boolean);}
+  function methodBlock(){var L=mlines();if(!L.length)return "";
+    return '<details class="amm" id="ask-method"><summary>'+esc(V.text.mm.head)+'</summary><ul>'+L.map(function(x){return '<li>'+esc(x)+'</li>';}).join("")+'</ul></details>';}
+  function draw(){var T=V.text,mb0=methodBlock();
+    if(!last.length){out.innerHTML=(helped?"":'<div class="empty"><b>'+esc(T.none)+'</b><br>'+esc(T.none_tip)+'</div>')+mb0;return;}
     out.innerHTML='<p class="small afound">'+esc(T.found.replace("{n}",last.length))+'</p><ol class="ares">'+last.slice(0,shown).map(item).join("")+'</ol>'
-      +(last.length>shown?'<button type="button" class="abtn ghost" id="ask-more">'+esc(T.more)+'</button>':"")+sheetBlock();
+      +(last.length>shown?'<button type="button" class="abtn ghost" id="ask-more">'+esc(T.more)+'</button>':"")+mb0+sheetBlock();
     var mb=document.getElementById("ask-more");if(mb)mb.onclick=function(){shown+=20;draw();};wireSheet();}
   // ASK-3: the answer sheet - a PDF made in the browser (assets/ask-sheet.js, loaded on first use), optionally with a Bitcoin stamp
   function sheetBlock(){var S=V.sheet;if(!S||!window.crypto||!crypto.subtle||!window.TextEncoder)return "";
@@ -98,9 +112,9 @@
         Promise.all([sh._t.sha(new Uint8Array(HB[0])),sh._t.sha(new Uint8Array(HB[1]))]).then(function(h){
           var ev=last.slice(0,25).map(function(x){var e=x.e;return {id:e[0],h:e[1],sec:V.catname[e[2]]||"",risk:(+e[3]).toFixed(1),out:e[5],cn:e[6],ts:e[7],
             when:new Date(e[7]*1000).toISOString().slice(0,16).replace("T"," ")+" UTC",url:new URL(root+pre+"event/"+e[0]+".html",location.href).href};});
-          var gt=GEN?String(GEN).replace("T"," ").replace(/\.\d+/,"").replace(/Z$/," UTC").replace(/\+00:00$/," UTC"):"-";
+          var gt=gtxt();
           return sh.make({L:S,lang:lang,rtl:document.documentElement.dir==="rtl",family:getComputedStyle(document.body).fontFamily,q:lastQ,url:u.href,lines:lines(lastR),events:ev,total:last.length,
-            gen:GEN,genText:gt,dataHash:h[1],vocabHash:h[0],text:{how:V.text.how,tips:V.text.tips,private:V.text.private},root:new URL(root,location.href).href,
+            gen:GEN,genText:gt,dataHash:h[1],vocabHash:h[0],mm:mlines(),mmHead:(V.text.mm||{}).head||"",text:{how:V.text.how,tips:V.text.tips,private:V.text.private},root:new URL(root,location.href).href,
             proofs:new URL(root+"forecast-desk.html",location.href).href},stamp,say);})
         .then(function(r){say(stamp?S.done_stamp.replace("{cals}",(r.cals||[]).join(", ")):S.done);done();})
         .catch(function(e){say(stamp&&e&&/calendar/.test(String(e.message))?S.stamp_failed:S.failed);done();});}

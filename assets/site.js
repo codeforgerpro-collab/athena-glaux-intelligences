@@ -162,23 +162,36 @@ var done=/\s$/.test(q.value),res=[];
 for(var i=0;i<Q.length&&res.length<5;i++){var qz=Q[i].__z||(Q[i].__z=NZ(Q[i].q)),ws=qz.split(" ");if(qz===NZ(q.value))continue;
 if(t.every(function(x,ti){return ws.some(function(w){return w.indexOf(x)===0;});}))res.push(Q[i]);}
 return res;}
-function suggest(){var hh=helpHits();
+function liH(h,k){var a=String(h.a||"");if(a.length>110)a=a.slice(0,108).replace(/\s+\S*$/,"")+"…";
+return '<li role="option" class="hw" id="'+ul.id+'-'+k+'" data-h="'+E(h.id)+'"><span class="hi" aria-hidden="true">?</span><span class="n"><span class="hq">'+E(h.q)+'</span><span class="ha">'+E(a)+'</span></span></li>';}
+function liQ(o,i,k){return '<li role="option" class="hw" id="'+ul.id+'-'+k+'" data-qi="'+i+'"><span class="hi" aria-hidden="true">?</span><span class="n"><span class="hq">'+E(o.q)+'</span><span class="ha">'
++E((V.q_n||"{n}").replace("{n}",o.n))+'</span></span></li>';}
+function head(t){return '<li class="ab-h" role="presentation">'+E(t)+'</li>';}
+function home(){var H=(V&&V.help)||[],Q=(V&&V.qs)||[];if(!H.length&&!Q.length)return false;
+var hm=H.slice(0,4),k=0;QL=Q.slice(0,6);
+ul.innerHTML=(hm.length?head(V.help_head||"How to")+hm.map(function(h){return liH(h,k++);}).join(""):"")
++(QL.length?head(V.q_head||"Questions")+QL.map(function(o,i){return liQ(o,i,k++);}).join(""):"");
+ul.classList.add("has-help");ul.hidden=false;q.setAttribute("aria-expanded","true");sel=-1;return true;}
+function helpLoose(){var H=V&&V.help;if(!H||!H.length)return [];var w=NZ(q.value).split(" ").filter(function(x){return x.length>=3;});if(!w.length)return [];
+function hk(L,x){return L.some(function(k){return k===x||k.indexOf(x)===0||(k.length>=5&&x.length>=4&&x.indexOf(k.slice(0,k.length-1))===0);});}
+return H.map(function(h){var n=0;w.forEach(function(x){if(hk(h.s,x))n++;});return {h:h,n:n};}).filter(function(o){return o.n>0;})
+.sort(function(a,b){return b.n-a.n;}).slice(0,2).map(function(o){return o.h;});}
+function suggest(){if(!NZ(q.value)){if(!home())close();return;}
+var hh=helpHits();
 if(hh){var hm=hh.slice(0,12),k=0;
-ul.innerHTML='<li class="ab-h" role="presentation">'+E(V.help_head||"How to")+'</li>'+hm.map(function(h){var a=String(h.a||"");if(a.length>110)a=a.slice(0,108).replace(/\s+\S*$/,"")+"…";
-return '<li role="option" class="hw" id="'+ul.id+'-'+(k++)+'" data-h="'+E(h.id)+'"><span class="hi" aria-hidden="true">?</span><span class="n"><span class="hq">'+E(h.q)+'</span><span class="ha">'+E(a)+'</span></span></li>';}).join("");
+ul.innerHTML=head(V.help_head||"How to")+hm.map(function(h){return liH(h,k++);}).join("");
 ul.classList.add("has-help");ul.hidden=false;q.setAttribute("aria-expanded","true");sel=-1;return;}
 ul.classList.remove("has-help");
-var qs=qHits(),fr=frag();
+var qs=qHits(),fr=frag(),hl=helpLoose();
 var hits=(list.length&&fr.length>=2)?list.filter(function(o){return o.z.split(" ").some(function(w){return w.indexOf(fr)===0;});}).sort(function(a,b){
 var ra={topic:0,region:1,country:2,section:3},sa=a.z.indexOf(fr)===0?0:1,sb=b.z.indexOf(fr)===0?0:1;return sa-sb||ra[a.k]-ra[b.k]||a.n.length-b.n.length;}).slice(0,6):[];
-if(!hits.length&&!qs.length){close();return;}
-var k=0;QL=qs;   // ASK-2: real questions the page can answer today come first, then names to complete the word being typed
-ul.innerHTML=(qs.length?'<li class="ab-h" role="presentation">'+E(V.q_head||"Questions")+'</li>'+qs.map(function(o,i){
-return '<li role="option" class="hw" id="'+ul.id+'-'+(k++)+'" data-qi="'+i+'"><span class="hi" aria-hidden="true">?</span><span class="n"><span class="hq">'+E(o.q)+'</span><span class="ha">'
-+E((V.q_n||"{n}").replace("{n}",o.n))+'</span></span></li>';}).join(""):"")
+if(!hits.length&&!qs.length&&!hl.length){close();return;}
+var k=0;QL=qs;   // ASK-2: real questions the page can answer today come first, then how-to questions, then names to complete the word being typed
+ul.innerHTML=(qs.length?head(V.q_head||"Questions")+qs.map(function(o,i){return liQ(o,i,k++);}).join(""):"")
++(hl.length?head(V.help_head||"How to")+hl.map(function(h){return liH(h,k++);}).join(""):"")
 +hits.map(function(o){return '<li role="option" id="'+ul.id+'-'+(k++)+'" data-v="'+o.n.replace(/"/g,"&quot;")+'"><span class="t">'+(LB[o.k]||o.k)+'</span><span class="n">'
 +o.n.replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c];})+(o.e?' <span class="e">\u00b7 '+o.e+'</span>':'')+'</span></li>';}).join("");
-if(qs.length)ul.classList.add("has-help");
+if(qs.length||hl.length)ul.classList.add("has-help");
 ul.hidden=false;q.setAttribute("aria-expanded","true");sel=-1;}
 function opts(){return ul.querySelectorAll('li[role="option"]');}
 function pick(li){var qi=li.getAttribute("data-qi");
@@ -189,7 +202,7 @@ if(f.requestSubmit)f.requestSubmit();else f.submit();return;}
 var v=li.getAttribute("data-v");q.value=q.value.replace(/(\S+)$/,"")+v+" ";state();close();q.focus();}
 function mark(){var o=opts();[].forEach.call(o,function(li,i){li.setAttribute("aria-selected",i===sel?"true":"false");});
 if(sel>=0){q.setAttribute("aria-activedescendant",o[sel].id);if(o[sel].scrollIntoView)o[sel].scrollIntoView({block:"nearest"});}}
-q.addEventListener("focus",load);q.addEventListener("input",suggest);
+q.addEventListener("focus",function(){load();if(V&&V.help!==undefined&&!NZ(q.value))suggest();});q.addEventListener("click",function(){if(V&&V.help!==undefined&&!NZ(q.value)&&ul.hidden)suggest();});q.addEventListener("input",suggest);
 q.addEventListener("keydown",function(e){if(ul.hidden)return;var n=opts().length;if(!n)return;
 if(e.key==="ArrowDown"){e.preventDefault();sel=(sel+1)%n;mark();}else if(e.key==="ArrowUp"){e.preventDefault();sel=(sel-1+n)%n;mark();}
 else if(e.key==="Enter"&&sel>=0){e.preventDefault();pick(opts()[sel]);}else if(e.key==="Escape"){close();}});

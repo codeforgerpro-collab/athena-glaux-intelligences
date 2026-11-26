@@ -127,7 +127,7 @@
   function make(c, withStamp, say) {
     var now = new Date(), L = c.L, items = [], i;
     var payload = JSON.stringify({ v: 1, q: c.q, lang: c.lang, data_generated: c.gen, data_sha256: c.dataHash, vocabulary_sha256: c.vocabHash, read_as: c.lines,
-      answers: c.events.map(function (e) { return [e.id, e.h, e.risk, e.out, e.cn, e.ts]; }), total: c.total });
+      answers: c.events.map(function (e) { return [e.id, e.h, e.risk, e.out, e.cn, e.ts]; }), total: c.total, method: c.mm || [] });
     return sha(enc.encode(payload)).then(function (contentHash) {
       items.push(["h1", L.title], ["s", L.sub], ["h2", L.q], ["q", c.q], ["h2", L.when], ["p", iso(now)], ["s", L.when_note.replace("{gen}", c.genText)],
         ["h2", L.page], ["m", c.url], ["h2", L.read]);
@@ -138,6 +138,7 @@
       });
       if (c.total > c.events.length) items.push(["s", L.more.replace("{n}", c.total - c.events.length)]);
       if (!c.total) items.push(["p", L.none]);
+      if (c.mm && c.mm.length) { items.push(["h2", c.mmHead]); c.mm.forEach(function (p) { items.push(["p", p]); }); }
       items.push(["h2", L.meth]);
       (c.text.how || []).forEach(function (h) { items.push(["p", h[0] + ": " + h[1]]); });
       (c.text.tips || []).forEach(function (t) { items.push(["s", "• " + t]); });
