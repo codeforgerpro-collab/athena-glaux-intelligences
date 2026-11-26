@@ -156,21 +156,34 @@ var sc=H.map(function(h){var n=0;rest.forEach(function(x){if(hk(h.s,x))n+=2;else
 .filter(function(o){return o.n>0;}).sort(function(a,b){return b.n-a.n;});
 return sc.length?sc.map(function(o){return o.h;}):null;}
 function E(t){return String(t).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+var QL=[];
+function qHits(){var Q=V&&V.qs;if(!Q||!Q.length)return [];var t=NZ(q.value).split(" ").filter(Boolean);if(!t.length||NZ(q.value).length<2)return [];
+var done=/\s$/.test(q.value),res=[];
+for(var i=0;i<Q.length&&res.length<5;i++){var qz=Q[i].__z||(Q[i].__z=NZ(Q[i].q)),ws=qz.split(" ");if(qz===NZ(q.value))continue;
+if(t.every(function(x,ti){return ws.some(function(w){return w.indexOf(x)===0;});}))res.push(Q[i]);}
+return res;}
 function suggest(){var hh=helpHits();
 if(hh){var hm=hh.slice(0,12),k=0;
 ul.innerHTML='<li class="ab-h" role="presentation">'+E(V.help_head||"How to")+'</li>'+hm.map(function(h){var a=String(h.a||"");if(a.length>110)a=a.slice(0,108).replace(/\s+\S*$/,"")+"…";
 return '<li role="option" class="hw" id="'+ul.id+'-'+(k++)+'" data-h="'+E(h.id)+'"><span class="hi" aria-hidden="true">?</span><span class="n"><span class="hq">'+E(h.q)+'</span><span class="ha">'+E(a)+'</span></span></li>';}).join("");
 ul.classList.add("has-help");ul.hidden=false;q.setAttribute("aria-expanded","true");sel=-1;return;}
 ul.classList.remove("has-help");
-var fr=frag();if(!list.length||fr.length<2){close();return;}
-var hits=list.filter(function(o){return o.z.split(" ").some(function(w){return w.indexOf(fr)===0;});}).sort(function(a,b){
-var ra={topic:0,region:1,country:2,section:3},sa=a.z.indexOf(fr)===0?0:1,sb=b.z.indexOf(fr)===0?0:1;return sa-sb||ra[a.k]-ra[b.k]||a.n.length-b.n.length;}).slice(0,6);
-if(!hits.length){close();return;}
-ul.innerHTML=hits.map(function(o,i){return '<li role="option" id="'+ul.id+'-'+i+'" data-v="'+o.n.replace(/"/g,"&quot;")+'"><span class="t">'+(LB[o.k]||o.k)+'</span><span class="n">'
-+o.n.replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c];})+(o.e?' <span class="e">· '+o.e+'</span>':'')+'</span></li>';}).join("");
+var qs=qHits(),fr=frag();
+var hits=(list.length&&fr.length>=2)?list.filter(function(o){return o.z.split(" ").some(function(w){return w.indexOf(fr)===0;});}).sort(function(a,b){
+var ra={topic:0,region:1,country:2,section:3},sa=a.z.indexOf(fr)===0?0:1,sb=b.z.indexOf(fr)===0?0:1;return sa-sb||ra[a.k]-ra[b.k]||a.n.length-b.n.length;}).slice(0,6):[];
+if(!hits.length&&!qs.length){close();return;}
+var k=0;QL=qs;   // ASK-2: real questions the page can answer today come first, then names to complete the word being typed
+ul.innerHTML=(qs.length?'<li class="ab-h" role="presentation">'+E(V.q_head||"Questions")+'</li>'+qs.map(function(o,i){
+return '<li role="option" class="hw" id="'+ul.id+'-'+(k++)+'" data-qi="'+i+'"><span class="hi" aria-hidden="true">?</span><span class="n"><span class="hq">'+E(o.q)+'</span><span class="ha">'
++E((V.q_n||"{n}").replace("{n}",o.n))+'</span></span></li>';}).join(""):"")
++hits.map(function(o){return '<li role="option" id="'+ul.id+'-'+(k++)+'" data-v="'+o.n.replace(/"/g,"&quot;")+'"><span class="t">'+(LB[o.k]||o.k)+'</span><span class="n">'
++o.n.replace(/[&<>]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;"}[c];})+(o.e?' <span class="e">\u00b7 '+o.e+'</span>':'')+'</span></li>';}).join("");
+if(qs.length)ul.classList.add("has-help");
 ul.hidden=false;q.setAttribute("aria-expanded","true");sel=-1;}
 function opts(){return ul.querySelectorAll('li[role="option"]');}
-function pick(li){var hid=li.getAttribute("data-h");
+function pick(li){var qi=li.getAttribute("data-qi");
+if(qi!==null&&QL[+qi]){q.value=QL[+qi].q;state();close();if(f.requestSubmit)f.requestSubmit();else f.submit();return;}
+var hid=li.getAttribute("data-h");
 if(hid!==null){var h=(V.help||[]).filter(function(o){return o.id===hid;})[0];if(!h)return;q.value=h.q;state();close();
 if(f.requestSubmit)f.requestSubmit();else f.submit();return;}
 var v=li.getAttribute("data-v");q.value=q.value.replace(/(\S+)$/,"")+v+" ";state();close();q.focus();}

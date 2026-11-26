@@ -4,7 +4,7 @@
   var box=document.getElementById("ask");if(!box||!window.fetch)return;
   var root=box.getAttribute("data-root"),pre=box.getAttribute("data-prefix"),lang=document.documentElement.lang||"en";
   var form=document.getElementById("ask-form"),inp=document.getElementById("ask-q"),out=document.getElementById("ask-out"),rd=document.getElementById("ask-read");
-  var V=null,EV=null,X=null,shown=20,last=[];
+  var V=null,EV=null,X=null,shown=20,last=[],lastQ="",lastR=null,GEN="",HB=[null,null];
   function esc(x){return String(x==null?"":x).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
   function N(s){s=String(s||"").toLowerCase().normalize("NFD").replace(/\p{Mn}/gu,"").replace(/ς/g,"σ").replace(/ё/g,"е").replace(/ـ/g,"")
     .replace(/[أإآ]/g,"ا").replace(/ة/g,"ه").replace(/ى/g,"ي").replace(/[^\p{L}\p{N}\s+.<>=]/gu," ");return s.replace(/\s+/g," ").trim();}
@@ -81,10 +81,34 @@
   function draw(){var T=V.text;
     if(!last.length){out.innerHTML=helped?"":'<div class="empty"><b>'+esc(T.none)+'</b><br>'+esc(T.none_tip)+'</div>';return;}
     out.innerHTML='<p class="small afound">'+esc(T.found.replace("{n}",last.length))+'</p><ol class="ares">'+last.slice(0,shown).map(item).join("")+'</ol>'
-      +(last.length>shown?'<button type="button" class="abtn ghost" id="ask-more">'+esc(T.more)+'</button>':"");
-    var mb=document.getElementById("ask-more");if(mb)mb.onclick=function(){shown+=20;draw();};}
+      +(last.length>shown?'<button type="button" class="abtn ghost" id="ask-more">'+esc(T.more)+'</button>':"")+sheetBlock();
+    var mb=document.getElementById("ask-more");if(mb)mb.onclick=function(){shown+=20;draw();};wireSheet();}
+  // ASK-3: the answer sheet - a PDF made in the browser (assets/ask-sheet.js, loaded on first use), optionally with a Bitcoin stamp
+  function sheetBlock(){var S=V.sheet;if(!S||!window.crypto||!crypto.subtle||!window.TextEncoder)return "";
+    return '<div class="asheet"><button type="button" class="abtn" id="as-pdf">'+esc(S.btn_pdf)+'</button><button type="button" class="abtn ghost" id="as-btc">'+esc(S.btn_stamp)+'</button><p class="small" id="as-msg" role="status" aria-live="polite"></p><p class="small">'+esc(S.stamp_note)+'</p></div>';}
+  function lines(r){var T=V.text,L=T.lbl,c=[];function a(l,v){c.push(l+": "+v);}
+    r.country.forEach(function(x){a(L.country,V.cname[x]||x);});r.region.forEach(function(x){a(L.region,V.rname[x]||x);});
+    r.topic.forEach(function(x){a(L.topic,V.tname[x]||x);});r.section.forEach(function(x){a(L.section,V.catname[x]||x);});
+    if(r.since)a(L.since,T.hours[String(r.since)]||r.since+" h");if(r.risk)a(L.risk,T.risk_min.replace("{v}",r.risk));if(r.rmax)a(L.risk,(T.risk_max||"< {v}").replace("{v}",r.rmax));
+    if(r.words.length)a(L.words,r.words.join(" "));a(L.sort,T.sort[r.sortUsed]);return c;}
+  function wireSheet(){var p=document.getElementById("as-pdf"),b=document.getElementById("as-btc");if(!p)return;
+    function go(stamp){var S=V.sheet,msg=document.getElementById("as-msg");p.disabled=b.disabled=true;msg.textContent="";
+      function say(t){msg.textContent=t;}function done(){p.disabled=b.disabled=false;}
+      function run2(){var sh=window.AskSheet,u=new URL(location.href);u.searchParams.set("q",lastQ);
+        Promise.all([sh._t.sha(new Uint8Array(HB[0])),sh._t.sha(new Uint8Array(HB[1]))]).then(function(h){
+          var ev=last.slice(0,25).map(function(x){var e=x.e;return {id:e[0],h:e[1],sec:V.catname[e[2]]||"",risk:(+e[3]).toFixed(1),out:e[5],cn:e[6],ts:e[7],
+            when:new Date(e[7]*1000).toISOString().slice(0,16).replace("T"," ")+" UTC",url:new URL(root+pre+"event/"+e[0]+".html",location.href).href};});
+          var gt=GEN?String(GEN).replace("T"," ").replace(/\.\d+/,"").replace(/Z$/," UTC").replace(/\+00:00$/," UTC"):"-";
+          return sh.make({L:S,lang:lang,rtl:document.documentElement.dir==="rtl",family:getComputedStyle(document.body).fontFamily,q:lastQ,url:u.href,lines:lines(lastR),events:ev,total:last.length,
+            gen:GEN,genText:gt,dataHash:h[1],vocabHash:h[0],text:{how:V.text.how,tips:V.text.tips,private:V.text.private},root:new URL(root,location.href).href,
+            proofs:new URL(root+"forecast-desk.html",location.href).href},stamp,say);})
+        .then(function(r){say(stamp?S.done_stamp.replace("{cals}",(r.cals||[]).join(", ")):S.done);done();})
+        .catch(function(e){say(stamp&&e&&/calendar/.test(String(e.message))?S.stamp_failed:S.failed);done();});}
+      if(window.AskSheet)return run2();
+      var sc=document.createElement("script");sc.src=root+"assets/ask-sheet.js";sc.onload=run2;sc.onerror=function(){say(S.failed);done();};document.head.appendChild(sc);}
+    p.onclick=function(){go(false);};b.onclick=function(){go(true);};}
   function ask(q,push){q=(q||"").trim();if(!q){rd.innerHTML="";out.innerHTML="";return;}
-    var a=run(q),hl=helpFor(q);last=a.res;shown=20;helped=hl.length>0;
+    var a=run(q),hl=helpFor(q);last=a.res;shown=20;helped=hl.length>0;lastQ=q;lastR=a.r;
     rd.innerHTML=helpHtml(hl)+(helped&&!last.length?"":reading(a.r));draw();
     try{var u=new URL(location.href);u.searchParams.set("q",q);history[push?"pushState":"replaceState"](null,"",u);}catch(e){}}
   form.addEventListener("submit",function(ev){ev.preventDefault();ask(inp.value,true);});
@@ -92,7 +116,8 @@
     ask(inp.value,true);box.scrollIntoView({behavior:"smooth",block:"start"});});});
   window.addEventListener("popstate",function(){var q=new URLSearchParams(location.search).get("q")||"";inp.value=q;ask(q,false);});
   out.innerHTML='<p class="small">'+esc(box.getAttribute("data-loading"))+'</p>';
-  Promise.all([fetch(root+"assets/ask-"+lang+".json").then(function(r){return r.json();}),fetch(root+"data/ask.json",{cache:"no-store"}).then(function(r){return r.json();})])
-    .then(function(a){V=a[0];EV=a[1].events;X=index();out.innerHTML="";var q=new URLSearchParams(location.search).get("q")||"";if(q){inp.value=q;ask(q,false);}})
+  function fx(u,nc){return fetch(u,nc?{cache:"no-store"}:{}).then(function(r){return r.arrayBuffer();}).then(function(b){return {j:JSON.parse(new TextDecoder().decode(b)),h:b};});}
+  Promise.all([fx(root+"assets/ask-"+lang+".json"),fx(root+"data/ask.json",1)])
+    .then(function(a){V=a[0].j;EV=a[1].j.events;GEN=a[1].j.generated||"";HB=[a[0].h,a[1].h];X=index();out.innerHTML="";var q=new URLSearchParams(location.search).get("q")||"";if(q){inp.value=q;ask(q,false);}})
     .catch(function(){out.innerHTML='<div class="empty">'+esc(box.getAttribute("data-failed"))+'</div>';});
 })();

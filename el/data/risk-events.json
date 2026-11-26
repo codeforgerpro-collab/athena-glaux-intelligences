@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-26T18:47:14Z",
+ "generated": "2026-11-26T19:27:11Z",
  "window_days": 7,
  "language": "el",
- "count": 905,
+ "count": 912,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -20,6 +20,20 @@
    "risk_band": "none detected",
    "confidence_pct": 54,
    "status": "peaking"
+  },
+  {
+   "id": 324835,
+   "url": "https://athenaglauxintelligence.news/el/event/324835.html",
+   "title": "Fifa confirms internal data stolen in cyber attack",
+   "section": "Τεχνολογία & Κυβερνοασφάλεια",
+   "first_reported": "2026-11-26T14:05:48Z",
+   "last_reported": "2026-11-26T17:59:34Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 5.7,
+   "risk_band": "elevated",
+   "confidence_pct": 68,
+   "status": "emerging"
   },
   {
    "id": 323075,
@@ -70,11 +84,25 @@
    "section": "Οικονομία & Αγορές",
    "first_reported": "2026-11-26T10:42:36Z",
    "last_reported": "2026-11-26T14:36:26Z",
-   "outlets": 3,
+   "outlets": 4,
    "countries": 1,
    "risk_score": 0.9,
    "risk_band": "low",
-   "confidence_pct": 51,
+   "confidence_pct": 58,
+   "status": "emerging"
+  },
+  {
+   "id": 323795,
+   "url": "https://athenaglauxintelligence.news/el/event/323795.html",
+   "title": "Makkah pact nations to discuss conflict between Saudi Arabia and Yemen's Houthis in Islamabad meeting, Asif says",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-26T09:58:11Z",
+   "last_reported": "2026-11-26T14:56:48Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 2.2,
+   "risk_band": "moderate",
+   "confidence_pct": 60,
    "status": "emerging"
   },
   {
@@ -120,6 +148,20 @@
    "status": "emerging"
   },
   {
+   "id": 322567,
+   "url": "https://athenaglauxintelligence.news/el/event/322567.html",
+   "title": "Libya’s Parliament Offers Condolences to Egypt Over Cairo Fire",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-26T08:31:39Z",
+   "last_reported": "2026-11-26T18:07:58Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 4.2,
+   "risk_band": "elevated",
+   "confidence_pct": 73,
+   "status": "emerging"
+  },
+  {
    "id": 321136,
    "url": "https://athenaglauxintelligence.news/el/event/321136.html",
    "title": "Huge blast hits Bangkok oil depot, 7 injured",
@@ -162,6 +204,20 @@
    "status": "fading"
   },
   {
+   "id": 322763,
+   "url": "https://athenaglauxintelligence.news/el/event/322763.html",
+   "title": "EU leaders 'light years' away from deal on bloc's next long-term €2 trillion budget",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-26T07:31:00Z",
+   "last_reported": "2026-11-26T14:18:21Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 65,
+   "status": "emerging"
+  },
+  {
    "id": 321966,
    "url": "https://athenaglauxintelligence.news/el/event/321966.html",
    "title": "DR Congo summons Ugandan envoy over Museveni’s son’s remarks",
@@ -174,6 +230,34 @@
    "risk_band": "none detected",
    "confidence_pct": 65,
    "status": "emerging"
+  },
+  {
+   "id": 320484,
+   "url": "https://athenaglauxintelligence.news/el/event/320484.html",
+   "title": "Kushner: Israel needs to get out of the constant wartime mindset",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-26T06:56:53Z",
+   "last_reported": "2026-11-26T08:27:04Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 1.8,
+   "risk_band": "low",
+   "confidence_pct": 72,
+   "status": "fading"
+  },
+  {
+   "id": 325192,
+   "url": "https://athenaglauxintelligence.news/el/event/325192.html",
+   "title": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-26T06:17:48Z",
+   "last_reported": "2026-11-26T16:26:26Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 5.5,
+   "risk_band": "elevated",
+   "confidence_pct": 73,
+   "status": "fading"
   },
   {
    "id": 322234,
@@ -386,6 +470,20 @@
    "status": "fading"
   },
   {
+   "id": 323392,
+   "url": "https://athenaglauxintelligence.news/el/event/323392.html",
+   "title": "Exclusive: UNRWA may appeal tribunal ruling over 2024 dismissals",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-26T00:05:50Z",
+   "last_reported": "2026-11-26T15:54:11Z",
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 2.4,
+   "risk_band": "moderate",
+   "confidence_pct": 78,
+   "status": "spreading"
+  },
+  {
    "id": 320008,
    "url": "https://athenaglauxintelligence.news/el/event/320008.html",
    "title": "Kushner calls Putin 'grandmaster of politics'",
@@ -398,20 +496,6 @@
    "risk_band": "low",
    "confidence_pct": 76,
    "status": "fading"
-  },
-  {
-   "id": 318336,
-   "url": "https://athenaglauxintelligence.news/el/event/318336.html",
-   "title": "Palestinian journalist killed by Israel in Gaza wins prestigious Rory Peck award",
-   "section": "Τεχνολογία & Κυβερνοασφάλεια",
-   "first_reported": "2026-11-25T22:30:27Z",
-   "last_reported": "2026-11-26T07:47:54Z",
-   "outlets": 6,
-   "countries": 5,
-   "risk_score": 4.9,
-   "risk_band": "elevated",
-   "confidence_pct": 83,
-   "status": "emerging"
   },
   {
    "id": 319283,
@@ -475,12 +559,12 @@
    "title": "Duran Duran guitarist Andy Taylor dies at 65",
    "section": "Πολιτισμός & Πρόσωπα",
    "first_reported": "2026-11-25T21:24:39Z",
-   "last_reported": "2026-11-26T16:13:49Z",
-   "outlets": 32,
-   "countries": 13,
+   "last_reported": "2026-11-26T16:55:18Z",
+   "outlets": 33,
+   "countries": 14,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 90,
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -700,11 +784,11 @@
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-25T18:14:53Z",
    "last_reported": "2026-11-26T16:13:48Z",
-   "outlets": 5,
-   "countries": 4,
+   "outlets": 6,
+   "countries": 5,
    "risk_score": 0.9,
    "risk_band": "low",
-   "confidence_pct": 80,
+   "confidence_pct": 85,
    "status": "fading"
   },
   {
@@ -881,7 +965,7 @@
    "title": "US unveils tariffs on EU, China and others over ‘unfair’ trade",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-25T15:58:36Z",
-   "last_reported": "2026-11-26T08:02:13Z",
+   "last_reported": "2026-11-26T10:30:41Z",
    "outlets": 5,
    "countries": 4,
    "risk_score": 3.4,
@@ -929,6 +1013,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 62,
+   "status": "fading"
+  },
+  {
+   "id": 320156,
+   "url": "https://athenaglauxintelligence.news/el/event/320156.html",
+   "title": "POLAND PUSHES NATO TO INTERCEPT RUSSIAN MISSILES BEFORE THEY CROSS ITS BORDERS",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-25T15:44:42Z",
+   "last_reported": "2026-11-26T13:03:33Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 70,
    "status": "fading"
   },
   {
@@ -993,12 +1091,12 @@
    "title": "Poundland collapses into administration putting 11,000 jobs at risk before Christmas",
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-25T15:04:14Z",
-   "last_reported": "2026-11-26T11:25:36Z",
+   "last_reported": "2026-11-26T17:21:21Z",
    "outlets": 11,
    "countries": 3,
    "risk_score": 5.8,
    "risk_band": "elevated",
-   "confidence_pct": 82,
+   "confidence_pct": 83,
    "status": "fading"
   },
   {
@@ -1147,7 +1245,7 @@
    "title": "Nasa's asteroid crash test left stadium-sized crater; first images reveal",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-25T14:00:00Z",
-   "last_reported": "2026-11-26T10:24:20Z",
+   "last_reported": "2026-11-26T11:13:07Z",
    "outlets": 12,
    "countries": 9,
    "risk_score": 1.2,
@@ -1201,14 +1299,14 @@
    "id": 316514,
    "url": "https://athenaglauxintelligence.news/el/event/316514.html",
    "title": "Norwegian airline Norse Atlantic suspends flights, says bankruptcy imminent",
-   "section": "Οικονομία & Αγορές",
+   "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-25T13:27:47Z",
-   "last_reported": "2026-11-26T09:02:30Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 6.0,
+   "last_reported": "2026-11-26T14:28:22Z",
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 5.9,
    "risk_band": "elevated",
-   "confidence_pct": 68,
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -1279,6 +1377,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 74,
+   "status": "fading"
+  },
+  {
+   "id": 316692,
+   "url": "https://athenaglauxintelligence.news/el/event/316692.html",
+   "title": "Turkey Unveils Maritime Boundary Map With Libya",
+   "section": "Εμπόριο & Βιομηχανία",
+   "first_reported": "2026-11-25T12:07:57Z",
+   "last_reported": "2026-11-26T18:32:40Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 62,
    "status": "fading"
   },
   {
@@ -1391,6 +1503,20 @@
    "risk_score": 0.7,
    "risk_band": "low",
    "confidence_pct": 64,
+   "status": "fading"
+  },
+  {
+   "id": 313660,
+   "url": "https://athenaglauxintelligence.news/el/event/313660.html",
+   "title": "I never tapped Ribadu’s phone – El-Rufai",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-25T10:56:28Z",
+   "last_reported": "2026-11-26T13:10:12Z",
+   "outlets": 6,
+   "countries": 1,
+   "risk_score": 1.1,
+   "risk_band": "low",
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -1688,6 +1814,20 @@
    "status": "peaking"
   },
   {
+   "id": 311440,
+   "url": "https://athenaglauxintelligence.news/el/event/311440.html",
+   "title": "French FM defends Ukraine's attacks on Russian ships in Libya",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-25T07:44:54Z",
+   "last_reported": "2026-11-26T15:02:50Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 0.9,
+   "risk_band": "low",
+   "confidence_pct": 72,
+   "status": "fading"
+  },
+  {
    "id": 312197,
    "url": "https://athenaglauxintelligence.news/el/event/312197.html",
    "title": "NASA chief shreds Marjorie Taylor Greene after she denies Moon landing",
@@ -1875,12 +2015,12 @@
    "title": "A year after Hong Kong's deadliest fire in decades, authorities are wary of memorials",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-25T04:46:02Z",
-   "last_reported": "2026-11-26T07:00:35Z",
-   "outlets": 4,
+   "last_reported": "2026-11-26T15:14:21Z",
+   "outlets": 5,
    "countries": 4,
-   "risk_score": 5.7,
+   "risk_score": 5.8,
    "risk_band": "elevated",
-   "confidence_pct": 77,
+   "confidence_pct": 81,
    "status": "fading"
   },
   {
@@ -1903,8 +2043,8 @@
    "title": "Pakistan makes history as its first astronaut reaches space",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-25T04:05:17Z",
-   "last_reported": "2026-11-26T10:13:07Z",
-   "outlets": 9,
+   "last_reported": "2026-11-26T13:23:52Z",
+   "outlets": 8,
    "countries": 8,
    "risk_score": 0.0,
    "risk_band": "none detected",
@@ -1979,20 +2119,6 @@
    "risk_score": 2.5,
    "risk_band": "moderate",
    "confidence_pct": 73,
-   "status": "fading"
-  },
-  {
-   "id": 310563,
-   "url": "https://athenaglauxintelligence.news/el/event/310563.html",
-   "title": "Israeli strike kills four members of Palestinian family in Gaza in latest ceasefire violation",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-25T02:29:10Z",
-   "last_reported": "2026-11-26T10:56:54Z",
-   "outlets": 6,
-   "countries": 4,
-   "risk_score": 3.9,
-   "risk_band": "moderate",
-   "confidence_pct": 85,
    "status": "fading"
   },
   {
@@ -5454,20 +5580,6 @@
    "status": "fading"
   },
   {
-   "id": 298374,
-   "url": "https://athenaglauxintelligence.news/el/event/298374.html",
-   "title": "Critically ill children from Gaza arrive in UK for specialist treatment",
-   "section": "Υγεία & Επιστήμη",
-   "first_reported": "2026-11-23T12:25:05Z",
-   "last_reported": "2026-11-25T17:41:50Z",
-   "outlets": 6,
-   "countries": 3,
-   "risk_score": 5.4,
-   "risk_band": "elevated",
-   "confidence_pct": 80,
-   "status": "fading"
-  },
-  {
    "id": 298821,
    "url": "https://athenaglauxintelligence.news/el/event/298821.html",
    "title": "Ryanair adds more than 70,000 extra seats on Hungarian routes for Christmas season",
@@ -5748,6 +5860,20 @@
    "status": "fading"
   },
   {
+   "id": 296415,
+   "url": "https://athenaglauxintelligence.news/el/event/296415.html",
+   "title": "Govt reduces diesel price by Rs4 per litre, petrol by Re1 per litre",
+   "section": "Ενέργεια & Περιβάλλον",
+   "first_reported": "2026-11-23T10:00:00Z",
+   "last_reported": "2026-11-26T17:26:26Z",
+   "outlets": 6,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 78,
+   "status": "fading"
+  },
+  {
    "id": 296505,
    "url": "https://athenaglauxintelligence.news/el/event/296505.html",
    "title": "DNC Sets 12 Presidential Debates and Tells 2028 Hopefuls to Denounce “Dark Money”",
@@ -5759,20 +5885,6 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 73,
-   "status": "fading"
-  },
-  {
-   "id": 296415,
-   "url": "https://athenaglauxintelligence.news/el/event/296415.html",
-   "title": "Govt reduces diesel price by Rs4 per litre, petrol by Re1 per litre",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-23T10:00:00Z",
-   "last_reported": "2026-11-24T18:23:14Z",
-   "outlets": 6,
-   "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 78,
    "status": "fading"
   },
   {
@@ -6280,6 +6392,20 @@
    "status": "peaking"
   },
   {
+   "id": 297574,
+   "url": "https://athenaglauxintelligence.news/el/event/297574.html",
+   "title": "Israel Assassinates Head of Hamas Internal Security",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-23T07:40:20Z",
+   "last_reported": "2026-11-26T05:12:23Z",
+   "outlets": 5,
+   "countries": 3,
+   "risk_score": 1.6,
+   "risk_band": "low",
+   "confidence_pct": 78,
+   "status": "fading"
+  },
+  {
    "id": 295579,
    "url": "https://athenaglauxintelligence.news/el/event/295579.html",
    "title": "Azerbaijan, Italy sign agreements to expand cooperation in critical raw materials",
@@ -6473,6 +6599,20 @@
    "risk_score": 4.7,
    "risk_band": "elevated",
    "confidence_pct": 93,
+   "status": "fading"
+  },
+  {
+   "id": 295112,
+   "url": "https://athenaglauxintelligence.news/el/event/295112.html",
+   "title": "Israel likely to lose Gaza genocide case if ICJ follows Myanmar ruling, Tel Aviv scholar says",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-23T06:36:32Z",
+   "last_reported": "2026-11-26T10:09:11Z",
+   "outlets": 10,
+   "countries": 5,
+   "risk_score": 6.4,
+   "risk_band": "high",
+   "confidence_pct": 86,
    "status": "fading"
   },
   {
@@ -12633,48 +12773,6 @@
    "risk_score": 1.2,
    "risk_band": "low",
    "confidence_pct": 89,
-   "status": "fading"
-  },
-  {
-   "id": 271585,
-   "url": "https://athenaglauxintelligence.news/el/event/271585.html",
-   "title": "Saudi Arabia Ranks First Globally in Digital Government Services, Achieving Vision 2030 Target",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-19T19:10:47Z",
-   "last_reported": "2026-11-20T19:42:21Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 68,
-   "status": "fading"
-  },
-  {
-   "id": 269496,
-   "url": "https://athenaglauxintelligence.news/el/event/269496.html",
-   "title": "Xavier Becerra Inherits a Budget Shortfall",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-19T19:00:00Z",
-   "last_reported": "2026-11-21T00:10:00Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 1.4,
-   "risk_band": "low",
-   "confidence_pct": 48,
-   "status": "fading"
-  },
-  {
-   "id": 269713,
-   "url": "https://athenaglauxintelligence.news/el/event/269713.html",
-   "title": "Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-19T18:59:12Z",
-   "last_reported": "2026-11-21T01:18:33Z",
-   "outlets": 7,
-   "countries": 2,
-   "risk_score": 4.6,
-   "risk_band": "elevated",
-   "confidence_pct": 72,
    "status": "fading"
   }
  ]
