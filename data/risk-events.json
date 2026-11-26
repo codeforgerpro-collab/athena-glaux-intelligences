@@ -1,12 +1,26 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-26T22:28:38Z",
+ "generated": "2026-11-26T23:03:54Z",
  "window_days": 7,
  "language": "en",
- "count": 950,
+ "count": 953,
  "licence": "https://athenaglauxintelligence.news/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
+  {
+   "id": 324730,
+   "url": "https://athenaglauxintelligence.news/event/324730.html",
+   "title": "Tinubu approves houses, N100m each for families of NAF crash victims",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-26T16:57:27Z",
+   "last_reported": "2026-11-26T19:39:23Z",
+   "outlets": 5,
+   "countries": 1,
+   "risk_score": 3.7,
+   "risk_band": "moderate",
+   "confidence_pct": 65,
+   "status": "fading"
+  },
   {
    "id": 324358,
    "url": "https://athenaglauxintelligence.news/event/324358.html",
@@ -20,6 +34,20 @@
    "risk_band": "elevated",
    "confidence_pct": 62,
    "status": "fading"
+  },
+  {
+   "id": 325690,
+   "url": "https://athenaglauxintelligence.news/event/325690.html",
+   "title": "Settlers smash foundations of Palestinian family's homes in West Bank",
+   "section": "Economy & Markets",
+   "first_reported": "2026-11-26T16:31:58Z",
+   "last_reported": "2026-11-26T19:43:18Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 78,
+   "status": "emerging"
   },
   {
    "id": 325688,
@@ -42,12 +70,12 @@
    "section": "Energy & Environment",
    "first_reported": "2026-11-26T15:58:19Z",
    "last_reported": "2026-11-26T20:01:10Z",
-   "outlets": 5,
-   "countries": 5,
-   "risk_score": 6.2,
-   "risk_band": "high",
-   "confidence_pct": 78,
-   "status": "peaking"
+   "outlets": 6,
+   "countries": 6,
+   "risk_score": 5.9,
+   "risk_band": "elevated",
+   "confidence_pct": 83,
+   "status": "fading"
   },
   {
    "id": 326448,
@@ -56,11 +84,11 @@
    "section": "Economy & Markets",
    "first_reported": "2026-11-26T15:39:52Z",
    "last_reported": "2026-11-26T19:51:05Z",
-   "outlets": 3,
+   "outlets": 4,
    "countries": 1,
-   "risk_score": 1.9,
+   "risk_score": 1.6,
    "risk_band": "low",
-   "confidence_pct": 53,
+   "confidence_pct": 58,
    "status": "peaking"
   },
   {
@@ -84,9 +112,9 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-26T15:21:25Z",
    "last_reported": "2026-11-26T20:31:29Z",
-   "outlets": 16,
+   "outlets": 17,
    "countries": 14,
-   "risk_score": 5.4,
+   "risk_score": 5.2,
    "risk_band": "elevated",
    "confidence_pct": 94,
    "status": "fading"
@@ -116,21 +144,7 @@
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 72,
-   "status": "fading"
-  },
-  {
-   "id": 325696,
-   "url": "https://athenaglauxintelligence.news/event/325696.html",
-   "title": "Iraqi Kurds protest against Baghdad leader's moves to assert central control",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-26T13:44:13Z",
-   "last_reported": "2026-11-26T15:46:45Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 2.5,
-   "risk_band": "moderate",
-   "confidence_pct": 69,
+   "confidence_pct": 70,
    "status": "fading"
   },
   {
@@ -154,12 +168,26 @@
    "section": "Economy & Markets",
    "first_reported": "2026-11-26T13:32:37Z",
    "last_reported": "2026-11-26T21:40:29Z",
-   "outlets": 23,
+   "outlets": 24,
    "countries": 17,
-   "risk_score": 2.3,
+   "risk_score": 2.0,
    "risk_band": "moderate",
    "confidence_pct": 91,
-   "status": "peaking"
+   "status": "fading"
+  },
+  {
+   "id": 324220,
+   "url": "https://athenaglauxintelligence.news/event/324220.html",
+   "title": "Iranian activist and Oscar-nominated screenwriter Mehdi Mahmoudian arrested in Tehran",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-26T13:00:14Z",
+   "last_reported": "2026-11-26T19:49:00Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 5.0,
+   "risk_band": "elevated",
+   "confidence_pct": 66,
+   "status": "emerging"
   },
   {
    "id": 324299,
@@ -304,16 +332,16 @@
   {
    "id": 322924,
    "url": "https://athenaglauxintelligence.news/event/322924.html",
-   "title": "Bank of England warns a million UK homeowners could face £200 mortgage payment jump in 2027",
+   "title": "A million homeowners face £200 jump in monthly mortgage payments next year",
    "section": "Economy & Markets",
    "first_reported": "2026-11-26T10:42:36Z",
-   "last_reported": "2026-11-26T14:36:26Z",
+   "last_reported": "2026-11-26T20:58:40Z",
    "outlets": 5,
    "countries": 1,
-   "risk_score": 1.0,
+   "risk_score": 1.1,
    "risk_band": "low",
    "confidence_pct": 64,
-   "status": "fading"
+   "status": "emerging"
   },
   {
    "id": 322929,
@@ -335,13 +363,13 @@
    "title": "Gaza’s health ministry says 19 Palestinians killed by Israeli attacks in 48 hours",
    "section": "Geopolitics",
    "first_reported": "2026-11-26T10:10:30Z",
-   "last_reported": "2026-11-26T20:33:07Z",
-   "outlets": 6,
-   "countries": 5,
-   "risk_score": 5.8,
+   "last_reported": "2026-11-26T20:35:23Z",
+   "outlets": 10,
+   "countries": 8,
+   "risk_score": 6.0,
    "risk_band": "elevated",
-   "confidence_pct": 85,
-   "status": "peaking"
+   "confidence_pct": 92,
+   "status": "spreading"
   },
   {
    "id": 323795,
@@ -414,6 +442,20 @@
    "status": "fading"
   },
   {
+   "id": 322777,
+   "url": "https://athenaglauxintelligence.news/event/322777.html",
+   "title": "Macron slams Le Pen ‘arrogance’ for acting as if ‘already in charge’",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-26T09:48:55Z",
+   "last_reported": "2026-11-26T20:12:42Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 67,
+   "status": "peaking"
+  },
+  {
    "id": 322172,
    "url": "https://athenaglauxintelligence.news/event/322172.html",
    "title": "Ukrainian Neptune missiles strike Russian airbase housing Su-34 aircraft",
@@ -448,12 +490,12 @@
    "section": "Trade & Industry",
    "first_reported": "2026-11-26T09:17:38Z",
    "last_reported": "2026-11-26T15:34:26Z",
-   "outlets": 6,
+   "outlets": 7,
    "countries": 6,
-   "risk_score": 3.7,
+   "risk_score": 3.5,
    "risk_band": "moderate",
-   "confidence_pct": 84,
-   "status": "emerging"
+   "confidence_pct": 86,
+   "status": "fading"
   },
   {
    "id": 321217,
@@ -587,12 +629,12 @@
    "title": "Streeting unveils £8bn deal to get nuclear submarines back to sea faster",
    "section": "Geopolitics",
    "first_reported": "2026-11-26T07:57:27Z",
-   "last_reported": "2026-11-26T12:07:29Z",
+   "last_reported": "2026-11-26T15:09:36Z",
    "outlets": 5,
    "countries": 2,
-   "risk_score": 2.5,
+   "risk_score": 2.4,
    "risk_band": "moderate",
-   "confidence_pct": 66,
+   "confidence_pct": 67,
    "status": "fading"
   },
   {
@@ -621,20 +663,6 @@
    "risk_score": 0.8,
    "risk_band": "low",
    "confidence_pct": 74,
-   "status": "fading"
-  },
-  {
-   "id": 322034,
-   "url": "https://athenaglauxintelligence.news/event/322034.html",
-   "title": "Roadworks in Euboea Uncover a 3,200-Year-Old Mycenaean Royal Tomb",
-   "section": "Trade & Industry",
-   "first_reported": "2026-11-26T07:12:00Z",
-   "last_reported": "2026-11-26T21:31:20Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 54,
    "status": "fading"
   },
   {
@@ -677,6 +705,20 @@
    "risk_score": 6.3,
    "risk_band": "high",
    "confidence_pct": 86,
+   "status": "fading"
+  },
+  {
+   "id": 325615,
+   "url": "https://athenaglauxintelligence.news/event/325615.html",
+   "title": "RI pushes export diversification amid proposed 18 percent US tariffs",
+   "section": "Trade & Industry",
+   "first_reported": "2026-11-26T06:19:34Z",
+   "last_reported": "2026-11-26T22:34:40Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 3.3,
+   "risk_band": "moderate",
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -817,6 +859,20 @@
    "risk_score": 1.3,
    "risk_band": "low",
    "confidence_pct": 55,
+   "status": "fading"
+  },
+  {
+   "id": 324892,
+   "url": "https://athenaglauxintelligence.news/event/324892.html",
+   "title": "Jensen Huang Is Back, and So Is His Plaque at Denny’s",
+   "section": "Technology & Cyber",
+   "first_reported": "2026-11-26T03:44:19Z",
+   "last_reported": "2026-11-26T21:25:16Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 64,
    "status": "fading"
   },
   {
@@ -1120,25 +1176,25 @@
    "section": "Technology & Cyber",
    "first_reported": "2026-11-25T20:40:00Z",
    "last_reported": "2026-11-26T18:48:19Z",
-   "outlets": 10,
-   "countries": 8,
-   "risk_score": 6.4,
+   "outlets": 13,
+   "countries": 9,
+   "risk_score": 6.1,
    "risk_band": "high",
-   "confidence_pct": 87,
-   "status": "peaking"
+   "confidence_pct": 89,
+   "status": "fading"
   },
   {
    "id": 318256,
    "url": "https://athenaglauxintelligence.news/event/318256.html",
-   "title": "2 Italians killed in Iranian drone attack in Kuwait, Italy says",
+   "title": "Iranian drone attack kills 2 Italians in Kuwait",
    "section": "Geopolitics",
    "first_reported": "2026-11-25T20:32:00Z",
    "last_reported": "2026-11-26T21:17:53Z",
-   "outlets": 29,
+   "outlets": 30,
    "countries": 22,
-   "risk_score": 6.3,
+   "risk_score": 6.2,
    "risk_band": "high",
-   "confidence_pct": 94,
+   "confidence_pct": 93,
    "status": "fading"
   },
   {
@@ -1301,12 +1357,12 @@
    "title": "Scotland's Chief Medical Officer resigns on health grounds after avoidable deaths row",
    "section": "Geopolitics",
    "first_reported": "2026-11-25T18:11:36Z",
-   "last_reported": "2026-11-26T15:34:55Z",
+   "last_reported": "2026-11-26T18:03:05Z",
    "outlets": 4,
    "countries": 1,
    "risk_score": 5.0,
    "risk_band": "elevated",
-   "confidence_pct": 55,
+   "confidence_pct": 54,
    "status": "fading"
   },
   {
@@ -1357,7 +1413,7 @@
    "title": "Magyar shows what Hungary’s new policy on Ukraine could look like (Day 198 of the Tisza government)",
    "section": "Geopolitics",
    "first_reported": "2026-11-25T17:37:00Z",
-   "last_reported": "2026-11-26T14:08:14Z",
+   "last_reported": "2026-11-26T17:54:00Z",
    "outlets": 4,
    "countries": 3,
    "risk_score": 0.0,
@@ -1511,7 +1567,7 @@
    "title": "Bayer plans 1 bln euro investment in China through 2030",
    "section": "Business",
    "first_reported": "2026-11-25T15:55:19Z",
-   "last_reported": "2026-11-26T14:51:13Z",
+   "last_reported": "2026-11-26T22:44:01Z",
    "outlets": 3,
    "countries": 3,
    "risk_score": 0.0,
@@ -1525,12 +1581,12 @@
    "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
    "section": "Trade & Industry",
    "first_reported": "2026-11-25T15:46:14Z",
-   "last_reported": "2026-11-26T12:46:00Z",
+   "last_reported": "2026-11-26T13:54:00Z",
    "outlets": 7,
    "countries": 6,
    "risk_score": 3.7,
    "risk_band": "moderate",
-   "confidence_pct": 87,
+   "confidence_pct": 86,
    "status": "fading"
   },
   {
@@ -1791,7 +1847,7 @@
    "title": "Ukraine, Hungary planning first meeting of Commission on National Minorities for early 2027",
    "section": "Geopolitics",
    "first_reported": "2026-11-25T14:07:00Z",
-   "last_reported": "2026-11-26T09:54:00Z",
+   "last_reported": "2026-11-26T20:34:00Z",
    "outlets": 3,
    "countries": 2,
    "risk_score": 0.0,
@@ -1802,13 +1858,13 @@
   {
    "id": 314627,
    "url": "https://athenaglauxintelligence.news/event/314627.html",
-   "title": "Nigeria: President Tinubu Felicitates ADC Presidential Candidate Atiku Abubakar At 80",
+   "title": "Atiku knocks Tinubu over Nigeria’s energy crisis",
    "section": "Energy & Environment",
    "first_reported": "2026-11-25T14:05:13Z",
-   "last_reported": "2026-11-26T17:50:53Z",
+   "last_reported": "2026-11-26T19:06:55Z",
    "outlets": 5,
    "countries": 1,
-   "risk_score": 4.0,
+   "risk_score": 3.6,
    "risk_band": "moderate",
    "confidence_pct": 68,
    "status": "fading"
@@ -1875,12 +1931,12 @@
    "title": "Explained: How Trump’s proposed tariffs for India compare with rival nations",
    "section": "Trade & Industry",
    "first_reported": "2026-11-25T13:40:17Z",
-   "last_reported": "2026-11-26T15:34:27Z",
-   "outlets": 12,
-   "countries": 4,
-   "risk_score": 3.4,
+   "last_reported": "2026-11-26T17:35:00Z",
+   "outlets": 13,
+   "countries": 5,
+   "risk_score": 3.5,
    "risk_band": "moderate",
-   "confidence_pct": 88,
+   "confidence_pct": 90,
    "status": "fading"
   },
   {
@@ -2296,11 +2352,11 @@
    "section": "Trade & Industry",
    "first_reported": "2026-11-25T09:34:49Z",
    "last_reported": "2026-11-26T20:32:50Z",
-   "outlets": 9,
+   "outlets": 10,
    "countries": 7,
    "risk_score": 1.6,
    "risk_band": "low",
-   "confidence_pct": 90,
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -2794,6 +2850,20 @@
    "status": "fading"
   },
   {
+   "id": 309942,
+   "url": "https://athenaglauxintelligence.news/event/309942.html",
+   "title": "MPs clad in orange to mark International Day for elimination of violence against women",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-25T03:33:06Z",
+   "last_reported": "2026-11-26T18:11:08Z",
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 77,
+   "status": "fading"
+  },
+  {
    "id": 309992,
    "url": "https://athenaglauxintelligence.news/event/309992.html",
    "title": "MAG to acquire 10 Boeing 787 Dreamliners with option for 6 more",
@@ -2926,11 +2996,11 @@
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-25T00:54:03Z",
    "last_reported": "2026-11-25T19:43:18Z",
-   "outlets": 12,
+   "outlets": 13,
    "countries": 7,
-   "risk_score": 5.2,
+   "risk_score": 5.0,
    "risk_band": "elevated",
-   "confidence_pct": 90,
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -3300,15 +3370,15 @@
   {
    "id": 308099,
    "url": "https://athenaglauxintelligence.news/event/308099.html",
-   "title": "German President Frank-Walter Steinmeier arrives in Nairobi ahead of Ruto meeting",
+   "title": "Zimbabwe President Mnangagwa arrives in Kenya ahead of bilateral talks",
    "section": "Geopolitics",
    "first_reported": "2026-11-24T19:36:29Z",
-   "last_reported": "2026-11-25T09:35:21Z",
-   "outlets": 4,
+   "last_reported": "2026-11-26T17:48:03Z",
+   "outlets": 6,
    "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 71,
+   "confidence_pct": 79,
    "status": "fading"
   },
   {
@@ -6439,10 +6509,10 @@
    "title": "EU officially limits imports of Chinese hybrid vehicles",
    "section": "Trade & Industry",
    "first_reported": "2026-11-23T12:00:28Z",
-   "last_reported": "2026-11-25T13:17:22Z",
+   "last_reported": "2026-11-26T22:34:20Z",
    "outlets": 12,
    "countries": 9,
-   "risk_score": 1.2,
+   "risk_score": 1.3,
    "risk_band": "low",
    "confidence_pct": 91,
    "status": "fading"
@@ -6929,13 +6999,13 @@
    "title": "When will the Tube strike end? All the TfL passenger advice and other RMT walkout dates",
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-23T09:03:51Z",
-   "last_reported": "2026-11-26T13:26:53Z",
+   "last_reported": "2026-11-26T16:51:51Z",
    "outlets": 3,
    "countries": 1,
-   "risk_score": 1.1,
+   "risk_score": 1.0,
    "risk_band": "low",
-   "confidence_pct": 55,
-   "status": "spreading"
+   "confidence_pct": 54,
+   "status": "fading"
   },
   {
    "id": 297538,
@@ -7349,12 +7419,12 @@
    "title": "AI tools help brands curb Black Friday deals, from clothes to skincare",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-23T07:06:31Z",
-   "last_reported": "2026-11-24T12:09:38Z",
-   "outlets": 6,
+   "last_reported": "2026-11-26T14:05:59Z",
+   "outlets": 7,
    "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 76,
+   "confidence_pct": 78,
    "status": "fading"
   },
   {
@@ -7638,20 +7708,6 @@
    "status": "spreading"
   },
   {
-   "id": 294720,
-   "url": "https://athenaglauxintelligence.news/event/294720.html",
-   "title": "US Robot Submarine Finds World’s Deepest Explosive Volcanic Eruptions In Mariana Trench",
-   "section": "Technology & Cyber",
-   "first_reported": "2026-11-23T05:00:00Z",
-   "last_reported": "2026-11-24T22:29:51Z",
-   "outlets": 5,
-   "countries": 3,
-   "risk_score": 3.0,
-   "risk_band": "moderate",
-   "confidence_pct": 76,
-   "status": "fading"
-  },
-  {
    "id": 295589,
    "url": "https://athenaglauxintelligence.news/event/295589.html",
    "title": "New Israeli army gates risk isolating 70,000 Palestinians in occupied West Bank",
@@ -7663,6 +7719,20 @@
    "risk_score": 2.9,
    "risk_band": "moderate",
    "confidence_pct": 88,
+   "status": "fading"
+  },
+  {
+   "id": 294720,
+   "url": "https://athenaglauxintelligence.news/event/294720.html",
+   "title": "US Robot Submarine Finds World’s Deepest Explosive Volcanic Eruptions In Mariana Trench",
+   "section": "Technology & Cyber",
+   "first_reported": "2026-11-23T05:00:00Z",
+   "last_reported": "2026-11-24T22:29:51Z",
+   "outlets": 5,
+   "countries": 3,
+   "risk_score": 3.0,
+   "risk_band": "moderate",
+   "confidence_pct": 76,
    "status": "fading"
   },
   {
@@ -9015,10 +9085,10 @@
    "title": "MPs to be given first vote on Andy Burnham’s new EU deal next month",
    "section": "Geopolitics",
    "first_reported": "2026-11-22T05:02:00Z",
-   "last_reported": "2026-11-26T16:13:41Z",
+   "last_reported": "2026-11-26T17:56:26Z",
    "outlets": 38,
    "countries": 21,
-   "risk_score": 4.3,
+   "risk_score": 4.2,
    "risk_band": "elevated",
    "confidence_pct": 87,
    "status": "fading"
@@ -13278,34 +13348,6 @@
    "risk_band": "none detected",
    "confidence_pct": 45,
    "status": "emerging"
-  },
-  {
-   "id": 271146,
-   "url": "https://athenaglauxintelligence.news/event/271146.html",
-   "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
-   "section": "Technology & Cyber",
-   "first_reported": "2026-11-19T23:00:31Z",
-   "last_reported": "2026-11-22T02:16:51Z",
-   "outlets": 36,
-   "countries": 17,
-   "risk_score": 5.0,
-   "risk_band": "elevated",
-   "confidence_pct": 86,
-   "status": "fading"
-  },
-  {
-   "id": 271616,
-   "url": "https://athenaglauxintelligence.news/event/271616.html",
-   "title": "Seven Gazans wounded, one critically, in Israeli gunfire and air strikes",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-19T22:38:20Z",
-   "last_reported": "2026-11-21T08:19:17Z",
-   "outlets": 4,
-   "countries": 2,
-   "risk_score": 3.9,
-   "risk_band": "moderate",
-   "confidence_pct": 76,
-   "status": "fading"
   }
  ]
 }
