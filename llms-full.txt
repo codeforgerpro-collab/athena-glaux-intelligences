@@ -46,7 +46,7 @@
 
 ## Latest stories
 
-- [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://athenaglauxintelligence.news/event/316760.html): first reported 2026-11-25; 9 outlets, 4 countries.
+- [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://athenaglauxintelligence.news/event/316760.html): first reported 2026-11-25; 10 outlets, 5 countries.
 - [Gordon Ramsay named new host of BBC's Top Gear](https://athenaglauxintelligence.news/event/316846.html): first reported 2026-11-25; 9 outlets, 5 countries.
 - [Ukrainian laser downs Russian jet-powered drone in world first](https://athenaglauxintelligence.news/event/316830.html): first reported 2026-11-25; 4 outlets, 2 countries.
 - [Poundland collapses into administration putting 11,000 jobs at risk before Christmas](https://athenaglauxintelligence.news/event/316053.html): first reported 2026-11-25; 10 outlets, 2 countries.
@@ -62,10 +62,12 @@
 - [Eurostar services between London and Paris cancelled after staff go on surprise strike](https://athenaglauxintelligence.news/event/312081.html): first reported 2026-11-25; 5 outlets, 2 countries.
 - [South Africa's Ramaphosa wins court battle over impeachment threat](https://athenaglauxintelligence.news/event/312334.html): first reported 2026-11-25; 4 outlets, 4 countries.
 - [Jordan sentences man to death over attack that killed officer](https://athenaglauxintelligence.news/event/311769.html): first reported 2026-11-25; 4 outlets, 3 countries.
-- [US unveils proposed tariffs on major partners, including EU and China](https://athenaglauxintelligence.news/event/317540.html): first reported 2026-11-25; 12 outlets, 11 countries.
+- [US unveils proposed tariffs on major partners, including EU and China](https://athenaglauxintelligence.news/event/317540.html): first reported 2026-11-25; 13 outlets, 11 countries.
 - [Flipkart leadership shake-up: CEO Kalyan Krishnamurthy to step down after 11 years](https://athenaglauxintelligence.news/event/311607.html): first reported 2026-11-25; 7 outlets, 2 countries.
+- [Pakistan cheers as astronaut flies on pioneering mission](https://athenaglauxintelligence.news/event/311243.html): first reported 2026-11-25; 5 outlets, 3 countries.
 - [Pakistan says nuclear weapons decisions must remain under human control](https://athenaglauxintelligence.news/event/310808.html): first reported 2026-11-25; 3 outlets, 2 countries.
 - [Amazon to sell cars online in UK from next year](https://athenaglauxintelligence.news/event/311205.html): first reported 2026-11-25; 5 outlets, 3 countries.
+- [Patriot missiles to be supplied exclusively to US military in next two years — analyst](https://athenaglauxintelligence.news/event/314576.html): first reported 2026-11-25; 3 outlets, 2 countries.
 - [Libyan Army Vows Retaliation After 2 Naval Officers Die of Wounds From Ukrainian Drone Attack](https://athenaglauxintelligence.news/event/312271.html): first reported 2026-11-25; 10 outlets, 9 countries.
 - [Accept rural postings, Anwar urges doctors and teachers](https://athenaglauxintelligence.news/event/316101.html): first reported 2026-11-25; 3 outlets, 1 country.
 - [Police declare Arise News owner Nduka Obaigbena, others wanted for threatening FirstBank CEO](https://athenaglauxintelligence.news/event/312078.html): first reported 2026-11-25; 5 outlets, 1 country.
@@ -77,15 +79,13 @@
 - [S-Oil completes W9tr Shaheen petrochemical project](https://athenaglauxintelligence.news/event/311352.html): first reported 2026-11-25; 5 outlets, 4 countries.
 - [Treasury's FinCEN takes systems offline after cybersecurity incident](https://athenaglauxintelligence.news/event/310475.html): first reported 2026-11-25; 7 outlets, 4 countries.
 - [Plane crash off the coast of Mississippi kills 6, including 2 children](https://athenaglauxintelligence.news/event/311254.html): first reported 2026-11-25; 12 outlets, 7 countries.
-- [Amnesty says Israeli actions in Gaza preventing births](https://athenaglauxintelligence.news/event/310018.html): first reported 2026-11-25; 8 outlets, 6 countries.
+- [Amnesty says Israeli actions in Gaza preventing births](https://athenaglauxintelligence.news/event/310018.html): first reported 2026-11-25; 9 outlets, 7 countries.
 - [Japan's key services inflation gauge hits 36-year high](https://athenaglauxintelligence.news/event/309822.html): first reported 2026-11-25; 4 outlets, 3 countries.
+- [Australia news LIVE: Inflation hits highest level since start of Iran war; Treasurer Jim Chalmers acknowledges ‘very serious moment for our economy’](https://athenaglauxintelligence.news/event/308887.html): first reported 2026-11-24; 3 outlets, 1 country.
+- [Blast heard, smoke seen rising over farmland near Iowa Army lead azide detonation site](https://athenaglauxintelligence.news/event/311470.html): first reported 2026-11-24; 4 outlets, 2 countries.
 - [European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund](https://athenaglauxintelligence.news/event/311923.html): first reported 2026-11-24; 10 outlets, 7 countries.
 - [Von der Leyen: Europe Will Join Next Round of Talks With Russia](https://athenaglauxintelligence.news/event/312791.html): first reported 2026-11-24; 4 outlets, 3 countries.
 - [30 killed, 15 injured in fuel tanker fire in Giza, Egypt](https://athenaglauxintelligence.news/event/311533.html): first reported 2026-11-24; 11 outlets, 9 countries.
-- [Iran says it is prepared to withstand US blockade, seeks to curb price rises](https://athenaglauxintelligence.news/event/308683.html): first reported 2026-11-24; 7 outlets, 7 countries.
-- [California braces for flooding threat from huge tides, El Niño](https://athenaglauxintelligence.news/event/309227.html): first reported 2026-11-24; 8 outlets, 6 countries.
-- [Cybersecurity Breach Reported At CIA And National Intelligence Director’s Office](https://athenaglauxintelligence.news/event/307944.html): first reported 2026-11-24; 21 outlets, 12 countries.
-- [‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper](https://athenaglauxintelligence.news/event/308650.html): first reported 2026-11-24; 6 outlets, 3 countries.
 
 ## Optional
 
