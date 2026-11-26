@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-26T04:46:21Z",
+ "generated": "2026-11-26T05:27:51Z",
  "window_days": 7,
  "language": "en",
- "count": 940,
+ "count": 938,
  "licence": "https://athenaglauxintelligence.news/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -78,6 +78,20 @@
    "status": "emerging"
   },
   {
+   "id": 315711,
+   "url": "https://athenaglauxintelligence.news/event/315711.html",
+   "title": "Inflation peak will be lower if energy prices stay at recent levels – Bank boss",
+   "section": "Economy & Markets",
+   "first_reported": "2026-11-25T15:22:22Z",
+   "last_reported": "2026-11-25T15:51:09Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 1.2,
+   "risk_band": "low",
+   "confidence_pct": 51,
+   "status": "fading"
+  },
+  {
    "id": 316053,
    "url": "https://athenaglauxintelligence.news/event/316053.html",
    "title": "Poundland collapses into administration putting 11,000 jobs at risk before Christmas",
@@ -94,15 +108,15 @@
   {
    "id": 316760,
    "url": "https://athenaglauxintelligence.news/event/316760.html",
-   "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+   "title": "US Authorizes SpaceX to Deploy 1 Million Satellites for Data Centers in Space",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-25T14:38:53Z",
-   "last_reported": "2026-11-26T01:27:58Z",
-   "outlets": 12,
-   "countries": 6,
+   "last_reported": "2026-11-26T04:39:23Z",
+   "outlets": 13,
+   "countries": 7,
    "risk_score": 0.8,
    "risk_band": "low",
-   "confidence_pct": 91,
+   "confidence_pct": 92,
    "status": "fading"
   },
   {
@@ -117,6 +131,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 51,
+   "status": "fading"
+  },
+  {
+   "id": 315668,
+   "url": "https://athenaglauxintelligence.news/event/315668.html",
+   "title": "Nigeria detains 5 Mexicans, confiscates over $220 million of meth",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-25T14:28:43Z",
+   "last_reported": "2026-11-25T22:57:53Z",
+   "outlets": 7,
+   "countries": 7,
+   "risk_score": 4.1,
+   "risk_band": "elevated",
+   "confidence_pct": 85,
    "status": "fading"
   },
   {
@@ -153,13 +181,13 @@
    "title": "A NASA mission to deflect an asteroid left a crater. Now we can see it",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-25T14:00:00Z",
-   "last_reported": "2026-11-25T23:46:13Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 0.9,
+   "last_reported": "2026-11-26T01:55:17Z",
+   "outlets": 5,
+   "countries": 5,
+   "risk_score": 0.8,
    "risk_band": "low",
-   "confidence_pct": 73,
-   "status": "emerging"
+   "confidence_pct": 78,
+   "status": "fading"
   },
   {
    "id": 314407,
@@ -208,14 +236,14 @@
    "url": "https://athenaglauxintelligence.news/event/314688.html",
    "title": "Israeli lawmakers advance 7 October inquiry opposed by Netanyahu",
    "section": "Accidents & emergencies",
-   "first_reported": "2026-11-25T13:35:58Z",
+   "first_reported": "2026-11-25T12:44:48Z",
    "last_reported": "2026-11-25T22:45:33Z",
-   "outlets": 7,
-   "countries": 6,
-   "risk_score": 1.9,
+   "outlets": 9,
+   "countries": 7,
+   "risk_score": 1.8,
    "risk_band": "low",
-   "confidence_pct": 84,
-   "status": "peaking"
+   "confidence_pct": 87,
+   "status": "fading"
   },
   {
    "id": 314698,
@@ -223,12 +251,12 @@
    "title": "In Lebanon, the opening of a second airport reflects political shifts",
    "section": "Trade & Industry",
    "first_reported": "2026-11-25T12:41:47Z",
-   "last_reported": "2026-11-25T14:24:30Z",
-   "outlets": 3,
-   "countries": 3,
+   "last_reported": "2026-11-25T17:16:09Z",
+   "outlets": 4,
+   "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 65,
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -238,12 +266,12 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-25T12:38:20Z",
    "last_reported": "2026-11-25T20:40:58Z",
-   "outlets": 3,
+   "outlets": 4,
    "countries": 2,
-   "risk_score": 4.0,
-   "risk_band": "elevated",
-   "confidence_pct": 68,
-   "status": "emerging"
+   "risk_score": 3.8,
+   "risk_band": "moderate",
+   "confidence_pct": 73,
+   "status": "fading"
   },
   {
    "id": 314485,
@@ -504,12 +532,12 @@
    "section": "Trade & Industry",
    "first_reported": "2026-11-25T07:22:23Z",
    "last_reported": "2026-11-26T02:55:00Z",
-   "outlets": 17,
-   "countries": 14,
+   "outlets": 18,
+   "countries": 15,
    "risk_score": 4.0,
    "risk_band": "elevated",
    "confidence_pct": 93,
-   "status": "spreading"
+   "status": "peaking"
   },
   {
    "id": 311607,
@@ -540,6 +568,20 @@
    "status": "fading"
   },
   {
+   "id": 314531,
+   "url": "https://athenaglauxintelligence.news/event/314531.html",
+   "title": "Russia’s own figures show it has lost nearly 500,000 people in Ukraine war",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-25T06:59:17Z",
+   "last_reported": "2026-11-25T21:04:00Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 5.5,
+   "risk_band": "elevated",
+   "confidence_pct": 67,
+   "status": "fading"
+  },
+  {
    "id": 310908,
    "url": "https://athenaglauxintelligence.news/event/310908.html",
    "title": "Chennai Regional Passport Office asked Saurav Das to clarify place of birth, advised not to use passport: MEA",
@@ -560,11 +602,11 @@
    "section": "Health & Science",
    "first_reported": "2026-11-25T06:11:03Z",
    "last_reported": "2026-11-25T23:12:45Z",
-   "outlets": 5,
+   "outlets": 6,
    "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 74,
+   "confidence_pct": 75,
    "status": "fading"
   },
   {
@@ -685,12 +727,12 @@
    "title": "Jennifer Barreto of Puerto Rico Is Crowned Miss Universe 2026",
    "section": "Health & Science",
    "first_reported": "2026-11-25T04:05:57Z",
-   "last_reported": "2026-11-25T15:40:04Z",
-   "outlets": 12,
+   "last_reported": "2026-11-25T15:54:21Z",
+   "outlets": 13,
    "countries": 11,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 90,
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -752,15 +794,15 @@
   {
    "id": 311352,
    "url": "https://athenaglauxintelligence.news/event/311352.html",
-   "title": "S-Oil completes W9tr Shaheen petrochemical project",
+   "title": "Aramco Inaugurates $7Bn Shaheen Petrochemicals Project in South Korea",
    "section": "Business",
    "first_reported": "2026-11-25T01:45:23Z",
-   "last_reported": "2026-11-25T11:24:48Z",
-   "outlets": 5,
-   "countries": 4,
+   "last_reported": "2026-11-25T16:07:33Z",
+   "outlets": 6,
+   "countries": 5,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 74,
+   "confidence_pct": 79,
    "status": "fading"
   },
   {
@@ -811,12 +853,12 @@
    "title": "Amnesty says Israeli actions in Gaza preventing births",
    "section": "Geopolitics",
    "first_reported": "2026-11-25T00:23:45Z",
-   "last_reported": "2026-11-25T12:37:56Z",
-   "outlets": 9,
+   "last_reported": "2026-11-26T02:35:03Z",
+   "outlets": 10,
    "countries": 7,
-   "risk_score": 6.4,
+   "risk_score": 6.6,
    "risk_band": "high",
-   "confidence_pct": 88,
+   "confidence_pct": 89,
    "status": "fading"
   },
   {
@@ -999,6 +1041,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 81,
+   "status": "fading"
+  },
+  {
+   "id": 309717,
+   "url": "https://athenaglauxintelligence.news/event/309717.html",
+   "title": "First 5 German Lynx KF41 IFVs Enter Ukrainian Service",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-24T20:44:29Z",
+   "last_reported": "2026-11-25T22:45:01Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 2.1,
+   "risk_band": "moderate",
+   "confidence_pct": 63,
    "status": "fading"
   },
   {
@@ -1478,20 +1534,6 @@
    "status": "fading"
   },
   {
-   "id": 307313,
-   "url": "https://athenaglauxintelligence.news/event/307313.html",
-   "title": "Israeli minister calls Palestinians and Muslims 'camel riders' and 'barbarians'",
-   "section": "Accidents & emergencies",
-   "first_reported": "2026-11-24T14:33:32Z",
-   "last_reported": "2026-11-25T12:08:58Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 1.0,
-   "risk_band": "low",
-   "confidence_pct": 66,
-   "status": "fading"
-  },
-  {
    "id": 309578,
    "url": "https://athenaglauxintelligence.news/event/309578.html",
    "title": "Iran at forefront of support for Lebanon’s sovereignty, liberation: Lebanese MP",
@@ -1792,9 +1834,9 @@
    "section": "Business",
    "first_reported": "2026-11-24T12:00:00Z",
    "last_reported": "2026-11-25T19:49:50Z",
-   "outlets": 48,
+   "outlets": 49,
    "countries": 27,
-   "risk_score": 3.1,
+   "risk_score": 3.0,
    "risk_band": "moderate",
    "confidence_pct": 86,
    "status": "fading"
@@ -2362,15 +2404,15 @@
   {
    "id": 307786,
    "url": "https://athenaglauxintelligence.news/event/307786.html",
-   "title": "India stops ‘cockroach’ drive leader from flying to London",
+   "title": "India says 'cockroach' movement leader was told not to use passport",
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-24T06:30:38Z",
    "last_reported": "2026-11-25T17:08:11Z",
    "outlets": 6,
    "countries": 4,
-   "risk_score": 1.0,
+   "risk_score": 1.1,
    "risk_band": "low",
-   "confidence_pct": 80,
+   "confidence_pct": 79,
    "status": "fading"
   },
   {
@@ -2704,7 +2746,7 @@
    "last_reported": "2026-11-25T11:43:02Z",
    "outlets": 20,
    "countries": 14,
-   "risk_score": 5.9,
+   "risk_score": 5.8,
    "risk_band": "elevated",
    "confidence_pct": 93,
    "status": "fading"
@@ -2816,10 +2858,10 @@
    "last_reported": "2026-11-25T15:43:49Z",
    "outlets": 32,
    "countries": 23,
-   "risk_score": 2.6,
+   "risk_score": 2.3,
    "risk_band": "moderate",
    "confidence_pct": 87,
-   "status": "peaking"
+   "status": "fading"
   },
   {
    "id": 300640,
@@ -3732,6 +3774,20 @@
    "status": "fading"
   },
   {
+   "id": 300163,
+   "url": "https://athenaglauxintelligence.news/event/300163.html",
+   "title": "Ireland ease to victory over Costa Rica at U17 World Cup",
+   "section": "Health & Science",
+   "first_reported": "2026-11-23T14:30:00Z",
+   "last_reported": "2026-11-25T12:45:00Z",
+   "outlets": 6,
+   "countries": 4,
+   "risk_score": 3.1,
+   "risk_band": "moderate",
+   "confidence_pct": 77,
+   "status": "fading"
+  },
+  {
    "id": 300657,
    "url": "https://athenaglauxintelligence.news/event/300657.html",
    "title": "Israel's Eisenkot clinches first coalition agreement in bid to form government",
@@ -4026,20 +4082,6 @@
    "status": "emerging"
   },
   {
-   "id": 303853,
-   "url": "https://athenaglauxintelligence.news/event/303853.html",
-   "title": "Deepam row: Why lighting a lamp has triggered a legal battle in Tamil Nadu",
-   "section": "Accidents & emergencies",
-   "first_reported": "2026-11-23T12:22:37Z",
-   "last_reported": "2026-11-25T11:50:52Z",
-   "outlets": 4,
-   "countries": 1,
-   "risk_score": 2.1,
-   "risk_band": "moderate",
-   "confidence_pct": 59,
-   "status": "fading"
-  },
-  {
    "id": 297254,
    "url": "https://athenaglauxintelligence.news/event/297254.html",
    "title": "Hungarian PM says he hosted refugees from Zakarpattia Oblast",
@@ -4233,6 +4275,20 @@
    "risk_score": 5.3,
    "risk_band": "elevated",
    "confidence_pct": 74,
+   "status": "fading"
+  },
+  {
+   "id": 310477,
+   "url": "https://athenaglauxintelligence.news/event/310477.html",
+   "title": "Veteran Nollywood actor Pete Edochie dies at 79",
+   "section": "Culture & People",
+   "first_reported": "2026-11-23T10:34:35Z",
+   "last_reported": "2026-11-25T13:59:08Z",
+   "outlets": 23,
+   "countries": 8,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -5180,8 +5236,8 @@
    "section": "Energy & Environment",
    "first_reported": "2026-11-23T05:30:24Z",
    "last_reported": "2026-11-24T11:39:47Z",
-   "outlets": 14,
-   "countries": 11,
+   "outlets": 15,
+   "countries": 12,
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 88,
@@ -6608,7 +6664,7 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-22T05:02:00Z",
    "last_reported": "2026-11-25T20:15:57Z",
-   "outlets": 37,
+   "outlets": 38,
    "countries": 21,
    "risk_score": 4.1,
    "risk_band": "elevated",
@@ -11591,12 +11647,12 @@
    "title": "Google to shut down Nest app, Google Assistant on smart home devices in 2027",
    "section": "Business",
    "first_reported": "2026-11-19T16:15:00Z",
-   "last_reported": "2026-11-24T07:19:56Z",
+   "last_reported": "2026-11-25T21:50:00Z",
    "outlets": 5,
    "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 69,
+   "confidence_pct": 70,
    "status": "fading"
   },
   {
@@ -13081,90 +13137,6 @@
    "risk_score": 3.9,
    "risk_band": "moderate",
    "confidence_pct": 58,
-   "status": "fading"
-  },
-  {
-   "id": 263562,
-   "url": "https://athenaglauxintelligence.news/event/263562.html",
-   "title": "Court stay prevents US Army from detonating bomb-making chemicals in Iowa",
-   "section": "Energy & Environment",
-   "first_reported": "2026-11-19T05:11:36Z",
-   "last_reported": "2026-11-21T20:15:13Z",
-   "outlets": 14,
-   "countries": 5,
-   "risk_score": 2.6,
-   "risk_band": "moderate",
-   "confidence_pct": 85,
-   "status": "fading"
-  },
-  {
-   "id": 265338,
-   "url": "https://athenaglauxintelligence.news/event/265338.html",
-   "title": "Data centers to increase emissions: IEA",
-   "section": "Energy & Environment",
-   "first_reported": "2026-11-19T05:00:18Z",
-   "last_reported": "2026-11-19T19:45:14Z",
-   "outlets": 5,
-   "countries": 5,
-   "risk_score": 0.9,
-   "risk_band": "low",
-   "confidence_pct": 78,
-   "status": "fading"
-  },
-  {
-   "id": 263763,
-   "url": "https://athenaglauxintelligence.news/event/263763.html",
-   "title": "What Anthropic’s record $81 billion IPO means for Gulf investors",
-   "section": "Technology & Cyber",
-   "first_reported": "2026-11-19T05:00:00Z",
-   "last_reported": "2026-11-20T13:18:20Z",
-   "outlets": 9,
-   "countries": 6,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 84,
-   "status": "fading"
-  },
-  {
-   "id": 265359,
-   "url": "https://athenaglauxintelligence.news/event/265359.html",
-   "title": "Trump says US will 'see what happens' in conflict with Iran after January 1",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-19T04:59:00Z",
-   "last_reported": "2026-11-20T16:39:44Z",
-   "outlets": 14,
-   "countries": 11,
-   "risk_score": 5.7,
-   "risk_band": "elevated",
-   "confidence_pct": 93,
-   "status": "fading"
-  },
-  {
-   "id": 263947,
-   "url": "https://athenaglauxintelligence.news/event/263947.html",
-   "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-19T04:58:36Z",
-   "last_reported": "2026-11-19T19:40:23Z",
-   "outlets": 6,
-   "countries": 6,
-   "risk_score": 1.9,
-   "risk_band": "low",
-   "confidence_pct": 84,
-   "status": "fading"
-  },
-  {
-   "id": 272751,
-   "url": "https://athenaglauxintelligence.news/event/272751.html",
-   "title": "Oil prices gain as Houthi attacks on Riyadh raise supply concerns",
-   "section": "Energy & Environment",
-   "first_reported": "2026-11-19T04:48:00Z",
-   "last_reported": "2026-11-20T09:09:56Z",
-   "outlets": 10,
-   "countries": 8,
-   "risk_score": 2.6,
-   "risk_band": "moderate",
-   "confidence_pct": 89,
    "status": "fading"
   }
  ]
