@@ -1,25 +1,25 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-26T12:04:43Z",
+ "generated": "2026-11-26T12:47:52Z",
  "window_days": 7,
  "language": "fr",
- "count": 926,
+ "count": 925,
  "licence": "https://athenaglauxintelligence.news/fr/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
   {
    "id": 321136,
    "url": "https://athenaglauxintelligence.news/fr/event/321136.html",
-   "title": "Huge blast hits Bangkok oil depot",
+   "title": "Huge blast hits Bangkok oil depot, 7 injured",
    "section": "Énergie et environnement",
    "first_reported": "2026-11-26T08:44:00Z",
    "last_reported": "2026-11-26T09:32:53Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 3.6,
-   "risk_band": "moderate",
-   "confidence_pct": 74,
-   "status": "spreading"
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 5.1,
+   "risk_band": "elevated",
+   "confidence_pct": 81,
+   "status": "fading"
   },
   {
    "id": 321441,
@@ -81,14 +81,14 @@
    "id": 319777,
    "url": "https://athenaglauxintelligence.news/fr/event/319777.html",
    "title": "Judge blocks FCC from early renewal of ABC licenses",
-   "section": "Accidents et urgences",
+   "section": "Entreprises",
    "first_reported": "2026-11-26T00:30:46Z",
    "last_reported": "2026-11-26T09:08:59Z",
-   "outlets": 6,
+   "outlets": 7,
    "countries": 2,
-   "risk_score": 2.4,
+   "risk_score": 3.3,
    "risk_band": "moderate",
-   "confidence_pct": 72,
+   "confidence_pct": 74,
    "status": "emerging"
   },
   {
@@ -120,45 +120,31 @@
    "status": "emerging"
   },
   {
-   "id": 318578,
-   "url": "https://athenaglauxintelligence.news/fr/event/318578.html",
-   "title": "New York court upholds Mayor Mamdani’s rent freeze",
-   "section": "Économie et marchés",
-   "first_reported": "2026-11-25T22:19:57Z",
-   "last_reported": "2026-11-26T03:27:27Z",
-   "outlets": 5,
-   "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 76,
-   "status": "emerging"
-  },
-  {
    "id": 320092,
    "url": "https://athenaglauxintelligence.news/fr/event/320092.html",
    "title": "King Tides and Strong Waves Destroy Part of Pacifica Pier as Officials Warn of Coastal Flooding",
    "section": "Énergie et environnement",
-   "first_reported": "2026-11-25T22:19:11Z",
+   "first_reported": "2026-11-25T22:00:45Z",
    "last_reported": "2026-11-26T04:55:29Z",
-   "outlets": 3,
+   "outlets": 4,
    "countries": 2,
    "risk_score": 5.4,
    "risk_band": "elevated",
-   "confidence_pct": 65,
+   "confidence_pct": 70,
    "status": "fading"
   },
   {
    "id": 320003,
    "url": "https://athenaglauxintelligence.news/fr/event/320003.html",
-   "title": "Russian forces hit Kyiv with ballistic missiles, mayor says",
+   "title": "Russia Hits Kyiv Shopping Mall With Ballistic Missiles, Injures 7",
    "section": "Géopolitique",
    "first_reported": "2026-11-25T21:29:00Z",
    "last_reported": "2026-11-26T11:16:46Z",
-   "outlets": 4,
+   "outlets": 5,
    "countries": 3,
-   "risk_score": 4.0,
-   "risk_band": "moderate",
-   "confidence_pct": 76,
+   "risk_score": 5.2,
+   "risk_band": "elevated",
+   "confidence_pct": 80,
    "status": "fading"
   },
   {
@@ -190,6 +176,20 @@
    "status": "fading"
   },
   {
+   "id": 318578,
+   "url": "https://athenaglauxintelligence.news/fr/event/318578.html",
+   "title": "New York court upholds Mayor Mamdani’s rent freeze",
+   "section": "Économie et marchés",
+   "first_reported": "2026-11-25T21:07:31Z",
+   "last_reported": "2026-11-26T03:27:27Z",
+   "outlets": 6,
+   "countries": 4,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 81,
+   "status": "fading"
+  },
+  {
    "id": 319214,
    "url": "https://athenaglauxintelligence.news/fr/event/319214.html",
    "title": "Islamic State attack kills two Syrian security personnel in Hasaka, state media says",
@@ -201,6 +201,20 @@
    "risk_score": 4.9,
    "risk_band": "elevated",
    "confidence_pct": 76,
+   "status": "fading"
+  },
+  {
+   "id": 321243,
+   "url": "https://athenaglauxintelligence.news/fr/event/321243.html",
+   "title": "76 Freed After Colombia Supermarket Siege",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-25T21:02:37Z",
+   "last_reported": "2026-11-26T07:47:41Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 5.3,
+   "risk_band": "elevated",
+   "confidence_pct": 66,
    "status": "fading"
   },
   {
@@ -294,11 +308,11 @@
    "section": "Accidents et urgences",
    "first_reported": "2026-11-25T18:46:48Z",
    "last_reported": "2026-11-26T04:59:22Z",
-   "outlets": 6,
-   "countries": 6,
+   "outlets": 7,
+   "countries": 7,
    "risk_score": 5.4,
    "risk_band": "elevated",
-   "confidence_pct": 85,
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -360,15 +374,15 @@
   {
    "id": 316142,
    "url": "https://athenaglauxintelligence.news/fr/event/316142.html",
-   "title": "US Billionaire Boehly Signs Deal for Lukoil’s Foreign Assets",
+   "title": "U.S.-led consortium agrees to acquire Lukoil's international portfolio in share-swap deal",
    "section": "Entreprises",
    "first_reported": "2026-11-25T16:50:54Z",
    "last_reported": "2026-11-26T11:38:21Z",
-   "outlets": 10,
-   "countries": 6,
+   "outlets": 12,
+   "countries": 7,
    "risk_score": 0.8,
    "risk_band": "low",
-   "confidence_pct": 86,
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -450,8 +464,8 @@
    "last_reported": "2026-11-26T09:04:35Z",
    "outlets": 4,
    "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
+   "risk_score": 2.3,
+   "risk_band": "moderate",
    "confidence_pct": 67,
    "status": "fading"
   },
@@ -489,12 +503,12 @@
    "title": "Poundland collapses into administration putting 11,000 jobs at risk before Christmas",
    "section": "Entreprises",
    "first_reported": "2026-11-25T15:04:14Z",
-   "last_reported": "2026-11-25T22:41:00Z",
+   "last_reported": "2026-11-26T10:51:06Z",
    "outlets": 11,
    "countries": 3,
    "risk_score": 5.7,
    "risk_band": "elevated",
-   "confidence_pct": 83,
+   "confidence_pct": 82,
    "status": "fading"
   },
   {
@@ -629,7 +643,7 @@
    "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
    "section": "Commerce et industrie",
    "first_reported": "2026-11-25T13:40:17Z",
-   "last_reported": "2026-11-26T02:52:28Z",
+   "last_reported": "2026-11-26T09:33:42Z",
    "outlets": 6,
    "countries": 2,
    "risk_score": 3.3,
@@ -896,11 +910,11 @@
    "section": "Géopolitique",
    "first_reported": "2026-11-25T09:50:27Z",
    "last_reported": "2026-11-25T19:25:12Z",
-   "outlets": 8,
-   "countries": 6,
-   "risk_score": 5.4,
+   "outlets": 9,
+   "countries": 7,
+   "risk_score": 5.2,
    "risk_band": "elevated",
-   "confidence_pct": 86,
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -951,7 +965,7 @@
    "title": "Eurostar services between London and Paris cancelled after staff go on surprise strike",
    "section": "Entreprises",
    "first_reported": "2026-11-25T09:17:48Z",
-   "last_reported": "2026-11-25T17:55:15Z",
+   "last_reported": "2026-11-26T06:00:01Z",
    "outlets": 5,
    "countries": 2,
    "risk_score": 1.2,
@@ -1348,7 +1362,7 @@
    "countries": 4,
    "risk_score": 3.9,
    "risk_band": "moderate",
-   "confidence_pct": 84,
+   "confidence_pct": 85,
    "status": "fading"
   },
   {
@@ -1615,6 +1629,20 @@
    "risk_score": 3.5,
    "risk_band": "moderate",
    "confidence_pct": 61,
+   "status": "fading"
+  },
+  {
+   "id": 310877,
+   "url": "https://athenaglauxintelligence.news/fr/event/310877.html",
+   "title": "Zelensky: No word yet from US on accelerating air defense missile deliveries",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-24T22:00:34Z",
+   "last_reported": "2026-11-25T23:05:31Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 67,
    "status": "fading"
   },
   {
@@ -2237,14 +2265,14 @@
    "id": 308846,
    "url": "https://athenaglauxintelligence.news/fr/event/308846.html",
    "title": "Belgium inaugurates Europe’s largest satellite factory",
-   "section": "Commerce et industrie",
+   "section": "Technologie et cyber",
    "first_reported": "2026-11-24T14:07:32Z",
    "last_reported": "2026-11-26T09:28:07Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 0.8,
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 0.9,
    "risk_band": "low",
-   "confidence_pct": 66,
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -2898,11 +2926,11 @@
    "section": "Technologie et cyber",
    "first_reported": "2026-11-24T08:00:00Z",
    "last_reported": "2026-11-26T10:19:54Z",
-   "outlets": 11,
-   "countries": 5,
+   "outlets": 12,
+   "countries": 6,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 86,
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -3956,18 +3984,18 @@
    "status": "fading"
   },
   {
-   "id": 303771,
-   "url": "https://athenaglauxintelligence.news/fr/event/303771.html",
-   "title": "Anthropic CEO Dario Amodei Sold $280 Million In Shares As Part Of Record IPO",
-   "section": "Économie et marchés",
+   "id": 319874,
+   "url": "https://athenaglauxintelligence.news/fr/event/319874.html",
+   "title": "Anthropic chief denies wanting humans to 'surrender' free will to AI",
+   "section": "Technologie et cyber",
    "first_reported": "2026-11-23T18:29:49Z",
-   "last_reported": "2026-11-24T11:37:40Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 1.0,
+   "last_reported": "2026-11-26T09:44:02Z",
+   "outlets": 10,
+   "countries": 8,
+   "risk_score": 1.9,
    "risk_band": "low",
-   "confidence_pct": 63,
-   "status": "fading"
+   "confidence_pct": 87,
+   "status": "peaking"
   },
   {
    "id": 299761,
@@ -8315,13 +8343,13 @@
    "title": "Nvidia halts chip shipments to Southeast Asia, FT reports",
    "section": "Technologie et cyber",
    "first_reported": "2026-11-21T10:57:23Z",
-   "last_reported": "2026-11-26T06:11:00Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 0.8,
+   "last_reported": "2026-11-26T10:36:49Z",
+   "outlets": 6,
+   "countries": 6,
+   "risk_score": 1.0,
    "risk_band": "low",
-   "confidence_pct": 74,
-   "status": "fading"
+   "confidence_pct": 83,
+   "status": "peaking"
   },
   {
    "id": 282724,
@@ -11638,7 +11666,7 @@
    "countries": 4,
    "risk_score": 1.0,
    "risk_band": "low",
-   "confidence_pct": 73,
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -12928,48 +12956,6 @@
    "risk_band": "none detected",
    "confidence_pct": 64,
    "status": "fading"
-  },
-  {
-   "id": 268276,
-   "url": "https://athenaglauxintelligence.news/fr/event/268276.html",
-   "title": "IRGC says Iran International is among its military targets",
-   "section": "Géopolitique",
-   "first_reported": "2026-11-19T12:27:58Z",
-   "last_reported": "2026-11-20T01:37:38Z",
-   "outlets": 4,
-   "countries": 2,
-   "risk_score": 2.5,
-   "risk_band": "moderate",
-   "confidence_pct": 71,
-   "status": "fading"
-  },
-  {
-   "id": 268374,
-   "url": "https://athenaglauxintelligence.news/fr/event/268374.html",
-   "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains",
-   "section": "Entreprises",
-   "first_reported": "2026-11-19T12:12:57Z",
-   "last_reported": "2026-11-19T22:56:04Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 1.0,
-   "risk_band": "low",
-   "confidence_pct": 68,
-   "status": "emerging"
-  },
-  {
-   "id": 267776,
-   "url": "https://athenaglauxintelligence.news/fr/event/267776.html",
-   "title": "Baker Hughes and McDermott score Ichthys LNG gig",
-   "section": "Énergie et environnement",
-   "first_reported": "2026-11-19T12:12:55Z",
-   "last_reported": "2026-11-19T19:09:20Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 1.2,
-   "risk_band": "low",
-   "confidence_pct": 68,
-   "status": "emerging"
   }
  ]
 }
