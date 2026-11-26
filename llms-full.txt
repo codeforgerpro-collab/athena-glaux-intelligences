@@ -46,13 +46,14 @@
 
 ## Latest stories
 
-- [Egypt fuel tanker inferno kills 30, injures 15 on Cairo ring road](https://athenaglauxintelligence.news/event/317192.html): first reported 2026-11-25; 4 outlets, 4 countries.
-- [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://athenaglauxintelligence.news/event/316760.html): first reported 2026-11-25; 7 outlets, 3 countries.
-- [Gordon Ramsay named new host of BBC's Top Gear](https://athenaglauxintelligence.news/event/316846.html): first reported 2026-11-25; 8 outlets, 5 countries.
+- [FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://athenaglauxintelligence.news/event/316760.html): first reported 2026-11-25; 8 outlets, 4 countries.
+- [Gordon Ramsay named new host of BBC's Top Gear](https://athenaglauxintelligence.news/event/316846.html): first reported 2026-11-25; 9 outlets, 5 countries.
+- [Ukrainian combat laser intercepts Russian jet-powered drone for first time](https://athenaglauxintelligence.news/event/316830.html): first reported 2026-11-25; 3 outlets, 2 countries.
+- [Poundland collapses into administration putting 11,000 jobs at risk before Christmas](https://athenaglauxintelligence.news/event/316053.html): first reported 2026-11-25; 9 outlets, 2 countries.
 - [Ukraine war latest: Poland plans no-fly zone near Ukraine border, asks NATO to intercept Russian missiles over Ukraine](https://athenaglauxintelligence.news/event/315684.html): first reported 2026-11-25; 5 outlets, 4 countries.
 - [Israeli lawmakers advance 7 October inquiry opposed by Netanyahu](https://athenaglauxintelligence.news/event/314688.html): first reported 2026-11-25; 7 outlets, 6 countries.
 - [Lebanon judge issues warrants for five detained Hezbollah members](https://athenaglauxintelligence.news/event/315941.html): first reported 2026-11-25; 3 outlets, 2 countries.
-- [Britain moving military aircraft to hangars at night over possible drone threats, media reports say](https://athenaglauxintelligence.news/event/314485.html): first reported 2026-11-25; 9 outlets, 9 countries.
+- [Britain moving military aircraft to hangars at night over possible drone threats, media reports say](https://athenaglauxintelligence.news/event/314485.html): first reported 2026-11-25; 11 outlets, 10 countries.
 - [Silver price sinks to 14-month low on firm US Dollar ahead of PCE inflation data](https://athenaglauxintelligence.news/event/315258.html): first reported 2026-11-25; 4 outlets, 3 countries.
 - [Five Russian military jets hit in airfield strike, says Ukraine](https://athenaglauxintelligence.news/event/315506.html): first reported 2026-11-25; 6 outlets, 4 countries.
 - [UN Warns of Growing Risk of Atrocities by Israel Against Palestinians](https://athenaglauxintelligence.news/event/314341.html): first reported 2026-11-25; 7 outlets, 5 countries.
@@ -61,7 +62,7 @@
 - [Eurostar services between London and Paris cancelled after staff go on surprise strike](https://athenaglauxintelligence.news/event/312081.html): first reported 2026-11-25; 5 outlets, 2 countries.
 - [South Africa's Ramaphosa wins court battle over impeachment threat](https://athenaglauxintelligence.news/event/312334.html): first reported 2026-11-25; 4 outlets, 4 countries.
 - [Jordan sentences man to death over attack that killed officer](https://athenaglauxintelligence.news/event/311769.html): first reported 2026-11-25; 4 outlets, 3 countries.
-- [US unveils proposed tariffs on major partners, including EU and China](https://athenaglauxintelligence.news/event/317540.html): first reported 2026-11-25; 7 outlets, 6 countries.
+- [US unveils proposed tariffs on major partners, including EU and China](https://athenaglauxintelligence.news/event/317540.html): first reported 2026-11-25; 9 outlets, 8 countries.
 - [Flipkart leadership shake-up: CEO Kalyan Krishnamurthy to step down after 11 years](https://athenaglauxintelligence.news/event/311607.html): first reported 2026-11-25; 7 outlets, 2 countries.
 - [Pakistan says nuclear weapons decisions must remain under human control](https://athenaglauxintelligence.news/event/310808.html): first reported 2026-11-25; 3 outlets, 2 countries.
 - [Amazon to sell cars online in UK from next year](https://athenaglauxintelligence.news/event/311205.html): first reported 2026-11-25; 5 outlets, 3 countries.
@@ -70,7 +71,6 @@
 - [Police declare Arise News owner Nduka Obaigbena, others wanted for threatening FirstBank CEO](https://athenaglauxintelligence.news/event/312078.html): first reported 2026-11-25; 5 outlets, 1 country.
 - [At least 3 killed, 14 injured after under-construction building collapses near Karachi's Baloch Colony](https://athenaglauxintelligence.news/event/312090.html): first reported 2026-11-25; 7 outlets, 2 countries.
 - [Jennifer Barreto of Puerto Rico Is Crowned Miss Universe 2026](https://athenaglauxintelligence.news/event/310392.html): first reported 2026-11-25; 12 outlets, 11 countries.
-- [Pakistan’s first astronaut reaches China’s space station: What Xi Jinping, Asif Ali Zardari said in letter exchange](https://athenaglauxintelligence.news/event/316356.html): first reported 2026-11-25; 3 outlets, 3 countries.
 - [Trump: Iran regime change ‘probably doable,’ but not his goal](https://athenaglauxintelligence.news/event/311945.html): first reported 2026-11-25; 4 outlets, 2 countries.
 - [MAG to acquire 10 Boeing 787 Dreamliners with option for 6 more](https://athenaglauxintelligence.news/event/309992.html): first reported 2026-11-25; 6 outlets, 4 countries.
 - [Israeli strike kills four members of Palestinian family in Gaza in latest ceasefire violation](https://athenaglauxintelligence.news/event/310563.html): first reported 2026-11-25; 5 outlets, 4 countries.
@@ -81,11 +81,11 @@
 - [Japan's key services inflation gauge hits 36-year high](https://athenaglauxintelligence.news/event/309822.html): first reported 2026-11-25; 4 outlets, 3 countries.
 - [European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund](https://athenaglauxintelligence.news/event/311923.html): first reported 2026-11-24; 9 outlets, 6 countries.
 - [Von der Leyen: Europe Will Join Next Round of Talks With Russia](https://athenaglauxintelligence.news/event/312791.html): first reported 2026-11-24; 4 outlets, 3 countries.
+- [30 killed, 15 injured in fuel tanker fire in Giza, Egypt](https://athenaglauxintelligence.news/event/311533.html): first reported 2026-11-24; 11 outlets, 9 countries.
 - [Iran says it is prepared to withstand US blockade, seeks to curb price rises](https://athenaglauxintelligence.news/event/308683.html): first reported 2026-11-24; 7 outlets, 7 countries.
-- [California braces for flooding threat from huge tides, El Niño](https://athenaglauxintelligence.news/event/309227.html): first reported 2026-11-24; 7 outlets, 5 countries.
+- [California braces for flooding threat from huge tides, El Niño](https://athenaglauxintelligence.news/event/309227.html): first reported 2026-11-24; 8 outlets, 6 countries.
 - [Cybersecurity Breach Reported At CIA And National Intelligence Director’s Office](https://athenaglauxintelligence.news/event/307944.html): first reported 2026-11-24; 21 outlets, 12 countries.
 - [‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper](https://athenaglauxintelligence.news/event/308650.html): first reported 2026-11-24; 6 outlets, 3 countries.
-- [Zelenskyy to lobby Democratic Congress if Trump fails to seal peace by year-end](https://athenaglauxintelligence.news/event/306883.html): first reported 2026-11-24; 3 outlets, 2 countries.
 
 ## Optional
 
