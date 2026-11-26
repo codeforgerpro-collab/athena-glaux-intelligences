@@ -1,12 +1,26 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-26T04:07:00Z",
+ "generated": "2026-11-26T04:46:21Z",
  "window_days": 7,
  "language": "el",
- "count": 938,
+ "count": 940,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
+  {
+   "id": 318578,
+   "url": "https://athenaglauxintelligence.news/el/event/318578.html",
+   "title": "New York court upholds Mayor Mamdani’s rent freeze",
+   "section": "Οικονομία & Αγορές",
+   "first_reported": "2026-11-25T22:26:00Z",
+   "last_reported": "2026-11-25T23:52:00Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 62,
+   "status": "emerging"
+  },
   {
    "id": 318522,
    "url": "https://athenaglauxintelligence.news/el/event/318522.html",
@@ -28,12 +42,12 @@
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-25T17:01:51Z",
    "last_reported": "2026-11-25T19:50:40Z",
-   "outlets": 9,
-   "countries": 5,
+   "outlets": 10,
+   "countries": 6,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 83,
-   "status": "emerging"
+   "confidence_pct": 85,
+   "status": "fading"
   },
   {
    "id": 316142,
@@ -69,13 +83,13 @@
    "title": "Poundland collapses into administration putting 11,000 jobs at risk before Christmas",
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-25T15:04:14Z",
-   "last_reported": "2026-11-25T21:31:10Z",
-   "outlets": 10,
-   "countries": 2,
-   "risk_score": 6.0,
+   "last_reported": "2026-11-25T22:41:00Z",
+   "outlets": 11,
+   "countries": 3,
+   "risk_score": 5.7,
    "risk_band": "elevated",
-   "confidence_pct": 79,
-   "status": "emerging"
+   "confidence_pct": 83,
+   "status": "fading"
   },
   {
    "id": 316760,
@@ -83,10 +97,10 @@
    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-25T14:38:53Z",
-   "last_reported": "2026-11-26T00:12:12Z",
-   "outlets": 11,
+   "last_reported": "2026-11-26T01:27:58Z",
+   "outlets": 12,
    "countries": 6,
-   "risk_score": 0.7,
+   "risk_score": 0.8,
    "risk_band": "low",
    "confidence_pct": 91,
    "status": "fading"
@@ -176,6 +190,20 @@
    "status": "fading"
   },
   {
+   "id": 319267,
+   "url": "https://athenaglauxintelligence.news/el/event/319267.html",
+   "title": "US to cap India tariff at 17% if trade deal is reached, USTR says",
+   "section": "Εμπόριο & Βιομηχανία",
+   "first_reported": "2026-11-25T13:40:17Z",
+   "last_reported": "2026-11-26T01:25:02Z",
+   "outlets": 4,
+   "countries": 2,
+   "risk_score": 3.2,
+   "risk_band": "moderate",
+   "confidence_pct": 71,
+   "status": "fading"
+  },
+  {
    "id": 314688,
    "url": "https://athenaglauxintelligence.news/el/event/314688.html",
    "title": "Israeli lawmakers advance 7 October inquiry opposed by Netanyahu",
@@ -229,6 +257,20 @@
    "risk_score": 5.7,
    "risk_band": "elevated",
    "confidence_pct": 92,
+   "status": "fading"
+  },
+  {
+   "id": 315707,
+   "url": "https://athenaglauxintelligence.news/el/event/315707.html",
+   "title": "Iraq foils oil smuggling operations in Dhi Qar, Kirkuk",
+   "section": "Ενέργεια & Περιβάλλον",
+   "first_reported": "2026-11-25T11:40:49Z",
+   "last_reported": "2026-11-25T16:03:00Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 1.6,
+   "risk_band": "low",
+   "confidence_pct": 63,
    "status": "fading"
   },
   {
@@ -461,13 +503,13 @@
    "title": "US unveils proposed tariffs on major partners, including EU and China",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-25T07:22:23Z",
-   "last_reported": "2026-11-26T02:31:20Z",
-   "outlets": 15,
-   "countries": 13,
+   "last_reported": "2026-11-26T02:55:00Z",
+   "outlets": 17,
+   "countries": 14,
    "risk_score": 4.0,
-   "risk_band": "moderate",
-   "confidence_pct": 92,
-   "status": "peaking"
+   "risk_band": "elevated",
+   "confidence_pct": 93,
+   "status": "spreading"
   },
   {
    "id": 311607,
@@ -909,12 +951,12 @@
    "title": "Iran says it is prepared to withstand US blockade, seeks to curb price rises",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-24T21:56:57Z",
-   "last_reported": "2026-11-25T12:53:02Z",
-   "outlets": 7,
-   "countries": 7,
-   "risk_score": 6.7,
+   "last_reported": "2026-11-25T21:06:00Z",
+   "outlets": 8,
+   "countries": 8,
+   "risk_score": 6.8,
    "risk_band": "high",
-   "confidence_pct": 82,
+   "confidence_pct": 84,
    "status": "fading"
   },
   {
@@ -1074,15 +1116,15 @@
   {
    "id": 308898,
    "url": "https://athenaglauxintelligence.news/el/event/308898.html",
-   "title": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity",
+   "title": "Iraq presses OPEC+ to raise oil output",
    "section": "Ενέργεια & Περιβάλλον",
    "first_reported": "2026-11-24T18:30:00Z",
    "last_reported": "2026-11-25T15:26:00Z",
-   "outlets": 5,
-   "countries": 4,
+   "outlets": 6,
+   "countries": 5,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 79,
+   "confidence_pct": 83,
    "status": "fading"
   },
   {
@@ -1273,7 +1315,7 @@
    "title": "EDB Investment in Uzbekistan Could Reach $3 Billion by 2031",
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-24T15:30:00Z",
-   "last_reported": "2026-11-25T14:00:15Z",
+   "last_reported": "2026-11-25T15:12:00Z",
    "outlets": 6,
    "countries": 3,
    "risk_score": 0.0,
@@ -1377,6 +1419,20 @@
    "risk_score": 1.9,
    "risk_band": "low",
    "confidence_pct": 57,
+   "status": "fading"
+  },
+  {
+   "id": 306078,
+   "url": "https://athenaglauxintelligence.news/el/event/306078.html",
+   "title": "Ruto Breaks Ground for Bamburi's KSh 32b Matuga Clinker Plant Set to Create 10,000 Jobs",
+   "section": "Επιχειρήσεις",
+   "first_reported": "2026-11-24T14:55:05Z",
+   "last_reported": "2026-11-25T22:59:42Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 52,
    "status": "fading"
   },
   {
@@ -1520,6 +1576,20 @@
    "status": "fading"
   },
   {
+   "id": 308324,
+   "url": "https://athenaglauxintelligence.news/el/event/308324.html",
+   "title": "German firm signs deal with Kenya to remove barriers for Kenyans seeking jobs abroad",
+   "section": "Οικονομία & Αγορές",
+   "first_reported": "2026-11-24T14:07:00Z",
+   "last_reported": "2026-11-25T13:59:00Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 62,
+   "status": "fading"
+  },
+  {
    "id": 306384,
    "url": "https://athenaglauxintelligence.news/el/event/306384.html",
    "title": "Asia Cup Rising Stars 2026: India A’s route to the semifinal against Sri Lanka A",
@@ -1609,12 +1679,12 @@
    "title": "Uzbekistan, Jordan agree to elevate relations to strategic partnership",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-24T13:23:00Z",
-   "last_reported": "2026-11-25T06:00:20Z",
-   "outlets": 4,
+   "last_reported": "2026-11-25T17:50:00Z",
+   "outlets": 5,
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 68,
+   "confidence_pct": 71,
    "status": "fading"
   },
   {
@@ -2080,6 +2150,20 @@
    "status": "fading"
   },
   {
+   "id": 303369,
+   "url": "https://athenaglauxintelligence.news/el/event/303369.html",
+   "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+   "section": "Τεχνολογία & Κυβερνοασφάλεια",
+   "first_reported": "2026-11-24T08:17:35Z",
+   "last_reported": "2026-11-25T21:21:00Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 62,
+   "status": "fading"
+  },
+  {
    "id": 304161,
    "url": "https://athenaglauxintelligence.news/el/event/304161.html",
    "title": "Sensex today | Stock Market Highlights: Sensex surges 1,502 points, Nifty reclaims 25,800 as rupee hits eight-month high",
@@ -2155,10 +2239,10 @@
    "title": "Israeli strike kills Hamas official, his wife and children",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-24T07:25:49Z",
-   "last_reported": "2026-11-25T16:04:22Z",
-   "outlets": 18,
-   "countries": 14,
-   "risk_score": 5.4,
+   "last_reported": "2026-11-26T01:50:00Z",
+   "outlets": 19,
+   "countries": 15,
+   "risk_score": 5.5,
    "risk_band": "elevated",
    "confidence_pct": 94,
    "status": "fading"
@@ -3169,6 +3253,20 @@
    "risk_score": 3.7,
    "risk_band": "moderate",
    "confidence_pct": 68,
+   "status": "fading"
+  },
+  {
+   "id": 298611,
+   "url": "https://athenaglauxintelligence.news/el/event/298611.html",
+   "title": "PM Discusses Options for Financing Transportation Infrastructure Projects with World Bank",
+   "section": "Οικονομία & Αγορές",
+   "first_reported": "2026-11-23T18:01:31Z",
+   "last_reported": "2026-11-26T03:48:58Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 59,
    "status": "fading"
   },
   {
@@ -4300,7 +4398,7 @@
    "last_reported": "2026-11-25T17:08:53Z",
    "outlets": 4,
    "countries": 2,
-   "risk_score": 1.4,
+   "risk_score": 1.3,
    "risk_band": "low",
    "confidence_pct": 65,
    "status": "fading"
@@ -6512,7 +6610,7 @@
    "last_reported": "2026-11-25T20:15:57Z",
    "outlets": 37,
    "countries": 21,
-   "risk_score": 4.2,
+   "risk_score": 4.1,
    "risk_band": "elevated",
    "confidence_pct": 87,
    "status": "fading"
@@ -13067,76 +13165,6 @@
    "risk_score": 2.6,
    "risk_band": "moderate",
    "confidence_pct": 89,
-   "status": "fading"
-  },
-  {
-   "id": 271402,
-   "url": "https://athenaglauxintelligence.news/el/event/271402.html",
-   "title": "Full text: APEC Connectivity Blueprint",
-   "section": "Οικονομία & Αγορές",
-   "first_reported": "2026-11-19T04:43:00Z",
-   "last_reported": "2026-11-20T16:10:04Z",
-   "outlets": 5,
-   "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 61,
-   "status": "peaking"
-  },
-  {
-   "id": 264174,
-   "url": "https://athenaglauxintelligence.news/el/event/264174.html",
-   "title": "'India playing a whole new game': Modi invokes GTA 6 to highlight how India has transformed since the last game",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-19T04:41:27Z",
-   "last_reported": "2026-11-19T10:47:00Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 53,
-   "status": "fading"
-  },
-  {
-   "id": 265833,
-   "url": "https://athenaglauxintelligence.news/el/event/265833.html",
-   "title": "Trump, Xi and Putin release ‘peace declaration’ from unprecedented summit",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-19T04:30:39Z",
-   "last_reported": "2026-11-20T17:17:25Z",
-   "outlets": 57,
-   "countries": 34,
-   "risk_score": 5.8,
-   "risk_band": "elevated",
-   "confidence_pct": 92,
-   "status": "fading"
-  },
-  {
-   "id": 264281,
-   "url": "https://athenaglauxintelligence.news/el/event/264281.html",
-   "title": "Wreck of Australia's first warship built at home found 128 years after sinking",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-19T04:17:00Z",
-   "last_reported": "2026-11-20T08:13:07Z",
-   "outlets": 11,
-   "countries": 6,
-   "risk_score": 1.9,
-   "risk_band": "low",
-   "confidence_pct": 88,
-   "status": "fading"
-  },
-  {
-   "id": 264155,
-   "url": "https://athenaglauxintelligence.news/el/event/264155.html",
-   "title": "Experts' take: How APEC Shenzhen meeting shapes regional cooperation",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-19T04:13:00Z",
-   "last_reported": "2026-11-20T11:01:07Z",
-   "outlets": 7,
-   "countries": 7,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 84,
    "status": "fading"
   }
  ]
