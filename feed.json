@@ -6,6 +6,17 @@
  "language": "en",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/event/333467.html",
+   "url": "https://athenaglauxintelligence.news/event/333467.html",
+   "title": "Ukraine Warns Russia Could Make Black Sea a New ‘Hormuz’",
+   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by Ukrainska Pravda (English). ATHENA rates the risk 1.8/10 (low), with 64% confidence.",
+   "date_published": "2026-11-27T11:47:00Z",
+   "tags": [
+    "Trade & Industry"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/332165.html",
    "url": "https://athenaglauxintelligence.news/event/332165.html",
    "title": "Under-attack Palestinians find unlikely ally in Israeli retired general",
@@ -13,6 +24,17 @@
    "date_published": "2026-11-27T10:30:31Z",
    "tags": [
     "Economy & Markets"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/332442.html",
+   "url": "https://athenaglauxintelligence.news/event/332442.html",
+   "title": "Gazprom, BOTAS extend Russian gas supply deal by 3 years",
+   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by APA (English). ATHENA rates the risk 0.0/10 (none detected), with 60% confidence.",
+   "date_published": "2026-11-27T10:26:00Z",
+   "tags": [
+    "Energy & Environment"
    ],
    "language": "en"
   },
@@ -173,8 +195,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/331348.html",
    "url": "https://athenaglauxintelligence.news/event/331348.html",
-   "title": "UN rapporteur Albanese condemns Costa Rica’s decision to deny her entry",
-   "summary": "Reported by 9 outlets in 8 countries since 27 Nov. First reported by Arab News. ATHENA rates the risk 4.2/10 (elevated), with 86% confidence.",
+   "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+   "summary": "Reported by 10 outlets in 9 countries since 27 Nov. First reported by Arab News. ATHENA rates the risk 4.5/10 (elevated), with 88% confidence.",
    "date_published": "2026-11-27T04:28:49Z",
    "tags": [
     "Geopolitics"
@@ -261,8 +283,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/330042.html",
    "url": "https://athenaglauxintelligence.news/event/330042.html",
-   "title": "Petronas Greenlights Suriname's 1st Offshore Gas Project",
-   "summary": "Reported by 4 outlets in 4 countries since 27 Nov. First reported by New Straits Times. ATHENA rates the risk 0.0/10 (none detected), with 76% confidence.",
+   "title": "PETRONAS, Staatsolie take FID on Suriname's first offshore gas project",
+   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by New Straits Times. ATHENA rates the risk 0.0/10 (none detected), with 78% confidence.",
    "date_published": "2026-11-27T01:51:57Z",
    "tags": [
     "Business"
@@ -405,7 +427,7 @@
    "id": "https://athenaglauxintelligence.news/event/331729.html",
    "url": "https://athenaglauxintelligence.news/event/331729.html",
    "title": "UK benefits department hit by cyber incident, takes services offline",
-   "summary": "Reported by 10 outlets in 5 countries since 27 Nov. First reported by The Record (Recorded Future News). ATHENA rates the risk 2.1/10 (moderate), with 88% confidence.",
+   "summary": "Reported by 11 outlets in 5 countries since 27 Nov. First reported by The Record (Recorded Future News). ATHENA rates the risk 2.1/10 (moderate), with 89% confidence.",
    "date_published": "2026-11-27T00:00:00Z",
    "tags": [
     "Technology & Cyber"
@@ -420,28 +442,6 @@
    "date_published": "2026-11-27T00:00:00Z",
    "tags": [
     "Technology & Cyber"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/331429.html",
-   "url": "https://athenaglauxintelligence.news/event/331429.html",
-   "title": "US F-16 alters course after air defense warning shots in southern Iran — IRGC",
-   "summary": "Reported by 5 outlets in 4 countries since 26 Nov. First reported by Express Tribune. ATHENA rates the risk 1.8/10 (low), with 81% confidence.",
-   "date_published": "2026-11-26T23:54:43Z",
-   "tags": [
-    "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/328939.html",
-   "url": "https://athenaglauxintelligence.news/event/328939.html",
-   "title": "Strobe Talbott, Who Led US Talks With India After Pokhran Tests, Dies At 80",
-   "summary": "Reported by 7 outlets in 3 countries since 26 Nov. First reported by The Guardian. ATHENA rates the risk 4.5/10 (elevated), with 77% confidence.",
-   "date_published": "2026-11-26T22:36:55Z",
-   "tags": [
-    "Geopolitics"
    ],
    "language": "en"
   }

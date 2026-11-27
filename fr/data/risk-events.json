@@ -1,12 +1,26 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-27T21:09:08Z",
+ "generated": "2026-11-27T21:52:30Z",
  "window_days": 7,
  "language": "fr",
- "count": 932,
+ "count": 937,
  "licence": "https://athenaglauxintelligence.news/fr/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
+  {
+   "id": 333467,
+   "url": "https://athenaglauxintelligence.news/fr/event/333467.html",
+   "title": "Ukraine Warns Russia Could Make Black Sea a New ‘Hormuz’",
+   "section": "Commerce et industrie",
+   "first_reported": "2026-11-27T11:47:00Z",
+   "last_reported": "2026-11-27T17:44:33Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 1.8,
+   "risk_band": "low",
+   "confidence_pct": 64,
+   "status": "emerging"
+  },
   {
    "id": 332165,
    "url": "https://athenaglauxintelligence.news/fr/event/332165.html",
@@ -20,6 +34,20 @@
    "risk_band": "low",
    "confidence_pct": 75,
    "status": "emerging"
+  },
+  {
+   "id": 332442,
+   "url": "https://athenaglauxintelligence.news/fr/event/332442.html",
+   "title": "Gazprom, BOTAS extend Russian gas supply deal by 3 years",
+   "section": "Énergie et environnement",
+   "first_reported": "2026-11-27T10:26:00Z",
+   "last_reported": "2026-11-27T21:13:57Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 60,
+   "status": "peaking"
   },
   {
    "id": 332328,
@@ -220,16 +248,16 @@
   {
    "id": 331348,
    "url": "https://athenaglauxintelligence.news/fr/event/331348.html",
-   "title": "UN rapporteur Albanese condemns Costa Rica’s decision to deny her entry",
+   "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
    "section": "Géopolitique",
    "first_reported": "2026-11-27T04:28:49Z",
-   "last_reported": "2026-11-27T18:43:41Z",
-   "outlets": 9,
-   "countries": 8,
-   "risk_score": 4.2,
+   "last_reported": "2026-11-27T20:10:30Z",
+   "outlets": 10,
+   "countries": 9,
+   "risk_score": 4.5,
    "risk_band": "elevated",
-   "confidence_pct": 86,
-   "status": "spreading"
+   "confidence_pct": 88,
+   "status": "peaking"
   },
   {
    "id": 330292,
@@ -332,15 +360,15 @@
   {
    "id": 330042,
    "url": "https://athenaglauxintelligence.news/fr/event/330042.html",
-   "title": "Petronas Greenlights Suriname's 1st Offshore Gas Project",
+   "title": "PETRONAS, Staatsolie take FID on Suriname's first offshore gas project",
    "section": "Entreprises",
    "first_reported": "2026-11-27T01:51:57Z",
-   "last_reported": "2026-11-27T09:45:49Z",
-   "outlets": 4,
+   "last_reported": "2026-11-27T21:30:52Z",
+   "outlets": 5,
    "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 76,
+   "confidence_pct": 78,
    "status": "fading"
   },
   {
@@ -518,11 +546,11 @@
    "section": "Technologie et cyber",
    "first_reported": "2026-11-27T00:00:00Z",
    "last_reported": "2026-11-27T15:45:00Z",
-   "outlets": 10,
+   "outlets": 11,
    "countries": 5,
    "risk_score": 2.1,
    "risk_band": "moderate",
-   "confidence_pct": 88,
+   "confidence_pct": 89,
    "status": "fading"
   },
   {
@@ -571,14 +599,14 @@
    "id": 327942,
    "url": "https://athenaglauxintelligence.news/fr/event/327942.html",
    "title": "Mnangagwa in Kenya for inaugural Bi-National Commission as Nairobi, Harare seek to boost trade",
-   "section": "Entreprises",
+   "section": "Technologie et cyber",
    "first_reported": "2026-11-26T22:32:05Z",
-   "last_reported": "2026-11-27T10:56:07Z",
-   "outlets": 6,
-   "countries": 2,
+   "last_reported": "2026-11-27T16:55:38Z",
+   "outlets": 7,
+   "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 67,
+   "confidence_pct": 75,
    "status": "fading"
   },
   {
@@ -615,12 +643,12 @@
    "title": "Ukraine has ‘no intention’ of spreading war to Libya, says minister",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T21:23:38Z",
-   "last_reported": "2026-11-27T09:18:29Z",
-   "outlets": 4,
+   "last_reported": "2026-11-27T21:05:09Z",
+   "outlets": 5,
    "countries": 3,
-   "risk_score": 5.6,
+   "risk_score": 5.7,
    "risk_band": "elevated",
-   "confidence_pct": 74,
+   "confidence_pct": 77,
    "status": "fading"
   },
   {
@@ -636,6 +664,20 @@
    "risk_band": "elevated",
    "confidence_pct": 85,
    "status": "spreading"
+  },
+  {
+   "id": 328586,
+   "url": "https://athenaglauxintelligence.news/fr/event/328586.html",
+   "title": "Kuwait Summons Iranian Ambassador After Drone Attack Kills 2",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-26T20:59:51Z",
+   "last_reported": "2026-11-27T16:41:00Z",
+   "outlets": 8,
+   "countries": 6,
+   "risk_score": 5.5,
+   "risk_band": "elevated",
+   "confidence_pct": 89,
+   "status": "fading"
   },
   {
    "id": 328735,
@@ -686,12 +728,12 @@
    "section": "Accidents et urgences",
    "first_reported": "2026-11-26T20:02:26Z",
    "last_reported": "2026-11-27T19:30:24Z",
-   "outlets": 5,
-   "countries": 3,
-   "risk_score": 1.8,
+   "outlets": 6,
+   "countries": 4,
+   "risk_score": 1.6,
    "risk_band": "low",
-   "confidence_pct": 74,
-   "status": "spreading"
+   "confidence_pct": 78,
+   "status": "fading"
   },
   {
    "id": 327093,
@@ -733,6 +775,34 @@
    "risk_score": 4.7,
    "risk_band": "elevated",
    "confidence_pct": 83,
+   "status": "fading"
+  },
+  {
+   "id": 325037,
+   "url": "https://athenaglauxintelligence.news/fr/event/325037.html",
+   "title": "Adeleke sworn in for second term as Osun Governor",
+   "section": "Entreprises",
+   "first_reported": "2026-11-26T18:42:47Z",
+   "last_reported": "2026-11-27T16:53:57Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 1.6,
+   "risk_band": "low",
+   "confidence_pct": 53,
+   "status": "fading"
+  },
+  {
+   "id": 326762,
+   "url": "https://athenaglauxintelligence.news/fr/event/326762.html",
+   "title": "Elon Musk gets the greenlight from the US to launch one million satellites",
+   "section": "Technologie et cyber",
+   "first_reported": "2026-11-26T18:34:17Z",
+   "last_reported": "2026-11-27T16:54:05Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 70,
    "status": "fading"
   },
   {
@@ -932,6 +1002,20 @@
    "status": "peaking"
   },
   {
+   "id": 324400,
+   "url": "https://athenaglauxintelligence.news/fr/event/324400.html",
+   "title": "DMK's Stalin sets 2 conditions for Delimitation Bill",
+   "section": "Accidents et urgences",
+   "first_reported": "2026-11-26T16:02:57Z",
+   "last_reported": "2026-11-27T18:54:06Z",
+   "outlets": 6,
+   "countries": 1,
+   "risk_score": 0.7,
+   "risk_band": "low",
+   "confidence_pct": 68,
+   "status": "peaking"
+  },
+  {
    "id": 326440,
    "url": "https://athenaglauxintelligence.news/fr/event/326440.html",
    "title": "'Citizens angry with the establishment' as Spain heads to the polls",
@@ -993,12 +1077,12 @@
    "title": "Worker killed, several others injured in attack on Saudi Arabia’s Jazan oil refinery",
    "section": "Énergie et environnement",
    "first_reported": "2026-11-26T15:58:19Z",
-   "last_reported": "2026-11-27T08:03:11Z",
-   "outlets": 13,
-   "countries": 13,
-   "risk_score": 6.1,
+   "last_reported": "2026-11-27T10:12:42Z",
+   "outlets": 14,
+   "countries": 14,
+   "risk_score": 6.0,
    "risk_band": "high",
-   "confidence_pct": 88,
+   "confidence_pct": 89,
    "status": "fading"
   },
   {
@@ -1900,16 +1984,16 @@
   {
    "id": 322197,
    "url": "https://athenaglauxintelligence.news/fr/event/322197.html",
-   "title": "Hamas weighs response after Israel kills 10 people in Gaza",
+   "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T09:53:23Z",
-   "last_reported": "2026-11-27T12:44:15Z",
-   "outlets": 14,
-   "countries": 12,
-   "risk_score": 5.6,
-   "risk_band": "elevated",
+   "last_reported": "2026-11-27T20:18:45Z",
+   "outlets": 17,
+   "countries": 14,
+   "risk_score": 6.2,
+   "risk_band": "high",
    "confidence_pct": 94,
-   "status": "fading"
+   "status": "peaking"
   },
   {
    "id": 321668,
@@ -2323,7 +2407,7 @@
    "title": "Kushner: Israel needs to get out of the constant wartime mindset",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T06:56:53Z",
-   "last_reported": "2026-11-26T19:31:25Z",
+   "last_reported": "2026-11-27T16:01:44Z",
    "outlets": 5,
    "countries": 3,
    "risk_score": 4.4,
@@ -2617,12 +2701,12 @@
    "title": "Sanchez makes last bid to beat the right ahead of Spanish vote",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T03:00:43Z",
-   "last_reported": "2026-11-27T14:35:28Z",
-   "outlets": 8,
-   "countries": 8,
+   "last_reported": "2026-11-27T17:15:35Z",
+   "outlets": 9,
+   "countries": 9,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 90,
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -2673,12 +2757,12 @@
    "title": "North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T01:17:09Z",
-   "last_reported": "2026-11-26T16:47:32Z",
-   "outlets": 13,
-   "countries": 10,
-   "risk_score": 1.6,
-   "risk_band": "low",
-   "confidence_pct": 91,
+   "last_reported": "2026-11-27T10:14:26Z",
+   "outlets": 14,
+   "countries": 11,
+   "risk_score": 3.0,
+   "risk_band": "moderate",
+   "confidence_pct": 92,
    "status": "fading"
   },
   {
@@ -3247,7 +3331,7 @@
    "title": "Ukraine says North Korea temporarily halted missile shipments to ally Russia",
    "section": "Géopolitique",
    "first_reported": "2026-11-25T17:05:17Z",
-   "last_reported": "2026-11-27T04:37:30Z",
+   "last_reported": "2026-11-27T10:13:03Z",
    "outlets": 13,
    "countries": 8,
    "risk_score": 1.4,
@@ -3505,6 +3589,20 @@
    "risk_score": 5.9,
    "risk_band": "elevated",
    "confidence_pct": 85,
+   "status": "fading"
+  },
+  {
+   "id": 323133,
+   "url": "https://athenaglauxintelligence.news/fr/event/323133.html",
+   "title": "Govt to recruit additional 10,000 health workers",
+   "section": "Énergie et environnement",
+   "first_reported": "2026-11-25T14:51:53Z",
+   "last_reported": "2026-11-27T11:51:09Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 64,
    "status": "fading"
   },
   {
@@ -3781,10 +3879,10 @@
    "first_reported": "2026-11-25T13:27:47Z",
    "last_reported": "2026-11-27T18:20:32Z",
    "outlets": 16,
-   "countries": 8,
+   "countries": 9,
    "risk_score": 5.8,
    "risk_band": "elevated",
-   "confidence_pct": 89,
+   "confidence_pct": 88,
    "status": "fading"
   },
   {
@@ -3964,9 +4062,9 @@
    "last_reported": "2026-11-26T14:58:41Z",
    "outlets": 3,
    "countries": 1,
-   "risk_score": 1.6,
+   "risk_score": 1.3,
    "risk_band": "low",
-   "confidence_pct": 59,
+   "confidence_pct": 60,
    "status": "fading"
   },
   {
@@ -4292,20 +4390,6 @@
    "status": "fading"
   },
   {
-   "id": 312173,
-   "url": "https://athenaglauxintelligence.news/fr/event/312173.html",
-   "title": "Flydubai To Resume Flights To Israel On December 3",
-   "section": "Commerce et industrie",
-   "first_reported": "2026-11-25T09:34:49Z",
-   "last_reported": "2026-11-26T20:32:50Z",
-   "outlets": 10,
-   "countries": 7,
-   "risk_score": 1.6,
-   "risk_band": "low",
-   "confidence_pct": 91,
-   "status": "fading"
-  },
-  {
    "id": 313274,
    "url": "https://athenaglauxintelligence.news/fr/event/313274.html",
    "title": "Unclassified CIA system breached in cyberattack: Report",
@@ -4443,6 +4527,20 @@
    "risk_score": 6.2,
    "risk_band": "high",
    "confidence_pct": 82,
+   "status": "fading"
+  },
+  {
+   "id": 312173,
+   "url": "https://athenaglauxintelligence.news/fr/event/312173.html",
+   "title": "Hyderabad family gets Rs 70,000 after airline cancels direct Thailand flights",
+   "section": "Commerce et industrie",
+   "first_reported": "2026-11-25T08:30:00Z",
+   "last_reported": "2026-11-27T15:12:10Z",
+   "outlets": 36,
+   "countries": 15,
+   "risk_score": 2.7,
+   "risk_band": "moderate",
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -5403,12 +5501,12 @@
    "title": "Argentina bans its central bank from printing money for the government",
    "section": "Économie et marchés",
    "first_reported": "2026-11-24T20:28:00Z",
-   "last_reported": "2026-11-27T00:56:29Z",
-   "outlets": 5,
-   "countries": 5,
+   "last_reported": "2026-11-27T10:14:34Z",
+   "outlets": 6,
+   "countries": 6,
    "risk_score": 1.2,
    "risk_band": "low",
-   "confidence_pct": 83,
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -5568,15 +5666,15 @@
   {
    "id": 307978,
    "url": "https://athenaglauxintelligence.news/fr/event/307978.html",
-   "title": "DIRCO probes reports of South African pilot’s capture in Eastern DRC",
-   "section": "Accidents et urgences",
+   "title": "SOUTH AFRICAN PILOT REPORTEDLY CAPTURED BY M23 REBELS IN EASTERN DRC",
+   "section": "Géopolitique",
    "first_reported": "2026-11-24T18:34:21Z",
-   "last_reported": "2026-11-26T10:30:00Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 2.2,
-   "risk_band": "moderate",
-   "confidence_pct": 62,
+   "last_reported": "2026-11-27T16:44:50Z",
+   "outlets": 5,
+   "countries": 3,
+   "risk_score": 1.8,
+   "risk_band": "low",
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -13025,34 +13123,6 @@
    "risk_score": 5.5,
    "risk_band": "elevated",
    "confidence_pct": 92,
-   "status": "fading"
-  },
-  {
-   "id": 279785,
-   "url": "https://athenaglauxintelligence.news/fr/event/279785.html",
-   "title": "CrowdStrike to acquire Zscaler for $44 billion",
-   "section": "Entreprises",
-   "first_reported": "2026-11-20T21:35:24Z",
-   "last_reported": "2026-11-25T00:42:01Z",
-   "outlets": 15,
-   "countries": 7,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 89,
-   "status": "fading"
-  },
-  {
-   "id": 281204,
-   "url": "https://athenaglauxintelligence.news/fr/event/281204.html",
-   "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
-   "section": "Technologie et cyber",
-   "first_reported": "2026-11-20T21:35:21Z",
-   "last_reported": "2026-11-23T22:56:45Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 4.9,
-   "risk_band": "elevated",
-   "confidence_pct": 67,
    "status": "fading"
   }
  ]
