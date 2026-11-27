@@ -46,7 +46,7 @@
 
 ## Latest stories
 
-- [New Zealand's ruling coalition falls one seat short of majority in final election results](https://athenaglauxintelligence.news/event/329703.html): first reported 2026-11-27; 9 outlets, 7 countries.
+- [New Zealand's ruling coalition loses majority in final election count](https://athenaglauxintelligence.news/event/329703.html): first reported 2026-11-27; 11 outlets, 9 countries.
 - [Ukraine has ‘no intention’ of spreading war to Libya, says minister](https://athenaglauxintelligence.news/event/328656.html): first reported 2026-11-26; 3 outlets, 3 countries.
 - [Clashes at Besiktas match against Israeli club spark diplomatic row](https://athenaglauxintelligence.news/event/327148.html): first reported 2026-11-26; 11 outlets, 6 countries.
 - [IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant](https://athenaglauxintelligence.news/event/327151.html): first reported 2026-11-26; 5 outlets, 4 countries.
@@ -60,18 +60,20 @@
 - [Iran says Qatari, Pakistani mediation in talks with US continues](https://athenaglauxintelligence.news/event/327167.html): first reported 2026-11-26; 4 outlets, 4 countries.
 - [Tommy Robinson’s ex-wife avoids jail for failing to provide loan records](https://athenaglauxintelligence.news/event/326448.html): first reported 2026-11-26; 6 outlets, 2 countries.
 - [Lawal strengthens Zamfara Forest Guards, reaffirms decision not to negotiate with bandits](https://athenaglauxintelligence.news/event/323783.html): first reported 2026-11-26; 5 outlets, 1 country.
-- [Babiš rejects linking EU budget negotiations to future funding for Ukraine](https://athenaglauxintelligence.news/event/323209.html): first reported 2026-11-26; 3 outlets, 3 countries.
+- [France and Germany want deal by year-end to ‘Le Pen-proof’ next EU budget, Ukraine](https://athenaglauxintelligence.news/event/323209.html): first reported 2026-11-26; 4 outlets, 4 countries.
 - [Spain's legislative elections: Andalusia, a testing ground for the right and the far right alliance](https://athenaglauxintelligence.news/event/324082.html): first reported 2026-11-26; 4 outlets, 4 countries.
 - [US maker of Marlboro cigarettes mulls over bid for Imperial Brands](https://athenaglauxintelligence.news/event/322902.html): first reported 2026-11-26; 7 outlets, 3 countries.
 - [EU leaders divided over budget spending as they weigh a $49 billion loan to Ukraine](https://athenaglauxintelligence.news/event/325473.html): first reported 2026-11-26; 3 outlets, 3 countries.
 - [European Parliament seeks EU action over Turkey-Libya maritime deal](https://athenaglauxintelligence.news/event/325618.html): first reported 2026-11-26; 6 outlets, 4 countries.
 - [Spain's De Cos set to become next ECB president](https://athenaglauxintelligence.news/event/323075.html): first reported 2026-11-26; 25 outlets, 17 countries.
 - [President Zelensky thanks Americans for their support in Thanksgiving message](https://athenaglauxintelligence.news/event/324598.html): first reported 2026-11-26; 8 outlets, 6 countries.
-- [Trump says he'd like to see Putin 'pull back' military aggression in Europe](https://athenaglauxintelligence.news/event/324189.html): first reported 2026-11-26; 25 outlets, 18 countries.
+- [Trump says he'd like to see Putin 'pull back' military aggression in Europe](https://athenaglauxintelligence.news/event/324189.html): first reported 2026-11-26; 26 outlets, 19 countries.
 - [Bradesco chairman Trabuco agrees to become Brazil’s finance minister](https://athenaglauxintelligence.news/event/326456.html): first reported 2026-11-26; 4 outlets, 4 countries.
+- [Spain’s election candidates clash over Gaza, migration and housing in televised debate](https://athenaglauxintelligence.news/event/322646.html): first reported 2026-11-26; 3 outlets, 3 countries.
 - [Large-scale power outage hits Russian-occupied Crimea, disrupts transport](https://athenaglauxintelligence.news/event/323083.html): first reported 2026-11-26; 5 outlets, 3 countries.
 - [Fifa confirms internal data stolen in cyber attack](https://athenaglauxintelligence.news/event/324835.html): first reported 2026-11-26; 9 outlets, 7 countries.
 - [Tajani speaks with Araghchi, Iran denies involvement, ready for joint panel](https://athenaglauxintelligence.news/event/322552.html): first reported 2026-11-26; 6 outlets, 5 countries.
+- [On Greece's most glamorous island, faith and tradition endure with a celebration of its women](https://athenaglauxintelligence.news/event/325188.html): first reported 2026-11-26; 3 outlets, 2 countries.
 - [Zelensky Warns Of New Russian Mass Strike In "Coming Days"](https://athenaglauxintelligence.news/event/322148.html): first reported 2026-11-26; 4 outlets, 3 countries.
 - [Zelenskyy says Russia preparing new mass strike in coming days](https://athenaglauxintelligence.news/event/323108.html): first reported 2026-11-26; 7 outlets, 4 countries.
 - [Ministers have ‘failed to make the case’ for Heathrow third runway, MPs say](https://athenaglauxintelligence.news/event/322652.html): first reported 2026-11-26; 6 outlets, 4 countries.
@@ -83,9 +85,7 @@
 - [Body of Jordanian sailor missing after tanker attack found off UAE coast](https://athenaglauxintelligence.news/event/322472.html): first reported 2026-11-26; 3 outlets, 3 countries.
 - [Trump says Putin can attend Florida G20 meeting](https://athenaglauxintelligence.news/event/322203.html): first reported 2026-11-26; 8 outlets, 7 countries.
 - [Christodoulides Calls for EU Action Over Turkey’s Russia Sanctions Breaches](https://athenaglauxintelligence.news/event/322164.html): first reported 2026-11-26; 3 outlets, 3 countries.
-- [Hamas weighs response after Israel kills 10 people in Gaza](https://athenaglauxintelligence.news/event/322197.html): first reported 2026-11-26; 11 outlets, 10 countries.
-- [13:24 Russia, Ukraine exchange bodies of fallen soldiers in Belarus Society](https://athenaglauxintelligence.news/event/321668.html): first reported 2026-11-26; 5 outlets, 4 countries.
-- [Macron accuses Le Pen of 'arrogance' in EU budget clash](https://athenaglauxintelligence.news/event/322777.html): first reported 2026-11-26; 9 outlets, 8 countries.
+- [Hamas weighs response after Israel kills 10 people in Gaza](https://athenaglauxintelligence.news/event/322197.html): first reported 2026-11-26; 12 outlets, 11 countries.
 
 ## Optional
 

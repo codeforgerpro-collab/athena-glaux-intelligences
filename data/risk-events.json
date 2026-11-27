@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-27T05:24:46Z",
+ "generated": "2026-11-27T05:39:00Z",
  "window_days": 7,
  "language": "en",
- "count": 957,
+ "count": 958,
  "licence": "https://athenaglauxintelligence.news/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -24,16 +24,16 @@
   {
    "id": 329703,
    "url": "https://athenaglauxintelligence.news/event/329703.html",
-   "title": "New Zealand's ruling coalition falls one seat short of majority in final election results",
+   "title": "New Zealand's ruling coalition loses majority in final election count",
    "section": "Geopolitics",
    "first_reported": "2026-11-27T01:18:16Z",
-   "last_reported": "2026-11-27T03:28:15Z",
-   "outlets": 9,
-   "countries": 7,
-   "risk_score": 1.2,
+   "last_reported": "2026-11-27T04:53:14Z",
+   "outlets": 11,
+   "countries": 9,
+   "risk_score": 1.3,
    "risk_band": "low",
-   "confidence_pct": 89,
-   "status": "spreading"
+   "confidence_pct": 91,
+   "status": "peaking"
   },
   {
    "id": 328656,
@@ -52,15 +52,15 @@
   {
    "id": 326506,
    "url": "https://athenaglauxintelligence.news/event/326506.html",
-   "title": "AFP hit by cyberattack",
+   "title": "France's AFP news agency hit by cyberattack, takes content platform offline",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-26T20:30:04Z",
-   "last_reported": "2026-11-27T01:07:44Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 5.2,
+   "last_reported": "2026-11-27T01:13:38Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 5.3,
    "risk_band": "elevated",
-   "confidence_pct": 71,
+   "confidence_pct": 78,
    "status": "emerging"
   },
   {
@@ -72,10 +72,10 @@
    "last_reported": "2026-11-27T01:21:23Z",
    "outlets": 11,
    "countries": 6,
-   "risk_score": 5.4,
+   "risk_score": 4.7,
    "risk_band": "elevated",
    "confidence_pct": 87,
-   "status": "peaking"
+   "status": "emerging"
   },
   {
    "id": 325311,
@@ -109,15 +109,15 @@
    "id": 327153,
    "url": "https://athenaglauxintelligence.news/event/327153.html",
    "title": "Macron calls proposed $223B in cuts to EU’s long-term budget a ‘strategic mistake’",
-   "section": "Economy & Markets",
+   "section": "Geopolitics",
    "first_reported": "2026-11-26T17:21:39Z",
    "last_reported": "2026-11-26T23:32:25Z",
    "outlets": 3,
    "countries": 2,
-   "risk_score": 1.3,
+   "risk_score": 0.8,
    "risk_band": "low",
-   "confidence_pct": 62,
-   "status": "emerging"
+   "confidence_pct": 59,
+   "status": "fading"
   },
   {
    "id": 327014,
@@ -240,7 +240,7 @@
    "last_reported": "2026-11-26T23:49:36Z",
    "outlets": 11,
    "countries": 11,
-   "risk_score": 6.1,
+   "risk_score": 6.0,
    "risk_band": "high",
    "confidence_pct": 88,
    "status": "fading"
@@ -304,15 +304,15 @@
   {
    "id": 323209,
    "url": "https://athenaglauxintelligence.news/event/323209.html",
-   "title": "Babiš rejects linking EU budget negotiations to future funding for Ukraine",
+   "title": "France and Germany want deal by year-end to ‘Le Pen-proof’ next EU budget, Ukraine",
    "section": "Geopolitics",
    "first_reported": "2026-11-26T14:45:00Z",
-   "last_reported": "2026-11-27T01:33:11Z",
-   "outlets": 3,
-   "countries": 3,
+   "last_reported": "2026-11-27T04:41:19Z",
+   "outlets": 4,
+   "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 59,
+   "confidence_pct": 68,
    "status": "fading"
   },
   {
@@ -433,13 +433,13 @@
    "title": "Trump says he'd like to see Putin 'pull back' military aggression in Europe",
    "section": "Geopolitics",
    "first_reported": "2026-11-26T13:05:07Z",
-   "last_reported": "2026-11-27T01:47:15Z",
-   "outlets": 25,
-   "countries": 18,
-   "risk_score": 5.6,
+   "last_reported": "2026-11-27T04:37:30Z",
+   "outlets": 26,
+   "countries": 19,
+   "risk_score": 5.3,
    "risk_band": "elevated",
    "confidence_pct": 94,
-   "status": "peaking"
+   "status": "fading"
   },
   {
    "id": 324220,
@@ -498,6 +498,20 @@
    "status": "emerging"
   },
   {
+   "id": 322646,
+   "url": "https://athenaglauxintelligence.news/event/322646.html",
+   "title": "Spain’s election candidates clash over Gaza, migration and housing in televised debate",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-26T12:48:32Z",
+   "last_reported": "2026-11-27T04:00:31Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 66,
+   "status": "fading"
+  },
+  {
    "id": 323083,
    "url": "https://athenaglauxintelligence.news/event/323083.html",
    "title": "Large-scale power outage hits Russian-occupied Crimea, disrupts transport",
@@ -537,6 +551,20 @@
    "risk_score": 5.4,
    "risk_band": "elevated",
    "confidence_pct": 86,
+   "status": "fading"
+  },
+  {
+   "id": 325188,
+   "url": "https://athenaglauxintelligence.news/event/325188.html",
+   "title": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women",
+   "section": "Economy & Markets",
+   "first_reported": "2026-11-26T11:55:31Z",
+   "last_reported": "2026-11-27T01:24:34Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 2.0,
+   "risk_band": "low",
+   "confidence_pct": 66,
    "status": "fading"
   },
   {
@@ -769,12 +797,12 @@
    "title": "Hamas weighs response after Israel kills 10 people in Gaza",
    "section": "Geopolitics",
    "first_reported": "2026-11-26T09:53:23Z",
-   "last_reported": "2026-11-27T02:02:17Z",
-   "outlets": 11,
-   "countries": 10,
-   "risk_score": 5.6,
+   "last_reported": "2026-11-27T04:49:00Z",
+   "outlets": 12,
+   "countries": 11,
+   "risk_score": 5.7,
    "risk_band": "elevated",
-   "confidence_pct": 93,
+   "confidence_pct": 94,
    "status": "fading"
   },
   {
@@ -881,12 +909,12 @@
    "title": "Israel strikes \"dozens\" Hezbollah rockets, launchers in S. Lebanon",
    "section": "Geopolitics",
    "first_reported": "2026-11-26T09:14:15Z",
-   "last_reported": "2026-11-26T22:44:01Z",
-   "outlets": 4,
-   "countries": 4,
+   "last_reported": "2026-11-27T04:54:00Z",
+   "outlets": 5,
+   "countries": 5,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 74,
+   "confidence_pct": 80,
    "status": "fading"
   },
   {
@@ -1119,13 +1147,13 @@
    "title": "UK tells 100,000 military reservists to prepare for possible war call-up: Report",
    "section": "Geopolitics",
    "first_reported": "2026-11-26T06:35:56Z",
-   "last_reported": "2026-11-26T23:09:14Z",
-   "outlets": 8,
-   "countries": 6,
-   "risk_score": 6.7,
+   "last_reported": "2026-11-27T03:31:00Z",
+   "outlets": 9,
+   "countries": 7,
+   "risk_score": 6.4,
    "risk_band": "high",
-   "confidence_pct": 87,
-   "status": "peaking"
+   "confidence_pct": 88,
+   "status": "fading"
   },
   {
    "id": 325615,
@@ -5249,10 +5277,10 @@
    "title": "Musk pledges two SpaceX shares for every US child",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-24T08:00:00Z",
-   "last_reported": "2026-11-27T01:48:07Z",
+   "last_reported": "2026-11-27T04:39:07Z",
    "outlets": 28,
    "countries": 16,
-   "risk_score": 1.2,
+   "risk_score": 1.7,
    "risk_band": "low",
    "confidence_pct": 89,
    "status": "fading"
@@ -13389,20 +13417,6 @@
    "risk_score": 1.7,
    "risk_band": "low",
    "confidence_pct": 62,
-   "status": "fading"
-  },
-  {
-   "id": 281161,
-   "url": "https://athenaglauxintelligence.news/event/281161.html",
-   "title": "Local people say they warned about illegal scramblers before hit-and-run death of John Queenan (62) in Ballina",
-   "section": "Accidents & emergencies",
-   "first_reported": "2026-11-20T05:30:00Z",
-   "last_reported": "2026-11-23T16:38:59Z",
-   "outlets": 7,
-   "countries": 3,
-   "risk_score": 4.9,
-   "risk_band": "elevated",
-   "confidence_pct": 80,
    "status": "fading"
   }
  ]
