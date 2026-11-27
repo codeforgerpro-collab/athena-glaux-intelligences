@@ -9,7 +9,7 @@
    "id": "https://athenaglauxintelligence.news/event/331796.html",
    "url": "https://athenaglauxintelligence.news/event/331796.html",
    "title": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP",
-   "summary": "Reported by 4 outlets in 2 countries since 27 Nov. First reported by Al-Monitor. ATHENA rates the risk 3.3/10 (moderate), with 72% confidence.",
+   "summary": "Reported by 5 outlets in 3 countries since 27 Nov. First reported by The Straits Times. ATHENA rates the risk 6.0/10 (high), with 76% confidence.",
    "date_published": "2026-11-27T09:46:28Z",
    "tags": [
     "Trade & Industry"
@@ -31,10 +31,21 @@
    "id": "https://athenaglauxintelligence.news/event/330800.html",
    "url": "https://athenaglauxintelligence.news/event/330800.html",
    "title": "US pushed Venezuela, Iraq to consider leaving OPEC: Sources",
-   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by The Business Standard (Bangladesh) (working feed). ATHENA rates the risk 0.0/10 (none detected), with 71% confidence.",
+   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by The Straits Times. ATHENA rates the risk 0.0/10 (none detected), with 71% confidence.",
    "date_published": "2026-11-27T06:25:00Z",
    "tags": [
     "Energy & Environment"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/331945.html",
+   "url": "https://athenaglauxintelligence.news/event/331945.html",
+   "title": "Hackers Breach US Air Force’s Flagship Cloud One Platform",
+   "summary": "Reported by 4 outlets in 4 countries since 27 Nov. First reported by Express Tribune. ATHENA rates the risk 5.6/10 (elevated), with 77% confidence.",
+   "date_published": "2026-11-27T06:13:30Z",
+   "tags": [
+    "Technology & Cyber"
    ],
    "language": "en"
   },
@@ -63,8 +74,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/330292.html",
    "url": "https://athenaglauxintelligence.news/event/330292.html",
-   "title": "Injuries in Novorossiysk, Ladozhsky Bridge closure, 318 UAVs: Ukrainian attacks’ aftermath",
-   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by Kyiv Independent. ATHENA rates the risk 3.0/10 (moderate), with 64% confidence.",
+   "title": "Explosions reported at power plant, synthetic rubber factory in Russia's Tula Oblast following drone attack",
+   "summary": "Reported by 4 outlets in 2 countries since 27 Nov. First reported by Kyiv Independent. ATHENA rates the risk 3.7/10 (moderate), with 70% confidence.",
    "date_published": "2026-11-27T04:03:16Z",
    "tags": [
     "Geopolitics"
@@ -86,7 +97,7 @@
    "id": "https://athenaglauxintelligence.news/event/330187.html",
    "url": "https://athenaglauxintelligence.news/event/330187.html",
    "title": "Trump unilaterally changes joint statement with NATO chief, adding warning for Ukraine not to escalate war, Politico reports",
-   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by Kyiv Independent. ATHENA rates the risk 7.0/10 (high), with 71% confidence.",
+   "summary": "Reported by 4 outlets in 3 countries since 27 Nov. First reported by Kyiv Independent. ATHENA rates the risk 7.1/10 (high), with 76% confidence.",
    "date_published": "2026-11-27T02:40:44Z",
    "tags": [
     "Geopolitics"
@@ -174,7 +185,7 @@
    "id": "https://athenaglauxintelligence.news/event/330029.html",
    "url": "https://athenaglauxintelligence.news/event/330029.html",
    "title": "Gold rebounds from one-year low as AI jitters ease",
-   "summary": "Reported by 4 outlets in 4 countries since 27 Nov. First reported by MyJoyOnline. ATHENA rates the risk 1.1/10 (low), with 73% confidence.",
+   "summary": "Reported by 5 outlets in 5 countries since 27 Nov. First reported by MyJoyOnline. ATHENA rates the risk 1.1/10 (low), with 73% confidence.",
    "date_published": "2026-11-27T00:25:00Z",
    "tags": [
     "Economy & Markets"
@@ -429,17 +440,6 @@
    "title": "Heavy rain, wind and flooding plague much of US on Thanksgiving holiday",
    "summary": "Reported by 15 outlets in 10 countries since 26 Nov. First reported by Courthouse News. ATHENA rates the risk 5.6/10 (elevated), with 89% confidence.",
    "date_published": "2026-11-26T15:58:26Z",
-   "tags": [
-    "Energy & Environment"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/326401.html",
-   "url": "https://athenaglauxintelligence.news/event/326401.html",
-   "title": "Worker killed, several others injured in attack on Saudi Arabia’s Jazan oil refinery",
-   "summary": "Reported by 13 outlets in 13 countries since 26 Nov. First reported by Asharq Al-Awsat (English). ATHENA rates the risk 6.1/10 (high), with 88% confidence.",
-   "date_published": "2026-11-26T15:58:19Z",
    "tags": [
     "Energy & Environment"
    ],
