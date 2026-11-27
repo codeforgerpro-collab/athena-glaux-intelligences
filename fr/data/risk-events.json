@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-27T06:56:39Z",
+ "generated": "2026-11-27T07:37:13Z",
  "window_days": 7,
  "language": "fr",
- "count": 946,
+ "count": 943,
  "licence": "https://athenaglauxintelligence.news/fr/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -27,13 +27,13 @@
    "title": "New Zealand's ruling coalition loses majority in final election count",
    "section": "Géopolitique",
    "first_reported": "2026-11-27T01:18:16Z",
-   "last_reported": "2026-11-27T04:53:14Z",
-   "outlets": 12,
-   "countries": 10,
-   "risk_score": 2.2,
+   "last_reported": "2026-11-27T07:27:41Z",
+   "outlets": 13,
+   "countries": 11,
+   "risk_score": 2.0,
    "risk_band": "moderate",
    "confidence_pct": 92,
-   "status": "peaking"
+   "status": "fading"
   },
   {
    "id": 329480,
@@ -48,6 +48,20 @@
    "risk_band": "none detected",
    "confidence_pct": 61,
    "status": "peaking"
+  },
+  {
+   "id": 327942,
+   "url": "https://athenaglauxintelligence.news/fr/event/327942.html",
+   "title": "Mnangagwa in Kenya for inaugural Bi-National Commission as Nairobi, Harare seek to boost trade",
+   "section": "Entreprises",
+   "first_reported": "2026-11-26T22:32:05Z",
+   "last_reported": "2026-11-27T06:03:05Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 60,
+   "status": "emerging"
   },
   {
    "id": 328656,
@@ -322,12 +336,12 @@
    "section": "Géopolitique",
    "first_reported": "2026-11-26T14:45:00Z",
    "last_reported": "2026-11-27T05:51:47Z",
-   "outlets": 4,
-   "countries": 4,
+   "outlets": 5,
+   "countries": 5,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 68,
-   "status": "fading"
+   "confidence_pct": 74,
+   "status": "peaking"
   },
   {
    "id": 323698,
@@ -447,13 +461,13 @@
    "title": "Trump says he asked Putin to ‘pull back’ military aggression throughout Europe",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T13:05:07Z",
-   "last_reported": "2026-11-27T06:26:34Z",
-   "outlets": 27,
-   "countries": 19,
+   "last_reported": "2026-11-27T06:40:54Z",
+   "outlets": 28,
+   "countries": 20,
    "risk_score": 7.3,
    "risk_band": "high",
    "confidence_pct": 94,
-   "status": "peaking"
+   "status": "spreading"
   },
   {
    "id": 324220,
@@ -556,16 +570,16 @@
   {
    "id": 322552,
    "url": "https://athenaglauxintelligence.news/fr/event/322552.html",
-   "title": "Tajani speaks with Araghchi, Iran denies involvement, ready for joint panel",
+   "title": "Araghchi rejects any Iran link to attack in Kuwait",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T12:02:16Z",
-   "last_reported": "2026-11-27T00:00:00Z",
+   "last_reported": "2026-11-27T05:53:51Z",
    "outlets": 6,
    "countries": 5,
-   "risk_score": 5.4,
+   "risk_score": 5.7,
    "risk_band": "elevated",
    "confidence_pct": 86,
-   "status": "fading"
+   "status": "peaking"
   },
   {
    "id": 325188,
@@ -686,11 +700,11 @@
    "section": "Commerce et industrie",
    "first_reported": "2026-11-26T10:48:54Z",
    "last_reported": "2026-11-27T01:11:03Z",
-   "outlets": 5,
-   "countries": 5,
+   "outlets": 6,
+   "countries": 6,
    "risk_score": 1.2,
    "risk_band": "low",
-   "confidence_pct": 84,
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -1050,11 +1064,11 @@
    "section": "Énergie et environnement",
    "first_reported": "2026-11-26T08:11:50Z",
    "last_reported": "2026-11-26T22:12:44Z",
-   "outlets": 12,
+   "outlets": 13,
    "countries": 12,
    "risk_score": 5.8,
    "risk_band": "elevated",
-   "confidence_pct": 86,
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -1816,15 +1830,15 @@
   {
    "id": 318499,
    "url": "https://athenaglauxintelligence.news/fr/event/318499.html",
-   "title": "Scotland's Chief Medical Officer resigns on health grounds after avoidable deaths row",
+   "title": "Scottish chief medical officer Gregor Smith resigns on mental health grounds",
    "section": "Géopolitique",
    "first_reported": "2026-11-25T18:11:36Z",
-   "last_reported": "2026-11-26T18:03:05Z",
+   "last_reported": "2026-11-26T18:57:49Z",
    "outlets": 4,
    "countries": 1,
-   "risk_score": 5.0,
+   "risk_score": 4.8,
    "risk_band": "elevated",
-   "confidence_pct": 54,
+   "confidence_pct": 50,
    "status": "fading"
   },
   {
@@ -2076,7 +2090,7 @@
    "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 78,
+   "confidence_pct": 79,
    "status": "fading"
   },
   {
@@ -2240,12 +2254,12 @@
    "section": "Technologie et cyber",
    "first_reported": "2026-11-25T14:38:53Z",
    "last_reported": "2026-11-27T00:35:02Z",
-   "outlets": 32,
+   "outlets": 33,
    "countries": 14,
-   "risk_score": 1.2,
+   "risk_score": 1.0,
    "risk_band": "low",
    "confidence_pct": 93,
-   "status": "peaking"
+   "status": "fading"
   },
   {
    "id": 316358,
@@ -2628,15 +2642,15 @@
   {
    "id": 315641,
    "url": "https://athenaglauxintelligence.news/fr/event/315641.html",
-   "title": "Japan unveils rover prototype for moon water mission",
+   "title": "Japan unveils rover prototype for Moon water mission",
    "section": "Technologie et cyber",
    "first_reported": "2026-11-25T11:27:27Z",
-   "last_reported": "2026-11-26T03:54:50Z",
-   "outlets": 4,
-   "countries": 4,
+   "last_reported": "2026-11-27T06:26:59Z",
+   "outlets": 5,
+   "countries": 5,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 66,
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -4606,9 +4620,9 @@
    "section": "Commerce et industrie",
    "first_reported": "2026-11-24T13:55:40Z",
    "last_reported": "2026-11-27T04:35:37Z",
-   "outlets": 18,
-   "countries": 11,
-   "risk_score": 4.5,
+   "outlets": 19,
+   "countries": 12,
+   "risk_score": 4.8,
    "risk_band": "elevated",
    "confidence_pct": 87,
    "status": "fading"
@@ -5946,15 +5960,15 @@
   {
    "id": 322441,
    "url": "https://athenaglauxintelligence.news/fr/event/322441.html",
-   "title": "San Francisco Coastline Is Swamped by Record-High King Tides",
+   "title": "'King tide' waves batter California coast, soaking San Francisco",
    "section": "Commerce et industrie",
    "first_reported": "2026-11-23T23:57:17Z",
-   "last_reported": "2026-11-26T11:19:13Z",
-   "outlets": 3,
-   "countries": 3,
+   "last_reported": "2026-11-26T16:01:44Z",
+   "outlets": 4,
+   "countries": 4,
    "risk_score": 4.0,
    "risk_band": "elevated",
-   "confidence_pct": 61,
+   "confidence_pct": 69,
    "status": "fading"
   },
   {
@@ -7671,7 +7685,7 @@
    "title": "When will the Tube strike end? All the TfL passenger advice and other RMT walkout dates",
    "section": "Accidents et urgences",
    "first_reported": "2026-11-23T09:03:51Z",
-   "last_reported": "2026-11-26T16:51:51Z",
+   "last_reported": "2026-11-27T06:20:10Z",
    "outlets": 3,
    "countries": 1,
    "risk_score": 1.0,
@@ -8730,20 +8744,6 @@
    "status": "fading"
   },
   {
-   "id": 297842,
-   "url": "https://athenaglauxintelligence.news/fr/event/297842.html",
-   "title": "EU unveils 22nd Russia sanctions package as war nears sixth year",
-   "section": "Géopolitique",
-   "first_reported": "2026-11-22T23:00:00Z",
-   "last_reported": "2026-11-24T07:24:52Z",
-   "outlets": 17,
-   "countries": 12,
-   "risk_score": 6.4,
-   "risk_band": "high",
-   "confidence_pct": 92,
-   "status": "dormant"
-  },
-  {
    "id": 292460,
    "url": "https://athenaglauxintelligence.news/fr/event/292460.html",
    "title": "WTI crude oil prices may trend lower",
@@ -8756,6 +8756,20 @@
    "risk_band": "low",
    "confidence_pct": 75,
    "status": "fading"
+  },
+  {
+   "id": 297842,
+   "url": "https://athenaglauxintelligence.news/fr/event/297842.html",
+   "title": "EU unveils 22nd Russia sanctions package as war nears sixth year",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-22T23:00:00Z",
+   "last_reported": "2026-11-24T07:24:52Z",
+   "outlets": 17,
+   "countries": 12,
+   "risk_score": 6.4,
+   "risk_band": "high",
+   "confidence_pct": 92,
+   "status": "dormant"
   },
   {
    "id": 295022,
@@ -11591,12 +11605,12 @@
    "title": "London Underground drivers to launch 24-hour strike",
    "section": "Accidents et urgences",
    "first_reported": "2026-11-20T20:04:55Z",
-   "last_reported": "2026-11-26T15:16:12Z",
+   "last_reported": "2026-11-26T21:06:56Z",
    "outlets": 4,
    "countries": 1,
    "risk_score": 0.9,
    "risk_band": "low",
-   "confidence_pct": 53,
+   "confidence_pct": 51,
    "status": "fading"
   },
   {
@@ -13193,62 +13207,6 @@
    "risk_score": 5.7,
    "risk_band": "elevated",
    "confidence_pct": 80,
-   "status": "fading"
-  },
-  {
-   "id": 274854,
-   "url": "https://athenaglauxintelligence.news/fr/event/274854.html",
-   "title": "Near term inflation in Sri Lanka could hit 9 percent – CBSL Governor",
-   "section": "Économie et marchés",
-   "first_reported": "2026-11-20T07:23:25Z",
-   "last_reported": "2026-11-21T00:06:10Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 1.2,
-   "risk_band": "low",
-   "confidence_pct": 57,
-   "status": "fading"
-  },
-  {
-   "id": 274199,
-   "url": "https://athenaglauxintelligence.news/fr/event/274199.html",
-   "title": "At least 1,144 children killed or injured in Ukraine during Russia's war this year, UNICEF says",
-   "section": "Accidents et urgences",
-   "first_reported": "2026-11-20T07:19:46Z",
-   "last_reported": "2026-11-20T18:03:05Z",
-   "outlets": 11,
-   "countries": 6,
-   "risk_score": 6.7,
-   "risk_band": "high",
-   "confidence_pct": 85,
-   "status": "fading"
-  },
-  {
-   "id": 274231,
-   "url": "https://athenaglauxintelligence.news/fr/event/274231.html",
-   "title": "Afghan Tradition Keeps Grapes Fresh for Winter Treat",
-   "section": "Commerce et industrie",
-   "first_reported": "2026-11-20T07:08:28Z",
-   "last_reported": "2026-11-21T20:53:08Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 0.9,
-   "risk_band": "low",
-   "confidence_pct": 67,
-   "status": "fading"
-  },
-  {
-   "id": 274232,
-   "url": "https://athenaglauxintelligence.news/fr/event/274232.html",
-   "title": "Kenya investigates deaths of seven hippos",
-   "section": "Énergie et environnement",
-   "first_reported": "2026-11-20T07:04:38Z",
-   "last_reported": "2026-11-20T18:11:32Z",
-   "outlets": 6,
-   "countries": 5,
-   "risk_score": 6.0,
-   "risk_band": "high",
-   "confidence_pct": 79,
    "status": "fading"
   }
  ]
