@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-27T02:39:25Z",
+ "generated": "2026-11-27T03:21:55Z",
  "window_days": 7,
  "language": "en",
- "count": 966,
+ "count": 963,
  "licence": "https://athenaglauxintelligence.news/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -69,12 +69,12 @@
    "title": "IAEA in talks with Russia, Ukraine on ceasefire around ZNPP — Grossi",
    "section": "Energy & Environment",
    "first_reported": "2026-11-26T18:03:06Z",
-   "last_reported": "2026-11-26T22:19:35Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 0.9,
+   "last_reported": "2026-11-27T00:46:27Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 1.3,
    "risk_band": "low",
-   "confidence_pct": 65,
+   "confidence_pct": 75,
    "status": "emerging"
   },
   {
@@ -195,13 +195,13 @@
    "title": "Heavy rain, wind and flooding plague much of US on Thanksgiving holiday",
    "section": "Energy & Environment",
    "first_reported": "2026-11-26T15:58:26Z",
-   "last_reported": "2026-11-27T00:27:02Z",
-   "outlets": 12,
-   "countries": 8,
-   "risk_score": 6.2,
-   "risk_band": "high",
-   "confidence_pct": 88,
-   "status": "peaking"
+   "last_reported": "2026-11-27T00:40:26Z",
+   "outlets": 13,
+   "countries": 9,
+   "risk_score": 5.7,
+   "risk_band": "elevated",
+   "confidence_pct": 89,
+   "status": "fading"
   },
   {
    "id": 326401,
@@ -212,10 +212,10 @@
    "last_reported": "2026-11-26T23:49:36Z",
    "outlets": 11,
    "countries": 11,
-   "risk_score": 6.5,
+   "risk_score": 6.1,
    "risk_band": "high",
    "confidence_pct": 88,
-   "status": "peaking"
+   "status": "fading"
   },
   {
    "id": 327167,
@@ -299,6 +299,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 58,
+   "status": "emerging"
+  },
+  {
+   "id": 324082,
+   "url": "https://athenaglauxintelligence.news/event/324082.html",
+   "title": "Spain's legislative elections: Andalusia, a testing ground for the right and the far right alliance",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-26T14:34:30Z",
+   "last_reported": "2026-11-27T02:03:35Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 1.3,
+   "risk_band": "low",
+   "confidence_pct": 76,
    "status": "emerging"
   },
   {
@@ -524,6 +538,20 @@
    "risk_band": "elevated",
    "confidence_pct": 61,
    "status": "emerging"
+  },
+  {
+   "id": 323108,
+   "url": "https://athenaglauxintelligence.news/event/323108.html",
+   "title": "Zelensky: Russia preparing 'new massive strike'",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-26T11:33:00Z",
+   "last_reported": "2026-11-26T21:48:00Z",
+   "outlets": 6,
+   "countries": 4,
+   "risk_score": 1.8,
+   "risk_band": "low",
+   "confidence_pct": 80,
+   "status": "fading"
   },
   {
    "id": 322652,
@@ -13459,76 +13487,6 @@
    "risk_score": 1.4,
    "risk_band": "low",
    "confidence_pct": 77,
-   "status": "fading"
-  },
-  {
-   "id": 272410,
-   "url": "https://athenaglauxintelligence.news/event/272410.html",
-   "title": "Trump-Xi-Putin trilateral: Compromised PM can never sit at this table, says Rahul Gandhi",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-20T03:17:51Z",
-   "last_reported": "2026-11-20T09:16:59Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 1.9,
-   "risk_band": "low",
-   "confidence_pct": 54,
-   "status": "emerging"
-  },
-  {
-   "id": 271885,
-   "url": "https://athenaglauxintelligence.news/event/271885.html",
-   "title": "(2nd LD) Seoul shares plunge over 5 pct as Anthropic debut fails to ease AI concerns",
-   "section": "Economy & Markets",
-   "first_reported": "2026-11-20T03:15:19Z",
-   "last_reported": "2026-11-21T13:22:08Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 4.4,
-   "risk_band": "elevated",
-   "confidence_pct": 68,
-   "status": "fading"
-  },
-  {
-   "id": 273187,
-   "url": "https://athenaglauxintelligence.news/event/273187.html",
-   "title": "At least 36 trains robbed; 14 accused in $22.5 million Nike cargo theft racket in US",
-   "section": "Trade & Industry",
-   "first_reported": "2026-11-20T03:04:27Z",
-   "last_reported": "2026-11-24T13:37:24Z",
-   "outlets": 5,
-   "countries": 4,
-   "risk_score": 4.0,
-   "risk_band": "moderate",
-   "confidence_pct": 76,
-   "status": "fading"
-  },
-  {
-   "id": 272882,
-   "url": "https://athenaglauxintelligence.news/event/272882.html",
-   "title": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-20T03:00:09Z",
-   "last_reported": "2026-11-21T07:32:40Z",
-   "outlets": 9,
-   "countries": 7,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 85,
-   "status": "fading"
-  },
-  {
-   "id": 272065,
-   "url": "https://athenaglauxintelligence.news/event/272065.html",
-   "title": "Geography is beating Brexit, and Andy Burnham is the first PM to admit it",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-20T03:00:00Z",
-   "last_reported": "2026-11-20T16:48:42Z",
-   "outlets": 11,
-   "countries": 6,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 82,
    "status": "fading"
   }
  ]
