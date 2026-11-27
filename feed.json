@@ -83,6 +83,17 @@
    "language": "en"
   },
   {
+   "id": "https://athenaglauxintelligence.news/event/330187.html",
+   "url": "https://athenaglauxintelligence.news/event/330187.html",
+   "title": "Trump unilaterally changes joint statement with NATO chief, adding warning for Ukraine not to escalate war, Politico reports",
+   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by Kyiv Independent. ATHENA rates the risk 7.0/10 (high), with 71% confidence.",
+   "date_published": "2026-11-27T02:40:44Z",
+   "tags": [
+    "Geopolitics"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/329426.html",
    "url": "https://athenaglauxintelligence.news/event/329426.html",
    "title": "2 workers injured in explosion, fire at Kerteh factory",
@@ -251,7 +262,7 @@
    "id": "https://athenaglauxintelligence.news/event/326506.html",
    "url": "https://athenaglauxintelligence.news/event/326506.html",
    "title": "Global news agency AFP reports cyberattack, shuts down content platform",
-   "summary": "Reported by 7 outlets in 6 countries since 26 Nov. First reported by Arab News. ATHENA rates the risk 5.2/10 (elevated), with 87% confidence.",
+   "summary": "Reported by 8 outlets in 7 countries since 26 Nov. First reported by Arab News. ATHENA rates the risk 5.2/10 (elevated), with 89% confidence.",
    "date_published": "2026-11-26T20:30:04Z",
    "tags": [
     "Technology & Cyber"
@@ -328,7 +339,7 @@
    "id": "https://athenaglauxintelligence.news/event/324358.html",
    "url": "https://athenaglauxintelligence.news/event/324358.html",
    "title": "SAP weighs cutting at least 10,000 positions in AI restructuring",
-   "summary": "Reported by 9 outlets in 6 countries since 26 Nov. First reported by CNA (Channel NewsAsia). ATHENA rates the risk 3.6/10 (moderate), with 85% confidence.",
+   "summary": "Reported by 11 outlets in 6 countries since 26 Nov. First reported by CNA (Channel NewsAsia). ATHENA rates the risk 4.1/10 (elevated), with 86% confidence.",
    "date_published": "2026-11-26T16:33:33Z",
    "tags": [
     "Technology & Cyber"
@@ -431,17 +442,6 @@
    "date_published": "2026-11-26T15:58:19Z",
    "tags": [
     "Energy & Environment"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/327167.html",
-   "url": "https://athenaglauxintelligence.news/event/327167.html",
-   "title": "Iran says Qatari, Pakistani mediation in talks with US continues",
-   "summary": "Reported by 4 outlets in 4 countries since 26 Nov. First reported by Mehr News (English). ATHENA rates the risk 2.5/10 (moderate), with 78% confidence.",
-   "date_published": "2026-11-26T15:43:33Z",
-   "tags": [
-    "Geopolitics"
    ],
    "language": "en"
   }
