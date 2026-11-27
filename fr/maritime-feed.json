@@ -1,0 +1,450 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "ATHENA Glaux Intelligence - Maritime",
+ "home_page_url": "https://athenaglauxintelligence.news/fr/",
+ "description": "Veille mondiale de l'information — chaque chiffre expliqué",
+ "language": "fr",
+ "items": [
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/327167.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/327167.html",
+   "title": "Iran says Qatari, Pakistani mediation in talks with US continues",
+   "summary": "Relayé par 4 médias dans 4 pays depuis le 26 nov. Premier à l'annoncer : Mehr News (English). ATHENA évalue le risque à 2.5/10 (modéré), avec 78 % de confiance.",
+   "date_published": "2026-11-26T15:43:33Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/325618.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/325618.html",
+   "title": "European Parliament seeks EU action over Turkey-Libya maritime deal",
+   "summary": "Relayé par 6 médias dans 4 pays depuis le 26 nov. Premier à l'annoncer : to vima. ATHENA évalue le risque à 1.7/10 (faible), avec 79 % de confiance.",
+   "date_published": "2026-11-26T13:40:18Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/322192.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/322192.html",
+   "title": "Global maritime trade set for zero growth in 2026",
+   "summary": "Relayé par 6 médias dans 6 pays depuis le 26 nov. Premier à l'annoncer : Anadolu Agency (English). ATHENA évalue le risque à 1.2/10 (faible), avec 87 % de confiance.",
+   "date_published": "2026-11-26T10:48:54Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/323795.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/323795.html",
+   "title": "Makkah pact nations to discuss Yemen in Islamabad meeting: Khawaja Asif",
+   "summary": "Relayé par 5 médias dans 1 pays depuis le 26 nov. Premier à l'annoncer : Express Tribune. ATHENA évalue le risque à 4.2/10 (accru), avec 69 % de confiance.",
+   "date_published": "2026-11-26T09:58:11Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/322472.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/322472.html",
+   "title": "Body of Jordanian sailor missing after tanker attack found off UAE coast",
+   "summary": "Relayé par 3 médias dans 3 pays depuis le 26 nov. Premier à l'annoncer : The National. ATHENA évalue le risque à 1.4/10 (faible), avec 66 % de confiance.",
+   "date_published": "2026-11-26T09:57:36Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/321065.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/321065.html",
+   "title": "Basrah crude prices rise as global oil climbs",
+   "summary": "Relayé par 3 médias dans 3 pays depuis le 25 nov. Premier à l'annoncer : The Business Times. ATHENA évalue le risque à 0.7/10 (faible), avec 69 % de confiance.",
+   "date_published": "2026-11-25T22:03:32Z",
+   "tags": [
+    "Énergie et environnement"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/318019.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/318019.html",
+   "title": "FM Cho reaffirms Korea's non-involvement stance on US-Iran war in call with Iranian counterpart",
+   "summary": "Relayé par 3 médias dans 1 pays depuis le 25 nov. Premier à l'annoncer : Korea Herald. ATHENA évalue le risque à 5.3/10 (accru), avec 58 % de confiance.",
+   "date_published": "2026-11-25T19:59:54Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/319950.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/319950.html",
+   "title": "Widespread Arab and Islamic Condemnation of Houthi Attack on Riyadh",
+   "summary": "Relayé par 3 médias dans 3 pays depuis le 25 nov. Premier à l'annoncer : Asharq Al-Awsat (English). ATHENA évalue le risque à 2.3/10 (modéré), avec 71 % de confiance.",
+   "date_published": "2026-11-25T17:10:21Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/320997.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/320997.html",
+   "title": "Asia and Pacific Must Face Future as One",
+   "summary": "Relayé par 3 médias dans 3 pays depuis le 25 nov. Premier à l'annoncer : Express Tribune. ATHENA évalue le risque à 0.0/10 (nul), avec 69 % de confiance.",
+   "date_published": "2026-11-25T14:46:15Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/316692.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/316692.html",
+   "title": "Turkey Unveils Maritime Boundary Map With Libya",
+   "summary": "Relayé par 3 médias dans 2 pays depuis le 25 nov. Premier à l'annoncer : Greek City Times. ATHENA évalue le risque à 0.0/10 (nul), avec 62 % de confiance.",
+   "date_published": "2026-11-25T12:07:57Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/314408.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/314408.html",
+   "title": "Everllence and COSCO SHIPPING Advance Fleet Digitalisation",
+   "summary": "Relayé par 4 médias dans 3 pays depuis le 25 nov. Premier à l'annoncer : Bunkerspot. ATHENA évalue le risque à 0.0/10 (nul), avec 63 % de confiance.",
+   "date_published": "2026-11-25T11:09:05Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/308742.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/308742.html",
+   "title": "Authorities intercept more than 3 tonnes of meth on Pacific 'mothership'",
+   "summary": "Relayé par 3 médias dans 2 pays depuis le 24 nov. Premier à l'annoncer : RNZ Pacific. ATHENA évalue le risque à 1.0/10 (faible), avec 64 % de confiance.",
+   "date_published": "2026-11-24T23:21:55Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/309564.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/309564.html",
+   "title": "EU targets shadow fleet and Russian-insured tankers in new sanctions package",
+   "summary": "Relayé par 3 médias dans 1 pays depuis le 24 nov. Premier à l'annoncer : Hellenic Shipping News. ATHENA évalue le risque à 3.5/10 (modéré), avec 61 % de confiance.",
+   "date_published": "2026-11-24T22:00:59Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/309451.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/309451.html",
+   "title": "Windcat Expands Offshore Fleet with Second Damen Multi-Purpose Vessel",
+   "summary": "Relayé par 5 médias dans 2 pays depuis le 24 nov. Premier à l'annoncer : The Maritime Executive. ATHENA évalue le risque à 0.0/10 (nul), avec 70 % de confiance.",
+   "date_published": "2026-11-24T19:46:15Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/314992.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/314992.html",
+   "title": "Rubio, Bin Farhan discuss 'importance of Hezbollah disarmament'",
+   "summary": "Relayé par 3 médias dans 2 pays depuis le 24 nov. Premier à l'annoncer : US State Department press releases. ATHENA évalue le risque à 2.5/10 (modéré), avec 71 % de confiance.",
+   "date_published": "2026-11-24T19:33:36Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/308572.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/308572.html",
+   "title": "Maersk Orders 12 Ultra-Large Dual-Fuel Container Ships",
+   "summary": "Relayé par 5 médias dans 3 pays depuis le 24 nov. Premier à l'annoncer : Bunkerspot. ATHENA évalue le risque à 0.0/10 (nul), avec 75 % de confiance.",
+   "date_published": "2026-11-24T15:30:49Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/306606.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/306606.html",
+   "title": "Houthis hit Riyadh’s tallest tower, 11 wounded, Saudi Civil defense says",
+   "summary": "Relayé par 11 médias dans 9 pays depuis le 24 nov. Premier à l'annoncer : TASS (English). ATHENA évalue le risque à 5.2/10 (accru), avec 90 % de confiance.",
+   "date_published": "2026-11-24T14:22:07Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/303680.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/303680.html",
+   "title": "APM Terminals Maasvlakte II and Port of Rotterdam Authority take next step in terminal development",
+   "summary": "Relayé par 8 médias dans 4 pays depuis le 24 nov. Premier à l'annoncer : Rail Technology Magazine. ATHENA évalue le risque à 0.0/10 (nul), avec 85 % de confiance.",
+   "date_published": "2026-11-24T09:15:34Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/303325.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/303325.html",
+   "title": "Oil Prices Hold Near Three-Month Lows Despite Hormuz Mine Claims",
+   "summary": "Relayé par 5 médias dans 5 pays depuis le 24 nov. Premier à l'annoncer : Shafaq News (English). ATHENA évalue le risque à 0.9/10 (faible), avec 81 % de confiance.",
+   "date_published": "2026-11-24T05:30:49Z",
+   "tags": [
+    "Énergie et environnement"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/301943.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/301943.html",
+   "title": "Oil slips over 1% as supply glut prospect offsets Middle East disruption fears",
+   "summary": "Relayé par 5 médias dans 3 pays depuis le 24 nov. Premier à l'annoncer : Cyprus Shipping News. ATHENA évalue le risque à 1.4/10 (faible), avec 72 % de confiance.",
+   "date_published": "2026-11-24T03:16:57Z",
+   "tags": [
+    "Énergie et environnement"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/300683.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/300683.html",
+   "title": "UN food agency chief warns wars jeopardize food aid for 7.3 million more people",
+   "summary": "Relayé par 6 médias dans 6 pays depuis le 23 nov. Premier à l'annoncer : The Straits Times. ATHENA évalue le risque à 1.6/10 (faible), avec 83 % de confiance.",
+   "date_published": "2026-11-23T16:52:24Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/298244.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/298244.html",
+   "title": "DP World Limassol courts Indian energy, heavy-cargo and vehicle business at Mumbai forum",
+   "summary": "Relayé par 3 médias dans 2 pays depuis le 23 nov. Premier à l'annoncer : Cyprus Mail. ATHENA évalue le risque à 0.0/10 (nul), avec 66 % de confiance.",
+   "date_published": "2026-11-23T13:54:36Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/296485.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/296485.html",
+   "title": "Singapore Shipping orders PCTC pair from Guangzhou Shipyard International",
+   "summary": "Relayé par 4 médias dans 3 pays depuis le 23 nov. Premier à l'annoncer : LNG Prime. ATHENA évalue le risque à 0.0/10 (nul), avec 70 % de confiance.",
+   "date_published": "2026-11-23T09:43:15Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/297538.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/297538.html",
+   "title": "Le Pen Condemns Turkey Over Libya Maritime Deal, Cites UNCLOS",
+   "summary": "Relayé par 5 médias dans 2 pays depuis le 23 nov. Premier à l'annoncer : Greek City Times. ATHENA évalue le risque à 0.9/10 (faible), avec 70 % de confiance.",
+   "date_published": "2026-11-23T09:01:36Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/297089.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/297089.html",
+   "title": "Oil holds near three-month low as rising supply offsets Hormuz threat",
+   "summary": "Relayé par 3 médias dans 3 pays depuis le 23 nov. Premier à l'annoncer : Indian Express. ATHENA évalue le risque à 0.7/10 (faible), avec 60 % de confiance.",
+   "date_published": "2026-11-23T08:45:39Z",
+   "tags": [
+    "Énergie et environnement"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/312442.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/312442.html",
+   "title": "Nguyen Hue Pedestrian Street lights up with 3D mapping show on Vietnam Culture Day",
+   "summary": "Relayé par 4 médias dans 4 pays depuis le 23 nov. Premier à l'annoncer : RTHK English. ATHENA évalue le risque à 1.6/10 (faible), avec 70 % de confiance.",
+   "date_published": "2026-11-23T08:41:08Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/295608.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/295608.html",
+   "title": "Iran Says It Shot Down US-Made LUCAS Drone Over Persian Gulf",
+   "summary": "Relayé par 5 médias dans 3 pays depuis le 23 nov. Premier à l'annoncer : APA (English). ATHENA évalue le risque à 2.5/10 (modéré), avec 82 % de confiance.",
+   "date_published": "2026-11-23T06:54:00Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/296021.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/296021.html",
+   "title": "24-hour strike by Greek seafarers on November 25",
+   "summary": "Relayé par 5 médias dans 2 pays depuis le 23 nov. Premier à l'annoncer : Greek City Times. ATHENA évalue le risque à 1.1/10 (faible), avec 72 % de confiance.",
+   "date_published": "2026-11-23T05:55:41Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/292736.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/292736.html",
+   "title": "Korea asks Qatar to prioritize LNG supplies once production, shipping normalize",
+   "summary": "Relayé par 6 médias dans 3 pays depuis le 22 nov. Premier à l'annoncer : OilPrice.com. ATHENA évalue le risque à 0.0/10 (nul), avec 76 % de confiance.",
+   "date_published": "2026-11-22T22:00:00Z",
+   "tags": [
+    "Énergie et environnement"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/290761.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/290761.html",
+   "title": "US ports face surge in cyberattack attempts, threatening vital trade routes: Report",
+   "summary": "Relayé par 5 médias dans 4 pays depuis le 22 nov. Premier à l'annoncer : Gulf News. ATHENA évalue le risque à 5.1/10 (accru), avec 77 % de confiance.",
+   "date_published": "2026-11-22T17:01:05Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/284203.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/284203.html",
+   "title": "Energy bills to soar as price cap to rise by more than £400 from January",
+   "summary": "Relayé par 7 médias dans 1 pays depuis le 21 nov. Premier à l'annoncer : Birmingham Mail. ATHENA évalue le risque à 0.0/10 (nul), avec 70 % de confiance.",
+   "date_published": "2026-11-21T18:22:00Z",
+   "tags": [
+    "Énergie et environnement"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/282402.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/282402.html",
+   "title": "Coalition destroys Houthi ballistic missile as alerts sound in Mecca region",
+   "summary": "Relayé par 3 médias dans 2 pays depuis le 21 nov. Premier à l'annoncer : Asharq Al-Awsat (English). ATHENA évalue le risque à 0.0/10 (nul), avec 66 % de confiance.",
+   "date_published": "2026-11-21T11:20:19Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/282215.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/282215.html",
+   "title": "Iran’s seven conditions basis for reopening Strait of Hormuz, negotiations: Araghchi",
+   "summary": "Relayé par 6 médias dans 5 pays depuis le 21 nov. Premier à l'annoncer : AzerNews. ATHENA évalue le risque à 0.0/10 (nul), avec 81 % de confiance.",
+   "date_published": "2026-11-21T10:21:00Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/282193.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/282193.html",
+   "title": "Endurance athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
+   "summary": "Relayé par 23 médias dans 12 pays depuis le 21 nov. Premier à l'annoncer : The Independent. ATHENA évalue le risque à 5.1/10 (accru), avec 88 % de confiance.",
+   "date_published": "2026-11-21T10:11:41Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/279859.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/279859.html",
+   "title": "Tentative union deal averts strike at Port of LA-Long Beach",
+   "summary": "Relayé par 4 médias dans 2 pays depuis le 20 nov. Premier à l'annoncer : gCaptain. ATHENA évalue le risque à 1.1/10 (faible), avec 66 % de confiance.",
+   "date_published": "2026-11-20T22:33:04Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/298764.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/298764.html",
+   "title": "Saudi Arabia intercepts Houthi drone targeting Riyadh",
+   "summary": "Relayé par 7 médias dans 8 pays depuis le 20 nov. Premier à l'annoncer : Livemint. ATHENA évalue le risque à 3.2/10 (modéré), avec 88 % de confiance.",
+   "date_published": "2026-11-20T18:15:11Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/293312.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/293312.html",
+   "title": "Saudi project clears 1,269 explosives in Yemen in a week",
+   "summary": "Relayé par 3 médias dans 2 pays depuis le 20 nov. Premier à l'annoncer : Skift. ATHENA évalue le risque à 1.6/10 (faible), avec 67 % de confiance.",
+   "date_published": "2026-11-20T16:27:05Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/278260.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/278260.html",
+   "title": "In Yemen's Aden, divided government forces prepare for a Houthi assault",
+   "summary": "Relayé par 4 médias dans 3 pays depuis le 20 nov. Premier à l'annoncer : The Straits Times. ATHENA évalue le risque à 3.2/10 (modéré), avec 76 % de confiance.",
+   "date_published": "2026-11-20T15:05:32Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/277499.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/277499.html",
+   "title": "Houthi attacks adds concerns over Trump Saudi nuclear power pact",
+   "summary": "Relayé par 5 médias dans 4 pays depuis le 20 nov. Premier à l'annoncer : ABC News (International). ATHENA évalue le risque à 1.4/10 (faible), avec 82 % de confiance.",
+   "date_published": "2026-11-20T13:46:20Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/278342.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/278342.html",
+   "title": "Former worker shares story of Tanzania-Zambia Railway",
+   "summary": "Relayé par 4 médias dans 2 pays depuis le 20 nov. Premier à l'annoncer : The Citizen (Tanzania). ATHENA évalue le risque à 0.0/10 (nul), avec 71 % de confiance.",
+   "date_published": "2026-11-20T13:00:00Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  }
+ ],
+ "feed_url": "https://athenaglauxintelligence.news/fr/maritime-feed.json"
+}

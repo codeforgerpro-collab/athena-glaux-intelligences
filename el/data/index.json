@@ -1,0 +1,37 @@
+{
+ "name": "ATHENA Glaux Intelligence - open data",
+ "language": "el",
+ "updated_utc": "2026-11-27T08:17:37Z",
+ "licence": "https://athenaglauxintelligence.news/el/terms.html",
+ "how_it_is_made": "https://athenaglauxintelligence.news/el/how.html",
+ "files": [
+  {
+   "url": "https://athenaglauxintelligence.news/el/data/risk-events.json",
+   "type": "application/json",
+   "window_days": 7,
+   "content": "scored stories: outlets, countries, risk score, confidence, status"
+  },
+  {
+   "url": "https://athenaglauxintelligence.news/el/data/events.csv",
+   "type": "text/csv",
+   "window_days": 7,
+   "content": "the same rows as risk-events.json"
+  },
+  {
+   "url": "https://athenaglauxintelligence.news/el/data/README.txt",
+   "type": "text/plain",
+   "content": "column meanings and terms"
+  }
+ ],
+ "feeds": {
+  "rss": "https://athenaglauxintelligence.news/el/feed.xml",
+  "json_feed": "https://athenaglauxintelligence.news/el/feed.json",
+  "maritime_rss": "https://athenaglauxintelligence.news/el/maritime-feed.xml",
+  "maritime_json_feed": "https://athenaglauxintelligence.news/el/maritime-feed.json"
+ },
+ "sitemaps": [
+  "https://athenaglauxintelligence.news/sitemap.xml",
+  "https://athenaglauxintelligence.news/news-sitemap.xml"
+ ],
+ "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite the site and link to each story page."
+}
