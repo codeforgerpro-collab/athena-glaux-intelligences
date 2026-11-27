@@ -6,6 +6,17 @@
  "language": "en",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/event/332929.html",
+   "url": "https://athenaglauxintelligence.news/event/332929.html",
+   "title": "CMA CGM and MPA seeking to develop alternative fuel capabilities in Singapore",
+   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by Maritime Gateway. ATHENA rates the risk 0.0/10 (none detected), with 64% confidence.",
+   "date_published": "2026-11-27T00:54:00Z",
+   "tags": [
+    "Trade & Industry"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/326401.html",
    "url": "https://athenaglauxintelligence.news/event/326401.html",
    "title": "Worker killed, several others injured in attack on Saudi Arabia’s Jazan oil refinery",
@@ -30,8 +41,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/325618.html",
    "url": "https://athenaglauxintelligence.news/event/325618.html",
-   "title": "European Parliament seeks EU action over Turkey-Libya maritime deal",
-   "summary": "Reported by 8 outlets in 4 countries since 26 Nov. First reported by to vima. ATHENA rates the risk 1.6/10 (low), with 81% confidence.",
+   "title": "Türkiye rejects EU Parliament resolution against Libya maritime deal as 'baseless'",
+   "summary": "Reported by 9 outlets in 4 countries since 26 Nov. First reported by to vima. ATHENA rates the risk 1.5/10 (low), with 82% confidence.",
    "date_published": "2026-11-26T13:40:18Z",
    "tags": [
     "Trade & Industry"
@@ -431,17 +442,6 @@
    "date_published": "2026-11-20T13:46:20Z",
    "tags": [
     "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/278342.html",
-   "url": "https://athenaglauxintelligence.news/event/278342.html",
-   "title": "Former worker shares story of Tanzania-Zambia Railway",
-   "summary": "Reported by 4 outlets in 2 countries since 20 Nov. First reported by The Citizen (Tanzania). ATHENA rates the risk 0.0/10 (none detected), with 71% confidence.",
-   "date_published": "2026-11-20T13:00:00Z",
-   "tags": [
-    "Trade & Industry"
    ],
    "language": "en"
   }

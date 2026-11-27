@@ -6,6 +6,17 @@
  "language": "fr",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/fr/event/332929.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/332929.html",
+   "title": "CMA CGM and MPA seeking to develop alternative fuel capabilities in Singapore",
+   "summary": "Relayé par 3 médias dans 2 pays depuis le 27 nov. Premier à l'annoncer : Maritime Gateway. ATHENA évalue le risque à 0.0/10 (nul), avec 64 % de confiance.",
+   "date_published": "2026-11-27T00:54:00Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/fr/event/326401.html",
    "url": "https://athenaglauxintelligence.news/fr/event/326401.html",
    "title": "Worker killed, several others injured in attack on Saudi Arabia’s Jazan oil refinery",
@@ -30,8 +41,8 @@
   {
    "id": "https://athenaglauxintelligence.news/fr/event/325618.html",
    "url": "https://athenaglauxintelligence.news/fr/event/325618.html",
-   "title": "European Parliament seeks EU action over Turkey-Libya maritime deal",
-   "summary": "Relayé par 8 médias dans 4 pays depuis le 26 nov. Premier à l'annoncer : to vima. ATHENA évalue le risque à 1.6/10 (faible), avec 81 % de confiance.",
+   "title": "Türkiye rejects EU Parliament resolution against Libya maritime deal as 'baseless'",
+   "summary": "Relayé par 9 médias dans 4 pays depuis le 26 nov. Premier à l'annoncer : to vima. ATHENA évalue le risque à 1.5/10 (faible), avec 82 % de confiance.",
    "date_published": "2026-11-26T13:40:18Z",
    "tags": [
     "Commerce et industrie"
@@ -431,17 +442,6 @@
    "date_published": "2026-11-20T13:46:20Z",
    "tags": [
     "Géopolitique"
-   ],
-   "language": "fr"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/fr/event/278342.html",
-   "url": "https://athenaglauxintelligence.news/fr/event/278342.html",
-   "title": "Former worker shares story of Tanzania-Zambia Railway",
-   "summary": "Relayé par 4 médias dans 2 pays depuis le 20 nov. Premier à l'annoncer : The Citizen (Tanzania). ATHENA évalue le risque à 0.0/10 (nul), avec 71 % de confiance.",
-   "date_published": "2026-11-20T13:00:00Z",
-   "tags": [
-    "Commerce et industrie"
    ],
    "language": "fr"
   }

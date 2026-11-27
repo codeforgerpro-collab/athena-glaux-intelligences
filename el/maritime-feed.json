@@ -6,6 +6,17 @@
  "language": "el",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/el/event/332929.html",
+   "url": "https://athenaglauxintelligence.news/el/event/332929.html",
+   "title": "CMA CGM and MPA seeking to develop alternative fuel capabilities in Singapore",
+   "summary": "Αναφέρθηκε από 3 μέσα σε 2 χώρες από τις 27 Νοε. Πρώτη αναφορά από Maritime Gateway. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 64%.",
+   "date_published": "2026-11-27T00:54:00Z",
+   "tags": [
+    "Εμπόριο & Βιομηχανία"
+   ],
+   "language": "el"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/el/event/326401.html",
    "url": "https://athenaglauxintelligence.news/el/event/326401.html",
    "title": "Worker killed, several others injured in attack on Saudi Arabia’s Jazan oil refinery",
@@ -30,8 +41,8 @@
   {
    "id": "https://athenaglauxintelligence.news/el/event/325618.html",
    "url": "https://athenaglauxintelligence.news/el/event/325618.html",
-   "title": "European Parliament seeks EU action over Turkey-Libya maritime deal",
-   "summary": "Αναφέρθηκε από 8 μέσα σε 4 χώρες από τις 26 Νοε. Πρώτη αναφορά από to vima. Το ATHENA εκτιμά τον κίνδυνο σε 1.6/10 (χαμηλός), με βεβαιότητα 81%.",
+   "title": "Türkiye rejects EU Parliament resolution against Libya maritime deal as 'baseless'",
+   "summary": "Αναφέρθηκε από 9 μέσα σε 4 χώρες από τις 26 Νοε. Πρώτη αναφορά από to vima. Το ATHENA εκτιμά τον κίνδυνο σε 1.5/10 (χαμηλός), με βεβαιότητα 82%.",
    "date_published": "2026-11-26T13:40:18Z",
    "tags": [
     "Εμπόριο & Βιομηχανία"
@@ -431,17 +442,6 @@
    "date_published": "2026-11-20T13:46:20Z",
    "tags": [
     "Γεωπολιτική"
-   ],
-   "language": "el"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/el/event/278342.html",
-   "url": "https://athenaglauxintelligence.news/el/event/278342.html",
-   "title": "Former worker shares story of Tanzania-Zambia Railway",
-   "summary": "Αναφέρθηκε από 4 μέσα σε 2 χώρες από τις 20 Νοε. Πρώτη αναφορά από The Citizen (Tanzania). Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 71%.",
-   "date_published": "2026-11-20T13:00:00Z",
-   "tags": [
-    "Εμπόριο & Βιομηχανία"
    ],
    "language": "el"
   }
