@@ -9,7 +9,7 @@
    "id": "https://athenaglauxintelligence.news/event/331796.html",
    "url": "https://athenaglauxintelligence.news/event/331796.html",
    "title": "Africa: El Niño Adds New Hunger Hotspots As Conflict Continues to Drive Risk of Famine, Warn FAO and WFP",
-   "summary": "Reported by 6 outlets in 4 countries since 27 Nov. First reported by The Straits Times. ATHENA rates the risk 5.8/10 (elevated), with 80% confidence.",
+   "summary": "Reported by 7 outlets in 4 countries since 27 Nov. First reported by The Straits Times. ATHENA rates the risk 5.1/10 (elevated), with 83% confidence.",
    "date_published": "2026-11-27T09:06:55Z",
    "tags": [
     "Trade & Industry"
@@ -53,7 +53,7 @@
    "id": "https://athenaglauxintelligence.news/event/331945.html",
    "url": "https://athenaglauxintelligence.news/event/331945.html",
    "title": "Hackers Breach US Air Force’s Flagship Cloud One Platform",
-   "summary": "Reported by 4 outlets in 4 countries since 27 Nov. First reported by Express Tribune. ATHENA rates the risk 5.6/10 (elevated), with 77% confidence.",
+   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by Express Tribune. ATHENA rates the risk 5.3/10 (elevated), with 80% confidence.",
    "date_published": "2026-11-27T06:13:30Z",
    "tags": [
     "Technology & Cyber"
@@ -75,8 +75,8 @@
    "id": "https://athenaglauxintelligence.news/event/330426.html",
    "url": "https://athenaglauxintelligence.news/event/330426.html",
    "title": "India-U.S. trade deal is close to culmination: Goyal",
-   "summary": "Reported by 6 outlets in 2 countries since 27 Nov. First reported by Deccan Herald. ATHENA rates the risk 1.8/10 (low), with 76% confidence.",
-   "date_published": "2026-11-27T05:22:49Z",
+   "summary": "Reported by 7 outlets in 2 countries since 27 Nov. First reported by Hindustan Times. ATHENA rates the risk 1.7/10 (low), with 78% confidence.",
+   "date_published": "2026-11-27T04:56:39Z",
    "tags": [
     "Trade & Industry"
    ],
@@ -99,6 +99,17 @@
    "title": "Explosions reported at power plant, synthetic rubber factory in Russia's Tula Oblast following drone attack",
    "summary": "Reported by 4 outlets in 2 countries since 27 Nov. First reported by Kyiv Independent. ATHENA rates the risk 3.7/10 (moderate), with 70% confidence.",
    "date_published": "2026-11-27T04:03:16Z",
+   "tags": [
+    "Geopolitics"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/330022.html",
+   "url": "https://athenaglauxintelligence.news/event/330022.html",
+   "title": "New Zealand election produces hung parliament, neither bloc wins majority",
+   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by DW English. ATHENA rates the risk 0.0/10 (none detected), with 64% confidence.",
+   "date_published": "2026-11-27T03:13:00Z",
    "tags": [
     "Geopolitics"
    ],
@@ -152,7 +163,7 @@
    "id": "https://athenaglauxintelligence.news/event/329703.html",
    "url": "https://athenaglauxintelligence.news/event/329703.html",
    "title": "New Zealand's ruling coalition loses majority in final election count",
-   "summary": "Reported by 18 outlets in 14 countries since 27 Nov. First reported by ABC News Australia. ATHENA rates the risk 1.2/10 (low), with 92% confidence.",
+   "summary": "Reported by 19 outlets in 15 countries since 27 Nov. First reported by ABC News Australia. ATHENA rates the risk 1.1/10 (low), with 92% confidence.",
    "date_published": "2026-11-27T01:18:16Z",
    "tags": [
     "Geopolitics"
@@ -206,8 +217,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/331258.html",
    "url": "https://athenaglauxintelligence.news/event/331258.html",
-   "title": "Karachi building collapse death toll rises to six; 13 remain missing",
-   "summary": "Reported by 5 outlets in 3 countries since 27 Nov. First reported by Express Tribune. ATHENA rates the risk 5.2/10 (elevated), with 79% confidence.",
+   "title": "Death toll in Pakistan building collapse rises to 8 with about 10 missing",
+   "summary": "Reported by 6 outlets in 4 countries since 27 Nov. First reported by Express Tribune. ATHENA rates the risk 5.0/10 (elevated), with 84% confidence.",
    "date_published": "2026-11-27T00:50:55Z",
    "tags": [
     "Accidents & emergencies"
@@ -229,7 +240,7 @@
    "id": "https://athenaglauxintelligence.news/event/331729.html",
    "url": "https://athenaglauxintelligence.news/event/331729.html",
    "title": "UK benefits department hit by cyber incident, takes services offline",
-   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by The Record (Recorded Future News). ATHENA rates the risk 0.0/10 (none detected), with 81% confidence.",
+   "summary": "Reported by 6 outlets in 4 countries since 27 Nov. First reported by The Record (Recorded Future News). ATHENA rates the risk 1.4/10 (low), with 84% confidence.",
    "date_published": "2026-11-27T00:00:00Z",
    "tags": [
     "Technology & Cyber"
@@ -248,17 +259,6 @@
    "language": "en"
   },
   {
-   "id": "https://athenaglauxintelligence.news/event/328939.html",
-   "url": "https://athenaglauxintelligence.news/event/328939.html",
-   "title": "Strobe Talbott, Who Led US Talks With India After Pokhran Tests, Dies At 80",
-   "summary": "Reported by 5 outlets in 3 countries since 26 Nov. First reported by The Guardian. ATHENA rates the risk 4.9/10 (elevated), with 72% confidence.",
-   "date_published": "2026-11-26T22:36:55Z",
-   "tags": [
-    "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
    "id": "https://athenaglauxintelligence.news/event/327942.html",
    "url": "https://athenaglauxintelligence.news/event/327942.html",
    "title": "Mnangagwa in Kenya for inaugural Bi-National Commission as Nairobi, Harare seek to boost trade",
@@ -266,6 +266,17 @@
    "date_published": "2026-11-26T22:32:05Z",
    "tags": [
     "Business"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/328189.html",
+   "url": "https://athenaglauxintelligence.news/event/328189.html",
+   "title": "CIA's secret torture programme: New files reveal more accounts of waterboarding claims",
+   "summary": "Reported by 3 outlets in 3 countries since 26 Nov. First reported by Al Jazeera English. ATHENA rates the risk 1.8/10 (low), with 66% confidence.",
+   "date_published": "2026-11-26T22:06:54Z",
+   "tags": [
+    "Geopolitics"
    ],
    "language": "en"
   },
@@ -284,7 +295,7 @@
    "id": "https://athenaglauxintelligence.news/event/329033.html",
    "url": "https://athenaglauxintelligence.news/event/329033.html",
    "title": "Powerful Storm Disrupts US Thanksgiving, Leaves Over 900,000 Without Power",
-   "summary": "Reported by 5 outlets in 5 countries since 26 Nov. First reported by APA (English). ATHENA rates the risk 4.6/10 (elevated), with 77% confidence.",
+   "summary": "Reported by 6 outlets in 6 countries since 26 Nov. First reported by APA (English). ATHENA rates the risk 4.7/10 (elevated), with 81% confidence.",
    "date_published": "2026-11-26T22:04:00Z",
    "tags": [
     "Energy & Environment"
@@ -306,7 +317,7 @@
    "id": "https://athenaglauxintelligence.news/event/327959.html",
    "url": "https://athenaglauxintelligence.news/event/327959.html",
    "title": "Levski Sofia coach says Marseille fan clashes 'unacceptable' as five hospitalised",
-   "summary": "Reported by 11 outlets in 7 countries since 26 Nov. First reported by Arab News. ATHENA rates the risk 4.0/10 (elevated), with 85% confidence.",
+   "summary": "Reported by 12 outlets in 7 countries since 26 Nov. First reported by Arab News. ATHENA rates the risk 3.9/10 (moderate), with 85% confidence.",
    "date_published": "2026-11-26T21:22:32Z",
    "tags": [
     "Geopolitics"
@@ -325,6 +336,17 @@
    "language": "en"
   },
   {
+   "id": "https://athenaglauxintelligence.news/event/327093.html",
+   "url": "https://athenaglauxintelligence.news/event/327093.html",
+   "title": "Nigeria, Togo seek investors for $50 million data park project",
+   "summary": "Reported by 3 outlets in 1 country since 26 Nov. First reported by Punch. ATHENA rates the risk 0.0/10 (none detected), with 52% confidence.",
+   "date_published": "2026-11-26T19:55:18Z",
+   "tags": [
+    "Business"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/325535.html",
    "url": "https://athenaglauxintelligence.news/event/325535.html",
    "title": "Major storm batters US on Thanksgiving holiday",
@@ -339,7 +361,7 @@
    "id": "https://athenaglauxintelligence.news/event/327151.html",
    "url": "https://athenaglauxintelligence.news/event/327151.html",
    "title": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
-   "summary": "Reported by 6 outlets in 5 countries since 26 Nov. First reported by ReliefWeb (UN OCHA). ATHENA rates the risk 0.8/10 (low), with 80% confidence.",
+   "summary": "Reported by 7 outlets in 5 countries since 26 Nov. First reported by ReliefWeb (UN OCHA). ATHENA rates the risk 0.8/10 (low), with 84% confidence.",
    "date_published": "2026-11-26T18:03:06Z",
    "tags": [
     "Energy & Environment"
@@ -391,6 +413,17 @@
    "language": "en"
   },
   {
+   "id": "https://athenaglauxintelligence.news/event/327086.html",
+   "url": "https://athenaglauxintelligence.news/event/327086.html",
+   "title": "Google will soon share Android developers' addresses publicly",
+   "summary": "Reported by 3 outlets in 2 countries since 26 Nov. First reported by The Verge. ATHENA rates the risk 0.0/10 (none detected), with 61% confidence.",
+   "date_published": "2026-11-26T17:06:24Z",
+   "tags": [
+    "Technology & Cyber"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/328653.html",
    "url": "https://athenaglauxintelligence.news/event/328653.html",
    "title": "Thailand Tests Find High Lead, Arsenic in River Shellfish",
@@ -409,39 +442,6 @@
    "date_published": "2026-11-26T16:33:33Z",
    "tags": [
     "Technology & Cyber"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/325690.html",
-   "url": "https://athenaglauxintelligence.news/event/325690.html",
-   "title": "Settlers smash foundations of Palestinian family's homes in West Bank",
-   "summary": "Reported by 6 outlets in 4 countries since 26 Nov. First reported by The Straits Times. ATHENA rates the risk 0.0/10 (none detected), with 84% confidence.",
-   "date_published": "2026-11-26T16:31:58Z",
-   "tags": [
-    "Economy & Markets"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/325952.html",
-   "url": "https://athenaglauxintelligence.news/event/325952.html",
-   "title": "‘Can’t stop us’: Amit Shah attacks Rahul Gandhi over women’s reservation, UCC",
-   "summary": "Reported by 4 outlets in 1 country since 26 Nov. First reported by Indian Express. ATHENA rates the risk 0.0/10 (none detected), with 58% confidence.",
-   "date_published": "2026-11-26T16:29:28Z",
-   "tags": [
-    "Accidents & emergencies"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/324730.html",
-   "url": "https://athenaglauxintelligence.news/event/324730.html",
-   "title": "Tinubu approves houses, N100m each for families of NAF crash victims",
-   "summary": "Reported by 11 outlets in 1 country since 26 Nov. First reported by ThisDay (Nigeria). ATHENA rates the risk 3.4/10 (moderate), with 79% confidence.",
-   "date_published": "2026-11-26T16:26:42Z",
-   "tags": [
-    "Accidents & emergencies"
    ],
    "language": "en"
   }
