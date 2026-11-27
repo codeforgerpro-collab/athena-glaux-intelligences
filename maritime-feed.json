@@ -6,6 +6,17 @@
  "language": "en",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/event/333467.html",
+   "url": "https://athenaglauxintelligence.news/event/333467.html",
+   "title": "Ukraine Warns Russia Could Make Black Sea a New ‘Hormuz’",
+   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by Ukrainska Pravda (English). ATHENA rates the risk 1.8/10 (low), with 64% confidence.",
+   "date_published": "2026-11-27T11:47:00Z",
+   "tags": [
+    "Trade & Industry"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/332929.html",
    "url": "https://athenaglauxintelligence.news/event/332929.html",
    "title": "CMA CGM and MPA seeking to develop alternative fuel capabilities in Singapore",
@@ -19,7 +30,7 @@
   {
    "id": "https://athenaglauxintelligence.news/event/326401.html",
    "url": "https://athenaglauxintelligence.news/event/326401.html",
-   "title": "Worker killed, several others injured in attack on Saudi Arabia’s Jazan oil refinery",
+   "title": "Deadly Houthi Strike at Jazan Refinery Halts Some Operations",
    "summary": "Reported by 15 outlets in 14 countries since 26 Nov. First reported by Asharq Al-Awsat (English). ATHENA rates the risk 6.1/10 (high), with 89% confidence.",
    "date_published": "2026-11-26T15:58:19Z",
    "tags": [
@@ -74,8 +85,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/322206.html",
    "url": "https://athenaglauxintelligence.news/event/322206.html",
-   "title": "Erdogan completes Turkiye's ratification of Makkah defence pact",
-   "summary": "Reported by 17 outlets in 11 countries since 26 Nov. First reported by APA (English). ATHENA rates the risk 4.1/10 (elevated), with 94% confidence.",
+   "title": "Saudi Arabia, Pakistan, Türkiye open Makkah defense pact talks in Islamabad",
+   "summary": "Reported by 18 outlets in 11 countries since 26 Nov. First reported by APA (English). ATHENA rates the risk 4.0/10 (elevated), with 94% confidence.",
    "date_published": "2026-11-26T09:38:00Z",
    "tags": [
     "Geopolitics"
@@ -325,6 +336,17 @@
    "language": "en"
   },
   {
+   "id": "https://athenaglauxintelligence.news/event/335407.html",
+   "url": "https://athenaglauxintelligence.news/event/335407.html",
+   "title": "Saudis down missiles targeting capital after Yemen port strikes",
+   "summary": "Reported by 8 outlets in 5 countries since 23 Nov. First reported by CGTN (World). ATHENA rates the risk 5.5/10 (elevated), with 84% confidence.",
+   "date_published": "2026-11-23T04:25:00Z",
+   "tags": [
+    "Geopolitics"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/292736.html",
    "url": "https://athenaglauxintelligence.news/event/292736.html",
    "title": "Korea asks Qatar to prioritize LNG supplies once production, shipping normalize",
@@ -418,28 +440,6 @@
    "title": "Saudi project clears 1,269 explosives in Yemen in a week",
    "summary": "Reported by 3 outlets in 2 countries since 20 Nov. First reported by Skift. ATHENA rates the risk 1.6/10 (low), with 67% confidence.",
    "date_published": "2026-11-20T16:27:05Z",
-   "tags": [
-    "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/278260.html",
-   "url": "https://athenaglauxintelligence.news/event/278260.html",
-   "title": "In Yemen's Aden, divided government forces prepare for a Houthi assault",
-   "summary": "Reported by 4 outlets in 3 countries since 20 Nov. First reported by The Straits Times. ATHENA rates the risk 3.2/10 (moderate), with 76% confidence.",
-   "date_published": "2026-11-20T15:05:32Z",
-   "tags": [
-    "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/277499.html",
-   "url": "https://athenaglauxintelligence.news/event/277499.html",
-   "title": "Houthi attacks adds concerns over Trump Saudi nuclear power pact",
-   "summary": "Reported by 5 outlets in 4 countries since 20 Nov. First reported by ABC News (International). ATHENA rates the risk 1.4/10 (low), with 82% confidence.",
-   "date_published": "2026-11-20T13:46:20Z",
    "tags": [
     "Geopolitics"
    ],

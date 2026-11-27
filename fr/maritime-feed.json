@@ -6,6 +6,17 @@
  "language": "fr",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/fr/event/333467.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/333467.html",
+   "title": "Ukraine Warns Russia Could Make Black Sea a New ‘Hormuz’",
+   "summary": "Relayé par 3 médias dans 2 pays depuis le 27 nov. Premier à l'annoncer : Ukrainska Pravda (English). ATHENA évalue le risque à 1.8/10 (faible), avec 64 % de confiance.",
+   "date_published": "2026-11-27T11:47:00Z",
+   "tags": [
+    "Commerce et industrie"
+   ],
+   "language": "fr"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/fr/event/332929.html",
    "url": "https://athenaglauxintelligence.news/fr/event/332929.html",
    "title": "CMA CGM and MPA seeking to develop alternative fuel capabilities in Singapore",
@@ -19,7 +30,7 @@
   {
    "id": "https://athenaglauxintelligence.news/fr/event/326401.html",
    "url": "https://athenaglauxintelligence.news/fr/event/326401.html",
-   "title": "Worker killed, several others injured in attack on Saudi Arabia’s Jazan oil refinery",
+   "title": "Deadly Houthi Strike at Jazan Refinery Halts Some Operations",
    "summary": "Relayé par 15 médias dans 14 pays depuis le 26 nov. Premier à l'annoncer : Asharq Al-Awsat (English). ATHENA évalue le risque à 6.1/10 (élevé), avec 89 % de confiance.",
    "date_published": "2026-11-26T15:58:19Z",
    "tags": [
@@ -74,8 +85,8 @@
   {
    "id": "https://athenaglauxintelligence.news/fr/event/322206.html",
    "url": "https://athenaglauxintelligence.news/fr/event/322206.html",
-   "title": "Erdogan completes Turkiye's ratification of Makkah defence pact",
-   "summary": "Relayé par 17 médias dans 11 pays depuis le 26 nov. Premier à l'annoncer : APA (English). ATHENA évalue le risque à 4.1/10 (accru), avec 94 % de confiance.",
+   "title": "Saudi Arabia, Pakistan, Türkiye open Makkah defense pact talks in Islamabad",
+   "summary": "Relayé par 18 médias dans 11 pays depuis le 26 nov. Premier à l'annoncer : APA (English). ATHENA évalue le risque à 4.0/10 (accru), avec 94 % de confiance.",
    "date_published": "2026-11-26T09:38:00Z",
    "tags": [
     "Géopolitique"
@@ -325,6 +336,17 @@
    "language": "fr"
   },
   {
+   "id": "https://athenaglauxintelligence.news/fr/event/335407.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/335407.html",
+   "title": "Saudis down missiles targeting capital after Yemen port strikes",
+   "summary": "Relayé par 8 médias dans 5 pays depuis le 23 nov. Premier à l'annoncer : CGTN (World). ATHENA évalue le risque à 5.5/10 (accru), avec 84 % de confiance.",
+   "date_published": "2026-11-23T04:25:00Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/fr/event/292736.html",
    "url": "https://athenaglauxintelligence.news/fr/event/292736.html",
    "title": "Korea asks Qatar to prioritize LNG supplies once production, shipping normalize",
@@ -418,28 +440,6 @@
    "title": "Saudi project clears 1,269 explosives in Yemen in a week",
    "summary": "Relayé par 3 médias dans 2 pays depuis le 20 nov. Premier à l'annoncer : Skift. ATHENA évalue le risque à 1.6/10 (faible), avec 67 % de confiance.",
    "date_published": "2026-11-20T16:27:05Z",
-   "tags": [
-    "Géopolitique"
-   ],
-   "language": "fr"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/fr/event/278260.html",
-   "url": "https://athenaglauxintelligence.news/fr/event/278260.html",
-   "title": "In Yemen's Aden, divided government forces prepare for a Houthi assault",
-   "summary": "Relayé par 4 médias dans 3 pays depuis le 20 nov. Premier à l'annoncer : The Straits Times. ATHENA évalue le risque à 3.2/10 (modéré), avec 76 % de confiance.",
-   "date_published": "2026-11-20T15:05:32Z",
-   "tags": [
-    "Géopolitique"
-   ],
-   "language": "fr"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/fr/event/277499.html",
-   "url": "https://athenaglauxintelligence.news/fr/event/277499.html",
-   "title": "Houthi attacks adds concerns over Trump Saudi nuclear power pact",
-   "summary": "Relayé par 5 médias dans 4 pays depuis le 20 nov. Premier à l'annoncer : ABC News (International). ATHENA évalue le risque à 1.4/10 (faible), avec 82 % de confiance.",
-   "date_published": "2026-11-20T13:46:20Z",
    "tags": [
     "Géopolitique"
    ],
