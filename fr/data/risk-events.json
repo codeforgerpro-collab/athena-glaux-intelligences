@@ -1,12 +1,26 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-27T03:21:55Z",
+ "generated": "2026-11-27T04:10:16Z",
  "window_days": 7,
  "language": "fr",
  "count": 963,
  "licence": "https://athenaglauxintelligence.news/fr/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
+  {
+   "id": 329703,
+   "url": "https://athenaglauxintelligence.news/fr/event/329703.html",
+   "title": "New Zealand's ruling coalition falls one seat short of majority in final election results",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-27T01:18:16Z",
+   "last_reported": "2026-11-27T03:08:55Z",
+   "outlets": 5,
+   "countries": 5,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 80,
+   "status": "spreading"
+  },
   {
    "id": 328656,
    "url": "https://athenaglauxintelligence.news/fr/event/328656.html",
@@ -66,15 +80,15 @@
   {
    "id": 327151,
    "url": "https://athenaglauxintelligence.news/fr/event/327151.html",
-   "title": "IAEA in talks with Russia, Ukraine on ceasefire around ZNPP — Grossi",
+   "title": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
    "section": "Énergie et environnement",
    "first_reported": "2026-11-26T18:03:06Z",
    "last_reported": "2026-11-27T00:46:27Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 1.3,
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 0.9,
    "risk_band": "low",
-   "confidence_pct": 75,
+   "confidence_pct": 80,
    "status": "emerging"
   },
   {
@@ -321,12 +335,12 @@
    "title": "US maker of Marlboro cigarettes mulls over bid for Imperial Brands",
    "section": "Entreprises",
    "first_reported": "2026-11-26T13:50:29Z",
-   "last_reported": "2026-11-26T17:44:56Z",
-   "outlets": 6,
-   "countries": 2,
+   "last_reported": "2026-11-27T00:40:16Z",
+   "outlets": 7,
+   "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 70,
+   "confidence_pct": 77,
    "status": "fading"
   },
   {
@@ -366,7 +380,7 @@
    "last_reported": "2026-11-27T01:28:38Z",
    "outlets": 25,
    "countries": 17,
-   "risk_score": 2.0,
+   "risk_score": 1.9,
    "risk_band": "low",
    "confidence_pct": 91,
    "status": "fading"
@@ -391,10 +405,10 @@
    "title": "Trump says he'd like to see Putin 'pull back' military aggression in Europe",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T13:05:07Z",
-   "last_reported": "2026-11-27T01:03:11Z",
-   "outlets": 24,
+   "last_reported": "2026-11-27T01:47:15Z",
+   "outlets": 25,
    "countries": 18,
-   "risk_score": 5.7,
+   "risk_score": 5.6,
    "risk_band": "elevated",
    "confidence_pct": 94,
    "status": "peaking"
@@ -542,15 +556,15 @@
   {
    "id": 323108,
    "url": "https://athenaglauxintelligence.news/fr/event/323108.html",
-   "title": "Zelensky: Russia preparing 'new massive strike'",
+   "title": "Zelenskyy says Russia preparing new mass strike in coming days",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T11:33:00Z",
-   "last_reported": "2026-11-26T21:48:00Z",
-   "outlets": 6,
+   "last_reported": "2026-11-27T03:06:45Z",
+   "outlets": 7,
    "countries": 4,
-   "risk_score": 1.8,
+   "risk_score": 1.7,
    "risk_band": "low",
-   "confidence_pct": 80,
+   "confidence_pct": 82,
    "status": "fading"
   },
   {
@@ -2631,13 +2645,13 @@
    "title": "Christmas shopping season starts in Europe",
    "section": "Entreprises",
    "first_reported": "2026-11-25T11:00:00Z",
-   "last_reported": "2026-11-27T01:28:38Z",
-   "outlets": 4,
+   "last_reported": "2026-11-27T03:58:53Z",
+   "outlets": 5,
    "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 68,
-   "status": "fading"
+   "confidence_pct": 67,
+   "status": "peaking"
   },
   {
    "id": 313660,
@@ -3869,6 +3883,20 @@
    "risk_score": 1.1,
    "risk_band": "low",
    "confidence_pct": 62,
+   "status": "fading"
+  },
+  {
+   "id": 309451,
+   "url": "https://athenaglauxintelligence.news/fr/event/309451.html",
+   "title": "Windcat Expands Offshore Fleet with Second Damen Multi-Purpose Vessel",
+   "section": "Commerce et industrie",
+   "first_reported": "2026-11-24T19:46:15Z",
+   "last_reported": "2026-11-26T15:00:00Z",
+   "outlets": 5,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 70,
    "status": "fading"
   },
   {
@@ -13459,34 +13487,6 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 69,
-   "status": "fading"
-  },
-  {
-   "id": 273391,
-   "url": "https://athenaglauxintelligence.news/fr/event/273391.html",
-   "title": "Honda to launch new hybrid Avancier SUV in Japan after debut in Thailand",
-   "section": "Technologie et cyber",
-   "first_reported": "2026-11-20T03:58:00Z",
-   "last_reported": "2026-11-22T21:28:32Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 69,
-   "status": "fading"
-  },
-  {
-   "id": 273091,
-   "url": "https://athenaglauxintelligence.news/fr/event/273091.html",
-   "title": "DOJ seeks to dismiss Alaska election certification lawsuit",
-   "section": "Géopolitique",
-   "first_reported": "2026-11-20T03:25:33Z",
-   "last_reported": "2026-11-20T12:48:49Z",
-   "outlets": 5,
-   "countries": 4,
-   "risk_score": 1.4,
-   "risk_band": "low",
-   "confidence_pct": 77,
    "status": "fading"
   }
  ]
