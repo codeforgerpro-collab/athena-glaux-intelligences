@@ -6,6 +6,17 @@
  "language": "en",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/event/326401.html",
+   "url": "https://athenaglauxintelligence.news/event/326401.html",
+   "title": "Worker killed, several others injured in attack on Saudi Arabia’s Jazan oil refinery",
+   "summary": "Reported by 13 outlets in 13 countries since 26 Nov. First reported by Asharq Al-Awsat (English). ATHENA rates the risk 6.1/10 (high), with 88% confidence.",
+   "date_published": "2026-11-26T15:58:19Z",
+   "tags": [
+    "Energy & Environment"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/327167.html",
    "url": "https://athenaglauxintelligence.news/event/327167.html",
    "title": "Iran says Qatari, Pakistani mediation in talks with US continues",
@@ -134,17 +145,6 @@
    "date_published": "2026-11-24T23:21:55Z",
    "tags": [
     "Trade & Industry"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/309564.html",
-   "url": "https://athenaglauxintelligence.news/event/309564.html",
-   "title": "EU moves to ban tankers insured in Russia, repair services at Russian refineries",
-   "summary": "Reported by 4 outlets in 2 countries since 24 Nov. First reported by Hellenic Shipping News. ATHENA rates the risk 3.8/10 (moderate), with 70% confidence.",
-   "date_published": "2026-11-24T22:00:59Z",
-   "tags": [
-    "Geopolitics"
    ],
    "language": "en"
   },
