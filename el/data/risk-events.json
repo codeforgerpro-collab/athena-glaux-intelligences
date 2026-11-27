@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-27T19:45:06Z",
+ "generated": "2026-11-27T20:24:33Z",
  "window_days": 7,
  "language": "el",
- "count": 923,
+ "count": 924,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -64,17 +64,17 @@
    "status": "emerging"
   },
   {
-   "id": 332119,
-   "url": "https://athenaglauxintelligence.news/el/event/332119.html",
-   "title": "Cabinet okays 50% rise in Lok Sabha seats for all states, freeze on current share till 2051 in delimitation move",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-27T08:53:39Z",
-   "last_reported": "2026-11-27T17:25:39Z",
-   "outlets": 4,
-   "countries": 1,
+   "id": 331737,
+   "url": "https://athenaglauxintelligence.news/el/event/331737.html",
+   "title": "German parliament approves record $610B budget for 2027",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-27T08:59:00Z",
+   "last_reported": "2026-11-27T16:19:00Z",
+   "outlets": 3,
+   "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 61,
+   "confidence_pct": 67,
    "status": "emerging"
   },
   {
@@ -209,13 +209,13 @@
    "title": "UN rapporteur Albanese condemns Costa Rica’s decision to deny her entry",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T04:28:49Z",
-   "last_reported": "2026-11-27T18:15:35Z",
-   "outlets": 6,
-   "countries": 6,
-   "risk_score": 4.5,
+   "last_reported": "2026-11-27T18:43:41Z",
+   "outlets": 7,
+   "countries": 7,
+   "risk_score": 4.6,
    "risk_band": "elevated",
-   "confidence_pct": 83,
-   "status": "fading"
+   "confidence_pct": 85,
+   "status": "peaking"
   },
   {
    "id": 330292,
@@ -224,11 +224,11 @@
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T04:03:16Z",
    "last_reported": "2026-11-27T18:36:27Z",
-   "outlets": 6,
+   "outlets": 7,
    "countries": 3,
-   "risk_score": 3.1,
+   "risk_score": 3.0,
    "risk_band": "moderate",
-   "confidence_pct": 79,
+   "confidence_pct": 81,
    "status": "fading"
   },
   {
@@ -335,13 +335,13 @@
    "title": "New growth drivers fuel China's industrial profit gains",
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-27T01:36:10Z",
-   "last_reported": "2026-11-27T15:02:37Z",
+   "last_reported": "2026-11-27T20:08:13Z",
    "outlets": 6,
    "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 79,
-   "status": "fading"
+   "confidence_pct": 77,
+   "status": "spreading"
   },
   {
    "id": 329703,
@@ -349,8 +349,8 @@
    "title": "New Zealand's ruling coalition loses majority in final election count",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T01:18:16Z",
-   "last_reported": "2026-11-27T18:46:56Z",
-   "outlets": 20,
+   "last_reported": "2026-11-27T20:08:13Z",
+   "outlets": 21,
    "countries": 16,
    "risk_score": 1.2,
    "risk_band": "low",
@@ -461,12 +461,12 @@
    "title": "UK benefits department hit by cyber incident, takes services offline",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-27T00:00:00Z",
-   "last_reported": "2026-11-27T15:32:17Z",
-   "outlets": 8,
+   "last_reported": "2026-11-27T15:45:00Z",
+   "outlets": 9,
    "countries": 5,
-   "risk_score": 1.3,
-   "risk_band": "low",
-   "confidence_pct": 87,
+   "risk_score": 2.2,
+   "risk_band": "moderate",
+   "confidence_pct": 88,
    "status": "fading"
   },
   {
@@ -587,13 +587,13 @@
    "title": "The Best Black Friday Sonos Deals (2026): Up to 34% Off",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-26T20:50:37Z",
-   "last_reported": "2026-11-27T17:07:08Z",
-   "outlets": 4,
-   "countries": 2,
+   "last_reported": "2026-11-27T17:37:18Z",
+   "outlets": 5,
+   "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 66,
-   "status": "fading"
+   "confidence_pct": 74,
+   "status": "peaking"
   },
   {
    "id": 326506,
@@ -850,16 +850,16 @@
   {
    "id": 326112,
    "url": "https://athenaglauxintelligence.news/el/event/326112.html",
-   "title": "Centre may amend defeated women's reservation Bill ahead of spl Parl sitting: Report",
+   "title": "NCP (SP) issues whip to all 8 Lok Sabha MPs amid buzz Pawar may back delimitation bill",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-26T16:03:28Z",
-   "last_reported": "2026-11-27T06:58:35Z",
-   "outlets": 5,
+   "last_reported": "2026-11-27T17:55:33Z",
+   "outlets": 6,
    "countries": 1,
-   "risk_score": 0.7,
+   "risk_score": 0.8,
    "risk_band": "low",
-   "confidence_pct": 62,
-   "status": "fading"
+   "confidence_pct": 66,
+   "status": "peaking"
   },
   {
    "id": 326440,
@@ -929,6 +929,20 @@
    "risk_score": 6.1,
    "risk_band": "high",
    "confidence_pct": 88,
+   "status": "fading"
+  },
+  {
+   "id": 326535,
+   "url": "https://athenaglauxintelligence.news/el/event/326535.html",
+   "title": "Five European nations buy combat vehicles from BAE Systems, Finland says",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-26T15:57:32Z",
+   "last_reported": "2026-11-27T18:57:35Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 69,
    "status": "fading"
   },
   {
@@ -1125,6 +1139,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 70,
+   "status": "fading"
+  },
+  {
+   "id": 327186,
+   "url": "https://athenaglauxintelligence.news/el/event/327186.html",
+   "title": "Sany pushes AI into heavy machinery as overseas sales grow",
+   "section": "Τεχνολογία & Κυβερνοασφάλεια",
+   "first_reported": "2026-11-26T13:58:05Z",
+   "last_reported": "2026-11-27T19:56:32Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 62,
    "status": "fading"
   },
   {
@@ -1805,12 +1833,12 @@
    "title": "13:24 Russia, Ukraine exchange bodies of fallen soldiers in Belarus Society",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T09:49:00Z",
-   "last_reported": "2026-11-27T04:39:58Z",
-   "outlets": 5,
-   "countries": 4,
-   "risk_score": 4.4,
+   "last_reported": "2026-11-27T12:40:00Z",
+   "outlets": 6,
+   "countries": 5,
+   "risk_score": 4.3,
    "risk_band": "elevated",
-   "confidence_pct": 71,
+   "confidence_pct": 76,
    "status": "fading"
   },
   {
@@ -1861,10 +1889,10 @@
    "title": "Ukrainian man in critical condition after setting himself on fire in central Warsaw",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-26T09:34:50Z",
-   "last_reported": "2026-11-27T08:32:32Z",
+   "last_reported": "2026-11-27T15:57:00Z",
    "outlets": 4,
    "countries": 2,
-   "risk_score": 1.1,
+   "risk_score": 1.8,
    "risk_band": "low",
    "confidence_pct": 68,
    "status": "fading"
@@ -1931,12 +1959,12 @@
    "title": "Israel strikes \"dozens\" Hezbollah rockets, launchers in S. Lebanon",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T09:14:15Z",
-   "last_reported": "2026-11-27T07:23:18Z",
-   "outlets": 8,
-   "countries": 6,
+   "last_reported": "2026-11-27T09:39:42Z",
+   "outlets": 9,
+   "countries": 7,
    "risk_score": 1.1,
    "risk_band": "low",
-   "confidence_pct": 87,
+   "confidence_pct": 89,
    "status": "fading"
   },
   {
@@ -2463,12 +2491,12 @@
    "title": "Flight Centre cyber incident: Some passport details may have been compromised",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-26T03:15:56Z",
-   "last_reported": "2026-11-27T09:24:28Z",
-   "outlets": 5,
+   "last_reported": "2026-11-27T14:55:06Z",
+   "outlets": 6,
    "countries": 3,
-   "risk_score": 4.4,
+   "risk_score": 4.1,
    "risk_band": "elevated",
-   "confidence_pct": 70,
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -3639,13 +3667,13 @@
    "title": "UPDATE: Norwegian Norse Atlantic airline files for bankruptcy",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-25T13:27:47Z",
-   "last_reported": "2026-11-27T15:44:52Z",
+   "last_reported": "2026-11-27T18:20:32Z",
    "outlets": 15,
    "countries": 8,
-   "risk_score": 6.1,
-   "risk_band": "high",
+   "risk_score": 5.8,
+   "risk_band": "elevated",
    "confidence_pct": 89,
-   "status": "peaking"
+   "status": "fading"
   },
   {
    "id": 314060,
@@ -4745,12 +4773,12 @@
    "title": "Gelato scoops up Singapore’s frozen dessert market",
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-25T03:13:01Z",
-   "last_reported": "2026-11-27T02:43:16Z",
+   "last_reported": "2026-11-27T10:30:08Z",
    "outlets": 5,
    "countries": 5,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 76,
+   "risk_score": 1.9,
+   "risk_band": "low",
+   "confidence_pct": 78,
    "status": "fading"
   },
   {
@@ -4919,6 +4947,20 @@
    "risk_score": 1.4,
    "risk_band": "low",
    "confidence_pct": 76,
+   "status": "fading"
+  },
+  {
+   "id": 334793,
+   "url": "https://athenaglauxintelligence.news/el/event/334793.html",
+   "title": "China, ASEAN join forces to build stronger community with shared future",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-25T00:00:00Z",
+   "last_reported": "2026-11-27T20:08:12Z",
+   "outlets": 19,
+   "countries": 14,
+   "risk_score": 3.0,
+   "risk_band": "moderate",
+   "confidence_pct": 83,
    "status": "fading"
   },
   {
@@ -6207,20 +6249,6 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 74,
-   "status": "fading"
-  },
-  {
-   "id": 306465,
-   "url": "https://athenaglauxintelligence.news/el/event/306465.html",
-   "title": "Japan opposition parties submit censure motion against scandal-hit minister",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-24T11:00:08Z",
-   "last_reported": "2026-11-27T06:30:00Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 2.1,
-   "risk_band": "moderate",
-   "confidence_pct": 51,
    "status": "fading"
   },
   {
@@ -8478,6 +8506,20 @@
    "status": "emerging"
   },
   {
+   "id": 317453,
+   "url": "https://athenaglauxintelligence.news/el/event/317453.html",
+   "title": "Chief Minister inaugurates care home for elderly men",
+   "section": "Τεχνολογία & Κυβερνοασφάλεια",
+   "first_reported": "2026-11-23T12:20:24Z",
+   "last_reported": "2026-11-27T20:08:13Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 61,
+   "status": "fading"
+  },
+  {
    "id": 297254,
    "url": "https://athenaglauxintelligence.news/el/event/297254.html",
    "title": "Hungarian PM says he hosted refugees from Zakarpattia Oblast",
@@ -10373,7 +10415,7 @@
    "title": "Ukraine claims strike that damaged Russian oil refinery",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-22T16:45:05Z",
-   "last_reported": "2026-11-27T00:05:00Z",
+   "last_reported": "2026-11-27T12:37:00Z",
    "outlets": 28,
    "countries": 16,
    "risk_score": 6.2,
@@ -12899,34 +12941,6 @@
    "risk_score": 4.4,
    "risk_band": "elevated",
    "confidence_pct": 64,
-   "status": "fading"
-  },
-  {
-   "id": 280361,
-   "url": "https://athenaglauxintelligence.news/el/event/280361.html",
-   "title": "Peru and Japan agree to strengthen El Niño preparedness and promote investment",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-20T20:00:00Z",
-   "last_reported": "2026-11-21T10:57:22Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 56,
-   "status": "fading"
-  },
-  {
-   "id": 279290,
-   "url": "https://athenaglauxintelligence.news/el/event/279290.html",
-   "title": "Trump vows permanent deal to block Iran's nuclear ambitions",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-20T19:55:10Z",
-   "last_reported": "2026-11-22T02:22:36Z",
-   "outlets": 12,
-   "countries": 10,
-   "risk_score": 3.4,
-   "risk_band": "moderate",
-   "confidence_pct": 93,
    "status": "fading"
   }
  ]
