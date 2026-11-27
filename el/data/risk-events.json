@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-27T08:17:37Z",
+ "generated": "2026-11-27T09:11:08Z",
  "window_days": 7,
  "language": "el",
- "count": 939,
+ "count": 934,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -27,12 +27,12 @@
    "title": "New Zealand's ruling coalition loses majority in final election count",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T01:18:16Z",
-   "last_reported": "2026-11-27T07:27:41Z",
-   "outlets": 13,
-   "countries": 11,
-   "risk_score": 2.0,
-   "risk_band": "moderate",
-   "confidence_pct": 92,
+   "last_reported": "2026-11-27T07:55:32Z",
+   "outlets": 14,
+   "countries": 12,
+   "risk_score": 1.1,
+   "risk_band": "low",
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -41,13 +41,13 @@
    "title": "Hung Parliament: Luxon needs Opportunity, no path to power for Labour",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T01:00:10Z",
-   "last_reported": "2026-11-27T03:58:52Z",
-   "outlets": 4,
-   "countries": 1,
+   "last_reported": "2026-11-27T06:50:00Z",
+   "outlets": 5,
+   "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 61,
-   "status": "peaking"
+   "confidence_pct": 72,
+   "status": "emerging"
   },
   {
    "id": 327942,
@@ -61,6 +61,34 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 60,
+   "status": "emerging"
+  },
+  {
+   "id": 328989,
+   "url": "https://athenaglauxintelligence.news/el/event/328989.html",
+   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-26T22:06:20Z",
+   "last_reported": "2026-11-27T04:20:00Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 2.2,
+   "risk_band": "moderate",
+   "confidence_pct": 78,
+   "status": "emerging"
+  },
+  {
+   "id": 329033,
+   "url": "https://athenaglauxintelligence.news/el/event/329033.html",
+   "title": "Major storm across US leaves over 800,000 homes, businesses without power",
+   "section": "Εμπόριο & Βιομηχανία",
+   "first_reported": "2026-11-26T22:04:00Z",
+   "last_reported": "2026-11-27T04:34:43Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 4.1,
+   "risk_band": "elevated",
+   "confidence_pct": 67,
    "status": "emerging"
   },
   {
@@ -103,7 +131,7 @@
    "risk_score": 4.5,
    "risk_band": "elevated",
    "confidence_pct": 87,
-   "status": "emerging"
+   "status": "fading"
   },
   {
    "id": 325311,
@@ -196,12 +224,12 @@
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-26T16:33:33Z",
    "last_reported": "2026-11-27T07:15:44Z",
-   "outlets": 6,
-   "countries": 4,
-   "risk_score": 3.7,
-   "risk_band": "moderate",
-   "confidence_pct": 79,
-   "status": "fading"
+   "outlets": 7,
+   "countries": 5,
+   "risk_score": 4.3,
+   "risk_band": "elevated",
+   "confidence_pct": 82,
+   "status": "peaking"
   },
   {
    "id": 325690,
@@ -209,13 +237,27 @@
    "title": "Settlers smash foundations of Palestinian family's homes in West Bank",
    "section": "Οικονομία & Αγορές",
    "first_reported": "2026-11-26T16:31:58Z",
-   "last_reported": "2026-11-26T23:07:36Z",
+   "last_reported": "2026-11-27T07:09:53Z",
    "outlets": 6,
    "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 85,
-   "status": "emerging"
+   "confidence_pct": 84,
+   "status": "fading"
+  },
+  {
+   "id": 325952,
+   "url": "https://athenaglauxintelligence.news/el/event/325952.html",
+   "title": "‘Can’t stop us’: Amit Shah attacks Rahul Gandhi over women’s reservation, UCC",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-26T16:29:28Z",
+   "last_reported": "2026-11-27T04:53:18Z",
+   "outlets": 4,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 58,
+   "status": "fading"
   },
   {
    "id": 324730,
@@ -223,10 +265,10 @@
    "title": "Tinubu approves houses, N100m each for families of NAF crash victims",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-26T16:26:42Z",
-   "last_reported": "2026-11-27T02:38:30Z",
+   "last_reported": "2026-11-27T03:51:25Z",
    "outlets": 10,
    "countries": 1,
-   "risk_score": 3.6,
+   "risk_score": 3.5,
    "risk_band": "moderate",
    "confidence_pct": 72,
    "status": "fading"
@@ -260,6 +302,20 @@
    "status": "peaking"
   },
   {
+   "id": 326112,
+   "url": "https://athenaglauxintelligence.news/el/event/326112.html",
+   "title": "Centre may amend defeated women's reservation Bill ahead of spl Parl sitting: Report",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-26T16:03:28Z",
+   "last_reported": "2026-11-27T05:45:38Z",
+   "outlets": 4,
+   "countries": 1,
+   "risk_score": 0.9,
+   "risk_band": "low",
+   "confidence_pct": 58,
+   "status": "peaking"
+  },
+  {
    "id": 325688,
    "url": "https://athenaglauxintelligence.news/el/event/325688.html",
    "title": "Heavy rain, wind and flooding plague much of US on Thanksgiving holiday",
@@ -283,7 +339,7 @@
    "outlets": 11,
    "countries": 11,
    "risk_score": 6.0,
-   "risk_band": "high",
+   "risk_band": "elevated",
    "confidence_pct": 88,
    "status": "fading"
   },
@@ -386,6 +442,34 @@
    "status": "emerging"
   },
   {
+   "id": 323256,
+   "url": "https://athenaglauxintelligence.news/el/event/323256.html",
+   "title": "Govt proposes reconvening of Parliament on November 30",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-26T13:58:39Z",
+   "last_reported": "2026-11-26T17:32:25Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 54,
+   "status": "emerging"
+  },
+  {
+   "id": 323395,
+   "url": "https://athenaglauxintelligence.news/el/event/323395.html",
+   "title": "Special Parliament session from November 30; women’s quota on agenda",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-26T13:52:27Z",
+   "last_reported": "2026-11-27T06:45:12Z",
+   "outlets": 10,
+   "countries": 1,
+   "risk_score": 0.7,
+   "risk_band": "low",
+   "confidence_pct": 72,
+   "status": "peaking"
+  },
+  {
    "id": 322902,
    "url": "https://athenaglauxintelligence.news/el/event/322902.html",
    "title": "US maker of Marlboro cigarettes mulls over bid for Imperial Brands",
@@ -419,13 +503,13 @@
    "title": "European Parliament seeks EU action over Turkey-Libya maritime deal",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-26T13:40:18Z",
-   "last_reported": "2026-11-26T22:33:08Z",
-   "outlets": 6,
+   "last_reported": "2026-11-27T08:45:17Z",
+   "outlets": 7,
    "countries": 4,
-   "risk_score": 1.7,
+   "risk_score": 1.6,
    "risk_band": "low",
-   "confidence_pct": 79,
-   "status": "emerging"
+   "confidence_pct": 80,
+   "status": "fading"
   },
   {
    "id": 323075,
@@ -476,12 +560,12 @@
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T13:05:07Z",
    "last_reported": "2026-11-27T06:40:54Z",
-   "outlets": 29,
-   "countries": 21,
+   "outlets": 31,
+   "countries": 22,
    "risk_score": 7.3,
    "risk_band": "high",
    "confidence_pct": 94,
-   "status": "spreading"
+   "status": "peaking"
   },
   {
    "id": 324220,
@@ -545,12 +629,12 @@
    "title": "Spain’s election candidates clash over Gaza, migration and housing in televised debate",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T12:48:32Z",
-   "last_reported": "2026-11-27T04:00:31Z",
-   "outlets": 3,
+   "last_reported": "2026-11-27T08:45:17Z",
+   "outlets": 4,
    "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 66,
+   "risk_score": 1.9,
+   "risk_band": "low",
+   "confidence_pct": 71,
    "status": "fading"
   },
   {
@@ -808,14 +892,14 @@
   {
    "id": 322203,
    "url": "https://athenaglauxintelligence.news/el/event/322203.html",
-   "title": "Trump says Putin can attend Florida G20 meeting",
+   "title": "Trump says Putin can come to G20 if he wants",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T09:56:00Z",
    "last_reported": "2026-11-27T05:44:00Z",
-   "outlets": 9,
+   "outlets": 10,
    "countries": 7,
-   "risk_score": 2.3,
-   "risk_band": "moderate",
+   "risk_score": 4.8,
+   "risk_band": "elevated",
    "confidence_pct": 90,
    "status": "fading"
   },
@@ -1716,20 +1800,6 @@
    "status": "fading"
   },
   {
-   "id": 317791,
-   "url": "https://athenaglauxintelligence.news/el/event/317791.html",
-   "title": "Dangote Refinery to list on Nigerian Exchange December 1",
-   "section": "Οικονομία & Αγορές",
-   "first_reported": "2026-11-25T20:16:51Z",
-   "last_reported": "2026-11-26T12:50:01Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 61,
-   "status": "fading"
-  },
-  {
    "id": 318835,
    "url": "https://athenaglauxintelligence.news/el/event/318835.html",
    "title": "One Nation defector Leah Blyth accuses Liberals of infighting and lack of conviction",
@@ -2105,6 +2175,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 79,
+   "status": "fading"
+  },
+  {
+   "id": 317856,
+   "url": "https://athenaglauxintelligence.news/el/event/317856.html",
+   "title": "High-quality medieval armor discovered in shipwreck that sank in 1495",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-25T15:59:39Z",
+   "last_reported": "2026-11-27T03:31:00Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 63,
    "status": "fading"
   },
   {
@@ -2612,6 +2696,20 @@
    "status": "fading"
   },
   {
+   "id": 317800,
+   "url": "https://athenaglauxintelligence.news/el/event/317800.html",
+   "title": "Ethiopia’s Public Enterprises Create Nearly 72,000 Jobs in Three Months as Reform Drives Improved Performance: PM Abiy",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-25T12:07:35Z",
+   "last_reported": "2026-11-26T14:58:41Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 1.6,
+   "risk_band": "low",
+   "confidence_pct": 59,
+   "status": "fading"
+  },
+  {
    "id": 316524,
    "url": "https://athenaglauxintelligence.news/el/event/316524.html",
    "title": "Irish equestrian teams likely to compete at LA Olympics despite Horse Sport Ireland liquidation",
@@ -2987,20 +3085,6 @@
    "risk_score": 3.7,
    "risk_band": "moderate",
    "confidence_pct": 92,
-   "status": "fading"
-  },
-  {
-   "id": 312081,
-   "url": "https://athenaglauxintelligence.news/el/event/312081.html",
-   "title": "Eurostar services between London and Paris cancelled after staff go on surprise strike",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-25T09:17:48Z",
-   "last_reported": "2026-11-26T06:00:01Z",
-   "outlets": 6,
-   "countries": 3,
-   "risk_score": 1.8,
-   "risk_band": "low",
-   "confidence_pct": 76,
    "status": "fading"
   },
   {
@@ -5622,6 +5706,20 @@
    "status": "fading"
   },
   {
+   "id": 302503,
+   "url": "https://athenaglauxintelligence.news/el/event/302503.html",
+   "title": "Dangote Refinery shares to list on NGX December 1 after SEC approval",
+   "section": "Οικονομία & Αγορές",
+   "first_reported": "2026-11-24T04:18:00Z",
+   "last_reported": "2026-11-27T07:55:52Z",
+   "outlets": 6,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 77,
+   "status": "fading"
+  },
+  {
    "id": 309426,
    "url": "https://athenaglauxintelligence.news/el/event/309426.html",
    "title": "China sends first foreign astronaut to its space station as Pakistani joins Shenzhou 24 crew",
@@ -7691,20 +7789,6 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 64,
-   "status": "fading"
-  },
-  {
-   "id": 295870,
-   "url": "https://athenaglauxintelligence.news/el/event/295870.html",
-   "title": "When will the Tube strike end? All the TfL passenger advice and other RMT walkout dates",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-23T09:03:51Z",
-   "last_reported": "2026-11-27T06:20:10Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 1.0,
-   "risk_band": "low",
-   "confidence_pct": 54,
    "status": "fading"
   },
   {
@@ -11614,20 +11698,6 @@
    "status": "fading"
   },
   {
-   "id": 290998,
-   "url": "https://athenaglauxintelligence.news/el/event/290998.html",
-   "title": "London Underground drivers to launch 24-hour strike",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-20T20:04:55Z",
-   "last_reported": "2026-11-26T21:06:56Z",
-   "outlets": 4,
-   "countries": 1,
-   "risk_score": 0.9,
-   "risk_band": "low",
-   "confidence_pct": 51,
-   "status": "fading"
-  },
-  {
    "id": 280361,
    "url": "https://athenaglauxintelligence.news/el/event/280361.html",
    "title": "Peru and Japan agree to strengthen El Niño preparedness and promote investment",
@@ -13011,146 +13081,6 @@
    "risk_score": 2.0,
    "risk_band": "low",
    "confidence_pct": 88,
-   "status": "fading"
-  },
-  {
-   "id": 274485,
-   "url": "https://athenaglauxintelligence.news/el/event/274485.html",
-   "title": "DGCA issues show cause notice to SpiceJet on flight cancellations, various violations",
-   "section": "Εμπόριο & Βιομηχανία",
-   "first_reported": "2026-11-20T09:07:39Z",
-   "last_reported": "2026-11-20T11:14:07Z",
-   "outlets": 6,
-   "countries": 2,
-   "risk_score": 3.1,
-   "risk_band": "moderate",
-   "confidence_pct": 76,
-   "status": "fading"
-  },
-  {
-   "id": 275288,
-   "url": "https://athenaglauxintelligence.news/el/event/275288.html",
-   "title": "Russia must feel what war is like: Crimean Bridge will not stand as it is legitimate target for Ukraine – Zelenskyy",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-20T09:06:40Z",
-   "last_reported": "2026-11-21T09:57:00Z",
-   "outlets": 5,
-   "countries": 5,
-   "risk_score": 6.6,
-   "risk_band": "high",
-   "confidence_pct": 76,
-   "status": "fading"
-  },
-  {
-   "id": 274623,
-   "url": "https://athenaglauxintelligence.news/el/event/274623.html",
-   "title": "Zelenskyy says NATO membership for Ukraine remains under discussion and would benefit both",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-20T09:00:56Z",
-   "last_reported": "2026-11-21T14:54:35Z",
-   "outlets": 13,
-   "countries": 8,
-   "risk_score": 4.3,
-   "risk_band": "elevated",
-   "confidence_pct": 92,
-   "status": "fading"
-  },
-  {
-   "id": 274848,
-   "url": "https://athenaglauxintelligence.news/el/event/274848.html",
-   "title": "Lufthansa plans to cut 1,000 jobs amid Iran war fallout",
-   "section": "Εμπόριο & Βιομηχανία",
-   "first_reported": "2026-11-20T08:59:46Z",
-   "last_reported": "2026-11-20T20:22:19Z",
-   "outlets": 10,
-   "countries": 9,
-   "risk_score": 2.5,
-   "risk_band": "moderate",
-   "confidence_pct": 85,
-   "status": "fading"
-  },
-  {
-   "id": 274422,
-   "url": "https://athenaglauxintelligence.news/el/event/274422.html",
-   "title": "Heavy rain on way for parts of UK",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-20T08:57:57Z",
-   "last_reported": "2026-11-22T12:11:06Z",
-   "outlets": 7,
-   "countries": 2,
-   "risk_score": 5.8,
-   "risk_band": "elevated",
-   "confidence_pct": 70,
-   "status": "peaking"
-  },
-  {
-   "id": 275184,
-   "url": "https://athenaglauxintelligence.news/el/event/275184.html",
-   "title": "German metalworkers' union calls 24-hour strike for first time in eight years",
-   "section": "Οικονομία & Αγορές",
-   "first_reported": "2026-11-20T08:54:57Z",
-   "last_reported": "2026-11-20T09:25:13Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 1.2,
-   "risk_band": "low",
-   "confidence_pct": 62,
-   "status": "fading"
-  },
-  {
-   "id": 275525,
-   "url": "https://athenaglauxintelligence.news/el/event/275525.html",
-   "title": "Iraq reopens key road linking Jurf al-Nasr to Karbala",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-20T08:54:22Z",
-   "last_reported": "2026-11-21T17:51:21Z",
-   "outlets": 5,
-   "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 73,
-   "status": "fading"
-  },
-  {
-   "id": 274030,
-   "url": "https://athenaglauxintelligence.news/el/event/274030.html",
-   "title": "European shares head for steepest weekly drop since March",
-   "section": "Οικονομία & Αγορές",
-   "first_reported": "2026-11-20T08:33:23Z",
-   "last_reported": "2026-11-20T13:20:23Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 2.9,
-   "risk_band": "moderate",
-   "confidence_pct": 65,
-   "status": "emerging"
-  },
-  {
-   "id": 275053,
-   "url": "https://athenaglauxintelligence.news/el/event/275053.html",
-   "title": "Activists rally at Erez Crossing against Gaza aid deliveries, accuse Israel of strengthening Hamas",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-20T08:32:15Z",
-   "last_reported": "2026-11-21T09:03:59Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 2.4,
-   "risk_band": "moderate",
-   "confidence_pct": 65,
-   "status": "fading"
-  },
-  {
-   "id": 275091,
-   "url": "https://athenaglauxintelligence.news/el/event/275091.html",
-   "title": "Fluffy rabbits, dark past draw tourists to Japan island",
-   "section": "Εμπόριο & Βιομηχανία",
-   "first_reported": "2026-11-20T08:28:27Z",
-   "last_reported": "2026-11-22T08:13:09Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 68,
    "status": "fading"
   }
  ]
