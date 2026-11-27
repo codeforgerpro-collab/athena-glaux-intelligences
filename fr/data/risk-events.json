@@ -1,12 +1,26 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-27T02:03:05Z",
+ "generated": "2026-11-27T02:39:25Z",
  "window_days": 7,
  "language": "fr",
- "count": 957,
+ "count": 966,
  "licence": "https://athenaglauxintelligence.news/fr/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
+  {
+   "id": 328656,
+   "url": "https://athenaglauxintelligence.news/fr/event/328656.html",
+   "title": "Ukraine has ‘no intention’ of spreading war to Libya, says minister",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-26T21:23:38Z",
+   "last_reported": "2026-11-26T23:12:35Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 6.1,
+   "risk_band": "high",
+   "confidence_pct": 71,
+   "status": "peaking"
+  },
   {
    "id": 326506,
    "url": "https://athenaglauxintelligence.news/fr/event/326506.html",
@@ -66,7 +80,7 @@
   {
    "id": 327153,
    "url": "https://athenaglauxintelligence.news/fr/event/327153.html",
-   "title": "Macron calls $223B in cuts to EU long-term budget proposal a ‘strategic mistake’",
+   "title": "Macron calls proposed $223B in cuts to EU’s long-term budget a ‘strategic mistake’",
    "section": "Économie et marchés",
    "first_reported": "2026-11-26T17:21:39Z",
    "last_reported": "2026-11-26T23:32:25Z",
@@ -90,6 +104,20 @@
    "risk_band": "elevated",
    "confidence_pct": 77,
    "status": "emerging"
+  },
+  {
+   "id": 325180,
+   "url": "https://athenaglauxintelligence.news/fr/event/325180.html",
+   "title": "Guinea-Bissau’s military junta postpones elections until 2028, extending its rule by two years",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-26T17:16:49Z",
+   "last_reported": "2026-11-26T20:09:00Z",
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 2.5,
+   "risk_band": "moderate",
+   "confidence_pct": 84,
+   "status": "fading"
   },
   {
    "id": 324358,
@@ -187,7 +215,21 @@
    "risk_score": 6.5,
    "risk_band": "high",
    "confidence_pct": 88,
-   "status": "spreading"
+   "status": "peaking"
+  },
+  {
+   "id": 327167,
+   "url": "https://athenaglauxintelligence.news/fr/event/327167.html",
+   "title": "Iran says Qatari, Pakistani mediation in talks with US continues",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-26T15:43:33Z",
+   "last_reported": "2026-11-26T18:58:49Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 2.5,
+   "risk_band": "moderate",
+   "confidence_pct": 78,
+   "status": "emerging"
   },
   {
    "id": 323785,
@@ -201,6 +243,20 @@
    "risk_score": 1.5,
    "risk_band": "low",
    "confidence_pct": 54,
+   "status": "emerging"
+  },
+  {
+   "id": 327332,
+   "url": "https://athenaglauxintelligence.news/fr/event/327332.html",
+   "title": "Iraq's oil revenues hit $8.8bn as it prepares to ask for higher Opec quota",
+   "section": "Énergie et environnement",
+   "first_reported": "2026-11-26T15:21:42Z",
+   "last_reported": "2026-11-26T17:37:11Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 1.0,
+   "risk_band": "low",
+   "confidence_pct": 69,
    "status": "emerging"
   },
   {
@@ -442,9 +498,23 @@
    "status": "emerging"
   },
   {
+   "id": 322148,
+   "url": "https://athenaglauxintelligence.news/fr/event/322148.html",
+   "title": "Zelensky Warns Of New Russian Mass Strike In \"Coming Days\"",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-26T11:49:24Z",
+   "last_reported": "2026-11-27T00:31:09Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 2.8,
+   "risk_band": "moderate",
+   "confidence_pct": 74,
+   "status": "peaking"
+  },
+  {
    "id": 322407,
    "url": "https://athenaglauxintelligence.news/fr/event/322407.html",
-   "title": "Standard Chartered’s Zodia Custody suffers data breach: Report",
+   "title": "Standard Chartered’s Zodia Custody suffers data breach",
    "section": "Technologie et cyber",
    "first_reported": "2026-11-26T11:37:06Z",
    "last_reported": "2026-11-26T13:13:19Z",
@@ -503,13 +573,13 @@
    "title": "Global maritime trade set for zero growth in 2026",
    "section": "Commerce et industrie",
    "first_reported": "2026-11-26T10:48:54Z",
-   "last_reported": "2026-11-26T18:01:39Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 1.3,
+   "last_reported": "2026-11-27T01:11:03Z",
+   "outlets": 5,
+   "countries": 5,
+   "risk_score": 1.2,
    "risk_band": "low",
-   "confidence_pct": 79,
-   "status": "emerging"
+   "confidence_pct": 84,
+   "status": "fading"
   },
   {
    "id": 322924,
@@ -612,12 +682,12 @@
   {
    "id": 322197,
    "url": "https://athenaglauxintelligence.news/fr/event/322197.html",
-   "title": "Israel threatens to displace one million Palestinians in Gaza unless Hamas disarms",
+   "title": "Hamas weighs response after Israel kills 10 people in Gaza",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T09:53:23Z",
-   "last_reported": "2026-11-26T19:12:21Z",
-   "outlets": 10,
-   "countries": 9,
+   "last_reported": "2026-11-27T02:02:17Z",
+   "outlets": 11,
+   "countries": 10,
    "risk_score": 5.6,
    "risk_band": "elevated",
    "confidence_pct": 93,
@@ -640,7 +710,7 @@
   {
    "id": 322777,
    "url": "https://athenaglauxintelligence.news/fr/event/322777.html",
-   "title": "Macron accuses La Pen of 'arrogance' in EU budget clash",
+   "title": "Macron accuses Le Pen of 'arrogance' in EU budget clash",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T09:48:55Z",
    "last_reported": "2026-11-27T00:15:08Z",
@@ -719,6 +789,20 @@
    "risk_score": 4.1,
    "risk_band": "elevated",
    "confidence_pct": 73,
+   "status": "fading"
+  },
+  {
+   "id": 325365,
+   "url": "https://athenaglauxintelligence.news/fr/event/325365.html",
+   "title": "Israel strikes \"dozens\" Hezbollah rockets, launchers in S. Lebanon",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-26T09:14:15Z",
+   "last_reported": "2026-11-26T22:44:01Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -1156,6 +1240,20 @@
    "status": "fading"
   },
   {
+   "id": 321138,
+   "url": "https://athenaglauxintelligence.news/fr/event/321138.html",
+   "title": "Protesters in Spain rally against gender violence ahead of election",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-26T03:00:43Z",
+   "last_reported": "2026-11-26T11:39:27Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 68,
+   "status": "emerging"
+  },
+  {
    "id": 319992,
    "url": "https://athenaglauxintelligence.news/fr/event/319992.html",
    "title": "Gold rebounds from 15-month low on rate fears",
@@ -1408,6 +1506,20 @@
    "status": "fading"
   },
   {
+   "id": 320112,
+   "url": "https://athenaglauxintelligence.news/fr/event/320112.html",
+   "title": "Ukraine, Russia could hold largest prisoner exchange of war before winter holidays, Kushner says",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-25T21:03:01Z",
+   "last_reported": "2026-11-27T00:48:12Z",
+   "outlets": 5,
+   "countries": 5,
+   "risk_score": 3.9,
+   "risk_band": "moderate",
+   "confidence_pct": 80,
+   "status": "fading"
+  },
+  {
    "id": 321243,
    "url": "https://athenaglauxintelligence.news/fr/event/321243.html",
    "title": "76 Freed After Colombia Supermarket Siege",
@@ -1483,7 +1595,7 @@
    "title": "One Nation defector Leah Blyth accuses Liberals of infighting and lack of conviction",
    "section": "Géopolitique",
    "first_reported": "2026-11-25T20:08:46Z",
-   "last_reported": "2026-11-26T20:46:07Z",
+   "last_reported": "2026-11-27T01:00:00Z",
    "outlets": 6,
    "countries": 2,
    "risk_score": 1.0,
@@ -1604,6 +1716,20 @@
    "status": "fading"
   },
   {
+   "id": 319221,
+   "url": "https://athenaglauxintelligence.news/fr/event/319221.html",
+   "title": "Israeli army arrests 11 Palestinians, including former Jerusalem lawmaker, in occupied West Bank",
+   "section": "Accidents et urgences",
+   "first_reported": "2026-11-25T18:03:00Z",
+   "last_reported": "2026-11-26T23:07:50Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 4.0,
+   "risk_band": "elevated",
+   "confidence_pct": 70,
+   "status": "fading"
+  },
+  {
    "id": 317735,
    "url": "https://athenaglauxintelligence.news/fr/event/317735.html",
    "title": "Body of missing Bulgarian man found; employer confessed murder",
@@ -1686,6 +1812,20 @@
    "risk_band": "elevated",
    "confidence_pct": 70,
    "status": "fading"
+  },
+  {
+   "id": 316854,
+   "url": "https://athenaglauxintelligence.news/fr/event/316854.html",
+   "title": "Butter chicken in space: China prepares halal feast for Pakistan’s first astronaut",
+   "section": "Technologie et cyber",
+   "first_reported": "2026-11-25T17:10:21Z",
+   "last_reported": "2026-11-27T02:17:13Z",
+   "outlets": 6,
+   "countries": 4,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 76,
+   "status": "peaking"
   },
   {
    "id": 319950,
@@ -1805,10 +1945,10 @@
    "title": "US unveils tariffs on EU, China and others over ‘unfair’ trade",
    "section": "Commerce et industrie",
    "first_reported": "2026-11-25T15:58:36Z",
-   "last_reported": "2026-11-26T10:30:41Z",
-   "outlets": 6,
+   "last_reported": "2026-11-27T01:01:50Z",
+   "outlets": 7,
    "countries": 5,
-   "risk_score": 3.4,
+   "risk_score": 3.5,
    "risk_band": "moderate",
    "confidence_pct": 83,
    "status": "fading"
@@ -1898,20 +2038,6 @@
    "status": "fading"
   },
   {
-   "id": 318086,
-   "url": "https://athenaglauxintelligence.news/fr/event/318086.html",
-   "title": "Ukrainian border guards repel Russian mechanised assault in northern Kharkiv Oblast – video",
-   "section": "Accidents et urgences",
-   "first_reported": "2026-11-25T15:26:00Z",
-   "last_reported": "2026-11-26T14:26:25Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 61,
-   "status": "fading"
-  },
-  {
    "id": 315711,
    "url": "https://athenaglauxintelligence.news/fr/event/315711.html",
    "title": "Inflation peak will be lower if energy prices stay at recent levels – Bank boss",
@@ -1988,12 +2114,12 @@
    "section": "Technologie et cyber",
    "first_reported": "2026-11-25T14:38:53Z",
    "last_reported": "2026-11-27T00:35:02Z",
-   "outlets": 31,
+   "outlets": 32,
    "countries": 14,
-   "risk_score": 1.1,
+   "risk_score": 1.2,
    "risk_band": "low",
    "confidence_pct": 93,
-   "status": "fading"
+   "status": "peaking"
   },
   {
    "id": 316358,
@@ -2402,6 +2528,20 @@
    "status": "fading"
   },
   {
+   "id": 317138,
+   "url": "https://athenaglauxintelligence.news/fr/event/317138.html",
+   "title": "Pedro Sánchez’s Big Bet",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-25T11:11:07Z",
+   "last_reported": "2026-11-26T20:53:56Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 1.1,
+   "risk_band": "low",
+   "confidence_pct": 67,
+   "status": "fading"
+  },
+  {
    "id": 315258,
    "url": "https://athenaglauxintelligence.news/fr/event/315258.html",
    "title": "Silver price sinks to 14-month low on firm US Dollar ahead of PCE inflation data",
@@ -2584,6 +2724,20 @@
    "status": "fading"
   },
   {
+   "id": 314258,
+   "url": "https://athenaglauxintelligence.news/fr/event/314258.html",
+   "title": "Spain's economic gains miss voters' wallets as Sanchez seeks reelection",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-25T09:54:21Z",
+   "last_reported": "2026-11-26T05:06:47Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 69,
+   "status": "fading"
+  },
+  {
    "id": 311833,
    "url": "https://athenaglauxintelligence.news/fr/event/311833.html",
    "title": "Tashima vows to serve single term if he wins FIFA election",
@@ -2674,7 +2828,7 @@
    "section": "Commerce et industrie",
    "first_reported": "2026-11-25T09:21:42Z",
    "last_reported": "2026-11-26T17:37:23Z",
-   "outlets": 19,
+   "outlets": 18,
    "countries": 15,
    "risk_score": 3.7,
    "risk_band": "moderate",
@@ -3342,7 +3496,7 @@
   {
    "id": 315742,
    "url": "https://athenaglauxintelligence.news/fr/event/315742.html",
-   "title": "HSE board to appear before cttee over O'Connor sacking",
+   "title": "HSE board expected to appear at cttee over CEO sacking",
    "section": "Entreprises",
    "first_reported": "2026-11-25T00:00:00Z",
    "last_reported": "2026-11-26T11:25:03Z",
@@ -3639,13 +3793,13 @@
    "title": "Argentina bans its central bank from printing money for the government",
    "section": "Économie et marchés",
    "first_reported": "2026-11-24T20:28:00Z",
-   "last_reported": "2026-11-27T00:11:16Z",
-   "outlets": 3,
-   "countries": 3,
+   "last_reported": "2026-11-27T00:42:20Z",
+   "outlets": 4,
+   "countries": 4,
    "risk_score": 0.9,
    "risk_band": "low",
-   "confidence_pct": 71,
-   "status": "peaking"
+   "confidence_pct": 79,
+   "status": "spreading"
   },
   {
    "id": 306883,
@@ -4714,7 +4868,7 @@
   {
    "id": 303641,
    "url": "https://athenaglauxintelligence.news/fr/event/303641.html",
-   "title": "16 dead and 10 missing as rescuers battle flooded Indonesian gold mine",
+   "title": "Sixteen dead and 10 missing as rescuers battle flooded Indonesian gold mine",
    "section": "Énergie et environnement",
    "first_reported": "2026-11-24T09:50:37Z",
    "last_reported": "2026-11-26T09:57:03Z",
@@ -7853,10 +8007,10 @@
    "title": "Israel likely to lose Gaza genocide case if ICJ follows Myanmar ruling, Tel Aviv scholar says",
    "section": "Accidents et urgences",
    "first_reported": "2026-11-23T06:36:32Z",
-   "last_reported": "2026-11-26T10:09:11Z",
-   "outlets": 10,
-   "countries": 5,
-   "risk_score": 6.4,
+   "last_reported": "2026-11-26T22:06:13Z",
+   "outlets": 11,
+   "countries": 6,
+   "risk_score": 7.0,
    "risk_band": "high",
    "confidence_pct": 86,
    "status": "fading"
@@ -8735,9 +8889,9 @@
    "title": "Ukraine claims strike that damaged Russian oil refinery",
    "section": "Géopolitique",
    "first_reported": "2026-11-22T16:45:05Z",
-   "last_reported": "2026-11-26T18:16:00Z",
-   "outlets": 27,
-   "countries": 15,
+   "last_reported": "2026-11-27T00:05:00Z",
+   "outlets": 28,
+   "countries": 16,
    "risk_score": 6.2,
    "risk_band": "high",
    "confidence_pct": 89,
@@ -13375,34 +13529,6 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 82,
-   "status": "fading"
-  },
-  {
-   "id": 271960,
-   "url": "https://athenaglauxintelligence.news/fr/event/271960.html",
-   "title": "Coalition of the Willing calls on Russia for winter energy truce",
-   "section": "Géopolitique",
-   "first_reported": "2026-11-20T02:39:14Z",
-   "last_reported": "2026-11-20T08:47:02Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 63,
-   "status": "emerging"
-  },
-  {
-   "id": 273002,
-   "url": "https://athenaglauxintelligence.news/fr/event/273002.html",
-   "title": "AFP journalist wounded by Israel honored at CPJ awards",
-   "section": "Technologie et cyber",
-   "first_reported": "2026-11-20T02:31:16Z",
-   "last_reported": "2026-11-20T15:37:47Z",
-   "outlets": 6,
-   "countries": 4,
-   "risk_score": 5.0,
-   "risk_band": "elevated",
-   "confidence_pct": 78,
    "status": "fading"
   }
  ]
