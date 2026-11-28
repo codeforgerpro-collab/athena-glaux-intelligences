@@ -6,6 +6,17 @@
  "language": "fr",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/fr/event/341870.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/341870.html",
+   "title": "Iran says it shot down 'enemy reconnaissance drone' over Strait of Hormuz",
+   "summary": "Relayé par 3 médias dans 2 pays depuis le 28 nov. Premier à l'annoncer : Middle East Eye. ATHENA évalue le risque à 2.6/10 (modéré), avec 67 % de confiance.",
+   "date_published": "2026-11-28T16:38:19Z",
+   "tags": [
+    "Géopolitique"
+   ],
+   "language": "fr"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/fr/event/335713.html",
    "url": "https://athenaglauxintelligence.news/fr/event/335713.html",
    "title": "Makkah Alliance Nations Condemn Houthi Attacks, Vow Cooperation",
@@ -431,17 +442,6 @@
    "date_published": "2026-11-21T18:22:00Z",
    "tags": [
     "Énergie et environnement"
-   ],
-   "language": "fr"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/fr/event/282402.html",
-   "url": "https://athenaglauxintelligence.news/fr/event/282402.html",
-   "title": "Coalition destroys Houthi ballistic missile as alerts sound in Mecca region",
-   "summary": "Relayé par 3 médias dans 2 pays depuis le 21 nov. Premier à l'annoncer : Asharq Al-Awsat (English). ATHENA évalue le risque à 0.0/10 (nul), avec 66 % de confiance.",
-   "date_published": "2026-11-21T11:20:19Z",
-   "tags": [
-    "Géopolitique"
    ],
    "language": "fr"
   }

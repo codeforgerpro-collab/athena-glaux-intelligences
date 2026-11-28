@@ -6,10 +6,32 @@
  "language": "en",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/event/341870.html",
+   "url": "https://athenaglauxintelligence.news/event/341870.html",
+   "title": "Iran says it shot down 'enemy reconnaissance drone' over Strait of Hormuz",
+   "summary": "Reported by 3 outlets in 2 countries since 28 Nov. First reported by Middle East Eye. ATHENA rates the risk 2.6/10 (moderate), with 67% confidence.",
+   "date_published": "2026-11-28T16:38:19Z",
+   "tags": [
+    "Geopolitics"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/342260.html",
+   "url": "https://athenaglauxintelligence.news/event/342260.html",
+   "title": "Netanyahu ready to become PM in rotation in unity cabinet — Ynet",
+   "summary": "Reported by 8 outlets in 7 countries since 28 Nov. First reported by Haaretz (English). ATHENA rates the risk 1.6/10 (low), with 90% confidence.",
+   "date_published": "2026-11-28T16:21:19Z",
+   "tags": [
+    "Geopolitics"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/340837.html",
    "url": "https://athenaglauxintelligence.news/event/340837.html",
    "title": "UK pensions department says it was targeted in cyberattack",
-   "summary": "Reported by 3 outlets in 3 countries since 28 Nov. First reported by IRNA (English). ATHENA rates the risk 3.8/10 (moderate), with 66% confidence.",
+   "summary": "Reported by 4 outlets in 4 countries since 28 Nov. First reported by IRNA (English). ATHENA rates the risk 5.7/10 (elevated), with 75% confidence.",
    "date_published": "2026-11-28T15:28:38Z",
    "tags": [
     "Technology & Cyber"
@@ -64,7 +86,7 @@
    "id": "https://athenaglauxintelligence.news/event/340345.html",
    "url": "https://athenaglauxintelligence.news/event/340345.html",
    "title": "Iran’s supreme leader adviser warns Iraq not to become ‘tool of Trump’",
-   "summary": "Reported by 6 outlets in 6 countries since 28 Nov. First reported by Mehr News (English). ATHENA rates the risk 1.8/10 (low), with 83% confidence.",
+   "summary": "Reported by 7 outlets in 6 countries since 28 Nov. First reported by Mehr News (English). ATHENA rates the risk 1.8/10 (low), with 84% confidence.",
    "date_published": "2026-11-28T12:06:30Z",
    "tags": [
     "Geopolitics"
@@ -88,6 +110,17 @@
    "title": "Sea Tribunal rejects Argentina’s request to halt Malvinas oil drilling",
    "summary": "Reported by 6 outlets in 3 countries since 28 Nov. First reported by Buenos Aires Times. ATHENA rates the risk 0.9/10 (low), with 74% confidence.",
    "date_published": "2026-11-28T11:10:12Z",
+   "tags": [
+    "Accidents & emergencies"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/341618.html",
+   "url": "https://athenaglauxintelligence.news/event/341618.html",
+   "title": "INDIA bloc announces joint opposition to Delimitation Bill, Modi confident of getting it passed",
+   "summary": "Reported by 3 outlets in 1 country since 28 Nov. First reported by Scroll.in. ATHENA rates the risk 0.9/10 (low), with 55% confidence.",
+   "date_published": "2026-11-28T10:44:38Z",
    "tags": [
     "Accidents & emergencies"
    ],
@@ -152,7 +185,7 @@
    "id": "https://athenaglauxintelligence.news/event/340263.html",
    "url": "https://athenaglauxintelligence.news/event/340263.html",
    "title": "US Army detonation of 4,500 kg. lead-azide in Iowa had near-zero environmental impact, EPA claims",
-   "summary": "Reported by 4 outlets in 4 countries since 28 Nov. First reported by The Straits Times. ATHENA rates the risk 4.2/10 (elevated), with 78% confidence.",
+   "summary": "Reported by 5 outlets in 4 countries since 28 Nov. First reported by The Straits Times. ATHENA rates the risk 4.2/10 (elevated), with 82% confidence.",
    "date_published": "2026-11-28T09:57:12Z",
    "tags": [
     "Energy & Environment"
@@ -251,7 +284,7 @@
    "id": "https://athenaglauxintelligence.news/event/338262.html",
    "url": "https://athenaglauxintelligence.news/event/338262.html",
    "title": "Explosion at a middle school in Afghanistan kills at least 10, injures 110",
-   "summary": "Reported by 41 outlets in 22 countries since 28 Nov. First reported by Indian Express. ATHENA rates the risk 6.4/10 (high), with 92% confidence.",
+   "summary": "Reported by 43 outlets in 23 countries since 28 Nov. First reported by Indian Express. ATHENA rates the risk 6.8/10 (high), with 92% confidence.",
    "date_published": "2026-11-28T03:09:24Z",
    "tags": [
     "Accidents & emergencies"
@@ -273,7 +306,7 @@
    "id": "https://athenaglauxintelligence.news/event/338722.html",
    "url": "https://athenaglauxintelligence.news/event/338722.html",
    "title": "US Military Repelled Drones at UK Airbase this Month, FT Reports",
-   "summary": "Reported by 19 outlets in 14 countries since 28 Nov. First reported by Express Tribune. ATHENA rates the risk 2.0/10 (moderate), with 94% confidence.",
+   "summary": "Reported by 20 outlets in 14 countries since 28 Nov. First reported by Express Tribune. ATHENA rates the risk 2.0/10 (moderate), with 94% confidence.",
    "date_published": "2026-11-28T02:51:02Z",
    "tags": [
     "Geopolitics"
@@ -383,7 +416,7 @@
    "id": "https://athenaglauxintelligence.news/event/336579.html",
    "url": "https://athenaglauxintelligence.news/event/336579.html",
    "title": "Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says",
-   "summary": "Reported by 42 outlets in 24 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 6.0/10 (high), with 92% confidence.",
+   "summary": "Reported by 44 outlets in 26 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 6.0/10 (high), with 92% confidence.",
    "date_published": "2026-11-27T22:48:15Z",
    "tags": [
     "Geopolitics"
@@ -407,39 +440,6 @@
    "title": "RAF ‘sorry’ after military jets flown low above Lockerbie",
    "summary": "Reported by 5 outlets in 1 country since 27 Nov. First reported by The Irish News (Belfast). ATHENA rates the risk 0.8/10 (low), with 64% confidence.",
    "date_published": "2026-11-27T22:13:39Z",
-   "tags": [
-    "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/337923.html",
-   "url": "https://athenaglauxintelligence.news/event/337923.html",
-   "title": "Gaza weather system threatens 1.3M Palestinians with humanitarian disaster",
-   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 3.2/10 (moderate), with 56% confidence.",
-   "date_published": "2026-11-27T21:47:47Z",
-   "tags": [
-    "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/336427.html",
-   "url": "https://athenaglauxintelligence.news/event/336427.html",
-   "title": "Gaza mural on rubble honors Besiktas player’s solidarity with Palestinians",
-   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 0.0/10 (none detected), with 67% confidence.",
-   "date_published": "2026-11-27T21:22:49Z",
-   "tags": [
-    "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/336034.html",
-   "url": "https://athenaglauxintelligence.news/event/336034.html",
-   "title": "Meloni is furious that Zelensky didn’t warn her before Ukraine’s strike on Russian ships in Libya",
-   "summary": "Reported by 9 outlets in 8 countries since 27 Nov. First reported by TASS (English). ATHENA rates the risk 4.7/10 (elevated), with 90% confidence.",
-   "date_published": "2026-11-27T20:17:03Z",
    "tags": [
     "Geopolitics"
    ],
