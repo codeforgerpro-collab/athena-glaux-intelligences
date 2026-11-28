@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-28T15:53:07Z",
+ "generated": "2026-11-28T16:34:04Z",
  "window_days": 7,
  "language": "en",
- "count": 966,
+ "count": 976,
  "licence": "https://athenaglauxintelligence.news/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -36,6 +36,20 @@
    "status": "spreading"
   },
   {
+   "id": 340545,
+   "url": "https://athenaglauxintelligence.news/event/340545.html",
+   "title": "8 die as minivan plunges into a gorge in Uttarakhand’s Pauri Garhwal district; 4 injured",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-28T10:41:48Z",
+   "last_reported": "2026-11-28T14:15:37Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 4.6,
+   "risk_band": "elevated",
+   "confidence_pct": 55,
+   "status": "fading"
+  },
+  {
    "id": 339786,
    "url": "https://athenaglauxintelligence.news/event/339786.html",
    "title": "Australia’s conservatives win landslide victory in bellwether state",
@@ -50,6 +64,20 @@
    "status": "fading"
   },
   {
+   "id": 339426,
+   "url": "https://athenaglauxintelligence.news/event/339426.html",
+   "title": "‘Jess we can’: Inside the room where Wilson made history",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-28T08:44:23Z",
+   "last_reported": "2026-11-28T12:37:37Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 49,
+   "status": "fading"
+  },
+  {
    "id": 339104,
    "url": "https://athenaglauxintelligence.news/event/339104.html",
    "title": "Musk Says Google Is Interested in Renting More Computing Capacity from SpaceX",
@@ -61,6 +89,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 83,
+   "status": "fading"
+  },
+  {
+   "id": 338281,
+   "url": "https://athenaglauxintelligence.news/event/338281.html",
+   "title": "Supreme Court refuses to entertain plea to reduce minimum age for contesting elections",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-28T07:39:12Z",
+   "last_reported": "2026-11-28T08:38:55Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 56,
    "status": "fading"
   },
   {
@@ -98,7 +140,7 @@
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-28T03:09:24Z",
    "last_reported": "2026-11-28T14:11:07Z",
-   "outlets": 30,
+   "outlets": 32,
    "countries": 20,
    "risk_score": 6.5,
    "risk_band": "high",
@@ -108,15 +150,15 @@
   {
    "id": 337608,
    "url": "https://athenaglauxintelligence.news/event/337608.html",
-   "title": "Eight killed in Peru military helicopter crash",
+   "title": "8 Killed, Pilot Survives In Peru Military Helicopter Crash",
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-28T02:54:51Z",
-   "last_reported": "2026-11-28T12:07:34Z",
-   "outlets": 7,
-   "countries": 7,
-   "risk_score": 6.1,
-   "risk_band": "high",
-   "confidence_pct": 83,
+   "last_reported": "2026-11-28T14:59:00Z",
+   "outlets": 11,
+   "countries": 11,
+   "risk_score": 5.8,
+   "risk_band": "elevated",
+   "confidence_pct": 88,
    "status": "fading"
   },
   {
@@ -125,9 +167,9 @@
    "title": "US Military Repelled Drones at UK Airbase this Month, FT Reports",
    "section": "Geopolitics",
    "first_reported": "2026-11-28T02:51:02Z",
-   "last_reported": "2026-11-28T09:46:21Z",
-   "outlets": 12,
-   "countries": 9,
+   "last_reported": "2026-11-28T14:43:00Z",
+   "outlets": 13,
+   "countries": 10,
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 93,
@@ -154,7 +196,7 @@
    "section": "Business",
    "first_reported": "2026-11-28T02:05:28Z",
    "last_reported": "2026-11-28T08:44:00Z",
-   "outlets": 12,
+   "outlets": 13,
    "countries": 5,
    "risk_score": 1.9,
    "risk_band": "low",
@@ -181,7 +223,7 @@
    "title": "Two American Airlines planes clip wings while taxiing at Washington airport",
    "section": "Trade & Industry",
    "first_reported": "2026-11-28T00:35:25Z",
-   "last_reported": "2026-11-28T06:31:23Z",
+   "last_reported": "2026-11-28T10:19:07Z",
    "outlets": 8,
    "countries": 6,
    "risk_score": 0.8,
@@ -224,7 +266,7 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-27T22:48:15Z",
    "last_reported": "2026-11-28T14:25:26Z",
-   "outlets": 31,
+   "outlets": 32,
    "countries": 17,
    "risk_score": 5.7,
    "risk_band": "elevated",
@@ -279,12 +321,12 @@
    "title": "Zelensky Tells Meloni Ukraine Did Not Coordinate Libya Strikes With Europe",
    "section": "Geopolitics",
    "first_reported": "2026-11-27T20:17:03Z",
-   "last_reported": "2026-11-28T09:56:25Z",
-   "outlets": 6,
-   "countries": 5,
-   "risk_score": 4.0,
+   "last_reported": "2026-11-28T10:32:46Z",
+   "outlets": 7,
+   "countries": 6,
+   "risk_score": 4.5,
    "risk_band": "elevated",
-   "confidence_pct": 85,
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -294,7 +336,7 @@
    "section": "Technology & Cyber",
    "first_reported": "2026-11-27T19:44:38Z",
    "last_reported": "2026-11-28T13:05:25Z",
-   "outlets": 21,
+   "outlets": 22,
    "countries": 11,
    "risk_score": 1.5,
    "risk_band": "low",
@@ -358,6 +400,20 @@
    "status": "fading"
   },
   {
+   "id": 334248,
+   "url": "https://athenaglauxintelligence.news/event/334248.html",
+   "title": "Memorial unveiled in Kyiv to British journalist Gareth Jones, who exposed Holodomor",
+   "section": "Technology & Cyber",
+   "first_reported": "2026-11-27T17:19:38Z",
+   "last_reported": "2026-11-28T13:02:00Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 63,
+   "status": "fading"
+  },
+  {
    "id": 337177,
    "url": "https://athenaglauxintelligence.news/event/337177.html",
    "title": "Sales for Biden memoir fall far short of books by Obama, Clinton",
@@ -369,6 +425,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 67,
+   "status": "fading"
+  },
+  {
+   "id": 334535,
+   "url": "https://athenaglauxintelligence.news/event/334535.html",
+   "title": "'Victory To Lord Murugan': PM Modi On Supreme Court's Deepam Order",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-27T16:57:31Z",
+   "last_reported": "2026-11-28T02:42:10Z",
+   "outlets": 4,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 63,
    "status": "fading"
   },
   {
@@ -397,20 +467,6 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 56,
-   "status": "fading"
-  },
-  {
-   "id": 335217,
-   "url": "https://athenaglauxintelligence.news/event/335217.html",
-   "title": "Ogun 2027: Senator Adeola Yayi Commends Judiciary on Victory Over Hunye",
-   "section": "Accidents & emergencies",
-   "first_reported": "2026-11-27T16:01:47Z",
-   "last_reported": "2026-11-28T03:05:18Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 54,
    "status": "fading"
   },
   {
@@ -447,12 +503,26 @@
    "title": "Spain to vote in election that could put far right in power for first time since Franco",
    "section": "Geopolitics",
    "first_reported": "2026-11-27T15:45:14Z",
-   "last_reported": "2026-11-28T11:00:39Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 3.6,
+   "last_reported": "2026-11-28T14:13:09Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 3.8,
    "risk_band": "moderate",
-   "confidence_pct": 65,
+   "confidence_pct": 74,
+   "status": "fading"
+  },
+  {
+   "id": 334761,
+   "url": "https://athenaglauxintelligence.news/event/334761.html",
+   "title": "Rescue operation completed in Nizhyn after Russian attack: death toll rises to seven – video",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-27T15:24:00Z",
+   "last_reported": "2026-11-28T09:38:00Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 5.2,
+   "risk_band": "elevated",
+   "confidence_pct": 58,
    "status": "fading"
   },
   {
@@ -587,13 +657,13 @@
    "title": "Tasoulas to meet Erdogan tomorrow in Constantinople at the Turkish President’s request",
    "section": "Geopolitics",
    "first_reported": "2026-11-27T14:05:02Z",
-   "last_reported": "2026-11-27T23:10:09Z",
+   "last_reported": "2026-11-28T15:59:50Z",
    "outlets": 4,
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 69,
-   "status": "fading"
+   "status": "peaking"
   },
   {
    "id": 333282,
@@ -629,12 +699,12 @@
    "title": "Norse Atlantic Airways: Another European airline goes bankrupt amid Iran war, rising fuel costs: All you need to know",
    "section": "Trade & Industry",
    "first_reported": "2026-11-27T13:51:13Z",
-   "last_reported": "2026-11-28T02:55:44Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 1.0,
+   "last_reported": "2026-11-28T09:15:26Z",
+   "outlets": 5,
+   "countries": 5,
+   "risk_score": 1.1,
    "risk_band": "low",
-   "confidence_pct": 74,
+   "confidence_pct": 78,
    "status": "fading"
   },
   {
@@ -848,6 +918,20 @@
    "status": "fading"
   },
   {
+   "id": 333139,
+   "url": "https://athenaglauxintelligence.news/event/333139.html",
+   "title": "\"Threat To Democracy\": INDIA Bloc To Oppose Delimitation Move",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-27T10:47:29Z",
+   "last_reported": "2026-11-28T14:21:50Z",
+   "outlets": 7,
+   "countries": 1,
+   "risk_score": 1.4,
+   "risk_band": "low",
+   "confidence_pct": 66,
+   "status": "fading"
+  },
+  {
    "id": 332165,
    "url": "https://athenaglauxintelligence.news/event/332165.html",
    "title": "Israeli army expels Palestinians from their lands, detains around 60 in occupied West Bank",
@@ -881,13 +965,13 @@
    "title": "Gazprom, BOTAS extend Russian gas supply deal by 3 years",
    "section": "Energy & Environment",
    "first_reported": "2026-11-27T10:26:00Z",
-   "last_reported": "2026-11-27T21:13:57Z",
-   "outlets": 4,
-   "countries": 3,
+   "last_reported": "2026-11-28T12:20:00Z",
+   "outlets": 5,
+   "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 70,
-   "status": "peaking"
+   "confidence_pct": 76,
+   "status": "fading"
   },
   {
    "id": 332328,
@@ -1282,6 +1366,20 @@
    "status": "fading"
   },
   {
+   "id": 331442,
+   "url": "https://athenaglauxintelligence.news/event/331442.html",
+   "title": "EU-Ukraine Drone Alliance may triple its number of participants",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-27T03:00:46Z",
+   "last_reported": "2026-11-28T11:26:00Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 63,
+   "status": "fading"
+  },
+  {
    "id": 330579,
    "url": "https://athenaglauxintelligence.news/event/330579.html",
    "title": "Lenders may pass on Labour’s bank tax hike to customers, cautions Andrew Bailey",
@@ -1584,7 +1682,7 @@
    "last_reported": "2026-11-28T12:00:00Z",
    "outlets": 11,
    "countries": 5,
-   "risk_score": 3.0,
+   "risk_score": 2.9,
    "risk_band": "moderate",
    "confidence_pct": 87,
    "status": "fading"
@@ -1665,7 +1763,7 @@
    "title": "Omo-Agege denies refusing police invitation over Delta attack",
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-26T23:14:45Z",
-   "last_reported": "2026-11-28T03:06:22Z",
+   "last_reported": "2026-11-28T15:13:07Z",
    "outlets": 5,
    "countries": 1,
    "risk_score": 5.0,
@@ -1772,6 +1870,20 @@
    "status": "fading"
   },
   {
+   "id": 339468,
+   "url": "https://athenaglauxintelligence.news/event/339468.html",
+   "title": "Straightforward win or One Nation shock? The federal stakes in Victoria’s vote",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-26T22:02:31Z",
+   "last_reported": "2026-11-28T10:36:13Z",
+   "outlets": 4,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 54,
+   "status": "fading"
+  },
+  {
    "id": 328656,
    "url": "https://athenaglauxintelligence.news/event/328656.html",
    "title": "Ukraine has ‘no intention’ of spreading war to Libya, says minister",
@@ -1819,13 +1931,13 @@
    "title": "The Best Black Friday Sonos Deals (2026): Up to 34% Off",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-26T20:50:37Z",
-   "last_reported": "2026-11-27T17:37:18Z",
-   "outlets": 5,
+   "last_reported": "2026-11-28T14:03:30Z",
+   "outlets": 7,
    "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 74,
-   "status": "peaking"
+   "confidence_pct": 77,
+   "status": "fading"
   },
   {
    "id": 326506,
@@ -2099,12 +2211,12 @@
    "title": "International court rejects Argentina’s bid to block Falklands oil drilling",
    "section": "Energy & Environment",
    "first_reported": "2026-11-26T17:10:36Z",
-   "last_reported": "2026-11-28T13:31:35Z",
-   "outlets": 8,
+   "last_reported": "2026-11-28T13:36:36Z",
+   "outlets": 9,
    "countries": 5,
    "risk_score": 1.1,
    "risk_band": "low",
-   "confidence_pct": 85,
+   "confidence_pct": 86,
    "status": "peaking"
   },
   {
@@ -2239,7 +2351,7 @@
    "title": "DMK's Stalin sets 2 conditions for Delimitation Bill",
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-26T16:02:57Z",
-   "last_reported": "2026-11-28T01:45:24Z",
+   "last_reported": "2026-11-28T12:20:52Z",
    "outlets": 6,
    "countries": 1,
    "risk_score": 0.6,
@@ -2894,15 +3006,15 @@
   {
    "id": 326305,
    "url": "https://athenaglauxintelligence.news/event/326305.html",
-   "title": "These $297 Meta Quest 3S Black Friday deals come with a $50 gift card",
+   "title": "The 29 Very Best Amazon Black Friday Deals (2026): Up to 60% Off",
    "section": "Business",
    "first_reported": "2026-11-26T12:05:35Z",
-   "last_reported": "2026-11-27T18:18:50Z",
+   "last_reported": "2026-11-28T12:00:04Z",
    "outlets": 4,
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 62,
+   "confidence_pct": 63,
    "status": "fading"
   },
   {
@@ -3522,18 +3634,32 @@
    "status": "fading"
   },
   {
+   "id": 321670,
+   "url": "https://athenaglauxintelligence.news/event/321670.html",
+   "title": "MLA Awhad says NCP (SP) will back delimitation bill, Sule seeks draft first",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-26T08:46:02Z",
+   "last_reported": "2026-11-28T00:20:36Z",
+   "outlets": 4,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 64,
+   "status": "fading"
+  },
+  {
    "id": 333273,
    "url": "https://athenaglauxintelligence.news/event/333273.html",
-   "title": "Sara Duterte won’t campaign for senators in possible 2028 bid",
+   "title": "VP Duterte yet to decide if she will testify in impeachment trial",
    "section": "Geopolitics",
    "first_reported": "2026-11-26T08:38:23Z",
-   "last_reported": "2026-11-27T18:47:10Z",
+   "last_reported": "2026-11-28T15:41:59Z",
    "outlets": 7,
    "countries": 4,
-   "risk_score": 2.9,
+   "risk_score": 3.4,
    "risk_band": "moderate",
    "confidence_pct": 79,
-   "status": "fading"
+   "status": "peaking"
   },
   {
    "id": 323275,
@@ -5356,6 +5482,20 @@
    "status": "fading"
   },
   {
+   "id": 331137,
+   "url": "https://athenaglauxintelligence.news/event/331137.html",
+   "title": "Thiruparankundram Row | Supreme Court Orders Lamp Lighting At Deepathoon Tomorrow; Issues Contempt Notice To TN Authorities",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-25T13:18:54Z",
+   "last_reported": "2026-11-28T03:54:05Z",
+   "outlets": 5,
+   "countries": 1,
+   "risk_score": 0.8,
+   "risk_band": "low",
+   "confidence_pct": 68,
+   "status": "fading"
+  },
+  {
    "id": 314846,
    "url": "https://athenaglauxintelligence.news/event/314846.html",
    "title": "Armenia plans full withdrawal of Russian border guards in coming years, prime minister says",
@@ -6014,6 +6154,20 @@
    "status": "fading"
   },
   {
+   "id": 332062,
+   "url": "https://athenaglauxintelligence.news/event/332062.html",
+   "title": "Swiss vote on easing arms export rules ignites fears for neutrality",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-25T08:32:59Z",
+   "last_reported": "2026-11-28T14:08:00Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 1.1,
+   "risk_band": "low",
+   "confidence_pct": 69,
+   "status": "fading"
+  },
+  {
    "id": 312173,
    "url": "https://athenaglauxintelligence.news/event/312173.html",
    "title": "Hyderabad family gets Rs 70,000 after airline cancels direct Thailand flights",
@@ -6285,7 +6439,7 @@
    "title": "Fancy a cuppa? The best coffee machine deals for Black Friday",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-25T05:43:10Z",
-   "last_reported": "2026-11-27T18:08:37Z",
+   "last_reported": "2026-11-28T08:58:38Z",
    "outlets": 3,
    "countries": 3,
    "risk_score": 0.0,
@@ -7204,6 +7358,20 @@
    "status": "spreading"
   },
   {
+   "id": 340907,
+   "url": "https://athenaglauxintelligence.news/event/340907.html",
+   "title": "Two trucks, one vehicle on fire on Oman highway; authorities say blaze under control",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-24T18:55:38Z",
+   "last_reported": "2026-11-28T12:10:57Z",
+   "outlets": 6,
+   "countries": 5,
+   "risk_score": 2.4,
+   "risk_band": "moderate",
+   "confidence_pct": 78,
+   "status": "fading"
+  },
+  {
    "id": 307978,
    "url": "https://athenaglauxintelligence.news/event/307978.html",
    "title": "SOUTH AFRICAN PILOT REPORTEDLY CAPTURED BY M23 REBELS IN EASTERN DRC",
@@ -7864,15 +8032,15 @@
   {
    "id": 305993,
    "url": "https://athenaglauxintelligence.news/event/305993.html",
-   "title": "Best Black Friday Gaming PC Deals live",
+   "title": "29 Best Black Friday Deals Under $100 (2026)",
    "section": "Business",
    "first_reported": "2026-11-24T12:42:59Z",
-   "last_reported": "2026-11-27T19:30:00Z",
+   "last_reported": "2026-11-28T10:25:39Z",
    "outlets": 8,
    "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 78,
+   "confidence_pct": 77,
    "status": "fading"
   },
   {
@@ -7910,9 +8078,9 @@
    "section": "Energy & Environment",
    "first_reported": "2026-11-24T12:00:00Z",
    "last_reported": "2026-11-28T15:20:13Z",
-   "outlets": 38,
+   "outlets": 39,
    "countries": 14,
-   "risk_score": 4.7,
+   "risk_score": 4.8,
    "risk_band": "elevated",
    "confidence_pct": 87,
    "status": "peaking"
@@ -12246,13 +12414,13 @@
   {
    "id": 305791,
    "url": "https://athenaglauxintelligence.news/event/305791.html",
-   "title": "Ukraine claims strike that damaged Russian oil refinery",
+   "title": "Drones Strike Russia’s Novoshakhtinsk Refinery and Samara Oil Hub",
    "section": "Geopolitics",
    "first_reported": "2026-11-22T16:45:05Z",
-   "last_reported": "2026-11-28T07:43:00Z",
+   "last_reported": "2026-11-28T08:44:00Z",
    "outlets": 27,
    "countries": 15,
-   "risk_score": 6.2,
+   "risk_score": 6.3,
    "risk_band": "high",
    "confidence_pct": 89,
    "status": "fading"
@@ -13501,34 +13669,6 @@
    "risk_score": 3.0,
    "risk_band": "moderate",
    "confidence_pct": 92,
-   "status": "fading"
-  },
-  {
-   "id": 299796,
-   "url": "https://athenaglauxintelligence.news/event/299796.html",
-   "title": "Will weather ground Macy’s Thanksgiving Parade balloons? Official floats start time change",
-   "section": "Economy & Markets",
-   "first_reported": "2026-11-21T16:23:00Z",
-   "last_reported": "2026-11-25T16:08:28Z",
-   "outlets": 6,
-   "countries": 3,
-   "risk_score": 4.0,
-   "risk_band": "moderate",
-   "confidence_pct": 72,
-   "status": "fading"
-  },
-  {
-   "id": 294662,
-   "url": "https://athenaglauxintelligence.news/event/294662.html",
-   "title": "PSX: stocks slip lower, KSE-100 down over 300 points",
-   "section": "Economy & Markets",
-   "first_reported": "2026-11-21T16:04:40Z",
-   "last_reported": "2026-11-27T07:31:50Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 0.7,
-   "risk_band": "low",
-   "confidence_pct": 57,
    "status": "fading"
   }
  ]
