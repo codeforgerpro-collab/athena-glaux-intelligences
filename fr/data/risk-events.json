@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-28T18:54:42Z",
+ "generated": "2026-11-28T19:37:12Z",
  "window_days": 7,
  "language": "fr",
- "count": 983,
+ "count": 988,
  "licence": "https://athenaglauxintelligence.news/fr/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -34,6 +34,20 @@
    "risk_band": "elevated",
    "confidence_pct": 53,
    "status": "peaking"
+  },
+  {
+   "id": 340949,
+   "url": "https://athenaglauxintelligence.news/fr/event/340949.html",
+   "title": "Magnitude 6.2 earthquake strikes Russia’s Kamchatka Peninsula",
+   "section": "Énergie et environnement",
+   "first_reported": "2026-11-28T14:18:00Z",
+   "last_reported": "2026-11-28T15:53:08Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 5.0,
+   "risk_band": "elevated",
+   "confidence_pct": 78,
+   "status": "fading"
   },
   {
    "id": 339935,
@@ -92,6 +106,20 @@
    "status": "spreading"
   },
   {
+   "id": 340476,
+   "url": "https://athenaglauxintelligence.news/fr/event/340476.html",
+   "title": "Sea Tribunal rejects Argentina’s request to halt Malvinas oil drilling",
+   "section": "Accidents et urgences",
+   "first_reported": "2026-11-28T11:10:12Z",
+   "last_reported": "2026-11-28T14:07:55Z",
+   "outlets": 6,
+   "countries": 3,
+   "risk_score": 0.9,
+   "risk_band": "low",
+   "confidence_pct": 74,
+   "status": "fading"
+  },
+  {
    "id": 340545,
    "url": "https://athenaglauxintelligence.news/fr/event/340545.html",
    "title": "8 die as minivan plunges into a gorge in Uttarakhand’s Pauri Garhwal district; 4 injured",
@@ -111,12 +139,12 @@
    "title": "Dep. Interior Minister Liakos Resigns Amid Controversy Over Awarded Contracts",
    "section": "Géopolitique",
    "first_reported": "2026-11-28T10:15:00Z",
-   "last_reported": "2026-11-28T13:08:02Z",
-   "outlets": 3,
+   "last_reported": "2026-11-28T14:36:35Z",
+   "outlets": 4,
    "countries": 2,
    "risk_score": 0.8,
    "risk_band": "low",
-   "confidence_pct": 66,
+   "confidence_pct": 72,
    "status": "emerging"
   },
   {
@@ -131,6 +159,20 @@
    "risk_score": 0.8,
    "risk_band": "low",
    "confidence_pct": 55,
+   "status": "emerging"
+  },
+  {
+   "id": 339114,
+   "url": "https://athenaglauxintelligence.news/fr/event/339114.html",
+   "title": "Upside risks to inflation likely in coming months on festive, wedding demand: FinMin report",
+   "section": "Économie et marchés",
+   "first_reported": "2026-11-28T10:06:53Z",
+   "last_reported": "2026-11-28T13:51:07Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 1.6,
+   "risk_band": "low",
+   "confidence_pct": 54,
    "status": "emerging"
   },
   {
@@ -154,12 +196,12 @@
    "section": "Énergie et environnement",
    "first_reported": "2026-11-28T09:57:12Z",
    "last_reported": "2026-11-28T16:05:02Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 4.4,
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 4.2,
    "risk_band": "elevated",
-   "confidence_pct": 71,
-   "status": "emerging"
+   "confidence_pct": 78,
+   "status": "fading"
   },
   {
    "id": 339426,
@@ -168,11 +210,11 @@
    "section": "Géopolitique",
    "first_reported": "2026-11-28T08:44:23Z",
    "last_reported": "2026-11-28T12:37:37Z",
-   "outlets": 3,
+   "outlets": 4,
    "countries": 1,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 49,
+   "confidence_pct": 57,
    "status": "fading"
   },
   {
@@ -181,13 +223,13 @@
    "title": "Musk Says Google Is Interested in Renting More Computing Capacity from SpaceX",
    "section": "Technologie et cyber",
    "first_reported": "2026-11-28T08:31:02Z",
-   "last_reported": "2026-11-28T11:57:45Z",
-   "outlets": 6,
+   "last_reported": "2026-11-28T16:14:44Z",
+   "outlets": 7,
    "countries": 6,
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 83,
-   "status": "fading"
+   "status": "emerging"
   },
   {
    "id": 339247,
@@ -221,15 +263,15 @@
    "id": 338694,
    "url": "https://athenaglauxintelligence.news/fr/event/338694.html",
    "title": "2027: We’ll give Nigerians petrol for N200/litre without subsidy — SDP’s Adebayo",
-   "section": "Énergie et environnement",
+   "section": "Géopolitique",
    "first_reported": "2026-11-28T05:41:25Z",
-   "last_reported": "2026-11-28T10:46:47Z",
+   "last_reported": "2026-11-28T18:45:51Z",
    "outlets": 5,
    "countries": 1,
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 63,
-   "status": "peaking"
+   "status": "fading"
   },
   {
    "id": 338925,
@@ -251,12 +293,12 @@
    "title": "US regulators shut United Fidelity Bank in biggest bank failure since 2024",
    "section": "Économie et marchés",
    "first_reported": "2026-11-28T04:51:06Z",
-   "last_reported": "2026-11-28T13:27:29Z",
-   "outlets": 4,
-   "countries": 3,
+   "last_reported": "2026-11-28T16:39:10Z",
+   "outlets": 5,
+   "countries": 4,
    "risk_score": 0.6,
    "risk_band": "low",
-   "confidence_pct": 73,
+   "confidence_pct": 80,
    "status": "fading"
   },
   {
@@ -265,13 +307,13 @@
    "title": "Explosion at a middle school in Afghanistan kills at least 10, injures 110",
    "section": "Accidents et urgences",
    "first_reported": "2026-11-28T03:09:24Z",
-   "last_reported": "2026-11-28T18:29:49Z",
-   "outlets": 38,
-   "countries": 21,
-   "risk_score": 6.9,
+   "last_reported": "2026-11-28T19:16:37Z",
+   "outlets": 41,
+   "countries": 22,
+   "risk_score": 6.4,
    "risk_band": "high",
-   "confidence_pct": 93,
-   "status": "peaking"
+   "confidence_pct": 92,
+   "status": "fading"
   },
   {
    "id": 337608,
@@ -294,11 +336,11 @@
    "section": "Géopolitique",
    "first_reported": "2026-11-28T02:51:02Z",
    "last_reported": "2026-11-28T15:04:57Z",
-   "outlets": 17,
-   "countries": 13,
+   "outlets": 19,
+   "countries": 14,
    "risk_score": 2.0,
    "risk_band": "moderate",
-   "confidence_pct": 93,
+   "confidence_pct": 94,
    "status": "fading"
   },
   {
@@ -336,11 +378,11 @@
    "section": "Géopolitique",
    "first_reported": "2026-11-28T02:05:27Z",
    "last_reported": "2026-11-28T16:59:41Z",
-   "outlets": 7,
+   "outlets": 8,
    "countries": 6,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 87,
+   "confidence_pct": 88,
    "status": "peaking"
   },
   {
@@ -680,6 +722,20 @@
    "status": "fading"
   },
   {
+   "id": 334270,
+   "url": "https://athenaglauxintelligence.news/fr/event/334270.html",
+   "title": "'Hero' gran dies saving two-year-old grandson's life in 'extraordinary act of bravery'",
+   "section": "Accidents et urgences",
+   "first_reported": "2026-11-27T15:38:26Z",
+   "last_reported": "2026-11-28T15:28:46Z",
+   "outlets": 4,
+   "countries": 2,
+   "risk_score": 4.0,
+   "risk_band": "moderate",
+   "confidence_pct": 65,
+   "status": "fading"
+  },
+  {
    "id": 334761,
    "url": "https://athenaglauxintelligence.news/fr/event/334761.html",
    "title": "Rescue operation completed in Nizhyn after Russian attack: death toll rises to seven – video",
@@ -724,16 +780,16 @@
   {
    "id": 335791,
    "url": "https://athenaglauxintelligence.news/fr/event/335791.html",
-   "title": "Rial Keeps Losing Value as Central Bank Chief Again Vows to Curb Prices",
+   "title": "Iran rial falls to near 3 million to US dollar",
    "section": "Économie et marchés",
    "first_reported": "2026-11-27T14:58:56Z",
    "last_reported": "2026-11-28T17:10:29Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 1.0,
-   "risk_band": "low",
-   "confidence_pct": 66,
-   "status": "fading"
+   "outlets": 4,
+   "countries": 2,
+   "risk_score": 4.6,
+   "risk_band": "elevated",
+   "confidence_pct": 73,
+   "status": "peaking"
   },
   {
    "id": 333405,
@@ -904,6 +960,20 @@
    "status": "fading"
   },
   {
+   "id": 332881,
+   "url": "https://athenaglauxintelligence.news/fr/event/332881.html",
+   "title": "Shenzhou-23, Shenzhou-24 astronauts complete in-orbit handover",
+   "section": "Technologie et cyber",
+   "first_reported": "2026-11-27T13:45:51Z",
+   "last_reported": "2026-11-28T18:01:08Z",
+   "outlets": 4,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 64,
+   "status": "spreading"
+  },
+  {
    "id": 332859,
    "url": "https://athenaglauxintelligence.news/fr/event/332859.html",
    "title": "Belgium orders Google to halt data center work over missing permit",
@@ -990,16 +1060,16 @@
   {
    "id": 332705,
    "url": "https://athenaglauxintelligence.news/fr/event/332705.html",
-   "title": "Downing Street issues statement amid DWP's 'ongoing' cyber incident",
+   "title": "DWP confirms it was targeted by cyber attack",
    "section": "Technologie et cyber",
    "first_reported": "2026-11-27T11:59:21Z",
-   "last_reported": "2026-11-28T17:03:49Z",
+   "last_reported": "2026-11-28T17:40:39Z",
    "outlets": 6,
    "countries": 1,
-   "risk_score": 4.4,
+   "risk_score": 4.7,
    "risk_band": "elevated",
    "confidence_pct": 67,
-   "status": "fading"
+   "status": "peaking"
   },
   {
    "id": 334741,
@@ -1120,9 +1190,9 @@
    "section": "Géopolitique",
    "first_reported": "2026-11-27T10:45:39Z",
    "last_reported": "2026-11-28T17:38:25Z",
-   "outlets": 10,
+   "outlets": 11,
    "countries": 8,
-   "risk_score": 6.6,
+   "risk_score": 6.7,
    "risk_band": "high",
    "confidence_pct": 87,
    "status": "peaking"
@@ -1478,6 +1548,20 @@
    "status": "fading"
   },
   {
+   "id": 330331,
+   "url": "https://athenaglauxintelligence.news/fr/event/330331.html",
+   "title": "US Black Friday spending set to rise despite inflation fears",
+   "section": "Économie et marchés",
+   "first_reported": "2026-11-27T06:32:15Z",
+   "last_reported": "2026-11-28T17:47:56Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 1.6,
+   "risk_band": "low",
+   "confidence_pct": 66,
+   "status": "fading"
+  },
+  {
    "id": 331945,
    "url": "https://athenaglauxintelligence.news/fr/event/331945.html",
    "title": "Hackers breach US Air Force flagship Cloud One computing platform",
@@ -1595,7 +1679,7 @@
    "title": "Francesca Albanese leaves Costa Rica after being denied entry, airport detention",
    "section": "Géopolitique",
    "first_reported": "2026-11-27T04:28:49Z",
-   "last_reported": "2026-11-28T15:47:16Z",
+   "last_reported": "2026-11-28T18:13:08Z",
    "outlets": 20,
    "countries": 14,
    "risk_score": 3.8,
@@ -1946,7 +2030,7 @@
    "section": "Technologie et cyber",
    "first_reported": "2026-11-27T00:00:00Z",
    "last_reported": "2026-11-28T17:00:44Z",
-   "outlets": 13,
+   "outlets": 14,
    "countries": 6,
    "risk_score": 4.3,
    "risk_band": "elevated",
@@ -2516,15 +2600,15 @@
   {
    "id": 325690,
    "url": "https://athenaglauxintelligence.news/fr/event/325690.html",
-   "title": "Settlers smash foundations of Palestinian family's homes in West Bank",
+   "title": "21 Settler Attacks on Palestinians in West Bank in 24 Hours",
    "section": "Économie et marchés",
    "first_reported": "2026-11-26T16:31:58Z",
-   "last_reported": "2026-11-27T22:10:15Z",
-   "outlets": 7,
-   "countries": 5,
+   "last_reported": "2026-11-28T18:22:27Z",
+   "outlets": 8,
+   "countries": 6,
    "risk_score": 1.5,
    "risk_band": "low",
-   "confidence_pct": 86,
+   "confidence_pct": 88,
    "status": "fading"
   },
   {
@@ -2722,6 +2806,20 @@
    "risk_band": "moderate",
    "confidence_pct": 78,
    "status": "emerging"
+  },
+  {
+   "id": 339136,
+   "url": "https://athenaglauxintelligence.news/fr/event/339136.html",
+   "title": "Netanyahu offers to rotate Israeli premiership with Eisenkot",
+   "section": "Géopolitique",
+   "first_reported": "2026-11-26T15:38:27Z",
+   "last_reported": "2026-11-28T18:11:11Z",
+   "outlets": 10,
+   "countries": 7,
+   "risk_score": 1.3,
+   "risk_band": "low",
+   "confidence_pct": 91,
+   "status": "spreading"
   },
   {
    "id": 323785,
@@ -3317,13 +3415,13 @@
    "title": "Eisenkot says Netanyahu's Likud dragged out unity talks, vows to form government in 8 days",
    "section": "Géopolitique",
    "first_reported": "2026-11-26T11:51:35Z",
-   "last_reported": "2026-11-28T03:05:30Z",
-   "outlets": 11,
-   "countries": 7,
+   "last_reported": "2026-11-28T18:59:47Z",
+   "outlets": 14,
+   "countries": 9,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 92,
-   "status": "fading"
+   "confidence_pct": 93,
+   "status": "peaking"
   },
   {
    "id": 325710,
@@ -3569,13 +3667,13 @@
    "title": "Body of Jordanian sailor missing after tanker attack found off UAE coast",
    "section": "Commerce et industrie",
    "first_reported": "2026-11-26T09:57:36Z",
-   "last_reported": "2026-11-26T16:51:20Z",
+   "last_reported": "2026-11-28T18:32:31Z",
    "outlets": 3,
    "countries": 3,
-   "risk_score": 1.4,
+   "risk_score": 1.3,
    "risk_band": "low",
    "confidence_pct": 66,
-   "status": "emerging"
+   "status": "fading"
   },
   {
    "id": 321448,
@@ -8343,10 +8441,10 @@
    "title": "Storms clear for first ever postponed Macy’s Thanksgiving Day parade",
    "section": "Énergie et environnement",
    "first_reported": "2026-11-24T12:00:00Z",
-   "last_reported": "2026-11-28T15:20:13Z",
+   "last_reported": "2026-11-28T17:07:53Z",
    "outlets": 40,
    "countries": 14,
-   "risk_score": 4.5,
+   "risk_score": 4.2,
    "risk_band": "elevated",
    "confidence_pct": 87,
    "status": "fading"
@@ -12081,12 +12179,12 @@
    "title": "Saudi coalition reports Houthi ballistic missile launch towards kingdom’s south",
    "section": "Géopolitique",
    "first_reported": "2026-11-23T04:25:00Z",
-   "last_reported": "2026-11-28T10:08:03Z",
+   "last_reported": "2026-11-28T16:00:21Z",
    "outlets": 13,
    "countries": 7,
-   "risk_score": 5.3,
+   "risk_score": 5.2,
    "risk_band": "elevated",
-   "confidence_pct": 92,
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -13740,34 +13838,6 @@
    "risk_band": "elevated",
    "confidence_pct": 88,
    "status": "spreading"
-  },
-  {
-   "id": 284973,
-   "url": "https://athenaglauxintelligence.news/fr/event/284973.html",
-   "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
-   "section": "Commerce et industrie",
-   "first_reported": "2026-11-21T19:30:39Z",
-   "last_reported": "2026-11-22T19:28:29Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 1.5,
-   "risk_band": "low",
-   "confidence_pct": 64,
-   "status": "fading"
-  },
-  {
-   "id": 284955,
-   "url": "https://athenaglauxintelligence.news/fr/event/284955.html",
-   "title": "Lagos Tightens Fire Safety Regulations to Protect Business Investments",
-   "section": "Accidents et urgences",
-   "first_reported": "2026-11-21T19:16:10Z",
-   "last_reported": "2026-11-25T09:31:30Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 1.5,
-   "risk_band": "low",
-   "confidence_pct": 60,
-   "status": "fading"
   }
  ]
 }
