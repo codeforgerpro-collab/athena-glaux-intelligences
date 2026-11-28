@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-28T22:43:51Z",
+ "generated": "2026-11-28T23:25:02Z",
  "window_days": 7,
  "language": "el",
- "count": 989,
+ "count": 986,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -24,13 +24,13 @@
   {
    "id": 342260,
    "url": "https://athenaglauxintelligence.news/el/event/342260.html",
-   "title": "Netanyahu ready to become PM in rotation in unity cabinet — Ynet",
+   "title": "Netanyahu offers Eisenkot first turn in proposed unity government",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-28T16:21:19Z",
-   "last_reported": "2026-11-28T21:19:08Z",
-   "outlets": 11,
-   "countries": 10,
-   "risk_score": 1.6,
+   "last_reported": "2026-11-28T22:07:02Z",
+   "outlets": 13,
+   "countries": 11,
+   "risk_score": 1.7,
    "risk_band": "low",
    "confidence_pct": 93,
    "status": "fading"
@@ -55,13 +55,13 @@
    "title": "UK pensions department says it was targeted in cyberattack",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-28T15:28:38Z",
-   "last_reported": "2026-11-28T19:16:00Z",
-   "outlets": 5,
-   "countries": 5,
-   "risk_score": 5.5,
+   "last_reported": "2026-11-28T22:57:03Z",
+   "outlets": 6,
+   "countries": 6,
+   "risk_score": 5.8,
    "risk_band": "elevated",
-   "confidence_pct": 80,
-   "status": "fading"
+   "confidence_pct": 84,
+   "status": "emerging"
   },
   {
    "id": 341210,
@@ -98,12 +98,12 @@
    "section": "Ενέργεια & Περιβάλλον",
    "first_reported": "2026-11-28T14:18:00Z",
    "last_reported": "2026-11-28T17:21:49Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 5.0,
+   "outlets": 5,
+   "countries": 5,
+   "risk_score": 5.4,
    "risk_band": "elevated",
-   "confidence_pct": 78,
-   "status": "fading"
+   "confidence_pct": 83,
+   "status": "emerging"
   },
   {
    "id": 341723,
@@ -139,13 +139,13 @@
    "title": "Iran’s supreme leader adviser warns Iraq not to become ‘tool of Trump’",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-28T12:06:30Z",
-   "last_reported": "2026-11-28T20:26:49Z",
-   "outlets": 8,
-   "countries": 6,
-   "risk_score": 1.9,
-   "risk_band": "low",
-   "confidence_pct": 86,
-   "status": "emerging"
+   "last_reported": "2026-11-28T22:00:04Z",
+   "outlets": 9,
+   "countries": 7,
+   "risk_score": 2.0,
+   "risk_band": "moderate",
+   "confidence_pct": 87,
+   "status": "peaking"
   },
   {
    "id": 341197,
@@ -187,6 +187,20 @@
    "risk_score": 0.9,
    "risk_band": "low",
    "confidence_pct": 74,
+   "status": "fading"
+  },
+  {
+   "id": 339437,
+   "url": "https://athenaglauxintelligence.news/el/event/339437.html",
+   "title": "Ukraine planning to destroy Putin’s prized bridge entirely",
+   "section": "Εμπόριο & Βιομηχανία",
+   "first_reported": "2026-11-28T10:47:41Z",
+   "last_reported": "2026-11-28T21:01:37Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 68,
    "status": "fading"
   },
   {
@@ -293,13 +307,13 @@
    "title": "‘Jess we can’: Inside the room where Wilson made history",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-28T08:44:23Z",
-   "last_reported": "2026-11-28T18:30:00Z",
+   "last_reported": "2026-11-28T18:47:43Z",
    "outlets": 4,
    "countries": 1,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 57,
-   "status": "emerging"
+   "confidence_pct": 58,
+   "status": "fading"
   },
   {
    "id": 339104,
@@ -476,12 +490,12 @@
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-28T02:05:27Z",
    "last_reported": "2026-11-28T18:06:13Z",
-   "outlets": 8,
-   "countries": 6,
+   "outlets": 9,
+   "countries": 7,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 88,
-   "status": "peaking"
+   "confidence_pct": 89,
+   "status": "fading"
   },
   {
    "id": 338772,
@@ -556,16 +570,16 @@
   {
    "id": 337352,
    "url": "https://athenaglauxintelligence.news/el/event/337352.html",
-   "title": "Los Angeles shaken by a 4.7-magnitude earthquake",
+   "title": "Earthquake, multiple aftershocks rattle Los Angeles",
    "section": "Ενέργεια & Περιβάλλον",
    "first_reported": "2026-11-27T23:35:11Z",
    "last_reported": "2026-11-28T22:11:45Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 5.0,
+   "outlets": 6,
+   "countries": 6,
+   "risk_score": 5.6,
    "risk_band": "elevated",
-   "confidence_pct": 75,
-   "status": "fading"
+   "confidence_pct": 85,
+   "status": "spreading"
   },
   {
    "id": 337896,
@@ -587,12 +601,12 @@
    "title": "Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T22:48:15Z",
-   "last_reported": "2026-11-28T18:12:48Z",
-   "outlets": 44,
-   "countries": 26,
+   "last_reported": "2026-11-28T22:57:03Z",
+   "outlets": 45,
+   "countries": 27,
    "risk_score": 6.0,
    "risk_band": "high",
-   "confidence_pct": 92,
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -728,11 +742,11 @@
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T18:00:18Z",
    "last_reported": "2026-11-28T15:42:33Z",
-   "outlets": 3,
+   "outlets": 4,
    "countries": 2,
-   "risk_score": 1.2,
+   "risk_score": 1.3,
    "risk_band": "low",
-   "confidence_pct": 67,
+   "confidence_pct": 72,
    "status": "fading"
   },
   {
@@ -910,11 +924,11 @@
    "section": "Οικονομία & Αγορές",
    "first_reported": "2026-11-27T14:58:56Z",
    "last_reported": "2026-11-28T19:33:37Z",
-   "outlets": 5,
+   "outlets": 6,
    "countries": 2,
-   "risk_score": 5.4,
+   "risk_score": 5.5,
    "risk_band": "elevated",
-   "confidence_pct": 76,
+   "confidence_pct": 78,
    "status": "fading"
   },
   {
@@ -1189,12 +1203,12 @@
    "title": "DWP confirms it was targeted by cyber attack",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-27T11:59:21Z",
-   "last_reported": "2026-11-28T17:40:39Z",
-   "outlets": 6,
-   "countries": 1,
-   "risk_score": 4.7,
+   "last_reported": "2026-11-28T18:42:58Z",
+   "outlets": 7,
+   "countries": 2,
+   "risk_score": 4.9,
    "risk_band": "elevated",
-   "confidence_pct": 68,
+   "confidence_pct": 76,
    "status": "fading"
   },
   {
@@ -2953,9 +2967,9 @@
    "title": "Netanyahu offers to rotate Israeli premiership with Eisenkot",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T15:38:27Z",
-   "last_reported": "2026-11-28T20:39:00Z",
-   "outlets": 14,
-   "countries": 10,
+   "last_reported": "2026-11-28T22:11:00Z",
+   "outlets": 15,
+   "countries": 11,
    "risk_score": 1.2,
    "risk_band": "low",
    "confidence_pct": 93,
@@ -6031,14 +6045,14 @@
    "id": 337205,
    "url": "https://athenaglauxintelligence.news/el/event/337205.html",
    "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills",
-   "section": "Εμπόριο & Βιομηχανία",
+   "section": "Γεωπολιτική",
    "first_reported": "2026-11-25T12:33:00Z",
-   "last_reported": "2026-11-27T18:46:56Z",
-   "outlets": 5,
-   "countries": 5,
+   "last_reported": "2026-11-28T16:15:27Z",
+   "outlets": 7,
+   "countries": 6,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 74,
+   "confidence_pct": 80,
    "status": "fading"
   },
   {
@@ -12330,15 +12344,15 @@
   {
    "id": 335407,
    "url": "https://athenaglauxintelligence.news/el/event/335407.html",
-   "title": "Saudi coalition reports Houthi ballistic missile launch towards kingdom’s south",
+   "title": "Saudi Arabia Intercepts Houthi Missile Targeting Riyadh as Strikes Hit Yemen’s Capital",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-23T04:25:00Z",
    "last_reported": "2026-11-28T16:00:21Z",
-   "outlets": 13,
-   "countries": 7,
+   "outlets": 14,
+   "countries": 8,
    "risk_score": 5.2,
    "risk_band": "elevated",
-   "confidence_pct": 91,
+   "confidence_pct": 92,
    "status": "fading"
   },
   {
@@ -13796,62 +13810,6 @@
    "risk_band": "moderate",
    "confidence_pct": 65,
    "status": "peaking"
-  },
-  {
-   "id": 285965,
-   "url": "https://athenaglauxintelligence.news/el/event/285965.html",
-   "title": "Between Nehru And Netanyahu, Rahul Gandhi Faces An Uncomfortable Question",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-21T23:22:31Z",
-   "last_reported": "2026-11-23T07:45:47Z",
-   "outlets": 4,
-   "countries": 1,
-   "risk_score": 2.1,
-   "risk_band": "moderate",
-   "confidence_pct": 59,
-   "status": "fading"
-  },
-  {
-   "id": 285333,
-   "url": "https://athenaglauxintelligence.news/el/event/285333.html",
-   "title": "Ukraine: Dashcam captures massive explosion on Lviv street",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-21T23:05:47Z",
-   "last_reported": "2026-11-22T14:32:18Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 4.8,
-   "risk_band": "elevated",
-   "confidence_pct": 71,
-   "status": "fading"
-  },
-  {
-   "id": 285543,
-   "url": "https://athenaglauxintelligence.news/el/event/285543.html",
-   "title": "Flights in Belgium cancelled on Monday due to strike",
-   "section": "Εμπόριο & Βιομηχανία",
-   "first_reported": "2026-11-21T22:50:17Z",
-   "last_reported": "2026-11-23T04:07:51Z",
-   "outlets": 14,
-   "countries": 11,
-   "risk_score": 1.6,
-   "risk_band": "low",
-   "confidence_pct": 90,
-   "status": "fading"
-  },
-  {
-   "id": 285430,
-   "url": "https://athenaglauxintelligence.news/el/event/285430.html",
-   "title": "US-Iran deal vital to easing global financial crises",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-21T22:46:13Z",
-   "last_reported": "2026-11-22T04:31:04Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 1.2,
-   "risk_band": "low",
-   "confidence_pct": 76,
-   "status": "emerging"
   }
  ]
 }
