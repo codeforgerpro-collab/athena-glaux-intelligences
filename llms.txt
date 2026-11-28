@@ -37,6 +37,7 @@
 
 - [IDF says it killed two Hamas members working as guards at Gaza MSF clinic](https://athenaglauxintelligence.news/event/336579.html): first reported 2026-11-27; 3 outlets, 2 countries.
 - [US disables ship in Gulf of Oman under Iran blockade](https://athenaglauxintelligence.news/event/333748.html): first reported 2026-11-27; 7 outlets, 6 countries.
+- [Hamas says son of leader Khalil al-Hayya survived Israeli attack](https://athenaglauxintelligence.news/event/336600.html): first reported 2026-11-27; 3 outlets, 2 countries.
 - [Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live](https://athenaglauxintelligence.news/event/333240.html): first reported 2026-11-27; 3 outlets, 2 countries.
 - [Bundestag passes Germany's federal budget for 2027](https://athenaglauxintelligence.news/event/333405.html): first reported 2026-11-27; 3 outlets, 3 countries.
 - [Italy says Zelenskyy 'not telling the truth' about informing allies of Benghazi attacks](https://athenaglauxintelligence.news/event/333762.html): first reported 2026-11-27; 4 outlets, 3 countries.
@@ -44,12 +45,11 @@
 - [Radomir Saicic: University professor to Student Movement supporter to presidential candidate](https://athenaglauxintelligence.news/event/332614.html): first reported 2026-11-27; 6 outlets, 6 countries.
 - [Downing Street issues statement amid DWP's 'ongoing' cyber incident](https://athenaglauxintelligence.news/event/332705.html): first reported 2026-11-27; 5 outlets, 1 country.
 - [Hezbollah using fishing boats to gather intel](https://athenaglauxintelligence.news/event/334741.html): first reported 2026-11-27; 3 outlets, 3 countries.
-- [Ukraine Warns Russia Could Make Black Sea a New ‘Hormuz’](https://athenaglauxintelligence.news/event/333467.html): first reported 2026-11-27; 3 outlets, 2 countries.
+- [Ukraine Warns Russia Could Make Black Sea a New ‘Hormuz’](https://athenaglauxintelligence.news/event/333467.html): first reported 2026-11-27; 4 outlets, 2 countries.
 - [Mashaba back as Joburg mayor](https://athenaglauxintelligence.news/event/333992.html): first reported 2026-11-27; 5 outlets, 2 countries.
 - [Israeli army expels Palestinians from their lands, detains around 60 in occupied West Bank](https://athenaglauxintelligence.news/event/332165.html): first reported 2026-11-27; 5 outlets, 5 countries.
 - [Global fashion brands shift orders from Bangladesh to India amid unrest](https://athenaglauxintelligence.news/event/332328.html): first reported 2026-11-27; 5 outlets, 3 countries.
 - [26 critically endangered turtles found hidden in travelers' luggage at Schiphol](https://athenaglauxintelligence.news/event/332768.html): first reported 2026-11-27; 5 outlets, 4 countries.
-- [UN warns famine risks rising as hunger hotspots increase](https://athenaglauxintelligence.news/event/331796.html): first reported 2026-11-27; 14 outlets, 10 countries.
 
 ## Optional
 
