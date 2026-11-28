@@ -6,17 +6,6 @@
  "language": "el",
  "items": [
   {
-   "id": "https://athenaglauxintelligence.news/el/event/337157.html",
-   "url": "https://athenaglauxintelligence.news/el/event/337157.html",
-   "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
-   "summary": "Αναφέρθηκε από 3 μέσα σε 3 χώρες από τις 28 Νοε. Πρώτη αναφορά από The Straits Times. Το ATHENA εκτιμά τον κίνδυνο σε 5.2/10 (αυξημένος), με βεβαιότητα 70%.",
-   "date_published": "2026-11-28T03:20:00Z",
-   "tags": [
-    "Ενέργεια & Περιβάλλον"
-   ],
-   "language": "el"
-  },
-  {
    "id": "https://athenaglauxintelligence.news/el/event/337608.html",
    "url": "https://athenaglauxintelligence.news/el/event/337608.html",
    "title": "Eight killed in Peru military helicopter crash",
@@ -42,7 +31,7 @@
    "id": "https://athenaglauxintelligence.news/el/event/336656.html",
    "url": "https://athenaglauxintelligence.news/el/event/336656.html",
    "title": "Two American Airlines planes clip wings while taxiing at Washington airport",
-   "summary": "Αναφέρθηκε από 5 μέσα σε 4 χώρες από τις 28 Νοε. Πρώτη αναφορά από UPI World News. Το ATHENA εκτιμά τον κίνδυνο σε 0.9/10 (χαμηλός), με βεβαιότητα 81%.",
+   "summary": "Αναφέρθηκε από 6 μέσα σε 5 χώρες από τις 28 Νοε. Πρώτη αναφορά από UPI World News. Το ATHENA εκτιμά τον κίνδυνο σε 0.9/10 (χαμηλός), με βεβαιότητα 85%.",
    "date_published": "2026-11-28T00:35:25Z",
    "tags": [
     "Εμπόριο & Βιομηχανία"
@@ -63,8 +52,8 @@
   {
    "id": "https://athenaglauxintelligence.news/el/event/336579.html",
    "url": "https://athenaglauxintelligence.news/el/event/336579.html",
-   "title": "Israeli strike kills two Doctors Without Borders staff in Gaza – MSF",
-   "summary": "Αναφέρθηκε από 10 μέσα σε 7 χώρες από τις 27 Νοε. Πρώτη αναφορά από Middle East Eye. Το ATHENA εκτιμά τον κίνδυνο σε 5.7/10 (αυξημένος), με βεβαιότητα 91%.",
+   "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+   "summary": "Αναφέρθηκε από 12 μέσα σε 8 χώρες από τις 27 Νοε. Πρώτη αναφορά από Middle East Eye. Το ATHENA εκτιμά τον κίνδυνο σε 5.7/10 (αυξημένος), με βεβαιότητα 91%.",
    "date_published": "2026-11-27T22:48:15Z",
    "tags": [
     "Γεωπολιτική"
@@ -85,8 +74,8 @@
   {
    "id": "https://athenaglauxintelligence.news/el/event/336418.html",
    "url": "https://athenaglauxintelligence.news/el/event/336418.html",
-   "title": "OpenAI countersues Apple for stealing trade secrets",
-   "summary": "Αναφέρθηκε από 12 μέσα σε 8 χώρες από τις 27 Νοε. Πρώτη αναφορά από Engadget. Το ATHENA εκτιμά τον κίνδυνο σε 1.5/10 (χαμηλός), με βεβαιότητα 88%.",
+   "title": "OpenAI accuses Apple of stealing trade secrets in countersuit",
+   "summary": "Αναφέρθηκε από 15 μέσα σε 9 χώρες από τις 27 Νοε. Πρώτη αναφορά από Engadget. Το ATHENA εκτιμά τον κίνδυνο σε 1.6/10 (χαμηλός), με βεβαιότητα 89%.",
    "date_published": "2026-11-27T19:44:38Z",
    "tags": [
     "Τεχνολογία & Κυβερνοασφάλεια"
@@ -97,10 +86,21 @@
    "id": "https://athenaglauxintelligence.news/el/event/334405.html",
    "url": "https://athenaglauxintelligence.news/el/event/334405.html",
    "title": "Satellite maps reveal sinking land could worsen flooding across Africa's coastal cities by 2050",
-   "summary": "Αναφέρθηκε από 3 μέσα σε 2 χώρες από τις 27 Νοε. Πρώτη αναφορά από Courthouse News. Το ATHENA εκτιμά τον κίνδυνο σε 4.2/10 (αυξημένος), με βεβαιότητα 62%.",
+   "summary": "Αναφέρθηκε από 4 μέσα σε 3 χώρες από τις 27 Νοε. Πρώτη αναφορά από Courthouse News. Το ATHENA εκτιμά τον κίνδυνο σε 5.0/10 (αυξημένος), με βεβαιότητα 71%.",
    "date_published": "2026-11-27T19:00:00Z",
    "tags": [
     "Τεχνολογία & Κυβερνοασφάλεια"
+   ],
+   "language": "el"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/el/event/335919.html",
+   "url": "https://athenaglauxintelligence.news/el/event/335919.html",
+   "title": "Oando seeks N203.8bn to fund oil projects, repay debts",
+   "summary": "Αναφέρθηκε από 3 μέσα σε 1 χώρα από τις 27 Νοε. Πρώτη αναφορά από Nairametrics. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 53%.",
+   "date_published": "2026-11-27T18:21:34Z",
+   "tags": [
+    "Επιχειρήσεις"
    ],
    "language": "el"
   },
@@ -118,8 +118,8 @@
   {
    "id": "https://athenaglauxintelligence.news/el/event/333748.html",
    "url": "https://athenaglauxintelligence.news/el/event/333748.html",
-   "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
-   "summary": "Αναφέρθηκε από 16 μέσα σε 11 χώρες από τις 27 Νοε. Πρώτη αναφορά από Anadolu Agency (English). Το ATHENA εκτιμά τον κίνδυνο σε 5.9/10 (αυξημένος), με βεβαιότητα 90%.",
+   "title": "US military says it disabled another ship attempting to breach Iran blockade",
+   "summary": "Αναφέρθηκε από 18 μέσα σε 12 χώρες από τις 27 Νοε. Πρώτη αναφορά από Anadolu Agency (English). Το ATHENA εκτιμά τον κίνδυνο σε 5.9/10 (αυξημένος), με βεβαιότητα 90%.",
    "date_published": "2026-11-27T16:55:58Z",
    "tags": [
     "Εμπόριο & Βιομηχανία"
@@ -272,11 +272,11 @@
   {
    "id": "https://athenaglauxintelligence.news/el/event/332859.html",
    "url": "https://athenaglauxintelligence.news/el/event/332859.html",
-   "title": "Belgium’s Wallonia halts Google data centre after permit was revoked",
-   "summary": "Αναφέρθηκε από 3 μέσα σε 3 χώρες από τις 27 Νοε. Πρώτη αναφορά από Arab News. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 65%.",
+   "title": "Belgium orders Google to halt data center work over missing permit",
+   "summary": "Αναφέρθηκε από 4 μέσα σε 4 χώρες από τις 27 Νοε. Πρώτη αναφορά από Arab News. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 72%.",
    "date_published": "2026-11-27T13:42:56Z",
    "tags": [
-    "Εμπόριο & Βιομηχανία"
+    "Τεχνολογία & Κυβερνοασφάλεια"
    ],
    "language": "el"
   },
@@ -438,7 +438,7 @@
    "id": "https://athenaglauxintelligence.news/el/event/333549.html",
    "url": "https://athenaglauxintelligence.news/el/event/333549.html",
    "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-   "summary": "Αναφέρθηκε από 4 μέσα σε 3 χώρες από τις 27 Νοε. Πρώτη αναφορά από BBC News. Το ATHENA εκτιμά τον κίνδυνο σε 1.6/10 (χαμηλός), με βεβαιότητα 74%.",
+   "summary": "Αναφέρθηκε από 5 μέσα σε 4 χώρες από τις 27 Νοε. Πρώτη αναφορά από BBC News. Το ATHENA εκτιμά τον κίνδυνο σε 1.6/10 (χαμηλός), με βεβαιότητα 80%.",
    "date_published": "2026-11-27T11:22:02Z",
    "tags": [
     "Δυστυχήματα & έκτακτες ανάγκες"

@@ -6,17 +6,6 @@
  "language": "en",
  "items": [
   {
-   "id": "https://athenaglauxintelligence.news/event/337157.html",
-   "url": "https://athenaglauxintelligence.news/event/337157.html",
-   "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
-   "summary": "Reported by 3 outlets in 3 countries since 28 Nov. First reported by The Straits Times. ATHENA rates the risk 5.2/10 (elevated), with 70% confidence.",
-   "date_published": "2026-11-28T03:20:00Z",
-   "tags": [
-    "Energy & Environment"
-   ],
-   "language": "en"
-  },
-  {
    "id": "https://athenaglauxintelligence.news/event/337608.html",
    "url": "https://athenaglauxintelligence.news/event/337608.html",
    "title": "Eight killed in Peru military helicopter crash",
@@ -42,7 +31,7 @@
    "id": "https://athenaglauxintelligence.news/event/336656.html",
    "url": "https://athenaglauxintelligence.news/event/336656.html",
    "title": "Two American Airlines planes clip wings while taxiing at Washington airport",
-   "summary": "Reported by 5 outlets in 4 countries since 28 Nov. First reported by UPI World News. ATHENA rates the risk 0.9/10 (low), with 81% confidence.",
+   "summary": "Reported by 6 outlets in 5 countries since 28 Nov. First reported by UPI World News. ATHENA rates the risk 0.9/10 (low), with 85% confidence.",
    "date_published": "2026-11-28T00:35:25Z",
    "tags": [
     "Trade & Industry"
@@ -63,8 +52,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/336579.html",
    "url": "https://athenaglauxintelligence.news/event/336579.html",
-   "title": "Israeli strike kills two Doctors Without Borders staff in Gaza – MSF",
-   "summary": "Reported by 10 outlets in 7 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 5.7/10 (elevated), with 91% confidence.",
+   "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+   "summary": "Reported by 12 outlets in 8 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 5.7/10 (elevated), with 91% confidence.",
    "date_published": "2026-11-27T22:48:15Z",
    "tags": [
     "Geopolitics"
@@ -85,8 +74,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/336418.html",
    "url": "https://athenaglauxintelligence.news/event/336418.html",
-   "title": "OpenAI countersues Apple for stealing trade secrets",
-   "summary": "Reported by 12 outlets in 8 countries since 27 Nov. First reported by Engadget. ATHENA rates the risk 1.5/10 (low), with 88% confidence.",
+   "title": "OpenAI accuses Apple of stealing trade secrets in countersuit",
+   "summary": "Reported by 15 outlets in 9 countries since 27 Nov. First reported by Engadget. ATHENA rates the risk 1.6/10 (low), with 89% confidence.",
    "date_published": "2026-11-27T19:44:38Z",
    "tags": [
     "Technology & Cyber"
@@ -97,10 +86,21 @@
    "id": "https://athenaglauxintelligence.news/event/334405.html",
    "url": "https://athenaglauxintelligence.news/event/334405.html",
    "title": "Satellite maps reveal sinking land could worsen flooding across Africa's coastal cities by 2050",
-   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by Courthouse News. ATHENA rates the risk 4.2/10 (elevated), with 62% confidence.",
+   "summary": "Reported by 4 outlets in 3 countries since 27 Nov. First reported by Courthouse News. ATHENA rates the risk 5.0/10 (elevated), with 71% confidence.",
    "date_published": "2026-11-27T19:00:00Z",
    "tags": [
     "Technology & Cyber"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/335919.html",
+   "url": "https://athenaglauxintelligence.news/event/335919.html",
+   "title": "Oando seeks N203.8bn to fund oil projects, repay debts",
+   "summary": "Reported by 3 outlets in 1 country since 27 Nov. First reported by Nairametrics. ATHENA rates the risk 0.0/10 (none detected), with 53% confidence.",
+   "date_published": "2026-11-27T18:21:34Z",
+   "tags": [
+    "Business"
    ],
    "language": "en"
   },
@@ -118,8 +118,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/333748.html",
    "url": "https://athenaglauxintelligence.news/event/333748.html",
-   "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
-   "summary": "Reported by 16 outlets in 11 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 5.9/10 (elevated), with 90% confidence.",
+   "title": "US military says it disabled another ship attempting to breach Iran blockade",
+   "summary": "Reported by 18 outlets in 12 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 5.9/10 (elevated), with 90% confidence.",
    "date_published": "2026-11-27T16:55:58Z",
    "tags": [
     "Trade & Industry"
@@ -272,11 +272,11 @@
   {
    "id": "https://athenaglauxintelligence.news/event/332859.html",
    "url": "https://athenaglauxintelligence.news/event/332859.html",
-   "title": "Belgium’s Wallonia halts Google data centre after permit was revoked",
-   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by Arab News. ATHENA rates the risk 0.0/10 (none detected), with 65% confidence.",
+   "title": "Belgium orders Google to halt data center work over missing permit",
+   "summary": "Reported by 4 outlets in 4 countries since 27 Nov. First reported by Arab News. ATHENA rates the risk 0.0/10 (none detected), with 72% confidence.",
    "date_published": "2026-11-27T13:42:56Z",
    "tags": [
-    "Trade & Industry"
+    "Technology & Cyber"
    ],
    "language": "en"
   },
@@ -438,7 +438,7 @@
    "id": "https://athenaglauxintelligence.news/event/333549.html",
    "url": "https://athenaglauxintelligence.news/event/333549.html",
    "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-   "summary": "Reported by 4 outlets in 3 countries since 27 Nov. First reported by BBC News. ATHENA rates the risk 1.6/10 (low), with 74% confidence.",
+   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by BBC News. ATHENA rates the risk 1.6/10 (low), with 80% confidence.",
    "date_published": "2026-11-27T11:22:02Z",
    "tags": [
     "Accidents & emergencies"

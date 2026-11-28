@@ -6,17 +6,6 @@
  "language": "fr",
  "items": [
   {
-   "id": "https://athenaglauxintelligence.news/fr/event/337157.html",
-   "url": "https://athenaglauxintelligence.news/fr/event/337157.html",
-   "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
-   "summary": "Relayé par 3 médias dans 3 pays depuis le 28 nov. Premier à l'annoncer : The Straits Times. ATHENA évalue le risque à 5.2/10 (accru), avec 70 % de confiance.",
-   "date_published": "2026-11-28T03:20:00Z",
-   "tags": [
-    "Énergie et environnement"
-   ],
-   "language": "fr"
-  },
-  {
    "id": "https://athenaglauxintelligence.news/fr/event/337608.html",
    "url": "https://athenaglauxintelligence.news/fr/event/337608.html",
    "title": "Eight killed in Peru military helicopter crash",
@@ -42,7 +31,7 @@
    "id": "https://athenaglauxintelligence.news/fr/event/336656.html",
    "url": "https://athenaglauxintelligence.news/fr/event/336656.html",
    "title": "Two American Airlines planes clip wings while taxiing at Washington airport",
-   "summary": "Relayé par 5 médias dans 4 pays depuis le 28 nov. Premier à l'annoncer : UPI World News. ATHENA évalue le risque à 0.9/10 (faible), avec 81 % de confiance.",
+   "summary": "Relayé par 6 médias dans 5 pays depuis le 28 nov. Premier à l'annoncer : UPI World News. ATHENA évalue le risque à 0.9/10 (faible), avec 85 % de confiance.",
    "date_published": "2026-11-28T00:35:25Z",
    "tags": [
     "Commerce et industrie"
@@ -63,8 +52,8 @@
   {
    "id": "https://athenaglauxintelligence.news/fr/event/336579.html",
    "url": "https://athenaglauxintelligence.news/fr/event/336579.html",
-   "title": "Israeli strike kills two Doctors Without Borders staff in Gaza – MSF",
-   "summary": "Relayé par 10 médias dans 7 pays depuis le 27 nov. Premier à l'annoncer : Middle East Eye. ATHENA évalue le risque à 5.7/10 (accru), avec 91 % de confiance.",
+   "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
+   "summary": "Relayé par 12 médias dans 8 pays depuis le 27 nov. Premier à l'annoncer : Middle East Eye. ATHENA évalue le risque à 5.7/10 (accru), avec 91 % de confiance.",
    "date_published": "2026-11-27T22:48:15Z",
    "tags": [
     "Géopolitique"
@@ -85,8 +74,8 @@
   {
    "id": "https://athenaglauxintelligence.news/fr/event/336418.html",
    "url": "https://athenaglauxintelligence.news/fr/event/336418.html",
-   "title": "OpenAI countersues Apple for stealing trade secrets",
-   "summary": "Relayé par 12 médias dans 8 pays depuis le 27 nov. Premier à l'annoncer : Engadget. ATHENA évalue le risque à 1.5/10 (faible), avec 88 % de confiance.",
+   "title": "OpenAI accuses Apple of stealing trade secrets in countersuit",
+   "summary": "Relayé par 15 médias dans 9 pays depuis le 27 nov. Premier à l'annoncer : Engadget. ATHENA évalue le risque à 1.6/10 (faible), avec 89 % de confiance.",
    "date_published": "2026-11-27T19:44:38Z",
    "tags": [
     "Technologie et cyber"
@@ -97,10 +86,21 @@
    "id": "https://athenaglauxintelligence.news/fr/event/334405.html",
    "url": "https://athenaglauxintelligence.news/fr/event/334405.html",
    "title": "Satellite maps reveal sinking land could worsen flooding across Africa's coastal cities by 2050",
-   "summary": "Relayé par 3 médias dans 2 pays depuis le 27 nov. Premier à l'annoncer : Courthouse News. ATHENA évalue le risque à 4.2/10 (accru), avec 62 % de confiance.",
+   "summary": "Relayé par 4 médias dans 3 pays depuis le 27 nov. Premier à l'annoncer : Courthouse News. ATHENA évalue le risque à 5.0/10 (accru), avec 71 % de confiance.",
    "date_published": "2026-11-27T19:00:00Z",
    "tags": [
     "Technologie et cyber"
+   ],
+   "language": "fr"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/fr/event/335919.html",
+   "url": "https://athenaglauxintelligence.news/fr/event/335919.html",
+   "title": "Oando seeks N203.8bn to fund oil projects, repay debts",
+   "summary": "Relayé par 3 médias dans 1 pays depuis le 27 nov. Premier à l'annoncer : Nairametrics. ATHENA évalue le risque à 0.0/10 (nul), avec 53 % de confiance.",
+   "date_published": "2026-11-27T18:21:34Z",
+   "tags": [
+    "Entreprises"
    ],
    "language": "fr"
   },
@@ -118,8 +118,8 @@
   {
    "id": "https://athenaglauxintelligence.news/fr/event/333748.html",
    "url": "https://athenaglauxintelligence.news/fr/event/333748.html",
-   "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
-   "summary": "Relayé par 16 médias dans 11 pays depuis le 27 nov. Premier à l'annoncer : Anadolu Agency (English). ATHENA évalue le risque à 5.9/10 (accru), avec 90 % de confiance.",
+   "title": "US military says it disabled another ship attempting to breach Iran blockade",
+   "summary": "Relayé par 18 médias dans 12 pays depuis le 27 nov. Premier à l'annoncer : Anadolu Agency (English). ATHENA évalue le risque à 5.9/10 (accru), avec 90 % de confiance.",
    "date_published": "2026-11-27T16:55:58Z",
    "tags": [
     "Commerce et industrie"
@@ -272,11 +272,11 @@
   {
    "id": "https://athenaglauxintelligence.news/fr/event/332859.html",
    "url": "https://athenaglauxintelligence.news/fr/event/332859.html",
-   "title": "Belgium’s Wallonia halts Google data centre after permit was revoked",
-   "summary": "Relayé par 3 médias dans 3 pays depuis le 27 nov. Premier à l'annoncer : Arab News. ATHENA évalue le risque à 0.0/10 (nul), avec 65 % de confiance.",
+   "title": "Belgium orders Google to halt data center work over missing permit",
+   "summary": "Relayé par 4 médias dans 4 pays depuis le 27 nov. Premier à l'annoncer : Arab News. ATHENA évalue le risque à 0.0/10 (nul), avec 72 % de confiance.",
    "date_published": "2026-11-27T13:42:56Z",
    "tags": [
-    "Commerce et industrie"
+    "Technologie et cyber"
    ],
    "language": "fr"
   },
@@ -438,7 +438,7 @@
    "id": "https://athenaglauxintelligence.news/fr/event/333549.html",
    "url": "https://athenaglauxintelligence.news/fr/event/333549.html",
    "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-   "summary": "Relayé par 4 médias dans 3 pays depuis le 27 nov. Premier à l'annoncer : BBC News. ATHENA évalue le risque à 1.6/10 (faible), avec 74 % de confiance.",
+   "summary": "Relayé par 5 médias dans 4 pays depuis le 27 nov. Premier à l'annoncer : BBC News. ATHENA évalue le risque à 1.6/10 (faible), avec 80 % de confiance.",
    "date_published": "2026-11-27T11:22:02Z",
    "tags": [
     "Accidents et urgences"

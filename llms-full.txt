@@ -49,11 +49,11 @@
 ## Latest stories
 
 - [Bisleri faces second prosecution after coliform bacteria found in West Bengal sample: Report](https://athenaglauxintelligence.news/event/337476.html): first reported 2026-11-28; 8 outlets, 3 countries.
-- [Two American Airlines planes clip wings while taxiing at Washington airport](https://athenaglauxintelligence.news/event/336656.html): first reported 2026-11-28; 5 outlets, 4 countries.
-- [Israeli strike kills two Doctors Without Borders staff in Gaza – MSF](https://athenaglauxintelligence.news/event/336579.html): first reported 2026-11-27; 10 outlets, 7 countries.
+- [Two American Airlines planes clip wings while taxiing at Washington airport](https://athenaglauxintelligence.news/event/336656.html): first reported 2026-11-28; 6 outlets, 5 countries.
+- [Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff](https://athenaglauxintelligence.news/event/336579.html): first reported 2026-11-27; 12 outlets, 8 countries.
 - [Zelensky Tells Meloni Ukraine Did Not Coordinate Libya Strikes With Europe](https://athenaglauxintelligence.news/event/336034.html): first reported 2026-11-27; 4 outlets, 3 countries.
-- [OpenAI countersues Apple for stealing trade secrets](https://athenaglauxintelligence.news/event/336418.html): first reported 2026-11-27; 12 outlets, 8 countries.
-- [US disables ship trying to leave Iran, as Tehran vows to confront blockade](https://athenaglauxintelligence.news/event/333748.html): first reported 2026-11-27; 16 outlets, 11 countries.
+- [OpenAI accuses Apple of stealing trade secrets in countersuit](https://athenaglauxintelligence.news/event/336418.html): first reported 2026-11-27; 15 outlets, 9 countries.
+- [US military says it disabled another ship attempting to breach Iran blockade](https://athenaglauxintelligence.news/event/333748.html): first reported 2026-11-27; 18 outlets, 12 countries.
 - [Hamas Claims Its Chief's Youngest Son Survived Israeli Attack In Gaza](https://athenaglauxintelligence.news/event/336600.html): first reported 2026-11-27; 5 outlets, 3 countries.
 - [Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live](https://athenaglauxintelligence.news/event/333240.html): first reported 2026-11-27; 3 outlets, 2 countries.
 - [Bundestag passes Germany's federal budget for 2027](https://athenaglauxintelligence.news/event/333405.html): first reported 2026-11-27; 3 outlets, 3 countries.
@@ -72,6 +72,7 @@
 - [CENTCOM Says Six Vessels Disabled for Defying US Naval Blockade](https://athenaglauxintelligence.news/event/334330.html): first reported 2026-11-27; 5 outlets, 4 countries.
 - [Ukraine proposes Black Sea ceasefire, awaits Russia's response](https://athenaglauxintelligence.news/event/333467.html): first reported 2026-11-27; 8 outlets, 5 countries.
 - [Mashaba back as Joburg mayor](https://athenaglauxintelligence.news/event/333992.html): first reported 2026-11-27; 8 outlets, 4 countries.
+- [Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder](https://athenaglauxintelligence.news/event/333549.html): first reported 2026-11-27; 5 outlets, 4 countries.
 - [Israeli army expels Palestinians from their lands, detains around 60 in occupied West Bank](https://athenaglauxintelligence.news/event/332165.html): first reported 2026-11-27; 5 outlets, 5 countries.
 - [German Rheinmetall may scrap launch of ammunition plant in Ukraine](https://athenaglauxintelligence.news/event/333966.html): first reported 2026-11-27; 3 outlets, 2 countries.
 - [Global fashion brands shift orders from Bangladesh to India amid unrest](https://athenaglauxintelligence.news/event/332328.html): first reported 2026-11-27; 7 outlets, 3 countries.
@@ -82,12 +83,11 @@
 - [BoU backs MTN-MOGO smartphone financing drive](https://athenaglauxintelligence.news/event/331731.html): first reported 2026-11-27; 3 outlets, 1 country.
 - [Russian hybrid attacks could cause ‘mass casualty event’ in Europe, report warns](https://athenaglauxintelligence.news/event/331423.html): first reported 2026-11-27; 6 outlets, 4 countries.
 - [EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts](https://athenaglauxintelligence.news/event/331342.html): first reported 2026-11-27; 3 outlets, 3 countries.
+- [Burkina Faso seeks closer parliamentary ties with Nigeria](https://athenaglauxintelligence.news/event/330898.html): first reported 2026-11-27; 4 outlets, 2 countries.
 - [DMK to support delimitation bill](https://athenaglauxintelligence.news/event/333154.html): first reported 2026-11-27; 5 outlets, 1 country.
 - [Oil on track to snap 3-week losing streak over supply fears](https://athenaglauxintelligence.news/event/332894.html): first reported 2026-11-27; 5 outlets, 4 countries.
-- [Hackers breach US Air Force Cloud computing platform](https://athenaglauxintelligence.news/event/331945.html): first reported 2026-11-27; 27 outlets, 15 countries.
+- [Hackers Breached U.S. Air Force’s Cloud One Platform](https://athenaglauxintelligence.news/event/331945.html): first reported 2026-11-27; 28 outlets, 16 countries.
 - [US pushed Venezuela, Iraq to consider leaving OPEC](https://athenaglauxintelligence.news/event/330800.html): first reported 2026-11-27; 14 outlets, 9 countries.
-- [India-U.S. trade deal is close to culmination: Goyal](https://athenaglauxintelligence.news/event/330426.html): first reported 2026-11-27; 8 outlets, 3 countries.
-- [Obado files appeal hours after 25-year sentence over Sharon Otieno's murder](https://athenaglauxintelligence.news/event/330480.html): first reported 2026-11-27; 5 outlets, 1 country.
 
 ## Optional
 
