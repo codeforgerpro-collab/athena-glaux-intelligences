@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-28T09:03:05Z",
+ "generated": "2026-11-28T09:46:19Z",
  "window_days": 7,
  "language": "el",
- "count": 976,
+ "count": 978,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -41,13 +41,13 @@
    "title": "Bisleri faces second prosecution after coliform bacteria found in West Bengal sample: Report",
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-28T02:05:28Z",
-   "last_reported": "2026-11-28T07:58:56Z",
-   "outlets": 5,
+   "last_reported": "2026-11-28T08:44:00Z",
+   "outlets": 7,
    "countries": 2,
-   "risk_score": 1.2,
+   "risk_score": 2.0,
    "risk_band": "low",
-   "confidence_pct": 69,
-   "status": "emerging"
+   "confidence_pct": 72,
+   "status": "peaking"
   },
   {
    "id": 336656,
@@ -62,6 +62,20 @@
    "risk_band": "low",
    "confidence_pct": 81,
    "status": "peaking"
+  },
+  {
+   "id": 337050,
+   "url": "https://athenaglauxintelligence.news/el/event/337050.html",
+   "title": "Poison seller linked to 79 deaths in UK ‘should spend 25 years in jail’",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-27T22:53:32Z",
+   "last_reported": "2026-11-28T08:21:38Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 5.4,
+   "risk_band": "elevated",
+   "confidence_pct": 50,
+   "status": "emerging"
   },
   {
    "id": 336579,
@@ -228,7 +242,7 @@
    "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 82,
+   "confidence_pct": 83,
    "status": "fading"
   },
   {
@@ -248,15 +262,15 @@
   {
    "id": 335206,
    "url": "https://athenaglauxintelligence.news/el/event/335206.html",
-   "title": "Turkish FM to reaffirm Ankara's collective defense pledge at Mecca pact meeting",
+   "title": "Mecca alliance advances plans for joint military command",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T14:37:25Z",
-   "last_reported": "2026-11-28T00:47:05Z",
-   "outlets": 6,
+   "last_reported": "2026-11-28T05:47:42Z",
+   "outlets": 7,
    "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 84,
+   "confidence_pct": 86,
    "status": "fading"
   },
   {
@@ -307,12 +321,26 @@
    "title": "Hungary lifts entry ban on Ukrainian drone commander Robert “Magyar” Brovdi",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T13:54:00Z",
-   "last_reported": "2026-11-28T04:43:59Z",
-   "outlets": 3,
+   "last_reported": "2026-11-28T07:29:00Z",
+   "outlets": 4,
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 62,
+   "confidence_pct": 67,
+   "status": "fading"
+  },
+  {
+   "id": 336095,
+   "url": "https://athenaglauxintelligence.news/el/event/336095.html",
+   "title": "Dmitriev: Russian AI helps us prepare for negotiations",
+   "section": "Τεχνολογία & Κυβερνοασφάλεια",
+   "first_reported": "2026-11-27T13:47:45Z",
+   "last_reported": "2026-11-27T23:24:00Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.8,
+   "risk_band": "low",
+   "confidence_pct": 65,
    "status": "fading"
   },
   {
@@ -364,11 +392,11 @@
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T12:42:02Z",
    "last_reported": "2026-11-27T23:46:49Z",
-   "outlets": 6,
+   "outlets": 7,
    "countries": 5,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 83,
+   "confidence_pct": 85,
    "status": "fading"
   },
   {
@@ -397,6 +425,20 @@
    "risk_score": 1.4,
    "risk_band": "low",
    "confidence_pct": 53,
+   "status": "fading"
+  },
+  {
+   "id": 333114,
+   "url": "https://athenaglauxintelligence.news/el/event/333114.html",
+   "title": "Kenneth Law apologizes in court to victims’ families, prosecutors demand 25-year sentence",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-27T12:11:02Z",
+   "last_reported": "2026-11-28T01:34:48Z",
+   "outlets": 7,
+   "countries": 5,
+   "risk_score": 1.8,
+   "risk_band": "low",
+   "confidence_pct": 86,
    "status": "fading"
   },
   {
@@ -472,15 +514,15 @@
   {
    "id": 333467,
    "url": "https://athenaglauxintelligence.news/el/event/333467.html",
-   "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+   "title": "Ukraine proposes Black Sea ceasefire, awaits Russia's response",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-27T11:47:00Z",
-   "last_reported": "2026-11-27T21:09:12Z",
-   "outlets": 7,
-   "countries": 4,
+   "last_reported": "2026-11-28T09:10:48Z",
+   "outlets": 8,
+   "countries": 5,
    "risk_score": 1.8,
    "risk_band": "low",
-   "confidence_pct": 82,
+   "confidence_pct": 83,
    "status": "fading"
   },
   {
@@ -766,16 +808,16 @@
   {
    "id": 333154,
    "url": "https://athenaglauxintelligence.news/el/event/333154.html",
-   "title": "Delimitation: DMK says ‘no compromise’, reiterates demand to protect Tamil Nadu’s share of seats",
+   "title": "DMK to support delimitation bill",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-27T07:36:27Z",
-   "last_reported": "2026-11-28T07:51:40Z",
-   "outlets": 4,
+   "last_reported": "2026-11-28T09:01:56Z",
+   "outlets": 5,
    "countries": 1,
-   "risk_score": 1.0,
+   "risk_score": 0.9,
    "risk_band": "low",
-   "confidence_pct": 58,
-   "status": "peaking"
+   "confidence_pct": 62,
+   "status": "spreading"
   },
   {
    "id": 330464,
@@ -1119,13 +1161,13 @@
    "title": "New growth drivers fuel China's industrial profit gains",
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-27T01:36:10Z",
-   "last_reported": "2026-11-27T20:08:13Z",
+   "last_reported": "2026-11-28T09:10:47Z",
    "outlets": 6,
    "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 77,
-   "status": "spreading"
+   "confidence_pct": 76,
+   "status": "fading"
   },
   {
    "id": 329703,
@@ -4670,6 +4712,20 @@
    "status": "fading"
   },
   {
+   "id": 315704,
+   "url": "https://athenaglauxintelligence.news/el/event/315704.html",
+   "title": "Kenyan cult leader serving 200 years for murder convicted of terrorism-related charges",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-25T14:31:43Z",
+   "last_reported": "2026-11-27T16:32:26Z",
+   "outlets": 7,
+   "countries": 7,
+   "risk_score": 4.0,
+   "risk_band": "elevated",
+   "confidence_pct": 88,
+   "status": "fading"
+  },
+  {
    "id": 315734,
    "url": "https://athenaglauxintelligence.news/el/event/315734.html",
    "title": "Time running out for Poundland as takeover hopes fade",
@@ -6378,20 +6434,6 @@
    "status": "fading"
   },
   {
-   "id": 311923,
-   "url": "https://athenaglauxintelligence.news/el/event/311923.html",
-   "title": "European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund",
-   "section": "Τεχνολογία & Κυβερνοασφάλεια",
-   "first_reported": "2026-11-24T23:00:00Z",
-   "last_reported": "2026-11-26T09:40:04Z",
-   "outlets": 11,
-   "countries": 7,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 87,
-   "status": "fading"
-  },
-  {
    "id": 310543,
    "url": "https://athenaglauxintelligence.news/el/event/310543.html",
    "title": "Report: Pentagon is Considering $15 Billion Loan to Navy Parts Supplier",
@@ -6403,6 +6445,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 59,
+   "status": "fading"
+  },
+  {
+   "id": 311923,
+   "url": "https://athenaglauxintelligence.news/el/event/311923.html",
+   "title": "European Commission Proposes Quantum Act and New Sovereign Tech Equity Fund",
+   "section": "Τεχνολογία & Κυβερνοασφάλεια",
+   "first_reported": "2026-11-24T23:00:00Z",
+   "last_reported": "2026-11-26T09:40:04Z",
+   "outlets": 11,
+   "countries": 7,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -7993,8 +8049,8 @@
    "title": "Musk pledges two SpaceX shares for every US child",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-24T08:00:00Z",
-   "last_reported": "2026-11-27T15:39:13Z",
-   "outlets": 32,
+   "last_reported": "2026-11-27T22:30:10Z",
+   "outlets": 33,
    "countries": 20,
    "risk_score": 1.6,
    "risk_band": "low",
@@ -11790,7 +11846,7 @@
    "last_reported": "2026-11-28T06:40:00Z",
    "outlets": 27,
    "countries": 15,
-   "risk_score": 6.4,
+   "risk_score": 6.3,
    "risk_band": "high",
    "confidence_pct": 89,
    "status": "fading"
@@ -13642,34 +13698,6 @@
    "risk_band": "elevated",
    "confidence_pct": 54,
    "status": "fading"
-  },
-  {
-   "id": 281542,
-   "url": "https://athenaglauxintelligence.news/el/event/281542.html",
-   "title": "Greek PM under fire over Grand Theft Auto post",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-21T09:15:06Z",
-   "last_reported": "2026-11-21T16:16:41Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 1.1,
-   "risk_band": "low",
-   "confidence_pct": 74,
-   "status": "emerging"
-  },
-  {
-   "id": 282195,
-   "url": "https://athenaglauxintelligence.news/el/event/282195.html",
-   "title": "Former Uber driver ‘who hated the rich’ guilty of starting deadly LA fire",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-21T09:05:12Z",
-   "last_reported": "2026-11-22T08:30:00Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 3.0,
-   "risk_band": "moderate",
-   "confidence_pct": 54,
-   "status": "peaking"
   }
  ]
 }
