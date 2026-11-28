@@ -9,7 +9,7 @@
    "id": "https://athenaglauxintelligence.news/event/333748.html",
    "url": "https://athenaglauxintelligence.news/event/333748.html",
    "title": "US disables ship in Gulf of Oman under Iran blockade",
-   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 4.8/10 (elevated), with 81% confidence.",
+   "summary": "Reported by 7 outlets in 6 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 4.8/10 (elevated), with 86% confidence.",
    "date_published": "2026-11-27T16:55:58Z",
    "tags": [
     "Trade & Industry"
@@ -97,10 +97,21 @@
    "id": "https://athenaglauxintelligence.news/event/322206.html",
    "url": "https://athenaglauxintelligence.news/event/322206.html",
    "title": "Saudi Arabia, Pakistan, Türkiye open Makkah defense pact talks in Islamabad",
-   "summary": "Reported by 20 outlets in 12 countries since 26 Nov. First reported by APA (English). ATHENA rates the risk 3.7/10 (moderate), with 94% confidence.",
+   "summary": "Reported by 20 outlets in 12 countries since 26 Nov. First reported by APA (English). ATHENA rates the risk 3.6/10 (moderate), with 94% confidence.",
    "date_published": "2026-11-26T09:38:00Z",
    "tags": [
     "Geopolitics"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/322403.html",
+   "url": "https://athenaglauxintelligence.news/event/322403.html",
+   "title": "Cairo mourns 31 victims of deadly fuel tanker inferno as families bid farewell",
+   "summary": "Reported by 3 outlets in 2 countries since 26 Nov. First reported by BBC News. ATHENA rates the risk 5.0/10 (elevated), with 61% confidence.",
+   "date_published": "2026-11-26T09:09:49Z",
+   "tags": [
+    "Trade & Industry"
    ],
    "language": "en"
   },
@@ -350,7 +361,7 @@
    "id": "https://athenaglauxintelligence.news/event/335407.html",
    "url": "https://athenaglauxintelligence.news/event/335407.html",
    "title": "Saudis down missiles targeting capital after Yemen port strikes",
-   "summary": "Reported by 8 outlets in 5 countries since 23 Nov. First reported by CGTN (World). ATHENA rates the risk 5.5/10 (elevated), with 84% confidence.",
+   "summary": "Reported by 10 outlets in 6 countries since 23 Nov. First reported by CGTN (World). ATHENA rates the risk 5.5/10 (elevated), with 86% confidence.",
    "date_published": "2026-11-23T04:25:00Z",
    "tags": [
     "Geopolitics"
@@ -431,17 +442,6 @@
    "date_published": "2026-11-20T22:33:04Z",
    "tags": [
     "Trade & Industry"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/298764.html",
-   "url": "https://athenaglauxintelligence.news/event/298764.html",
-   "title": "Saudi Arabia intercepts Houthi drone targeting Riyadh",
-   "summary": "Reported by 7 outlets in 8 countries since 20 Nov. First reported by Livemint. ATHENA rates the risk 3.2/10 (moderate), with 88% confidence.",
-   "date_published": "2026-11-20T18:15:11Z",
-   "tags": [
-    "Geopolitics"
    ],
    "language": "en"
   }
