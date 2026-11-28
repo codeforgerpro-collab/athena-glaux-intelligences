@@ -53,7 +53,7 @@
    "id": "https://athenaglauxintelligence.news/event/336034.html",
    "url": "https://athenaglauxintelligence.news/event/336034.html",
    "title": "Zelensky Tells Meloni Ukraine Did Not Coordinate Libya Strikes With Europe",
-   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by TASS (English). ATHENA rates the risk 0.8/10 (low), with 67% confidence.",
+   "summary": "Reported by 4 outlets in 3 countries since 27 Nov. First reported by TASS (English). ATHENA rates the risk 1.5/10 (low), with 75% confidence.",
    "date_published": "2026-11-27T20:17:03Z",
    "tags": [
     "Geopolitics"
@@ -64,7 +64,7 @@
    "id": "https://athenaglauxintelligence.news/event/336418.html",
    "url": "https://athenaglauxintelligence.news/event/336418.html",
    "title": "OpenAI countersues Apple for stealing trade secrets",
-   "summary": "Reported by 9 outlets in 7 countries since 27 Nov. First reported by Engadget. ATHENA rates the risk 1.6/10 (low), with 86% confidence.",
+   "summary": "Reported by 10 outlets in 7 countries since 27 Nov. First reported by Engadget. ATHENA rates the risk 1.4/10 (low), with 87% confidence.",
    "date_published": "2026-11-27T19:44:38Z",
    "tags": [
     "Technology & Cyber"
@@ -97,7 +97,7 @@
    "id": "https://athenaglauxintelligence.news/event/333748.html",
    "url": "https://athenaglauxintelligence.news/event/333748.html",
    "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
-   "summary": "Reported by 14 outlets in 10 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 5.3/10 (elevated), with 91% confidence.",
+   "summary": "Reported by 15 outlets in 11 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 5.9/10 (elevated), with 91% confidence.",
    "date_published": "2026-11-27T16:55:58Z",
    "tags": [
     "Trade & Industry"
@@ -413,6 +413,17 @@
    "language": "en"
   },
   {
+   "id": "https://athenaglauxintelligence.news/event/333966.html",
+   "url": "https://athenaglauxintelligence.news/event/333966.html",
+   "title": "German Rheinmetall may scrap launch of ammunition plant in Ukraine",
+   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by Oman Observer. ATHENA rates the risk 2.5/10 (moderate), with 65% confidence.",
+   "date_published": "2026-11-27T10:30:03Z",
+   "tags": [
+    "Geopolitics"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/332442.html",
    "url": "https://athenaglauxintelligence.news/event/332442.html",
    "title": "Gazprom, BOTAS extend Russian gas supply deal by 3 years",
@@ -431,17 +442,6 @@
    "date_published": "2026-11-27T10:14:17Z",
    "tags": [
     "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/332768.html",
-   "url": "https://athenaglauxintelligence.news/event/332768.html",
-   "title": "26 critically endangered turtles found hidden in travelers' luggage at Schiphol",
-   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by The Straits Times. ATHENA rates the risk 0.0/10 (none detected), with 76% confidence.",
-   "date_published": "2026-11-27T10:01:49Z",
-   "tags": [
-    "Energy & Environment"
    ],
    "language": "en"
   }

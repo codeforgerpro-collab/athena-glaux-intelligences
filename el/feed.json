@@ -53,7 +53,7 @@
    "id": "https://athenaglauxintelligence.news/el/event/336034.html",
    "url": "https://athenaglauxintelligence.news/el/event/336034.html",
    "title": "Zelensky Tells Meloni Ukraine Did Not Coordinate Libya Strikes With Europe",
-   "summary": "Αναφέρθηκε από 3 μέσα σε 2 χώρες από τις 27 Νοε. Πρώτη αναφορά από TASS (English). Το ATHENA εκτιμά τον κίνδυνο σε 0.8/10 (χαμηλός), με βεβαιότητα 67%.",
+   "summary": "Αναφέρθηκε από 4 μέσα σε 3 χώρες από τις 27 Νοε. Πρώτη αναφορά από TASS (English). Το ATHENA εκτιμά τον κίνδυνο σε 1.5/10 (χαμηλός), με βεβαιότητα 75%.",
    "date_published": "2026-11-27T20:17:03Z",
    "tags": [
     "Γεωπολιτική"
@@ -64,7 +64,7 @@
    "id": "https://athenaglauxintelligence.news/el/event/336418.html",
    "url": "https://athenaglauxintelligence.news/el/event/336418.html",
    "title": "OpenAI countersues Apple for stealing trade secrets",
-   "summary": "Αναφέρθηκε από 9 μέσα σε 7 χώρες από τις 27 Νοε. Πρώτη αναφορά από Engadget. Το ATHENA εκτιμά τον κίνδυνο σε 1.6/10 (χαμηλός), με βεβαιότητα 86%.",
+   "summary": "Αναφέρθηκε από 10 μέσα σε 7 χώρες από τις 27 Νοε. Πρώτη αναφορά από Engadget. Το ATHENA εκτιμά τον κίνδυνο σε 1.4/10 (χαμηλός), με βεβαιότητα 87%.",
    "date_published": "2026-11-27T19:44:38Z",
    "tags": [
     "Τεχνολογία & Κυβερνοασφάλεια"
@@ -97,7 +97,7 @@
    "id": "https://athenaglauxintelligence.news/el/event/333748.html",
    "url": "https://athenaglauxintelligence.news/el/event/333748.html",
    "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
-   "summary": "Αναφέρθηκε από 14 μέσα σε 10 χώρες από τις 27 Νοε. Πρώτη αναφορά από Anadolu Agency (English). Το ATHENA εκτιμά τον κίνδυνο σε 5.3/10 (αυξημένος), με βεβαιότητα 91%.",
+   "summary": "Αναφέρθηκε από 15 μέσα σε 11 χώρες από τις 27 Νοε. Πρώτη αναφορά από Anadolu Agency (English). Το ATHENA εκτιμά τον κίνδυνο σε 5.9/10 (αυξημένος), με βεβαιότητα 91%.",
    "date_published": "2026-11-27T16:55:58Z",
    "tags": [
     "Εμπόριο & Βιομηχανία"
@@ -413,6 +413,17 @@
    "language": "el"
   },
   {
+   "id": "https://athenaglauxintelligence.news/el/event/333966.html",
+   "url": "https://athenaglauxintelligence.news/el/event/333966.html",
+   "title": "German Rheinmetall may scrap launch of ammunition plant in Ukraine",
+   "summary": "Αναφέρθηκε από 3 μέσα σε 2 χώρες από τις 27 Νοε. Πρώτη αναφορά από Oman Observer. Το ATHENA εκτιμά τον κίνδυνο σε 2.5/10 (μέτριος), με βεβαιότητα 65%.",
+   "date_published": "2026-11-27T10:30:03Z",
+   "tags": [
+    "Γεωπολιτική"
+   ],
+   "language": "el"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/el/event/332442.html",
    "url": "https://athenaglauxintelligence.news/el/event/332442.html",
    "title": "Gazprom, BOTAS extend Russian gas supply deal by 3 years",
@@ -431,17 +442,6 @@
    "date_published": "2026-11-27T10:14:17Z",
    "tags": [
     "Γεωπολιτική"
-   ],
-   "language": "el"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/el/event/332768.html",
-   "url": "https://athenaglauxintelligence.news/el/event/332768.html",
-   "title": "26 critically endangered turtles found hidden in travelers' luggage at Schiphol",
-   "summary": "Αναφέρθηκε από 5 μέσα σε 4 χώρες από τις 27 Νοε. Πρώτη αναφορά από The Straits Times. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 76%.",
-   "date_published": "2026-11-27T10:01:49Z",
-   "tags": [
-    "Ενέργεια & Περιβάλλον"
    ],
    "language": "el"
   }

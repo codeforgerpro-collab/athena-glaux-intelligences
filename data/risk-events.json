@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-28T07:35:33Z",
+ "generated": "2026-11-28T08:18:20Z",
  "window_days": 7,
  "language": "en",
- "count": 974,
+ "count": 977,
  "licence": "https://athenaglauxintelligence.news/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -69,12 +69,12 @@
    "title": "Zelensky Tells Meloni Ukraine Did Not Coordinate Libya Strikes With Europe",
    "section": "Geopolitics",
    "first_reported": "2026-11-27T20:17:03Z",
-   "last_reported": "2026-11-28T00:08:30Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 0.8,
+   "last_reported": "2026-11-28T04:46:30Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 1.5,
    "risk_band": "low",
-   "confidence_pct": 67,
+   "confidence_pct": 75,
    "status": "emerging"
   },
   {
@@ -84,12 +84,12 @@
    "section": "Technology & Cyber",
    "first_reported": "2026-11-27T19:44:38Z",
    "last_reported": "2026-11-28T06:49:32Z",
-   "outlets": 9,
+   "outlets": 10,
    "countries": 7,
-   "risk_score": 1.6,
+   "risk_score": 1.4,
    "risk_band": "low",
-   "confidence_pct": 86,
-   "status": "emerging"
+   "confidence_pct": 87,
+   "status": "fading"
   },
   {
    "id": 334405,
@@ -126,9 +126,9 @@
    "section": "Trade & Industry",
    "first_reported": "2026-11-27T16:55:58Z",
    "last_reported": "2026-11-28T04:27:03Z",
-   "outlets": 14,
-   "countries": 10,
-   "risk_score": 5.3,
+   "outlets": 15,
+   "countries": 11,
+   "risk_score": 5.9,
    "risk_band": "elevated",
    "confidence_pct": 91,
    "status": "fading"
@@ -265,7 +265,7 @@
    "title": "Tasoulas to meet Erdogan tomorrow in Constantinople at the Turkish President’s request",
    "section": "Geopolitics",
    "first_reported": "2026-11-27T14:05:02Z",
-   "last_reported": "2026-11-27T17:08:27Z",
+   "last_reported": "2026-11-27T23:10:09Z",
    "outlets": 3,
    "countries": 2,
    "risk_score": 0.0,
@@ -526,6 +526,20 @@
    "status": "fading"
   },
   {
+   "id": 333966,
+   "url": "https://athenaglauxintelligence.news/event/333966.html",
+   "title": "German Rheinmetall may scrap launch of ammunition plant in Ukraine",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-27T10:30:03Z",
+   "last_reported": "2026-11-27T19:24:47Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 2.5,
+   "risk_band": "moderate",
+   "confidence_pct": 65,
+   "status": "fading"
+  },
+  {
    "id": 332442,
    "url": "https://athenaglauxintelligence.news/event/332442.html",
    "title": "Gazprom, BOTAS extend Russian gas supply deal by 3 years",
@@ -741,12 +755,12 @@
    "title": "Oil on track to snap 3-week losing streak over supply fears",
    "section": "Energy & Environment",
    "first_reported": "2026-11-27T06:33:30Z",
-   "last_reported": "2026-11-27T21:09:00Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 1.3,
+   "last_reported": "2026-11-28T00:41:27Z",
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 1.4,
    "risk_band": "low",
-   "confidence_pct": 69,
+   "confidence_pct": 76,
    "status": "fading"
   },
   {
@@ -840,11 +854,11 @@
    "section": "Business",
    "first_reported": "2026-11-27T04:30:00Z",
    "last_reported": "2026-11-28T02:50:47Z",
-   "outlets": 4,
-   "countries": 3,
+   "outlets": 5,
+   "countries": 4,
    "risk_score": 1.9,
    "risk_band": "low",
-   "confidence_pct": 69,
+   "confidence_pct": 75,
    "status": "fading"
   },
   {
@@ -853,10 +867,10 @@
    "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
    "section": "Geopolitics",
    "first_reported": "2026-11-27T04:28:49Z",
-   "last_reported": "2026-11-28T03:21:57Z",
-   "outlets": 18,
-   "countries": 12,
-   "risk_score": 4.0,
+   "last_reported": "2026-11-28T07:31:13Z",
+   "outlets": 19,
+   "countries": 13,
+   "risk_score": 3.9,
    "risk_band": "moderate",
    "confidence_pct": 89,
    "status": "fading"
@@ -1386,12 +1400,12 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-26T21:22:32Z",
    "last_reported": "2026-11-27T20:46:11Z",
-   "outlets": 14,
+   "outlets": 15,
    "countries": 9,
-   "risk_score": 4.7,
+   "risk_score": 4.2,
    "risk_band": "elevated",
-   "confidence_pct": 85,
-   "status": "spreading"
+   "confidence_pct": 86,
+   "status": "fading"
   },
   {
    "id": 328586,
@@ -1399,12 +1413,12 @@
    "title": "Kuwait summons Iran ambassador over ‘continued Iranian attacks’",
    "section": "Geopolitics",
    "first_reported": "2026-11-26T20:59:51Z",
-   "last_reported": "2026-11-27T21:40:54Z",
-   "outlets": 11,
-   "countries": 7,
+   "last_reported": "2026-11-28T03:08:17Z",
+   "outlets": 12,
+   "countries": 8,
    "risk_score": 5.5,
    "risk_band": "elevated",
-   "confidence_pct": 92,
+   "confidence_pct": 93,
    "status": "fading"
   },
   {
@@ -1498,11 +1512,11 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-26T19:26:24Z",
    "last_reported": "2026-11-28T01:02:47Z",
-   "outlets": 4,
+   "outlets": 5,
    "countries": 2,
    "risk_score": 4.2,
    "risk_band": "elevated",
-   "confidence_pct": 68,
+   "confidence_pct": 71,
    "status": "fading"
   },
   {
@@ -1564,15 +1578,15 @@
   {
    "id": 327812,
    "url": "https://athenaglauxintelligence.news/event/327812.html",
-   "title": "EU summit: decision on Ukraine postponed until December, €45bn loan and new mechanism discussed",
+   "title": "Germany to allocate €11.6 billion to support Ukraine",
    "section": "Economy & Markets",
    "first_reported": "2026-11-26T18:44:00Z",
-   "last_reported": "2026-11-27T18:33:00Z",
-   "outlets": 3,
+   "last_reported": "2026-11-27T19:06:59Z",
+   "outlets": 4,
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 67,
+   "confidence_pct": 70,
    "status": "fading"
   },
   {
@@ -1805,13 +1819,13 @@
    "title": "Mexico seeking talks with US on SpaceX airspace use",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-26T16:16:50Z",
-   "last_reported": "2026-11-26T20:31:50Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 1.1,
+   "last_reported": "2026-11-27T20:52:09Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 1.0,
    "risk_band": "low",
-   "confidence_pct": 67,
-   "status": "peaking"
+   "confidence_pct": 74,
+   "status": "fading"
   },
   {
    "id": 326112,
@@ -2108,6 +2122,20 @@
    "status": "fading"
   },
   {
+   "id": 326451,
+   "url": "https://athenaglauxintelligence.news/event/326451.html",
+   "title": "Russian soldier who was 13 when Russia launched full-scale invasion killed in Ukraine, media reports",
+   "section": "Geopolitics",
+   "first_reported": "2026-11-26T14:01:00Z",
+   "last_reported": "2026-11-28T00:23:30Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 5.8,
+   "risk_band": "elevated",
+   "confidence_pct": 67,
+   "status": "fading"
+  },
+  {
    "id": 323256,
    "url": "https://athenaglauxintelligence.news/event/323256.html",
    "title": "Govt proposes reconvening of Parliament on November 30",
@@ -2166,16 +2194,16 @@
   {
    "id": 325473,
    "url": "https://athenaglauxintelligence.news/event/325473.html",
-   "title": "EU leaders divided over budget spending as they weigh a $49 billion loan to Ukraine",
+   "title": "“Radev Says One Thing in Bulgaria and Does Another in Brussels” Over Ukraine Aid",
    "section": "Economy & Markets",
    "first_reported": "2026-11-26T13:44:57Z",
-   "last_reported": "2026-11-27T00:48:12Z",
+   "last_reported": "2026-11-27T11:15:49Z",
    "outlets": 3,
    "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 64,
-   "status": "emerging"
+   "confidence_pct": 65,
+   "status": "fading"
   },
   {
    "id": 325618,
@@ -4233,6 +4261,20 @@
    "risk_score": 1.3,
    "risk_band": "low",
    "confidence_pct": 69,
+   "status": "fading"
+  },
+  {
+   "id": 321019,
+   "url": "https://athenaglauxintelligence.news/event/321019.html",
+   "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
+   "section": "Economy & Markets",
+   "first_reported": "2026-11-25T16:54:15Z",
+   "last_reported": "2026-11-27T21:15:29Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 66,
    "status": "fading"
   },
   {
@@ -7377,8 +7419,8 @@
    "title": "New balloons will fly in the postponed 100th Macy's Thanksgiving Day Parade",
    "section": "Energy & Environment",
    "first_reported": "2026-11-24T12:00:00Z",
-   "last_reported": "2026-11-27T21:16:41Z",
-   "outlets": 36,
+   "last_reported": "2026-11-28T02:30:07Z",
+   "outlets": 37,
    "countries": 14,
    "risk_score": 4.3,
    "risk_band": "elevated",
@@ -7419,12 +7461,12 @@
    "title": "UKRAINE PROTESTS SANCTIONED RUSSIAN OFFICIAL’S APPOINTMENT TO IAEA LEADERSHIP",
    "section": "Energy & Environment",
    "first_reported": "2026-11-24T11:53:00Z",
-   "last_reported": "2026-11-25T09:31:19Z",
+   "last_reported": "2026-11-28T02:12:26Z",
    "outlets": 5,
    "countries": 3,
    "risk_score": 1.5,
    "risk_band": "low",
-   "confidence_pct": 75,
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -7495,6 +7537,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 74,
+   "status": "fading"
+  },
+  {
+   "id": 304352,
+   "url": "https://athenaglauxintelligence.news/event/304352.html",
+   "title": "AI financial services trigger regulation warning from UK watchdog",
+   "section": "Technology & Cyber",
+   "first_reported": "2026-11-24T11:01:22Z",
+   "last_reported": "2026-11-28T04:30:00Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 2.1,
+   "risk_band": "moderate",
+   "confidence_pct": 72,
    "status": "fading"
   },
   {
@@ -11692,7 +11748,7 @@
    "last_reported": "2026-11-28T06:40:00Z",
    "outlets": 27,
    "countries": 15,
-   "risk_score": 6.3,
+   "risk_score": 6.4,
    "risk_band": "high",
    "confidence_pct": 89,
    "status": "fading"
@@ -12400,13 +12456,13 @@
   {
    "id": 302369,
    "url": "https://athenaglauxintelligence.news/event/302369.html",
-   "title": "MPs to be given first vote on Andy Burnham’s new EU deal next month",
+   "title": "Andy Burnham plan for 'new PIP assessment tests'",
    "section": "Geopolitics",
    "first_reported": "2026-11-22T05:02:00Z",
-   "last_reported": "2026-11-28T00:02:03Z",
-   "outlets": 40,
+   "last_reported": "2026-11-28T07:38:18Z",
+   "outlets": 41,
    "countries": 22,
-   "risk_score": 4.3,
+   "risk_score": 4.2,
    "risk_band": "elevated",
    "confidence_pct": 87,
    "status": "fading"
@@ -13627,20 +13683,6 @@
    "risk_score": 1.0,
    "risk_band": "low",
    "confidence_pct": 50,
-   "status": "fading"
-  },
-  {
-   "id": 281162,
-   "url": "https://athenaglauxintelligence.news/event/281162.html",
-   "title": "Israel may launch military operation against Syria - Turkish FM",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-21T08:05:29Z",
-   "last_reported": "2026-11-23T01:39:15Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 2.0,
-   "risk_band": "low",
-   "confidence_pct": 75,
    "status": "fading"
   }
  ]
