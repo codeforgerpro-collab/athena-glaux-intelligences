@@ -6,6 +6,28 @@
  "language": "en",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/event/338412.html",
+   "url": "https://athenaglauxintelligence.news/event/338412.html",
+   "title": "US says systems secure after reports of Air Force hack",
+   "summary": "Reported by 3 outlets in 3 countries since 28 Nov. First reported by Asharq Al-Awsat (English). ATHENA rates the risk 0.0/10 (none detected), with 68% confidence.",
+   "date_published": "2026-11-28T06:20:57Z",
+   "tags": [
+    "Technology & Cyber"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/338694.html",
+   "url": "https://athenaglauxintelligence.news/event/338694.html",
+   "title": "2027: We’ll give Nigerians petrol for N200/litre without subsidy — SDP’s Adebayo",
+   "summary": "Reported by 5 outlets in 1 country since 28 Nov. First reported by Daily Trust. ATHENA rates the risk 0.0/10 (none detected), with 63% confidence.",
+   "date_published": "2026-11-28T05:41:25Z",
+   "tags": [
+    "Energy & Environment"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/337608.html",
    "url": "https://athenaglauxintelligence.news/event/337608.html",
    "title": "Eight killed in Peru military helicopter crash",
@@ -19,11 +41,22 @@
   {
    "id": "https://athenaglauxintelligence.news/event/337476.html",
    "url": "https://athenaglauxintelligence.news/event/337476.html",
-   "title": "Bisleri faces second prosecution after coliform bacteria found in West Bengal sample: Report",
-   "summary": "Reported by 9 outlets in 4 countries since 28 Nov. First reported by Oman Observer. ATHENA rates the risk 1.7/10 (low), with 81% confidence.",
+   "title": "FSSAI found coliform bacteria in Bisleri bottled water sample, reports Reuters",
+   "summary": "Reported by 10 outlets in 4 countries since 28 Nov. First reported by Oman Observer. ATHENA rates the risk 1.9/10 (low), with 82% confidence.",
    "date_published": "2026-11-28T02:05:28Z",
    "tags": [
     "Business"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/337490.html",
+   "url": "https://athenaglauxintelligence.news/event/337490.html",
+   "title": "Constitution Amendment Bill: April to November what changed",
+   "summary": "Reported by 3 outlets in 1 country since 28 Nov. First reported by Hindustan Times. ATHENA rates the risk 0.0/10 (none detected), with 58% confidence.",
+   "date_published": "2026-11-28T00:51:03Z",
+   "tags": [
+    "Accidents & emergencies"
    ],
    "language": "en"
   },
@@ -39,21 +72,10 @@
    "language": "en"
   },
   {
-   "id": "https://athenaglauxintelligence.news/event/337050.html",
-   "url": "https://athenaglauxintelligence.news/event/337050.html",
-   "title": "Poison seller linked to 79 deaths in UK ‘should spend 25 years in jail’",
-   "summary": "Reported by 4 outlets in 3 countries since 27 Nov. First reported by Belfast Telegraph. ATHENA rates the risk 5.7/10 (elevated), with 65% confidence.",
-   "date_published": "2026-11-27T22:53:32Z",
-   "tags": [
-    "Accidents & emergencies"
-   ],
-   "language": "en"
-  },
-  {
    "id": "https://athenaglauxintelligence.news/event/336579.html",
    "url": "https://athenaglauxintelligence.news/event/336579.html",
    "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
-   "summary": "Reported by 13 outlets in 9 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 5.7/10 (elevated), with 91% confidence.",
+   "summary": "Reported by 14 outlets in 10 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 5.4/10 (elevated), with 91% confidence.",
    "date_published": "2026-11-27T22:48:15Z",
    "tags": [
     "Geopolitics"
@@ -61,10 +83,21 @@
    "language": "en"
   },
   {
+   "id": "https://athenaglauxintelligence.news/event/336713.html",
+   "url": "https://athenaglauxintelligence.news/event/336713.html",
+   "title": "The ESO is Deeply Concerned About Space Data Centers, and the Rest of Us Should Be Too",
+   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by Greek City Times. ATHENA rates the risk 1.0/10 (low), with 69% confidence.",
+   "date_published": "2026-11-27T22:16:56Z",
+   "tags": [
+    "Technology & Cyber"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/336034.html",
    "url": "https://athenaglauxintelligence.news/event/336034.html",
    "title": "Zelensky Tells Meloni Ukraine Did Not Coordinate Libya Strikes With Europe",
-   "summary": "Reported by 4 outlets in 3 countries since 27 Nov. First reported by TASS (English). ATHENA rates the risk 1.5/10 (low), with 75% confidence.",
+   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by TASS (English). ATHENA rates the risk 4.8/10 (elevated), with 81% confidence.",
    "date_published": "2026-11-27T20:17:03Z",
    "tags": [
     "Geopolitics"
@@ -75,7 +108,7 @@
    "id": "https://athenaglauxintelligence.news/event/336418.html",
    "url": "https://athenaglauxintelligence.news/event/336418.html",
    "title": "OpenAI accuses Apple of stealing trade secrets in countersuit",
-   "summary": "Reported by 15 outlets in 9 countries since 27 Nov. First reported by Engadget. ATHENA rates the risk 1.6/10 (low), with 89% confidence.",
+   "summary": "Reported by 17 outlets in 9 countries since 27 Nov. First reported by Engadget. ATHENA rates the risk 1.5/10 (low), with 89% confidence.",
    "date_published": "2026-11-27T19:44:38Z",
    "tags": [
     "Technology & Cyber"
@@ -86,7 +119,7 @@
    "id": "https://athenaglauxintelligence.news/event/336335.html",
    "url": "https://athenaglauxintelligence.news/event/336335.html",
    "title": "US shoppers confront uphill battle in Black Friday discount quest",
-   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by Fortune. ATHENA rates the risk 0.0/10 (none detected), with 67% confidence.",
+   "summary": "Reported by 4 outlets in 4 countries since 27 Nov. First reported by Fortune. ATHENA rates the risk 0.0/10 (none detected), with 67% confidence.",
    "date_published": "2026-11-27T19:37:28Z",
    "tags": [
     "Accidents & emergencies"
@@ -182,6 +215,17 @@
    "language": "en"
   },
   {
+   "id": "https://athenaglauxintelligence.news/event/336080.html",
+   "url": "https://athenaglauxintelligence.news/event/336080.html",
+   "title": "N. Korea, Russia hold economic cooperation meeting, agree to boost joint projects",
+   "summary": "Reported by 5 outlets in 3 countries since 27 Nov. First reported by TASS (English). ATHENA rates the risk 0.0/10 (none detected), with 68% confidence.",
+   "date_published": "2026-11-27T15:23:35Z",
+   "tags": [
+    "Trade & Industry"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/333405.html",
    "url": "https://athenaglauxintelligence.news/event/333405.html",
    "title": "Bundestag passes Germany's federal budget for 2027",
@@ -195,8 +239,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/333762.html",
    "url": "https://athenaglauxintelligence.news/event/333762.html",
-   "title": "Italy says Zelenskyy 'not telling the truth' about informing allies of Benghazi attacks",
-   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by Ukrainska Pravda (English). ATHENA rates the risk 0.0/10 (none detected), with 83% confidence.",
+   "title": "Italy denies that Zelenskyy coordinated attack on Russian ship in Libya with partners",
+   "summary": "Reported by 6 outlets in 5 countries since 27 Nov. First reported by Ukrainska Pravda (English). ATHENA rates the risk 0.0/10 (none detected), with 87% confidence.",
    "date_published": "2026-11-27T14:47:00Z",
    "tags": [
     "Geopolitics"
@@ -316,8 +360,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/336590.html",
    "url": "https://athenaglauxintelligence.news/event/336590.html",
-   "title": "Russian military flotilla bound for Libya turns around after warship sunk on Nov 22, sources says",
-   "summary": "Reported by 7 outlets in 5 countries since 27 Nov. First reported by Euromaidan Press. ATHENA rates the risk 0.0/10 (none detected), with 85% confidence.",
+   "title": "Report: Russian Military Flotilla Bound for Libya Turns Around After Warship Sunk on November 22",
+   "summary": "Reported by 8 outlets in 5 countries since 27 Nov. First reported by Euromaidan Press. ATHENA rates the risk 0.0/10 (none detected), with 87% confidence.",
    "date_published": "2026-11-27T12:42:02Z",
    "tags": [
     "Geopolitics"
@@ -328,8 +372,8 @@
    "id": "https://athenaglauxintelligence.news/event/334120.html",
    "url": "https://athenaglauxintelligence.news/event/334120.html",
    "title": "Construction begins on Wanhua’s green-powered battery materials hub in Binzhou",
-   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by Slovenia Times. ATHENA rates the risk 0.0/10 (none detected), with 52% confidence.",
-   "date_published": "2026-11-27T12:29:28Z",
+   "summary": "Reported by 4 outlets in 3 countries since 27 Nov. First reported by Laotian Times. ATHENA rates the risk 0.0/10 (none detected), with 53% confidence.",
+   "date_published": "2026-11-27T12:24:00Z",
    "tags": [
     "Trade & Industry"
    ],
@@ -349,8 +393,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/333114.html",
    "url": "https://athenaglauxintelligence.news/event/333114.html",
-   "title": "Kenneth Law apologizes in court to victims’ families, prosecutors demand 25-year sentence",
-   "summary": "Reported by 7 outlets in 5 countries since 27 Nov. First reported by The Globe and Mail. ATHENA rates the risk 1.8/10 (low), with 86% confidence.",
+   "title": "Poison seller linked to 79 deaths in UK ‘should spend 25 years in jail’",
+   "summary": "Reported by 12 outlets in 7 countries since 27 Nov. First reported by The Globe and Mail. ATHENA rates the risk 4.7/10 (elevated), with 90% confidence.",
    "date_published": "2026-11-27T12:11:02Z",
    "tags": [
     "Accidents & emergencies"
@@ -396,50 +440,6 @@
    "title": "IDF: Hezbollah using fishing boats to gather intel",
    "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by Naharnet. ATHENA rates the risk 1.0/10 (low), with 70% confidence.",
    "date_published": "2026-11-27T11:56:28Z",
-   "tags": [
-    "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/334330.html",
-   "url": "https://athenaglauxintelligence.news/event/334330.html",
-   "title": "CENTCOM Says Six Vessels Disabled for Defying US Naval Blockade",
-   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by Asharq Al-Awsat (English). ATHENA rates the risk 4.3/10 (elevated), with 76% confidence.",
-   "date_published": "2026-11-27T11:47:38Z",
-   "tags": [
-    "Trade & Industry"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/333467.html",
-   "url": "https://athenaglauxintelligence.news/event/333467.html",
-   "title": "Ukraine proposes Black Sea ceasefire, awaits Russia's response",
-   "summary": "Reported by 8 outlets in 5 countries since 27 Nov. First reported by Ukrainska Pravda (English). ATHENA rates the risk 1.8/10 (low), with 83% confidence.",
-   "date_published": "2026-11-27T11:47:00Z",
-   "tags": [
-    "Trade & Industry"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/333771.html",
-   "url": "https://athenaglauxintelligence.news/event/333771.html",
-   "title": "Integration of Western Balkans into EU in bloc's own interest: Commissioner",
-   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by Tirana Times. ATHENA rates the risk 1.6/10 (low), with 65% confidence.",
-   "date_published": "2026-11-27T11:32:06Z",
-   "tags": [
-    "Accidents & emergencies"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/333992.html",
-   "url": "https://athenaglauxintelligence.news/event/333992.html",
-   "title": "Mashaba back as Joburg mayor",
-   "summary": "Reported by 8 outlets in 4 countries since 27 Nov. First reported by Mail & Guardian (working feed). ATHENA rates the risk 0.0/10 (none detected), with 83% confidence.",
-   "date_published": "2026-11-27T11:22:14Z",
    "tags": [
     "Geopolitics"
    ],
