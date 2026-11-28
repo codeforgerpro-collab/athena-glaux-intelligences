@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-28T08:18:20Z",
+ "generated": "2026-11-28T09:03:05Z",
  "window_days": 7,
  "language": "en",
- "count": 977,
+ "count": 976,
  "licence": "https://athenaglauxintelligence.news/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -36,6 +36,20 @@
    "status": "peaking"
   },
   {
+   "id": 337476,
+   "url": "https://athenaglauxintelligence.news/event/337476.html",
+   "title": "Bisleri faces second prosecution after coliform bacteria found in West Bengal sample: Report",
+   "section": "Business",
+   "first_reported": "2026-11-28T02:05:28Z",
+   "last_reported": "2026-11-28T07:58:56Z",
+   "outlets": 5,
+   "countries": 2,
+   "risk_score": 1.2,
+   "risk_band": "low",
+   "confidence_pct": 69,
+   "status": "emerging"
+  },
+  {
    "id": 336656,
    "url": "https://athenaglauxintelligence.news/event/336656.html",
    "title": "Two American Airlines planes clip wings while taxiing at Washington airport",
@@ -55,13 +69,13 @@
    "title": "Israeli strike kills two Doctors Without Borders staff in Gaza – MSF",
    "section": "Geopolitics",
    "first_reported": "2026-11-27T22:48:15Z",
-   "last_reported": "2026-11-28T06:18:43Z",
-   "outlets": 7,
-   "countries": 6,
-   "risk_score": 5.2,
+   "last_reported": "2026-11-28T07:41:17Z",
+   "outlets": 8,
+   "countries": 7,
+   "risk_score": 5.6,
    "risk_band": "elevated",
-   "confidence_pct": 88,
-   "status": "fading"
+   "confidence_pct": 90,
+   "status": "peaking"
   },
   {
    "id": 336034,
@@ -246,6 +260,20 @@
    "status": "fading"
   },
   {
+   "id": 336186,
+   "url": "https://athenaglauxintelligence.news/event/336186.html",
+   "title": "Kenyan starvation cult leader guilty of manslaughter for 123 deaths",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-27T14:32:02Z",
+   "last_reported": "2026-11-28T04:16:32Z",
+   "outlets": 6,
+   "countries": 5,
+   "risk_score": 5.9,
+   "risk_band": "elevated",
+   "confidence_pct": 85,
+   "status": "fading"
+  },
+  {
    "id": 333473,
    "url": "https://athenaglauxintelligence.news/event/333473.html",
    "title": "Ukraine Brings Back 9 Children From Russian Occupation",
@@ -266,11 +294,11 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-27T14:05:02Z",
    "last_reported": "2026-11-27T23:10:09Z",
-   "outlets": 3,
+   "outlets": 4,
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 63,
+   "confidence_pct": 69,
    "status": "fading"
   },
   {
@@ -408,10 +436,10 @@
    "last_reported": "2026-11-27T22:20:11Z",
    "outlets": 5,
    "countries": 1,
-   "risk_score": 2.3,
+   "risk_score": 2.1,
    "risk_band": "moderate",
    "confidence_pct": 63,
-   "status": "emerging"
+   "status": "fading"
   },
   {
    "id": 334741,
@@ -444,15 +472,15 @@
   {
    "id": 333467,
    "url": "https://athenaglauxintelligence.news/event/333467.html",
-   "title": "Ukraine Warns Russia Could Make Black Sea a New ‘Hormuz’",
-   "section": "Geopolitics",
+   "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+   "section": "Trade & Industry",
    "first_reported": "2026-11-27T11:47:00Z",
-   "last_reported": "2026-11-27T20:51:00Z",
-   "outlets": 6,
-   "countries": 3,
-   "risk_score": 2.2,
-   "risk_band": "moderate",
-   "confidence_pct": 77,
+   "last_reported": "2026-11-27T21:09:12Z",
+   "outlets": 7,
+   "countries": 4,
+   "risk_score": 1.8,
+   "risk_band": "low",
+   "confidence_pct": 82,
    "status": "fading"
   },
   {
@@ -559,12 +587,12 @@
    "title": "Global fashion brands shift orders from Bangladesh to India amid unrest",
    "section": "Geopolitics",
    "first_reported": "2026-11-27T10:14:17Z",
-   "last_reported": "2026-11-28T04:12:07Z",
-   "outlets": 6,
+   "last_reported": "2026-11-28T05:19:35Z",
+   "outlets": 7,
    "countries": 3,
-   "risk_score": 3.5,
+   "risk_score": 3.6,
    "risk_band": "moderate",
-   "confidence_pct": 75,
+   "confidence_pct": 77,
    "status": "fading"
   },
   {
@@ -680,6 +708,20 @@
    "status": "fading"
   },
   {
+   "id": 333148,
+   "url": "https://athenaglauxintelligence.news/event/333148.html",
+   "title": "Centre’s delimitation plan: States’ proportionate Lok Sabha share to be frozen until 2051",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-27T08:33:49Z",
+   "last_reported": "2026-11-28T07:53:19Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 53,
+   "status": "peaking"
+  },
+  {
    "id": 331423,
    "url": "https://athenaglauxintelligence.news/event/331423.html",
    "title": "Russian hybrid attacks could cause ‘mass casualty event’ in Europe, report warns",
@@ -708,18 +750,32 @@
    "status": "fading"
   },
   {
+   "id": 331342,
+   "url": "https://athenaglauxintelligence.news/event/331342.html",
+   "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+   "section": "Economy & Markets",
+   "first_reported": "2026-11-27T08:07:44Z",
+   "last_reported": "2026-11-27T14:12:55Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 60,
+   "status": "fading"
+  },
+  {
    "id": 333154,
    "url": "https://athenaglauxintelligence.news/event/333154.html",
    "title": "Delimitation: DMK says ‘no compromise’, reiterates demand to protect Tamil Nadu’s share of seats",
-   "section": "Geopolitics",
+   "section": "Accidents & emergencies",
    "first_reported": "2026-11-27T07:36:27Z",
-   "last_reported": "2026-11-27T23:31:45Z",
+   "last_reported": "2026-11-28T07:51:40Z",
    "outlets": 4,
    "countries": 1,
-   "risk_score": 0.9,
+   "risk_score": 1.0,
    "risk_band": "low",
    "confidence_pct": 58,
-   "status": "fading"
+   "status": "peaking"
   },
   {
    "id": 330464,
@@ -766,13 +822,13 @@
   {
    "id": 331945,
    "url": "https://athenaglauxintelligence.news/event/331945.html",
-   "title": "Hackers Breach US Air Force’s Flagship Cloud One Platform",
+   "title": "Hackers breach US Air Force Cloud computing platform",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-27T06:13:30Z",
-   "last_reported": "2026-11-27T23:42:48Z",
-   "outlets": 25,
-   "countries": 13,
-   "risk_score": 5.6,
+   "last_reported": "2026-11-28T06:04:56Z",
+   "outlets": 26,
+   "countries": 14,
+   "risk_score": 5.7,
    "risk_band": "elevated",
    "confidence_pct": 93,
    "status": "fading"
@@ -1217,12 +1273,12 @@
    "title": "UK benefits department hit by cyber incident, takes services offline",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-27T00:00:00Z",
-   "last_reported": "2026-11-27T15:45:00Z",
+   "last_reported": "2026-11-28T08:06:54Z",
    "outlets": 11,
    "countries": 5,
-   "risk_score": 2.1,
+   "risk_score": 3.0,
    "risk_band": "moderate",
-   "confidence_pct": 89,
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -4256,11 +4312,11 @@
    "section": "Business",
    "first_reported": "2026-11-25T16:59:20Z",
    "last_reported": "2026-11-28T05:48:17Z",
-   "outlets": 8,
+   "outlets": 9,
    "countries": 1,
    "risk_score": 1.3,
    "risk_band": "low",
-   "confidence_pct": 69,
+   "confidence_pct": 70,
    "status": "fading"
   },
   {
@@ -4756,11 +4812,11 @@
   {
    "id": 316565,
    "url": "https://athenaglauxintelligence.news/event/316565.html",
-   "title": "Nasa's asteroid crash test left stadium-sized crater; first images reveal",
+   "title": "Hera reveals stadium-sized asteroid crater from spacecraft impact",
    "section": "Technology & Cyber",
    "first_reported": "2026-11-25T14:00:00Z",
-   "last_reported": "2026-11-26T11:13:07Z",
-   "outlets": 14,
+   "last_reported": "2026-11-27T20:20:06Z",
+   "outlets": 15,
    "countries": 11,
    "risk_score": 1.6,
    "risk_band": "low",
@@ -4830,7 +4886,7 @@
    "section": "Trade & Industry",
    "first_reported": "2026-11-25T13:27:47Z",
    "last_reported": "2026-11-27T22:03:06Z",
-   "outlets": 23,
+   "outlets": 22,
    "countries": 14,
    "risk_score": 5.8,
    "risk_band": "elevated",
@@ -5661,20 +5717,6 @@
    "risk_score": 0.8,
    "risk_band": "low",
    "confidence_pct": 75,
-   "status": "fading"
-  },
-  {
-   "id": 311614,
-   "url": "https://athenaglauxintelligence.news/event/311614.html",
-   "title": "Thirupparankundram ‘deepathoon’ row: Supreme Court agrees to list plea to detail Vijay’s role",
-   "section": "Accidents & emergencies",
-   "first_reported": "2026-11-25T07:19:37Z",
-   "last_reported": "2026-11-27T06:52:01Z",
-   "outlets": 4,
-   "countries": 1,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 61,
    "status": "fading"
   },
   {
@@ -6590,10 +6632,10 @@
   {
    "id": 312091,
    "url": "https://athenaglauxintelligence.news/event/312091.html",
-   "title": "Sacked HSE chief Anne O'Connor receives offer to enter mediation",
+   "title": "HSE board agrees to appear before health committee to take questions on Anne O'Connor's removal",
    "section": "Business",
    "first_reported": "2026-11-24T19:49:00Z",
-   "last_reported": "2026-11-27T13:34:28Z",
+   "last_reported": "2026-11-28T07:30:20Z",
    "outlets": 5,
    "countries": 1,
    "risk_score": 0.8,
@@ -13628,62 +13670,6 @@
    "risk_band": "moderate",
    "confidence_pct": 54,
    "status": "peaking"
-  },
-  {
-   "id": 280705,
-   "url": "https://athenaglauxintelligence.news/event/280705.html",
-   "title": "Iran facing ‘silent economic war’ that is 'tougher' than missile war, says President Pezeshkian",
-   "section": "Geopolitics",
-   "first_reported": "2026-11-21T08:42:00Z",
-   "last_reported": "2026-11-22T02:09:24Z",
-   "outlets": 6,
-   "countries": 5,
-   "risk_score": 6.2,
-   "risk_band": "high",
-   "confidence_pct": 86,
-   "status": "fading"
-  },
-  {
-   "id": 282419,
-   "url": "https://athenaglauxintelligence.news/event/282419.html",
-   "title": "Bayelsa Boat Mishap: Death toll rises to 29",
-   "section": "Accidents & emergencies",
-   "first_reported": "2026-11-21T08:34:47Z",
-   "last_reported": "2026-11-23T04:43:30Z",
-   "outlets": 8,
-   "countries": 3,
-   "risk_score": 5.6,
-   "risk_band": "elevated",
-   "confidence_pct": 83,
-   "status": "peaking"
-  },
-  {
-   "id": 280951,
-   "url": "https://athenaglauxintelligence.news/event/280951.html",
-   "title": "Magnitude 4.5 earthquake strikes 20km north-east of Hanmer Springs",
-   "section": "Energy & Environment",
-   "first_reported": "2026-11-21T08:25:31Z",
-   "last_reported": "2026-11-22T08:45:00Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 5.2,
-   "risk_band": "elevated",
-   "confidence_pct": 75,
-   "status": "fading"
-  },
-  {
-   "id": 301249,
-   "url": "https://athenaglauxintelligence.news/event/301249.html",
-   "title": "Tech giants to face billion-dollar fines for breaching Labor’s digital duty of care laws",
-   "section": "Business",
-   "first_reported": "2026-11-21T08:18:38Z",
-   "last_reported": "2026-11-24T03:04:25Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 1.0,
-   "risk_band": "low",
-   "confidence_pct": 50,
-   "status": "fading"
   }
  ]
 }
