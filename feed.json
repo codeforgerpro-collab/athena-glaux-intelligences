@@ -9,7 +9,7 @@
    "id": "https://athenaglauxintelligence.news/event/337608.html",
    "url": "https://athenaglauxintelligence.news/event/337608.html",
    "title": "Eight killed in Peru military helicopter crash",
-   "summary": "Reported by 3 outlets in 3 countries since 28 Nov. First reported by New Straits Times. ATHENA rates the risk 5.6/10 (elevated), with 65% confidence.",
+   "summary": "Reported by 4 outlets in 4 countries since 28 Nov. First reported by New Straits Times. ATHENA rates the risk 5.6/10 (elevated), with 72% confidence.",
    "date_published": "2026-11-28T02:54:51Z",
    "tags": [
     "Accidents & emergencies"
@@ -20,7 +20,7 @@
    "id": "https://athenaglauxintelligence.news/event/337476.html",
    "url": "https://athenaglauxintelligence.news/event/337476.html",
    "title": "Bisleri faces second prosecution after coliform bacteria found in West Bengal sample: Report",
-   "summary": "Reported by 8 outlets in 3 countries since 28 Nov. First reported by Oman Observer. ATHENA rates the risk 1.8/10 (low), with 78% confidence.",
+   "summary": "Reported by 9 outlets in 4 countries since 28 Nov. First reported by Oman Observer. ATHENA rates the risk 1.7/10 (low), with 81% confidence.",
    "date_published": "2026-11-28T02:05:28Z",
    "tags": [
     "Business"
@@ -53,7 +53,7 @@
    "id": "https://athenaglauxintelligence.news/event/336579.html",
    "url": "https://athenaglauxintelligence.news/event/336579.html",
    "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
-   "summary": "Reported by 12 outlets in 8 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 5.7/10 (elevated), with 91% confidence.",
+   "summary": "Reported by 13 outlets in 9 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 5.7/10 (elevated), with 91% confidence.",
    "date_published": "2026-11-27T22:48:15Z",
    "tags": [
     "Geopolitics"
@@ -79,6 +79,17 @@
    "date_published": "2026-11-27T19:44:38Z",
    "tags": [
     "Technology & Cyber"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/336335.html",
+   "url": "https://athenaglauxintelligence.news/event/336335.html",
+   "title": "US shoppers confront uphill battle in Black Friday discount quest",
+   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by Fortune. ATHENA rates the risk 0.0/10 (none detected), with 67% confidence.",
+   "date_published": "2026-11-27T19:37:28Z",
+   "tags": [
+    "Accidents & emergencies"
    ],
    "language": "en"
   },
@@ -141,7 +152,7 @@
    "id": "https://athenaglauxintelligence.news/event/336600.html",
    "url": "https://athenaglauxintelligence.news/event/336600.html",
    "title": "Hamas Claims Its Chief's Youngest Son Survived Israeli Attack In Gaza",
-   "summary": "Reported by 5 outlets in 3 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 4.7/10 (elevated), with 82% confidence.",
+   "summary": "Reported by 6 outlets in 4 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 4.8/10 (elevated), with 85% confidence.",
    "date_published": "2026-11-27T16:00:50Z",
    "tags": [
     "Geopolitics"
@@ -207,7 +218,7 @@
    "id": "https://athenaglauxintelligence.news/event/335206.html",
    "url": "https://athenaglauxintelligence.news/event/335206.html",
    "title": "Mecca alliance advances plans for joint military command",
-   "summary": "Reported by 7 outlets in 4 countries since 27 Nov. First reported by Middle East Monitor. ATHENA rates the risk 0.0/10 (none detected), with 86% confidence.",
+   "summary": "Reported by 8 outlets in 5 countries since 27 Nov. First reported by Middle East Monitor. ATHENA rates the risk 0.0/10 (none detected), with 88% confidence.",
    "date_published": "2026-11-27T14:37:25Z",
    "tags": [
     "Geopolitics"
@@ -431,17 +442,6 @@
    "date_published": "2026-11-27T11:22:14Z",
    "tags": [
     "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/333549.html",
-   "url": "https://athenaglauxintelligence.news/event/333549.html",
-   "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by BBC News. ATHENA rates the risk 1.6/10 (low), with 80% confidence.",
-   "date_published": "2026-11-27T11:22:02Z",
-   "tags": [
-    "Accidents & emergencies"
    ],
    "language": "en"
   }
