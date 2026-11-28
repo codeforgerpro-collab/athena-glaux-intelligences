@@ -52,8 +52,8 @@
   {
    "id": "https://athenaglauxintelligence.news/el/event/337490.html",
    "url": "https://athenaglauxintelligence.news/el/event/337490.html",
-   "title": "Constitution Amendment Bill: April to November what changed",
-   "summary": "Αναφέρθηκε από 3 μέσα σε 1 χώρα από τις 28 Νοε. Πρώτη αναφορά από Hindustan Times. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 58%.",
+   "title": "Delimitation : How Constitution 132nd Amendment Bill Differs From April Bill",
+   "summary": "Αναφέρθηκε από 4 μέσα σε 1 χώρα από τις 28 Νοε. Πρώτη αναφορά από Hindustan Times. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 63%.",
    "date_published": "2026-11-28T00:51:03Z",
    "tags": [
     "Δυστυχήματα & έκτακτες ανάγκες"
@@ -72,10 +72,21 @@
    "language": "el"
   },
   {
+   "id": "https://athenaglauxintelligence.news/el/event/337896.html",
+   "url": "https://athenaglauxintelligence.news/el/event/337896.html",
+   "title": "Ukraine launches one of its largest drone attacks on Russia overnight",
+   "summary": "Αναφέρθηκε από 6 μέσα σε 5 χώρες από τις 27 Νοε. Πρώτη αναφορά από RFE/RL (English). Το ATHENA εκτιμά τον κίνδυνο σε 4.5/10 (αυξημένος), με βεβαιότητα 85%.",
+   "date_published": "2026-11-27T23:05:03Z",
+   "tags": [
+    "Γεωπολιτική"
+   ],
+   "language": "el"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/el/event/336579.html",
    "url": "https://athenaglauxintelligence.news/el/event/336579.html",
    "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
-   "summary": "Αναφέρθηκε από 14 μέσα σε 10 χώρες από τις 27 Νοε. Πρώτη αναφορά από Middle East Eye. Το ATHENA εκτιμά τον κίνδυνο σε 5.4/10 (αυξημένος), με βεβαιότητα 91%.",
+   "summary": "Αναφέρθηκε από 15 μέσα σε 11 χώρες από τις 27 Νοε. Πρώτη αναφορά από Middle East Eye. Το ATHENA εκτιμά τον κίνδυνο σε 5.4/10 (αυξημένος), με βεβαιότητα 92%.",
    "date_published": "2026-11-27T22:48:15Z",
    "tags": [
     "Γεωπολιτική"
@@ -97,7 +108,7 @@
    "id": "https://athenaglauxintelligence.news/el/event/336034.html",
    "url": "https://athenaglauxintelligence.news/el/event/336034.html",
    "title": "Zelensky Tells Meloni Ukraine Did Not Coordinate Libya Strikes With Europe",
-   "summary": "Αναφέρθηκε από 5 μέσα σε 4 χώρες από τις 27 Νοε. Πρώτη αναφορά από TASS (English). Το ATHENA εκτιμά τον κίνδυνο σε 4.8/10 (αυξημένος), με βεβαιότητα 81%.",
+   "summary": "Αναφέρθηκε από 5 μέσα σε 4 χώρες από τις 27 Νοε. Πρώτη αναφορά από TASS (English). Το ATHENA εκτιμά τον κίνδυνο σε 4.2/10 (αυξημένος), με βεβαιότητα 81%.",
    "date_published": "2026-11-27T20:17:03Z",
    "tags": [
     "Γεωπολιτική"
@@ -143,6 +154,17 @@
    "title": "Oando seeks N203.8bn to fund oil projects, repay debts",
    "summary": "Αναφέρθηκε από 3 μέσα σε 1 χώρα από τις 27 Νοε. Πρώτη αναφορά από Nairametrics. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 53%.",
    "date_published": "2026-11-27T18:21:34Z",
+   "tags": [
+    "Επιχειρήσεις"
+   ],
+   "language": "el"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/el/event/337177.html",
+   "url": "https://athenaglauxintelligence.news/el/event/337177.html",
+   "title": "Sales for Biden memoir fall far short of books by Obama, Clinton",
+   "summary": "Αναφέρθηκε από 3 μέσα σε 3 χώρες από τις 27 Νοε. Πρώτη αναφορά από The Straits Times. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 67%.",
+   "date_published": "2026-11-27T17:04:53Z",
    "tags": [
     "Επιχειρήσεις"
    ],
@@ -251,7 +273,7 @@
    "id": "https://athenaglauxintelligence.news/el/event/333063.html",
    "url": "https://athenaglauxintelligence.news/el/event/333063.html",
    "title": "UN refugee agency seeks $7.1 billion in 2027",
-   "summary": "Αναφέρθηκε από 4 μέσα σε 4 χώρες από τις 27 Νοε. Πρώτη αναφορά από Free Malaysia Today. Το ATHENA εκτιμά τον κίνδυνο σε 1.4/10 (χαμηλός), με βεβαιότητα 75%.",
+   "summary": "Αναφέρθηκε από 5 μέσα σε 5 χώρες από τις 27 Νοε. Πρώτη αναφορά από Free Malaysia Today. Το ATHENA εκτιμά τον κίνδυνο σε 1.4/10 (χαμηλός), με βεβαιότητα 80%.",
    "date_published": "2026-11-27T14:42:38Z",
    "tags": [
     "Δυστυχήματα & έκτακτες ανάγκες"
@@ -281,10 +303,21 @@
    "language": "el"
   },
   {
+   "id": "https://athenaglauxintelligence.news/el/event/336091.html",
+   "url": "https://athenaglauxintelligence.news/el/event/336091.html",
+   "title": "Austria’s Far Right Proposes Deporting Migrants to Ukraine",
+   "summary": "Αναφέρθηκε από 3 μέσα σε 2 χώρες από τις 27 Νοε. Πρώτη αναφορά από TASS (English). Το ATHENA εκτιμά τον κίνδυνο σε 4.2/10 (αυξημένος), με βεβαιότητα 63%.",
+   "date_published": "2026-11-27T14:24:09Z",
+   "tags": [
+    "Δυστυχήματα & έκτακτες ανάγκες"
+   ],
+   "language": "el"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/el/event/333473.html",
    "url": "https://athenaglauxintelligence.news/el/event/333473.html",
-   "title": "Ukraine Brings Back 9 Children From Russian Occupation",
-   "summary": "Αναφέρθηκε από 5 μέσα σε 2 χώρες από τις 27 Νοε. Πρώτη αναφορά από Kyiv Independent. Το ATHENA εκτιμά τον κίνδυνο σε 1.8/10 (χαμηλός), με βεβαιότητα 76%.",
+   "title": "9 Ukrainian Children Return Home With Melania Trump’s Help",
+   "summary": "Αναφέρθηκε από 6 μέσα σε 3 χώρες από τις 27 Νοε. Πρώτη αναφορά από Kyiv Independent. Το ATHENA εκτιμά τον κίνδυνο σε 1.6/10 (χαμηλός), με βεβαιότητα 81%.",
    "date_published": "2026-11-27T14:05:45Z",
    "tags": [
     "Γεωπολιτική"
@@ -297,6 +330,17 @@
    "title": "Tasoulas to meet Erdogan tomorrow in Constantinople at the Turkish President’s request",
    "summary": "Αναφέρθηκε από 4 μέσα σε 2 χώρες από τις 27 Νοε. Πρώτη αναφορά από To Vima (English). Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 69%.",
    "date_published": "2026-11-27T14:05:02Z",
+   "tags": [
+    "Γεωπολιτική"
+   ],
+   "language": "el"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/el/event/333282.html",
+   "url": "https://athenaglauxintelligence.news/el/event/333282.html",
+   "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
+   "summary": "Αναφέρθηκε από 3 μέσα σε 2 χώρες από τις 27 Νοε. Πρώτη αναφορά από The Guardian. Το ATHENA εκτιμά τον κίνδυνο σε 0.7/10 (χαμηλός), με βεβαιότητα 64%.",
+   "date_published": "2026-11-27T14:00:13Z",
    "tags": [
     "Γεωπολιτική"
    ],
@@ -393,55 +437,11 @@
   {
    "id": "https://athenaglauxintelligence.news/el/event/333114.html",
    "url": "https://athenaglauxintelligence.news/el/event/333114.html",
-   "title": "Poison seller linked to 79 deaths in UK ‘should spend 25 years in jail’",
-   "summary": "Αναφέρθηκε από 12 μέσα σε 7 χώρες από τις 27 Νοε. Πρώτη αναφορά από The Globe and Mail. Το ATHENA εκτιμά τον κίνδυνο σε 4.7/10 (αυξημένος), με βεβαιότητα 90%.",
+   "title": "Prosecutors seek 25-year sentence for Canada suicide poison seller",
+   "summary": "Αναφέρθηκε από 8 μέσα σε 6 χώρες από τις 27 Νοε. Πρώτη αναφορά από The Globe and Mail. Το ATHENA εκτιμά τον κίνδυνο σε 1.8/10 (χαμηλός), με βεβαιότητα 89%.",
    "date_published": "2026-11-27T12:11:02Z",
    "tags": [
     "Δυστυχήματα & έκτακτες ανάγκες"
-   ],
-   "language": "el"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/el/event/333132.html",
-   "url": "https://athenaglauxintelligence.news/el/event/333132.html",
-   "title": "Administrative Chaos In Tamil Nadu, Officers Acted On Dictates Of Political Bosses': Supreme Court In Thiruparankundram Case",
-   "summary": "Αναφέρθηκε από 3 μέσα σε 1 χώρα από τις 27 Νοε. Πρώτη αναφορά από Hindustan Times. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 56%.",
-   "date_published": "2026-11-27T12:10:37Z",
-   "tags": [
-    "Δυστυχήματα & έκτακτες ανάγκες"
-   ],
-   "language": "el"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/el/event/334663.html",
-   "url": "https://athenaglauxintelligence.news/el/event/334663.html",
-   "title": "US Black Friday online sales to cross $13 billion, Adobe says",
-   "summary": "Αναφέρθηκε από 4 μέσα σε 4 χώρες από τις 27 Νοε. Πρώτη αναφορά από Inc. Το ATHENA εκτιμά τον κίνδυνο σε 0.0/10 (none detected), με βεβαιότητα 71%.",
-   "date_published": "2026-11-27T12:00:00Z",
-   "tags": [
-    "Τεχνολογία & Κυβερνοασφάλεια"
-   ],
-   "language": "el"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/el/event/332705.html",
-   "url": "https://athenaglauxintelligence.news/el/event/332705.html",
-   "title": "Downing Street issues statement amid DWP's 'ongoing' cyber incident",
-   "summary": "Αναφέρθηκε από 5 μέσα σε 1 χώρα από τις 27 Νοε. Πρώτη αναφορά από Belfast Telegraph. Το ATHENA εκτιμά τον κίνδυνο σε 2.1/10 (μέτριος), με βεβαιότητα 63%.",
-   "date_published": "2026-11-27T11:59:21Z",
-   "tags": [
-    "Τεχνολογία & Κυβερνοασφάλεια"
-   ],
-   "language": "el"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/el/event/334741.html",
-   "url": "https://athenaglauxintelligence.news/el/event/334741.html",
-   "title": "IDF: Hezbollah using fishing boats to gather intel",
-   "summary": "Αναφέρθηκε από 3 μέσα σε 3 χώρες από τις 27 Νοε. Πρώτη αναφορά από Naharnet. Το ATHENA εκτιμά τον κίνδυνο σε 1.0/10 (χαμηλός), με βεβαιότητα 70%.",
-   "date_published": "2026-11-27T11:56:28Z",
-   "tags": [
-    "Γεωπολιτική"
    ],
    "language": "el"
   }

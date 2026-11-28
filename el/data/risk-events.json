@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-28T12:35:44Z",
+ "generated": "2026-11-28T12:53:53Z",
  "window_days": 7,
  "language": "el",
- "count": 966,
+ "count": 970,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -66,15 +66,15 @@
   {
    "id": 337490,
    "url": "https://athenaglauxintelligence.news/el/event/337490.html",
-   "title": "Constitution Amendment Bill: April to November what changed",
+   "title": "Delimitation : How Constitution 132nd Amendment Bill Differs From April Bill",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-28T00:51:03Z",
    "last_reported": "2026-11-28T11:20:45Z",
-   "outlets": 3,
+   "outlets": 4,
    "countries": 1,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 58,
+   "confidence_pct": 63,
    "status": "emerging"
   },
   {
@@ -92,17 +92,31 @@
    "status": "emerging"
   },
   {
+   "id": 337896,
+   "url": "https://athenaglauxintelligence.news/el/event/337896.html",
+   "title": "Ukraine launches one of its largest drone attacks on Russia overnight",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-27T23:05:03Z",
+   "last_reported": "2026-11-28T07:58:28Z",
+   "outlets": 6,
+   "countries": 5,
+   "risk_score": 4.5,
+   "risk_band": "elevated",
+   "confidence_pct": 85,
+   "status": "fading"
+  },
+  {
    "id": 336579,
    "url": "https://athenaglauxintelligence.news/el/event/336579.html",
    "title": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T22:48:15Z",
    "last_reported": "2026-11-28T10:31:41Z",
-   "outlets": 14,
-   "countries": 10,
+   "outlets": 15,
+   "countries": 11,
    "risk_score": 5.4,
    "risk_band": "elevated",
-   "confidence_pct": 91,
+   "confidence_pct": 92,
    "status": "fading"
   },
   {
@@ -128,7 +142,7 @@
    "last_reported": "2026-11-28T09:56:25Z",
    "outlets": 5,
    "countries": 4,
-   "risk_score": 4.8,
+   "risk_score": 4.2,
    "risk_band": "elevated",
    "confidence_pct": 81,
    "status": "fading"
@@ -187,6 +201,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 53,
+   "status": "fading"
+  },
+  {
+   "id": 337177,
+   "url": "https://athenaglauxintelligence.news/el/event/337177.html",
+   "title": "Sales for Biden memoir fall far short of books by Obama, Clinton",
+   "section": "Επιχειρήσεις",
+   "first_reported": "2026-11-27T17:04:53Z",
+   "last_reported": "2026-11-28T02:04:15Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 67,
    "status": "fading"
   },
   {
@@ -322,11 +350,11 @@
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-27T14:42:38Z",
    "last_reported": "2026-11-28T01:00:00Z",
-   "outlets": 4,
-   "countries": 4,
+   "outlets": 5,
+   "countries": 5,
    "risk_score": 1.4,
    "risk_band": "low",
-   "confidence_pct": 75,
+   "confidence_pct": 80,
    "status": "fading"
   },
   {
@@ -358,18 +386,32 @@
    "status": "fading"
   },
   {
+   "id": 336091,
+   "url": "https://athenaglauxintelligence.news/el/event/336091.html",
+   "title": "Austria’s Far Right Proposes Deporting Migrants to Ukraine",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-27T14:24:09Z",
+   "last_reported": "2026-11-28T06:45:00Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 4.2,
+   "risk_band": "elevated",
+   "confidence_pct": 63,
+   "status": "fading"
+  },
+  {
    "id": 333473,
    "url": "https://athenaglauxintelligence.news/el/event/333473.html",
-   "title": "Ukraine Brings Back 9 Children From Russian Occupation",
+   "title": "9 Ukrainian Children Return Home With Melania Trump’s Help",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T14:05:45Z",
    "last_reported": "2026-11-28T05:00:37Z",
-   "outlets": 5,
-   "countries": 2,
-   "risk_score": 1.8,
+   "outlets": 6,
+   "countries": 3,
+   "risk_score": 1.6,
    "risk_band": "low",
-   "confidence_pct": 76,
-   "status": "peaking"
+   "confidence_pct": 81,
+   "status": "fading"
   },
   {
    "id": 333794,
@@ -383,6 +425,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 69,
+   "status": "fading"
+  },
+  {
+   "id": 333282,
+   "url": "https://athenaglauxintelligence.news/el/event/333282.html",
+   "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-27T14:00:13Z",
+   "last_reported": "2026-11-28T05:00:04Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.7,
+   "risk_band": "low",
+   "confidence_pct": 64,
    "status": "fading"
   },
   {
@@ -500,15 +556,15 @@
   {
    "id": 333114,
    "url": "https://athenaglauxintelligence.news/el/event/333114.html",
-   "title": "Poison seller linked to 79 deaths in UK ‘should spend 25 years in jail’",
+   "title": "Prosecutors seek 25-year sentence for Canada suicide poison seller",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-27T12:11:02Z",
    "last_reported": "2026-11-28T08:30:32Z",
-   "outlets": 12,
-   "countries": 7,
-   "risk_score": 4.7,
-   "risk_band": "elevated",
-   "confidence_pct": 90,
+   "outlets": 8,
+   "countries": 6,
+   "risk_score": 1.8,
+   "risk_band": "low",
+   "confidence_pct": 89,
    "status": "fading"
   },
   {
@@ -960,6 +1016,20 @@
    "status": "fading"
   },
   {
+   "id": 330911,
+   "url": "https://athenaglauxintelligence.news/el/event/330911.html",
+   "title": "TCN announces 10-hour planned power outage in parts of Abuja",
+   "section": "Ενέργεια & Περιβάλλον",
+   "first_reported": "2026-11-27T05:30:08Z",
+   "last_reported": "2026-11-28T09:38:53Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 4.2,
+   "risk_band": "elevated",
+   "confidence_pct": 54,
+   "status": "fading"
+  },
+  {
    "id": 332182,
    "url": "https://athenaglauxintelligence.news/el/event/332182.html",
    "title": "Kalshi’s next big bet: ‘microinsurance’ for small businesses",
@@ -1140,20 +1210,6 @@
    "risk_band": "high",
    "confidence_pct": 76,
    "status": "emerging"
-  },
-  {
-   "id": 334256,
-   "url": "https://athenaglauxintelligence.news/el/event/334256.html",
-   "title": "Croatian court overturns extradition ruling against Ukrainian suspect in Nord Stream sabotage case",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-27T02:16:01Z",
-   "last_reported": "2026-11-27T21:50:00Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 2.2,
-   "risk_band": "moderate",
-   "confidence_pct": 63,
-   "status": "fading"
   },
   {
    "id": 329617,
@@ -1582,11 +1638,11 @@
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T21:23:38Z",
    "last_reported": "2026-11-28T01:34:14Z",
-   "outlets": 5,
-   "countries": 3,
+   "outlets": 6,
+   "countries": 4,
    "risk_score": 5.7,
    "risk_band": "elevated",
-   "confidence_pct": 77,
+   "confidence_pct": 83,
    "status": "fading"
   },
   {
@@ -3508,6 +3564,20 @@
    "status": "fading"
   },
   {
+   "id": 328449,
+   "url": "https://athenaglauxintelligence.news/el/event/328449.html",
+   "title": "Where Jess Wilson will celebrate if the Coalition romps home",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-26T07:19:59Z",
+   "last_reported": "2026-11-28T10:42:17Z",
+   "outlets": 4,
+   "countries": 1,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 64,
+   "status": "fading"
+  },
+  {
    "id": 320484,
    "url": "https://athenaglauxintelligence.news/el/event/320484.html",
    "title": "Kushner: Israel needs to get out of the constant wartime mindset",
@@ -5067,7 +5137,7 @@
    "title": "UPDATE: Norwegian Norse Atlantic airline files for bankruptcy",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-25T13:27:47Z",
-   "last_reported": "2026-11-27T22:03:06Z",
+   "last_reported": "2026-11-28T11:00:00Z",
    "outlets": 22,
    "countries": 14,
    "risk_score": 5.8,
@@ -5208,11 +5278,11 @@
    "section": "Ενέργεια & Περιβάλλον",
    "first_reported": "2026-11-25T12:30:49Z",
    "last_reported": "2026-11-28T11:00:59Z",
-   "outlets": 8,
-   "countries": 7,
-   "risk_score": 5.2,
+   "outlets": 9,
+   "countries": 8,
+   "risk_score": 5.3,
    "risk_band": "elevated",
-   "confidence_pct": 90,
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -13516,20 +13586,6 @@
    "risk_band": "elevated",
    "confidence_pct": 55,
    "status": "emerging"
-  },
-  {
-   "id": 283960,
-   "url": "https://athenaglauxintelligence.news/el/event/283960.html",
-   "title": "Costa Concordia Captain Released from Prison After Nine Years",
-   "section": "Επιχειρήσεις",
-   "first_reported": "2026-11-21T12:40:09Z",
-   "last_reported": "2026-11-24T12:40:34Z",
-   "outlets": 6,
-   "countries": 3,
-   "risk_score": 3.9,
-   "risk_band": "moderate",
-   "confidence_pct": 76,
-   "status": "fading"
   }
  ]
 }
