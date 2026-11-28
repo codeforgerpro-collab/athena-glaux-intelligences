@@ -20,7 +20,7 @@
    "id": "https://athenaglauxintelligence.news/event/336418.html",
    "url": "https://athenaglauxintelligence.news/event/336418.html",
    "title": "OpenAI countersues Apple over alleged trade secret theft",
-   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by The Next Web. ATHENA rates the risk 0.0/10 (none detected), with 68% confidence.",
+   "summary": "Reported by 4 outlets in 4 countries since 27 Nov. First reported by The Next Web. ATHENA rates the risk 1.1/10 (low), with 75% confidence.",
    "date_published": "2026-11-27T20:50:25Z",
    "tags": [
     "Technology & Cyber"
@@ -28,21 +28,10 @@
    "language": "en"
   },
   {
-   "id": "https://athenaglauxintelligence.news/event/334395.html",
-   "url": "https://athenaglauxintelligence.news/event/334395.html",
-   "title": "US battered by Thanksgiving storms: Thousands without power as floods wreak havoc",
-   "summary": "Reported by 5 outlets in 3 countries since 27 Nov. First reported by Livemint. ATHENA rates the risk 4.4/10 (elevated), with 79% confidence.",
-   "date_published": "2026-11-27T18:49:35Z",
-   "tags": [
-    "Energy & Environment"
-   ],
-   "language": "en"
-  },
-  {
    "id": "https://athenaglauxintelligence.news/event/333748.html",
    "url": "https://athenaglauxintelligence.news/event/333748.html",
-   "title": "US disables ship in Gulf of Oman under Iran blockade",
-   "summary": "Reported by 9 outlets in 7 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 4.9/10 (elevated), with 89% confidence.",
+   "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
+   "summary": "Reported by 11 outlets in 8 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 4.9/10 (elevated), with 90% confidence.",
    "date_published": "2026-11-27T16:55:58Z",
    "tags": [
     "Trade & Industry"
@@ -96,8 +85,8 @@
   {
    "id": "https://athenaglauxintelligence.news/event/333063.html",
    "url": "https://athenaglauxintelligence.news/event/333063.html",
-   "title": "UN refugee agency seeks US$7.1bil in 2027",
-   "summary": "Reported by 3 outlets in 3 countries since 27 Nov. First reported by Free Malaysia Today. ATHENA rates the risk 1.6/10 (low), with 66% confidence.",
+   "title": "UN refugee agency seeks $7.1 billion in 2027",
+   "summary": "Reported by 4 outlets in 4 countries since 27 Nov. First reported by Free Malaysia Today. ATHENA rates the risk 1.4/10 (low), with 75% confidence.",
    "date_published": "2026-11-27T14:42:38Z",
    "tags": [
     "Accidents & emergencies"
@@ -160,6 +149,17 @@
    "language": "en"
   },
   {
+   "id": "https://athenaglauxintelligence.news/event/334663.html",
+   "url": "https://athenaglauxintelligence.news/event/334663.html",
+   "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+   "summary": "Reported by 4 outlets in 4 countries since 27 Nov. First reported by Inc. ATHENA rates the risk 0.0/10 (none detected), with 71% confidence.",
+   "date_published": "2026-11-27T12:00:00Z",
+   "tags": [
+    "Technology & Cyber"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/332705.html",
    "url": "https://athenaglauxintelligence.news/event/332705.html",
    "title": "Downing Street issues statement amid DWP's 'ongoing' cyber incident",
@@ -185,7 +185,7 @@
    "id": "https://athenaglauxintelligence.news/event/334330.html",
    "url": "https://athenaglauxintelligence.news/event/334330.html",
    "title": "CENTCOM Says Six Vessels Disabled for Defying US Naval Blockade",
-   "summary": "Reported by 4 outlets in 3 countries since 27 Nov. First reported by Asharq Al-Awsat (English). ATHENA rates the risk 4.2/10 (elevated), with 71% confidence.",
+   "summary": "Reported by 5 outlets in 4 countries since 27 Nov. First reported by Asharq Al-Awsat (English). ATHENA rates the risk 4.3/10 (elevated), with 76% confidence.",
    "date_published": "2026-11-27T11:47:38Z",
    "tags": [
     "Trade & Industry"
@@ -294,11 +294,11 @@
   {
    "id": "https://athenaglauxintelligence.news/event/332448.html",
    "url": "https://athenaglauxintelligence.news/event/332448.html",
-   "title": "2 Turkish news anchors among 9 detained weeks after state takeover of Halk TV",
-   "summary": "Reported by 3 outlets in 1 country since 27 Nov. First reported by Hürriyet Daily News. ATHENA rates the risk 3.2/10 (moderate), with 61% confidence.",
+   "title": "Turkiye detains two former anchors of seized opposition TV",
+   "summary": "Reported by 4 outlets in 2 countries since 27 Nov. First reported by Hürriyet Daily News. ATHENA rates the risk 3.9/10 (moderate), with 69% confidence.",
    "date_published": "2026-11-27T09:19:22Z",
    "tags": [
-    "Technology & Cyber"
+    "Geopolitics"
    ],
    "language": "en"
   },
@@ -402,6 +402,17 @@
    "language": "en"
   },
   {
+   "id": "https://athenaglauxintelligence.news/event/333302.html",
+   "url": "https://athenaglauxintelligence.news/event/333302.html",
+   "title": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
+   "summary": "Reported by 4 outlets in 3 countries since 27 Nov. First reported by The Guardian. ATHENA rates the risk 0.0/10 (none detected), with 69% confidence.",
+   "date_published": "2026-11-27T06:54:59Z",
+   "tags": [
+    "Accidents & emergencies"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/332894.html",
    "url": "https://athenaglauxintelligence.news/event/332894.html",
    "title": "Oil on track to snap 3-week losing streak over supply fears",
@@ -431,17 +442,6 @@
    "date_published": "2026-11-27T06:07:06Z",
    "tags": [
     "Energy & Environment"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/332182.html",
-   "url": "https://athenaglauxintelligence.news/event/332182.html",
-   "title": "Kalshi’s next big bet: ‘microinsurance’ for small businesses",
-   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by Financial Times - Markets. ATHENA rates the risk 1.1/10 (low), with 61% confidence.",
-   "date_published": "2026-11-27T05:00:13Z",
-   "tags": [
-    "Trade & Industry"
    ],
    "language": "en"
   }

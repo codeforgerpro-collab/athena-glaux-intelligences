@@ -1,6 +1,6 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-28T03:56:29Z",
+ "generated": "2026-11-28T04:35:59Z",
  "window_days": 7,
  "language": "en",
  "count": 961,
@@ -28,39 +28,25 @@
    "section": "Technology & Cyber",
    "first_reported": "2026-11-27T20:50:25Z",
    "last_reported": "2026-11-27T23:19:20Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 68,
-   "status": "emerging"
-  },
-  {
-   "id": 334395,
-   "url": "https://athenaglauxintelligence.news/event/334395.html",
-   "title": "US battered by Thanksgiving storms: Thousands without power as floods wreak havoc",
-   "section": "Energy & Environment",
-   "first_reported": "2026-11-27T18:49:35Z",
-   "last_reported": "2026-11-28T00:44:08Z",
-   "outlets": 5,
-   "countries": 3,
-   "risk_score": 4.4,
-   "risk_band": "elevated",
-   "confidence_pct": 79,
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 1.1,
+   "risk_band": "low",
+   "confidence_pct": 75,
    "status": "emerging"
   },
   {
    "id": 333748,
    "url": "https://athenaglauxintelligence.news/event/333748.html",
-   "title": "US disables ship in Gulf of Oman under Iran blockade",
+   "title": "US disables ship trying to leave Iran, as Tehran vows to confront blockade",
    "section": "Trade & Industry",
    "first_reported": "2026-11-27T16:55:58Z",
    "last_reported": "2026-11-27T23:17:00Z",
-   "outlets": 9,
-   "countries": 7,
+   "outlets": 11,
+   "countries": 8,
    "risk_score": 4.9,
    "risk_band": "elevated",
-   "confidence_pct": 89,
+   "confidence_pct": 90,
    "status": "emerging"
   },
   {
@@ -122,15 +108,15 @@
   {
    "id": 333063,
    "url": "https://athenaglauxintelligence.news/event/333063.html",
-   "title": "UN refugee agency seeks US$7.1bil in 2027",
+   "title": "UN refugee agency seeks $7.1 billion in 2027",
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-27T14:42:38Z",
    "last_reported": "2026-11-27T19:45:21Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 1.6,
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 1.4,
    "risk_band": "low",
-   "confidence_pct": 66,
+   "confidence_pct": 75,
    "status": "fading"
   },
   {
@@ -204,6 +190,20 @@
    "status": "fading"
   },
   {
+   "id": 334663,
+   "url": "https://athenaglauxintelligence.news/event/334663.html",
+   "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+   "section": "Technology & Cyber",
+   "first_reported": "2026-11-27T12:00:00Z",
+   "last_reported": "2026-11-28T00:06:42Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 71,
+   "status": "fading"
+  },
+  {
    "id": 332705,
    "url": "https://athenaglauxintelligence.news/event/332705.html",
    "title": "Downing Street issues statement amid DWP's 'ongoing' cyber incident",
@@ -237,12 +237,12 @@
    "title": "CENTCOM Says Six Vessels Disabled for Defying US Naval Blockade",
    "section": "Trade & Industry",
    "first_reported": "2026-11-27T11:47:38Z",
-   "last_reported": "2026-11-27T18:06:08Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 4.2,
+   "last_reported": "2026-11-27T19:05:22Z",
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 4.3,
    "risk_band": "elevated",
-   "confidence_pct": 71,
+   "confidence_pct": 76,
    "status": "fading"
   },
   {
@@ -374,15 +374,15 @@
   {
    "id": 332448,
    "url": "https://athenaglauxintelligence.news/event/332448.html",
-   "title": "2 Turkish news anchors among 9 detained weeks after state takeover of Halk TV",
-   "section": "Technology & Cyber",
+   "title": "Turkiye detains two former anchors of seized opposition TV",
+   "section": "Geopolitics",
    "first_reported": "2026-11-27T09:19:22Z",
    "last_reported": "2026-11-27T17:51:52Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 3.2,
+   "outlets": 4,
+   "countries": 2,
+   "risk_score": 3.9,
    "risk_band": "moderate",
-   "confidence_pct": 61,
+   "confidence_pct": 69,
    "status": "fading"
   },
   {
@@ -512,6 +512,20 @@
    "status": "fading"
   },
   {
+   "id": 333302,
+   "url": "https://athenaglauxintelligence.news/event/333302.html",
+   "title": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
+   "section": "Accidents & emergencies",
+   "first_reported": "2026-11-27T06:54:59Z",
+   "last_reported": "2026-11-28T02:44:46Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 69,
+   "status": "peaking"
+  },
+  {
    "id": 332894,
    "url": "https://athenaglauxintelligence.news/event/332894.html",
    "title": "Oil on track to snap 3-week losing streak over supply fears",
@@ -630,12 +644,12 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-27T04:28:49Z",
    "last_reported": "2026-11-28T02:20:00Z",
-   "outlets": 15,
-   "countries": 10,
-   "risk_score": 4.0,
+   "outlets": 16,
+   "countries": 11,
+   "risk_score": 4.2,
    "risk_band": "elevated",
    "confidence_pct": 89,
-   "status": "fading"
+   "status": "peaking"
   },
   {
    "id": 330292,
@@ -677,20 +691,6 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 64,
-   "status": "fading"
-  },
-  {
-   "id": 331610,
-   "url": "https://athenaglauxintelligence.news/event/331610.html",
-   "title": "Amazon staff to strike and rally on busiest weekend of the year",
-   "section": "Accidents & emergencies",
-   "first_reported": "2026-11-27T03:03:00Z",
-   "last_reported": "2026-11-27T14:09:26Z",
-   "outlets": 3,
-   "countries": 3,
-   "risk_score": 2.6,
-   "risk_band": "moderate",
-   "confidence_pct": 68,
    "status": "fading"
   },
   {
@@ -1072,6 +1072,20 @@
    "status": "fading"
   },
   {
+   "id": 334664,
+   "url": "https://athenaglauxintelligence.news/event/334664.html",
+   "title": "Japan's JERA aims to build data centers for Anthropic, other AI players near power plants",
+   "section": "Technology & Cyber",
+   "first_reported": "2026-11-26T22:13:30Z",
+   "last_reported": "2026-11-27T19:56:32Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 64,
+   "status": "fading"
+  },
+  {
    "id": 328189,
    "url": "https://athenaglauxintelligence.news/event/328189.html",
    "title": "CIA's secret torture programme: New files reveal more accounts of waterboarding claims",
@@ -1130,15 +1144,15 @@
   {
    "id": 328586,
    "url": "https://athenaglauxintelligence.news/event/328586.html",
-   "title": "Kuwait Summons Iranian Ambassador After Drone Attack Kills 2",
+   "title": "Kuwait summons Iran ambassador over ‘continued Iranian attacks’",
    "section": "Geopolitics",
    "first_reported": "2026-11-26T20:59:51Z",
    "last_reported": "2026-11-27T21:40:54Z",
-   "outlets": 10,
+   "outlets": 11,
    "countries": 7,
-   "risk_score": 5.4,
+   "risk_score": 5.5,
    "risk_band": "elevated",
-   "confidence_pct": 91,
+   "confidence_pct": 92,
    "status": "fading"
   },
   {
@@ -1413,12 +1427,12 @@
    "title": "Thailand presses Myanmar over arsenic mining pollution",
    "section": "Energy & Environment",
    "first_reported": "2026-11-26T17:00:01Z",
-   "last_reported": "2026-11-27T14:56:00Z",
-   "outlets": 10,
+   "last_reported": "2026-11-28T00:12:15Z",
+   "outlets": 11,
    "countries": 8,
-   "risk_score": 3.5,
+   "risk_score": 3.6,
    "risk_band": "moderate",
-   "confidence_pct": 90,
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -1578,15 +1592,15 @@
   {
    "id": 325688,
    "url": "https://athenaglauxintelligence.news/event/325688.html",
-   "title": "Heavy rain, wind and flooding plague much of US on Thanksgiving holiday",
+   "title": "Parts of the US Clean up, Power Outages Being Restored after Thanksgiving Storm Soaks East Coast",
    "section": "Energy & Environment",
    "first_reported": "2026-11-26T15:58:26Z",
-   "last_reported": "2026-11-28T00:10:01Z",
-   "outlets": 15,
-   "countries": 10,
-   "risk_score": 5.6,
+   "last_reported": "2026-11-28T00:44:08Z",
+   "outlets": 19,
+   "countries": 12,
+   "risk_score": 5.7,
    "risk_band": "elevated",
-   "confidence_pct": 89,
+   "confidence_pct": 90,
    "status": "fading"
   },
   {
@@ -2044,11 +2058,11 @@
    "section": "Technology & Cyber",
    "first_reported": "2026-11-26T12:51:15Z",
    "last_reported": "2026-11-27T22:06:12Z",
-   "outlets": 4,
-   "countries": 3,
-   "risk_score": 0.8,
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 1.4,
    "risk_band": "low",
-   "confidence_pct": 65,
+   "confidence_pct": 71,
    "status": "fading"
   },
   {
@@ -2072,9 +2086,9 @@
    "section": "Geopolitics",
    "first_reported": "2026-11-26T12:48:32Z",
    "last_reported": "2026-11-27T16:59:13Z",
-   "outlets": 7,
+   "outlets": 8,
    "countries": 4,
-   "risk_score": 4.5,
+   "risk_score": 4.3,
    "risk_band": "elevated",
    "confidence_pct": 86,
    "status": "fading"
@@ -2508,9 +2522,9 @@
    "last_reported": "2026-11-27T23:06:14Z",
    "outlets": 10,
    "countries": 9,
-   "risk_score": 1.5,
-   "risk_band": "low",
-   "confidence_pct": 90,
+   "risk_score": 2.6,
+   "risk_band": "moderate",
+   "confidence_pct": 91,
    "status": "fading"
   },
   {
@@ -2660,9 +2674,9 @@
    "section": "Accidents & emergencies",
    "first_reported": "2026-11-26T09:00:00Z",
    "last_reported": "2026-11-27T23:43:59Z",
-   "outlets": 13,
-   "countries": 10,
-   "risk_score": 3.6,
+   "outlets": 14,
+   "countries": 11,
+   "risk_score": 3.5,
    "risk_band": "moderate",
    "confidence_pct": 93,
    "status": "fading"
@@ -5252,7 +5266,7 @@
    "last_reported": "2026-11-28T00:24:10Z",
    "outlets": 23,
    "countries": 16,
-   "risk_score": 4.6,
+   "risk_score": 4.5,
    "risk_band": "elevated",
    "confidence_pct": 88,
    "status": "fading"
@@ -5796,8 +5810,8 @@
    "section": "Business",
    "first_reported": "2026-11-25T00:00:00Z",
    "last_reported": "2026-11-28T03:51:39Z",
-   "outlets": 18,
-   "countries": 14,
+   "outlets": 17,
+   "countries": 13,
    "risk_score": 2.8,
    "risk_band": "moderate",
    "confidence_pct": 82,
@@ -10720,15 +10734,15 @@
   {
    "id": 335407,
    "url": "https://athenaglauxintelligence.news/event/335407.html",
-   "title": "Saudis down missiles targeting capital after Yemen port strikes",
+   "title": "Yemeni military reports 726 operations against Houthis, claims 121 fighters killed",
    "section": "Geopolitics",
    "first_reported": "2026-11-23T04:25:00Z",
    "last_reported": "2026-11-27T18:21:07Z",
-   "outlets": 10,
+   "outlets": 11,
    "countries": 6,
-   "risk_score": 5.5,
+   "risk_score": 5.1,
    "risk_band": "elevated",
-   "confidence_pct": 86,
+   "confidence_pct": 90,
    "status": "fading"
   },
   {
@@ -13445,20 +13459,6 @@
    "risk_score": 1.9,
    "risk_band": "low",
    "confidence_pct": 83,
-   "status": "peaking"
-  },
-  {
-   "id": 281011,
-   "url": "https://athenaglauxintelligence.news/event/281011.html",
-   "title": "FBI, US Agriculture Department breached by hackers: reports",
-   "section": "Trade & Industry",
-   "first_reported": "2026-11-21T04:05:00Z",
-   "last_reported": "2026-11-21T18:49:53Z",
-   "outlets": 11,
-   "countries": 11,
-   "risk_score": 5.3,
-   "risk_band": "elevated",
-   "confidence_pct": 87,
    "status": "peaking"
   }
  ]
