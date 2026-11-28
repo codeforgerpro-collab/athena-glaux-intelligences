@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-28T03:15:44Z",
+ "generated": "2026-11-28T03:56:29Z",
  "window_days": 7,
  "language": "el",
- "count": 958,
+ "count": 961,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -22,17 +22,45 @@
    "status": "spreading"
   },
   {
+   "id": 336418,
+   "url": "https://athenaglauxintelligence.news/el/event/336418.html",
+   "title": "OpenAI countersues Apple over alleged trade secret theft",
+   "section": "Τεχνολογία & Κυβερνοασφάλεια",
+   "first_reported": "2026-11-27T20:50:25Z",
+   "last_reported": "2026-11-27T23:19:20Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 68,
+   "status": "emerging"
+  },
+  {
+   "id": 334395,
+   "url": "https://athenaglauxintelligence.news/el/event/334395.html",
+   "title": "US battered by Thanksgiving storms: Thousands without power as floods wreak havoc",
+   "section": "Ενέργεια & Περιβάλλον",
+   "first_reported": "2026-11-27T18:49:35Z",
+   "last_reported": "2026-11-28T00:44:08Z",
+   "outlets": 5,
+   "countries": 3,
+   "risk_score": 4.4,
+   "risk_band": "elevated",
+   "confidence_pct": 79,
+   "status": "emerging"
+  },
+  {
    "id": 333748,
    "url": "https://athenaglauxintelligence.news/el/event/333748.html",
    "title": "US disables ship in Gulf of Oman under Iran blockade",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-27T16:55:58Z",
    "last_reported": "2026-11-27T23:17:00Z",
-   "outlets": 7,
-   "countries": 6,
-   "risk_score": 4.8,
+   "outlets": 9,
+   "countries": 7,
+   "risk_score": 4.9,
    "risk_band": "elevated",
-   "confidence_pct": 86,
+   "confidence_pct": 89,
    "status": "emerging"
   },
   {
@@ -89,6 +117,34 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 77,
+   "status": "fading"
+  },
+  {
+   "id": 333063,
+   "url": "https://athenaglauxintelligence.news/el/event/333063.html",
+   "title": "UN refugee agency seeks US$7.1bil in 2027",
+   "section": "Δυστυχήματα & έκτακτες ανάγκες",
+   "first_reported": "2026-11-27T14:42:38Z",
+   "last_reported": "2026-11-27T19:45:21Z",
+   "outlets": 3,
+   "countries": 3,
+   "risk_score": 1.6,
+   "risk_band": "low",
+   "confidence_pct": 66,
+   "status": "fading"
+  },
+  {
+   "id": 335206,
+   "url": "https://athenaglauxintelligence.news/el/event/335206.html",
+   "title": "Turkish FM to reaffirm Ankara's collective defense pledge at Mecca pact meeting",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-27T14:37:25Z",
+   "last_reported": "2026-11-28T00:47:05Z",
+   "outlets": 5,
+   "countries": 3,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 81,
    "status": "fading"
   },
   {
@@ -176,6 +232,20 @@
    "status": "fading"
   },
   {
+   "id": 334330,
+   "url": "https://athenaglauxintelligence.news/el/event/334330.html",
+   "title": "CENTCOM Says Six Vessels Disabled for Defying US Naval Blockade",
+   "section": "Εμπόριο & Βιομηχανία",
+   "first_reported": "2026-11-27T11:47:38Z",
+   "last_reported": "2026-11-27T18:06:08Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 4.2,
+   "risk_band": "elevated",
+   "confidence_pct": 71,
+   "status": "fading"
+  },
+  {
    "id": 333467,
    "url": "https://athenaglauxintelligence.news/el/event/333467.html",
    "title": "Ukraine Warns Russia Could Make Black Sea a New ‘Hormuz’",
@@ -221,14 +291,14 @@
    "id": 333992,
    "url": "https://athenaglauxintelligence.news/el/event/333992.html",
    "title": "Mashaba back as Joburg mayor",
-   "section": "Οικονομία & Αγορές",
+   "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T11:22:14Z",
-   "last_reported": "2026-11-27T17:27:09Z",
-   "outlets": 5,
-   "countries": 2,
+   "last_reported": "2026-11-27T20:51:21Z",
+   "outlets": 7,
+   "countries": 4,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 70,
+   "confidence_pct": 80,
    "status": "fading"
   },
   {
@@ -307,7 +377,7 @@
    "title": "2 Turkish news anchors among 9 detained weeks after state takeover of Halk TV",
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-27T09:19:22Z",
-   "last_reported": "2026-11-27T10:18:21Z",
+   "last_reported": "2026-11-27T17:51:52Z",
    "outlets": 3,
    "countries": 1,
    "risk_score": 3.2,
@@ -540,16 +610,30 @@
    "status": "fading"
   },
   {
+   "id": 330089,
+   "url": "https://athenaglauxintelligence.news/el/event/330089.html",
+   "title": "Lyon’s replacement revealed as bolter gets nod for Tests against New Zealand",
+   "section": "Επιχειρήσεις",
+   "first_reported": "2026-11-27T04:30:00Z",
+   "last_reported": "2026-11-27T23:34:03Z",
+   "outlets": 4,
+   "countries": 3,
+   "risk_score": 2.1,
+   "risk_band": "moderate",
+   "confidence_pct": 69,
+   "status": "fading"
+  },
+  {
    "id": 331348,
    "url": "https://athenaglauxintelligence.news/el/event/331348.html",
    "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T04:28:49Z",
-   "last_reported": "2026-11-27T21:30:26Z",
-   "outlets": 14,
-   "countries": 9,
+   "last_reported": "2026-11-28T02:20:00Z",
+   "outlets": 15,
+   "countries": 10,
    "risk_score": 4.0,
-   "risk_band": "moderate",
+   "risk_band": "elevated",
    "confidence_pct": 89,
    "status": "fading"
   },
@@ -678,20 +762,6 @@
    "risk_band": "low",
    "confidence_pct": 66,
    "status": "fading"
-  },
-  {
-   "id": 329483,
-   "url": "https://athenaglauxintelligence.news/el/event/329483.html",
-   "title": "Black Friday fever sweeps Ho Chi Minh City with discounts of up to 90%",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-27T01:55:48Z",
-   "last_reported": "2026-11-27T21:36:00Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 54,
-   "status": "peaking"
   },
   {
    "id": 330042,
@@ -859,20 +929,6 @@
    "risk_score": 1.2,
    "risk_band": "low",
    "confidence_pct": 78,
-   "status": "fading"
-  },
-  {
-   "id": 328879,
-   "url": "https://athenaglauxintelligence.news/el/event/328879.html",
-   "title": "Cautious consumers gear up for Black Friday as inflation woes bite",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-27T00:23:24Z",
-   "last_reported": "2026-11-27T01:33:54Z",
-   "outlets": 3,
-   "countries": 2,
-   "risk_score": 1.4,
-   "risk_band": "low",
-   "confidence_pct": 63,
    "status": "fading"
   },
   {
@@ -1077,7 +1133,7 @@
    "title": "Kuwait Summons Iranian Ambassador After Drone Attack Kills 2",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T20:59:51Z",
-   "last_reported": "2026-11-27T16:43:14Z",
+   "last_reported": "2026-11-27T21:40:54Z",
    "outlets": 10,
    "countries": 7,
    "risk_score": 5.4,
@@ -1134,11 +1190,11 @@
    "section": "Υγεία & Επιστήμη",
    "first_reported": "2026-11-26T20:02:26Z",
    "last_reported": "2026-11-27T19:30:24Z",
-   "outlets": 7,
-   "countries": 4,
+   "outlets": 8,
+   "countries": 5,
    "risk_score": 1.7,
    "risk_band": "low",
-   "confidence_pct": 81,
+   "confidence_pct": 84,
    "status": "fading"
   },
   {
@@ -1166,7 +1222,7 @@
    "countries": 1,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 64,
+   "confidence_pct": 65,
    "status": "fading"
   },
   {
@@ -2449,7 +2505,7 @@
    "title": "Macron blasts Le Pen over EU budget comments",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T09:48:55Z",
-   "last_reported": "2026-11-27T16:35:11Z",
+   "last_reported": "2026-11-27T23:06:14Z",
    "outlets": 10,
    "countries": 9,
    "risk_score": 1.5,
@@ -2604,9 +2660,9 @@
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-26T09:00:00Z",
    "last_reported": "2026-11-27T23:43:59Z",
-   "outlets": 12,
+   "outlets": 13,
    "countries": 10,
-   "risk_score": 3.5,
+   "risk_score": 3.6,
    "risk_band": "moderate",
    "confidence_pct": 93,
    "status": "fading"
@@ -3331,12 +3387,12 @@
    "title": "Vukovar Resolution: We Know Who in Serbia Has Information on Missing Persons",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-25T23:46:50Z",
-   "last_reported": "2026-11-27T09:54:03Z",
+   "last_reported": "2026-11-28T00:42:47Z",
    "outlets": 3,
    "countries": 2,
    "risk_score": 1.1,
    "risk_band": "low",
-   "confidence_pct": 62,
+   "confidence_pct": 60,
    "status": "fading"
   },
   {
@@ -4396,8 +4452,8 @@
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-25T13:27:47Z",
    "last_reported": "2026-11-27T22:03:06Z",
-   "outlets": 21,
-   "countries": 13,
+   "outlets": 22,
+   "countries": 14,
    "risk_score": 5.8,
    "risk_band": "elevated",
    "confidence_pct": 89,
@@ -4499,6 +4555,20 @@
    "risk_score": 0.0,
    "risk_band": "none detected",
    "confidence_pct": 78,
+   "status": "fading"
+  },
+  {
+   "id": 337205,
+   "url": "https://athenaglauxintelligence.news/el/event/337205.html",
+   "title": "Chinese Military Tests New Taiwan Landing Tactics in Coastal Drills",
+   "section": "Εμπόριο & Βιομηχανία",
+   "first_reported": "2026-11-25T12:33:00Z",
+   "last_reported": "2026-11-27T18:46:56Z",
+   "outlets": 5,
+   "countries": 5,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -5454,20 +5524,6 @@
    "status": "fading"
   },
   {
-   "id": 332800,
-   "url": "https://athenaglauxintelligence.news/el/event/332800.html",
-   "title": "Donald Trump's misconduct hurts any US case against Huawei",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-25T04:10:07Z",
-   "last_reported": "2026-11-27T06:54:19Z",
-   "outlets": 6,
-   "countries": 6,
-   "risk_score": 1.1,
-   "risk_band": "low",
-   "confidence_pct": 82,
-   "status": "fading"
-  },
-  {
    "id": 316356,
    "url": "https://athenaglauxintelligence.news/el/event/316356.html",
    "title": "Pakistan makes history as its first astronaut reaches space",
@@ -5739,12 +5795,12 @@
    "title": "China, ASEAN join forces to build stronger community with shared future",
    "section": "Επιχειρήσεις",
    "first_reported": "2026-11-25T00:00:00Z",
-   "last_reported": "2026-11-27T20:08:12Z",
+   "last_reported": "2026-11-28T03:51:39Z",
    "outlets": 18,
    "countries": 14,
    "risk_score": 2.8,
    "risk_band": "moderate",
-   "confidence_pct": 83,
+   "confidence_pct": 82,
    "status": "fading"
   },
   {
@@ -6081,6 +6137,20 @@
    "risk_score": 1.9,
    "risk_band": "low",
    "confidence_pct": 75,
+   "status": "fading"
+  },
+  {
+   "id": 334881,
+   "url": "https://athenaglauxintelligence.news/el/event/334881.html",
+   "title": "We’d be ‘stupid’ not to: Poland defends $300M military AI deal with Palantir",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-24T20:15:01Z",
+   "last_reported": "2026-11-27T19:00:14Z",
+   "outlets": 5,
+   "countries": 4,
+   "risk_score": 1.1,
+   "risk_band": "low",
+   "confidence_pct": 77,
    "status": "fading"
   },
   {
@@ -6772,7 +6842,7 @@
   {
    "id": 325253,
    "url": "https://athenaglauxintelligence.news/el/event/325253.html",
-   "title": "Cabinet to revisit women's quota bill today",
+   "title": "House Showdown! Cabinet clears women's quota bill",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-24T13:39:00Z",
    "last_reported": "2026-11-27T09:02:06Z",
@@ -6780,7 +6850,7 @@
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 62,
+   "confidence_pct": 59,
    "status": "fading"
   },
   {
@@ -10653,7 +10723,7 @@
    "title": "Saudis down missiles targeting capital after Yemen port strikes",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-23T04:25:00Z",
-   "last_reported": "2026-11-27T15:15:36Z",
+   "last_reported": "2026-11-27T18:21:07Z",
    "outlets": 10,
    "countries": 6,
    "risk_score": 5.5,
@@ -10855,20 +10925,6 @@
    "risk_score": 4.6,
    "risk_band": "elevated",
    "confidence_pct": 76,
-   "status": "fading"
-  },
-  {
-   "id": 293076,
-   "url": "https://athenaglauxintelligence.news/el/event/293076.html",
-   "title": "Families of slain Filipinos seek justice as Duterte's ICC trial set to start",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-23T01:00:00Z",
-   "last_reported": "2026-11-27T14:00:00Z",
-   "outlets": 12,
-   "countries": 7,
-   "risk_score": 3.3,
-   "risk_band": "moderate",
-   "confidence_pct": 90,
    "status": "fading"
   },
   {
@@ -11969,10 +12025,10 @@
    "title": "MPs to be given first vote on Andy Burnham’s new EU deal next month",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-22T05:02:00Z",
-   "last_reported": "2026-11-27T20:52:14Z",
-   "outlets": 39,
-   "countries": 21,
-   "risk_score": 4.2,
+   "last_reported": "2026-11-28T00:02:03Z",
+   "outlets": 40,
+   "countries": 22,
+   "risk_score": 4.3,
    "risk_band": "elevated",
    "confidence_pct": 87,
    "status": "fading"
@@ -13404,20 +13460,6 @@
    "risk_band": "elevated",
    "confidence_pct": 87,
    "status": "peaking"
-  },
-  {
-   "id": 280579,
-   "url": "https://athenaglauxintelligence.news/el/event/280579.html",
-   "title": "All 146 Air Niugini Plane Passengers and Crew Safe after an Emergency Landing in Philippines",
-   "section": "Εμπόριο & Βιομηχανία",
-   "first_reported": "2026-11-21T03:43:44Z",
-   "last_reported": "2026-11-21T12:40:23Z",
-   "outlets": 8,
-   "countries": 7,
-   "risk_score": 4.3,
-   "risk_band": "elevated",
-   "confidence_pct": 88,
-   "status": "emerging"
   }
  ]
 }
