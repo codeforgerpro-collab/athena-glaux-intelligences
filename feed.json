@@ -6,13 +6,35 @@
  "language": "en",
  "items": [
   {
+   "id": "https://athenaglauxintelligence.news/event/340837.html",
+   "url": "https://athenaglauxintelligence.news/event/340837.html",
+   "title": "UK pensions department says it was targeted in cyberattack",
+   "summary": "Reported by 3 outlets in 3 countries since 28 Nov. First reported by IRNA (English). ATHENA rates the risk 3.8/10 (moderate), with 66% confidence.",
+   "date_published": "2026-11-28T15:28:38Z",
+   "tags": [
+    "Technology & Cyber"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/339935.html",
    "url": "https://athenaglauxintelligence.news/event/339935.html",
-   "title": "BJP wants to turn India into a dictatorship, alleges Rahul Gandhi amid delimitation row",
-   "summary": "Reported by 3 outlets in 1 country since 28 Nov. First reported by Times of India. ATHENA rates the risk 1.1/10 (low), with 54% confidence.",
+   "title": "BJP pushing India towards dictatorship, 850 figure will murder democracy, says Rahul Gandhi",
+   "summary": "Reported by 4 outlets in 1 country since 28 Nov. First reported by Times of India. ATHENA rates the risk 1.1/10 (low), with 60% confidence.",
    "date_published": "2026-11-28T12:44:04Z",
    "tags": [
     "Accidents & emergencies"
+   ],
+   "language": "en"
+  },
+  {
+   "id": "https://athenaglauxintelligence.news/event/340345.html",
+   "url": "https://athenaglauxintelligence.news/event/340345.html",
+   "title": "Iran’s supreme leader adviser warns Iraq not to become ‘tool of Trump’",
+   "summary": "Reported by 5 outlets in 5 countries since 28 Nov. First reported by Mehr News (English). ATHENA rates the risk 2.0/10 (low), with 79% confidence.",
+   "date_published": "2026-11-28T12:06:30Z",
+   "tags": [
+    "Geopolitics"
    ],
    "language": "en"
   },
@@ -31,7 +53,7 @@
    "id": "https://athenaglauxintelligence.news/event/340545.html",
    "url": "https://athenaglauxintelligence.news/event/340545.html",
    "title": "8 die as minivan plunges into a gorge in Uttarakhand’s Pauri Garhwal district; 4 injured",
-   "summary": "Reported by 3 outlets in 1 country since 28 Nov. First reported by Economic Times. ATHENA rates the risk 4.6/10 (elevated), with 55% confidence.",
+   "summary": "Reported by 4 outlets in 1 country since 28 Nov. First reported by Economic Times. ATHENA rates the risk 5.4/10 (elevated), with 59% confidence.",
    "date_published": "2026-11-28T10:41:48Z",
    "tags": [
     "Accidents & emergencies"
@@ -42,10 +64,10 @@
    "id": "https://athenaglauxintelligence.news/event/339786.html",
    "url": "https://athenaglauxintelligence.news/event/339786.html",
    "title": "Australia’s conservatives win landslide victory in bellwether state",
-   "summary": "Reported by 5 outlets in 4 countries since 28 Nov. First reported by Euronews English. ATHENA rates the risk 4.8/10 (elevated), with 75% confidence.",
+   "summary": "Reported by 7 outlets in 6 countries since 28 Nov. First reported by Euronews English. ATHENA rates the risk 5.7/10 (elevated), with 81% confidence.",
    "date_published": "2026-11-28T10:05:15Z",
    "tags": [
-    "Geopolitics"
+    "Energy & Environment"
    ],
    "language": "en"
   },
@@ -75,7 +97,7 @@
    "id": "https://athenaglauxintelligence.news/event/339247.html",
    "url": "https://athenaglauxintelligence.news/event/339247.html",
    "title": "Binance gets preliminary approval to establish Asia hub in Bhutan",
-   "summary": "Reported by 4 outlets in 4 countries since 28 Nov. First reported by Cointelegraph. ATHENA rates the risk 0.0/10 (none detected), with 74% confidence.",
+   "summary": "Reported by 5 outlets in 5 countries since 28 Nov. First reported by Cointelegraph. ATHENA rates the risk 0.0/10 (none detected), with 78% confidence.",
    "date_published": "2026-11-28T07:43:00Z",
    "tags": [
     "Economy & Markets"
@@ -105,10 +127,21 @@
    "language": "en"
   },
   {
+   "id": "https://athenaglauxintelligence.news/event/338925.html",
+   "url": "https://athenaglauxintelligence.news/event/338925.html",
+   "title": "Palestinian Child Wounded by Israeli Fire in Khan Younis",
+   "summary": "Reported by 3 outlets in 2 countries since 28 Nov. First reported by Asharq Al-Awsat (English). ATHENA rates the risk 5.5/10 (elevated), with 66% confidence.",
+   "date_published": "2026-11-28T05:36:29Z",
+   "tags": [
+    "Geopolitics"
+   ],
+   "language": "en"
+  },
+  {
    "id": "https://athenaglauxintelligence.news/event/337909.html",
    "url": "https://athenaglauxintelligence.news/event/337909.html",
    "title": "US regulators shut United Fidelity Bank in biggest bank failure since 2024",
-   "summary": "Reported by 3 outlets in 3 countries since 28 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 0.0/10 (none detected), with 68% confidence.",
+   "summary": "Reported by 4 outlets in 3 countries since 28 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 0.6/10 (low), with 73% confidence.",
    "date_published": "2026-11-28T04:51:06Z",
    "tags": [
     "Economy & Markets"
@@ -119,7 +152,7 @@
    "id": "https://athenaglauxintelligence.news/event/338262.html",
    "url": "https://athenaglauxintelligence.news/event/338262.html",
    "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-   "summary": "Reported by 34 outlets in 20 countries since 28 Nov. First reported by Indian Express. ATHENA rates the risk 6.4/10 (high), with 93% confidence.",
+   "summary": "Reported by 36 outlets in 21 countries since 28 Nov. First reported by Indian Express. ATHENA rates the risk 6.5/10 (high), with 93% confidence.",
    "date_published": "2026-11-28T03:09:24Z",
    "tags": [
     "Accidents & emergencies"
@@ -141,7 +174,7 @@
    "id": "https://athenaglauxintelligence.news/event/338722.html",
    "url": "https://athenaglauxintelligence.news/event/338722.html",
    "title": "US Military Repelled Drones at UK Airbase this Month, FT Reports",
-   "summary": "Reported by 15 outlets in 12 countries since 28 Nov. First reported by Express Tribune. ATHENA rates the risk 0.0/10 (none detected), with 93% confidence.",
+   "summary": "Reported by 16 outlets in 13 countries since 28 Nov. First reported by Express Tribune. ATHENA rates the risk 2.2/10 (moderate), with 94% confidence.",
    "date_published": "2026-11-28T02:51:02Z",
    "tags": [
     "Geopolitics"
@@ -174,7 +207,7 @@
    "id": "https://athenaglauxintelligence.news/event/337607.html",
    "url": "https://athenaglauxintelligence.news/event/337607.html",
    "title": "Taipei’s mayor re-elected in tight election race",
-   "summary": "Reported by 6 outlets in 5 countries since 28 Nov. First reported by Al Jazeera English. ATHENA rates the risk 0.0/10 (none detected), with 84% confidence.",
+   "summary": "Reported by 7 outlets in 6 countries since 28 Nov. First reported by Al Jazeera English. ATHENA rates the risk 0.0/10 (none detected), with 86% confidence.",
    "date_published": "2026-11-28T02:05:27Z",
    "tags": [
     "Geopolitics"
@@ -229,7 +262,7 @@
    "id": "https://athenaglauxintelligence.news/event/337896.html",
    "url": "https://athenaglauxintelligence.news/event/337896.html",
    "title": "Russia says shot down more than 1,200 Ukraine drones overnight",
-   "summary": "Reported by 9 outlets in 7 countries since 27 Nov. First reported by RFE/RL (English). ATHENA rates the risk 4.2/10 (elevated), with 89% confidence.",
+   "summary": "Reported by 10 outlets in 8 countries since 27 Nov. First reported by RFE/RL (English). ATHENA rates the risk 5.5/10 (elevated), with 91% confidence.",
    "date_published": "2026-11-27T23:05:03Z",
    "tags": [
     "Geopolitics"
@@ -240,7 +273,7 @@
    "id": "https://athenaglauxintelligence.news/event/336579.html",
    "url": "https://athenaglauxintelligence.news/event/336579.html",
    "title": "Israeli Strike Kills 2 Workers at Gaza Clinic, Doctors Without Borders Says",
-   "summary": "Reported by 36 outlets in 20 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 6.3/10 (high), with 93% confidence.",
+   "summary": "Reported by 40 outlets in 22 countries since 27 Nov. First reported by Middle East Eye. ATHENA rates the risk 6.0/10 (high), with 93% confidence.",
    "date_published": "2026-11-27T22:48:15Z",
    "tags": [
     "Geopolitics"
@@ -383,7 +416,7 @@
    "id": "https://athenaglauxintelligence.news/event/333748.html",
    "url": "https://athenaglauxintelligence.news/event/333748.html",
    "title": "US military says it disabled another ship attempting to breach Iran blockade",
-   "summary": "Reported by 19 outlets in 13 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 5.9/10 (elevated), with 90% confidence.",
+   "summary": "Reported by 21 outlets in 13 countries since 27 Nov. First reported by Anadolu Agency (English). ATHENA rates the risk 5.8/10 (elevated), with 89% confidence.",
    "date_published": "2026-11-27T16:55:58Z",
    "tags": [
     "Trade & Industry"
@@ -409,39 +442,6 @@
    "date_published": "2026-11-27T16:00:50Z",
    "tags": [
     "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/335503.html",
-   "url": "https://athenaglauxintelligence.news/event/335503.html",
-   "title": "Netherlands not obliged to help Palestinians in Gaza travel to country, court rules",
-   "summary": "Reported by 3 outlets in 2 countries since 27 Nov. First reported by DutchNews.nl. ATHENA rates the risk 0.0/10 (none detected), with 61% confidence.",
-   "date_published": "2026-11-27T15:52:42Z",
-   "tags": [
-    "Accidents & emergencies"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/333240.html",
-   "url": "https://athenaglauxintelligence.news/event/333240.html",
-   "title": "Spain to vote in election that could put far right in power for first time since Franco",
-   "summary": "Reported by 4 outlets in 3 countries since 27 Nov. First reported by The Guardian. ATHENA rates the risk 3.8/10 (moderate), with 74% confidence.",
-   "date_published": "2026-11-27T15:45:14Z",
-   "tags": [
-    "Geopolitics"
-   ],
-   "language": "en"
-  },
-  {
-   "id": "https://athenaglauxintelligence.news/event/334761.html",
-   "url": "https://athenaglauxintelligence.news/event/334761.html",
-   "title": "Rescue operation completed in Nizhyn after Russian attack: death toll rises to seven – video",
-   "summary": "Reported by 3 outlets in 1 country since 27 Nov. First reported by Ukrainska Pravda (English). ATHENA rates the risk 5.2/10 (elevated), with 58% confidence.",
-   "date_published": "2026-11-27T15:24:00Z",
-   "tags": [
-    "Accidents & emergencies"
    ],
    "language": "en"
   }

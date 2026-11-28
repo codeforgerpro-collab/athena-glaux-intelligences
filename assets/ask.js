@@ -121,7 +121,7 @@
       if(window.AskSheet)return run2();
       var sc=document.createElement("script");sc.src=root+"assets/ask-sheet.js";sc.onload=run2;sc.onerror=function(){say(S.failed);done();};document.head.appendChild(sc);}
     p.onclick=function(){go(false);};b.onclick=function(){go(true);};}
-  function ask(q,push){q=(q||"").trim();if(!q){rd.innerHTML="";out.innerHTML="";return;}
+  function ask(q,push){q=(q||"").trim();try{document.dispatchEvent(new CustomEvent("askq",{detail:q}));}catch(e){}  // SISTER-1if(!q){rd.innerHTML="";out.innerHTML="";return;}
     var a=run(q),hl=helpFor(q);last=a.res;shown=20;helped=hl.length>0;lastQ=q;lastR=a.r;
     rd.innerHTML=helpHtml(hl)+(helped&&!last.length?"":reading(a.r));draw();
     try{var u=new URL(location.href);u.searchParams.set("q",q);history[push?"pushState":"replaceState"](null,"",u);}catch(e){}}
