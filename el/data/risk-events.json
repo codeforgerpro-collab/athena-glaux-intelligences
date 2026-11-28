@@ -1,9 +1,9 @@
 {
  "publisher": "ATHENA Glaux Intelligence",
- "generated": "2026-11-28T21:43:23Z",
+ "generated": "2026-11-28T22:43:51Z",
  "window_days": 7,
  "language": "el",
- "count": 986,
+ "count": 989,
  "licence": "https://athenaglauxintelligence.news/el/terms.html",
  "note": "Risk scores describe how widely and how seriously a story is reported; they are not a probability. Cite ATHENA Glaux Intelligence and link to each story page.",
  "events": [
@@ -27,13 +27,27 @@
    "title": "Netanyahu ready to become PM in rotation in unity cabinet — Ynet",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-28T16:21:19Z",
-   "last_reported": "2026-11-28T18:46:19Z",
-   "outlets": 8,
-   "countries": 7,
+   "last_reported": "2026-11-28T21:19:08Z",
+   "outlets": 11,
+   "countries": 10,
    "risk_score": 1.6,
    "risk_band": "low",
-   "confidence_pct": 90,
+   "confidence_pct": 93,
    "status": "fading"
+  },
+  {
+   "id": 341875,
+   "url": "https://athenaglauxintelligence.news/el/event/341875.html",
+   "title": "Erdogan tells Greek president Türkiye has no hesitation to make Aegean 'sea of peace'",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-28T15:45:49Z",
+   "last_reported": "2026-11-28T18:35:23Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.0,
+   "risk_band": "none detected",
+   "confidence_pct": 65,
+   "status": "emerging"
   },
   {
    "id": 340837,
@@ -42,12 +56,12 @@
    "section": "Τεχνολογία & Κυβερνοασφάλεια",
    "first_reported": "2026-11-28T15:28:38Z",
    "last_reported": "2026-11-28T19:16:00Z",
-   "outlets": 4,
-   "countries": 4,
-   "risk_score": 5.7,
+   "outlets": 5,
+   "countries": 5,
+   "risk_score": 5.5,
    "risk_band": "elevated",
-   "confidence_pct": 75,
-   "status": "emerging"
+   "confidence_pct": 80,
+   "status": "fading"
   },
   {
    "id": 341210,
@@ -64,12 +78,26 @@
    "status": "peaking"
   },
   {
+   "id": 341783,
+   "url": "https://athenaglauxintelligence.news/el/event/341783.html",
+   "title": "'Millions starving' in Yemen's north, NGO head says",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-28T14:30:28Z",
+   "last_reported": "2026-11-28T17:31:25Z",
+   "outlets": 4,
+   "countries": 2,
+   "risk_score": 1.6,
+   "risk_band": "low",
+   "confidence_pct": 72,
+   "status": "emerging"
+  },
+  {
    "id": 340949,
    "url": "https://athenaglauxintelligence.news/el/event/340949.html",
    "title": "Magnitude 6.2 earthquake strikes Russia’s Kamchatka Peninsula",
    "section": "Ενέργεια & Περιβάλλον",
    "first_reported": "2026-11-28T14:18:00Z",
-   "last_reported": "2026-11-28T15:53:08Z",
+   "last_reported": "2026-11-28T17:21:49Z",
    "outlets": 4,
    "countries": 4,
    "risk_score": 5.0,
@@ -111,13 +139,27 @@
    "title": "Iran’s supreme leader adviser warns Iraq not to become ‘tool of Trump’",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-28T12:06:30Z",
-   "last_reported": "2026-11-28T16:21:44Z",
-   "outlets": 7,
+   "last_reported": "2026-11-28T20:26:49Z",
+   "outlets": 8,
    "countries": 6,
-   "risk_score": 1.8,
+   "risk_score": 1.9,
    "risk_band": "low",
-   "confidence_pct": 84,
-   "status": "fading"
+   "confidence_pct": 86,
+   "status": "emerging"
+  },
+  {
+   "id": 341197,
+   "url": "https://athenaglauxintelligence.news/el/event/341197.html",
+   "title": "Russian drones strike Kyiv in daytime, killing 1, hit residential building in Kharkiv",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-28T11:48:00Z",
+   "last_reported": "2026-11-28T17:28:00Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 5.1,
+   "risk_band": "elevated",
+   "confidence_pct": 61,
+   "status": "emerging"
   },
   {
    "id": 339365,
@@ -125,13 +167,13 @@
    "title": "Thailand to issue ban on exports of chemicals used in Myanmar rare earth mining on Monday",
    "section": "Ενέργεια & Περιβάλλον",
    "first_reported": "2026-11-28T11:34:31Z",
-   "last_reported": "2026-11-28T14:54:05Z",
+   "last_reported": "2026-11-28T21:37:00Z",
    "outlets": 4,
    "countries": 3,
-   "risk_score": 2.9,
+   "risk_score": 2.6,
    "risk_band": "moderate",
    "confidence_pct": 73,
-   "status": "spreading"
+   "status": "emerging"
   },
   {
    "id": 340476,
@@ -364,12 +406,12 @@
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-28T03:09:24Z",
    "last_reported": "2026-11-28T20:04:04Z",
-   "outlets": 43,
-   "countries": 23,
-   "risk_score": 6.8,
+   "outlets": 45,
+   "countries": 24,
+   "risk_score": 6.3,
    "risk_band": "high",
    "confidence_pct": 92,
-   "status": "peaking"
+   "status": "fading"
   },
   {
    "id": 337608,
@@ -392,9 +434,9 @@
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-28T02:51:02Z",
    "last_reported": "2026-11-28T15:53:44Z",
-   "outlets": 20,
+   "outlets": 21,
    "countries": 14,
-   "risk_score": 2.0,
+   "risk_score": 3.7,
    "risk_band": "moderate",
    "confidence_pct": 94,
    "status": "fading"
@@ -433,7 +475,7 @@
    "title": "Taipei’s mayor re-elected in tight election race",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-28T02:05:27Z",
-   "last_reported": "2026-11-28T16:59:41Z",
+   "last_reported": "2026-11-28T18:06:13Z",
    "outlets": 8,
    "countries": 6,
    "risk_score": 0.0,
@@ -512,6 +554,20 @@
    "status": "fading"
   },
   {
+   "id": 337352,
+   "url": "https://athenaglauxintelligence.news/el/event/337352.html",
+   "title": "Los Angeles shaken by a 4.7-magnitude earthquake",
+   "section": "Ενέργεια & Περιβάλλον",
+   "first_reported": "2026-11-27T23:35:11Z",
+   "last_reported": "2026-11-28T22:11:45Z",
+   "outlets": 4,
+   "countries": 4,
+   "risk_score": 5.0,
+   "risk_band": "elevated",
+   "confidence_pct": 75,
+   "status": "fading"
+  },
+  {
    "id": 337896,
    "url": "https://athenaglauxintelligence.news/el/event/337896.html",
    "title": "Russia says shot down more than 1,200 Ukraine drones overnight",
@@ -559,10 +615,10 @@
    "title": "RAF ‘sorry’ after military jets flown low above Lockerbie",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T22:13:39Z",
-   "last_reported": "2026-11-28T09:34:57Z",
+   "last_reported": "2026-11-28T16:20:31Z",
    "outlets": 5,
    "countries": 1,
-   "risk_score": 0.8,
+   "risk_score": 1.2,
    "risk_band": "low",
    "confidence_pct": 64,
    "status": "fading"
@@ -671,7 +727,7 @@
    "title": "Makkah Alliance Nations Condemn Houthi Attacks, Vow Cooperation",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T18:00:18Z",
-   "last_reported": "2026-11-27T20:37:25Z",
+   "last_reported": "2026-11-28T15:42:33Z",
    "outlets": 3,
    "countries": 2,
    "risk_score": 1.2,
@@ -783,12 +839,12 @@
    "title": "Spain awaits key vote on Sanchez as right eyes power",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T15:45:14Z",
-   "last_reported": "2026-11-28T14:13:09Z",
-   "outlets": 6,
-   "countries": 5,
-   "risk_score": 3.4,
+   "last_reported": "2026-11-28T16:36:25Z",
+   "outlets": 7,
+   "countries": 6,
+   "risk_score": 3.2,
    "risk_band": "moderate",
-   "confidence_pct": 84,
+   "confidence_pct": 87,
    "status": "fading"
   },
   {
@@ -839,12 +895,12 @@
    "title": "Russian strike hits critical infrastructure in Kyiv, threatening power and water disruptions",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-27T15:16:17Z",
-   "last_reported": "2026-11-28T13:32:00Z",
+   "last_reported": "2026-11-28T14:32:00Z",
    "outlets": 4,
    "countries": 3,
-   "risk_score": 3.4,
+   "risk_score": 2.0,
    "risk_band": "moderate",
-   "confidence_pct": 72,
+   "confidence_pct": 73,
    "status": "fading"
   },
   {
@@ -993,12 +1049,12 @@
    "title": "Hungary lifts entry ban on Ukrainian drone commander Robert “Magyar” Brovdi",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-27T13:54:00Z",
-   "last_reported": "2026-11-28T12:23:36Z",
+   "last_reported": "2026-11-28T16:30:00Z",
    "outlets": 5,
    "countries": 2,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 69,
+   "confidence_pct": 68,
    "status": "fading"
   },
   {
@@ -1138,8 +1194,8 @@
    "countries": 1,
    "risk_score": 4.7,
    "risk_band": "elevated",
-   "confidence_pct": 67,
-   "status": "peaking"
+   "confidence_pct": 68,
+   "status": "fading"
   },
   {
    "id": 334741,
@@ -1237,6 +1293,20 @@
    "risk_score": 5.2,
    "risk_band": "elevated",
    "confidence_pct": 76,
+   "status": "fading"
+  },
+  {
+   "id": 333079,
+   "url": "https://athenaglauxintelligence.news/el/event/333079.html",
+   "title": "Rain, thunderstorms and strong winds for 48 hours: The “Red Alert” areas and when heavy rainfall is expected in Attica",
+   "section": "Οικονομία & Αγορές",
+   "first_reported": "2026-11-27T11:01:52Z",
+   "last_reported": "2026-11-28T19:00:23Z",
+   "outlets": 3,
+   "countries": 1,
+   "risk_score": 3.8,
+   "risk_band": "moderate",
+   "confidence_pct": 56,
    "status": "fading"
   },
   {
@@ -1567,12 +1637,12 @@
    "title": "DMK to support delimitation bill",
    "section": "Δυστυχήματα & έκτακτες ανάγκες",
    "first_reported": "2026-11-27T07:36:27Z",
-   "last_reported": "2026-11-28T14:09:46Z",
-   "outlets": 7,
+   "last_reported": "2026-11-28T15:54:01Z",
+   "outlets": 8,
    "countries": 1,
    "risk_score": 0.8,
    "risk_band": "low",
-   "confidence_pct": 68,
+   "confidence_pct": 69,
    "status": "fading"
   },
   {
@@ -1766,10 +1836,10 @@
    "last_reported": "2026-11-28T19:36:20Z",
    "outlets": 20,
    "countries": 14,
-   "risk_score": 4.0,
+   "risk_score": 3.8,
    "risk_band": "moderate",
-   "confidence_pct": 87,
-   "status": "peaking"
+   "confidence_pct": 88,
+   "status": "fading"
   },
   {
    "id": 330292,
@@ -2632,7 +2702,7 @@
    "section": "Ενέργεια & Περιβάλλον",
    "first_reported": "2026-11-26T17:10:36Z",
    "last_reported": "2026-11-28T19:15:00Z",
-   "outlets": 22,
+   "outlets": 23,
    "countries": 12,
    "risk_score": 1.6,
    "risk_band": "low",
@@ -2785,12 +2855,12 @@
    "title": "Secretary General of the Council of Europe arrives in Kyiv",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T16:00:15Z",
-   "last_reported": "2026-11-27T11:00:00Z",
+   "last_reported": "2026-11-28T15:34:00Z",
    "outlets": 3,
    "countries": 3,
    "risk_score": 0.0,
    "risk_band": "none detected",
-   "confidence_pct": 68,
+   "confidence_pct": 69,
    "status": "fading"
   },
   {
@@ -2884,12 +2954,12 @@
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-26T15:38:27Z",
    "last_reported": "2026-11-28T20:39:00Z",
-   "outlets": 12,
-   "countries": 8,
-   "risk_score": 1.3,
+   "outlets": 14,
+   "countries": 10,
+   "risk_score": 1.2,
    "risk_band": "low",
-   "confidence_pct": 92,
-   "status": "peaking"
+   "confidence_pct": 93,
+   "status": "fading"
   },
   {
    "id": 323785,
@@ -3212,6 +3282,20 @@
    "risk_band": "none detected",
    "confidence_pct": 88,
    "status": "spreading"
+  },
+  {
+   "id": 327019,
+   "url": "https://athenaglauxintelligence.news/el/event/327019.html",
+   "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+   "section": "Ενέργεια & Περιβάλλον",
+   "first_reported": "2026-11-26T13:12:34Z",
+   "last_reported": "2026-11-27T22:14:00Z",
+   "outlets": 5,
+   "countries": 5,
+   "risk_score": 4.9,
+   "risk_band": "elevated",
+   "confidence_pct": 81,
+   "status": "fading"
   },
   {
    "id": 324189,
@@ -3849,12 +3933,12 @@
    "title": "Ukraine commemorates victims of Holodomor famines",
    "section": "Εμπόριο & Βιομηχανία",
    "first_reported": "2026-11-26T09:41:00Z",
-   "last_reported": "2026-11-28T12:15:00Z",
-   "outlets": 4,
+   "last_reported": "2026-11-28T19:02:14Z",
+   "outlets": 5,
    "countries": 2,
-   "risk_score": 2.2,
+   "risk_score": 3.9,
    "risk_band": "moderate",
-   "confidence_pct": 71,
+   "confidence_pct": 74,
    "status": "fading"
   },
   {
@@ -5622,20 +5706,6 @@
    "status": "fading"
   },
   {
-   "id": 315704,
-   "url": "https://athenaglauxintelligence.news/el/event/315704.html",
-   "title": "Kenyan cult leader serving 200 years for murder convicted of terrorism-related charges",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-25T14:31:43Z",
-   "last_reported": "2026-11-27T16:32:26Z",
-   "outlets": 7,
-   "countries": 7,
-   "risk_score": 4.0,
-   "risk_band": "elevated",
-   "confidence_pct": 88,
-   "status": "fading"
-  },
-  {
    "id": 315734,
    "url": "https://athenaglauxintelligence.news/el/event/315734.html",
    "title": "Time running out for Poundland as takeover hopes fade",
@@ -7027,12 +7097,12 @@
    "title": "Russians attack Bila Tserkva, killing one person",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-25T04:00:00Z",
-   "last_reported": "2026-11-28T09:24:00Z",
+   "last_reported": "2026-11-28T19:59:00Z",
    "outlets": 3,
    "countries": 1,
    "risk_score": 4.4,
    "risk_band": "elevated",
-   "confidence_pct": 57,
+   "confidence_pct": 58,
    "status": "fading"
   },
   {
@@ -7565,6 +7635,20 @@
    "risk_score": 5.0,
    "risk_band": "elevated",
    "confidence_pct": 88,
+   "status": "fading"
+  },
+  {
+   "id": 324466,
+   "url": "https://athenaglauxintelligence.news/el/event/324466.html",
+   "title": "Turkiye flags Cyprus potential BrahMos missile negotiations with India at UNSC amid strained ties",
+   "section": "Γεωπολιτική",
+   "first_reported": "2026-11-24T20:57:01Z",
+   "last_reported": "2026-11-28T21:10:13Z",
+   "outlets": 3,
+   "countries": 2,
+   "risk_score": 0.7,
+   "risk_band": "low",
+   "confidence_pct": 63,
    "status": "fading"
   },
   {
@@ -8498,10 +8582,10 @@
    "section": "Ενέργεια & Περιβάλλον",
    "first_reported": "2026-11-24T12:00:00Z",
    "last_reported": "2026-11-28T17:07:53Z",
-   "outlets": 43,
+   "outlets": 44,
    "countries": 15,
    "risk_score": 4.0,
-   "risk_band": "elevated",
+   "risk_band": "moderate",
    "confidence_pct": 87,
    "status": "fading"
   },
@@ -12837,10 +12921,10 @@
    "title": "Drones Strike Russia’s Novoshakhtinsk Refinery and Samara Oil Hub",
    "section": "Γεωπολιτική",
    "first_reported": "2026-11-22T16:45:05Z",
-   "last_reported": "2026-11-28T08:44:00Z",
-   "outlets": 27,
-   "countries": 15,
-   "risk_score": 6.3,
+   "last_reported": "2026-11-28T17:58:00Z",
+   "outlets": 26,
+   "countries": 14,
+   "risk_score": 6.4,
    "risk_band": "high",
    "confidence_pct": 89,
    "status": "fading"
@@ -13768,48 +13852,6 @@
    "risk_band": "low",
    "confidence_pct": 76,
    "status": "emerging"
-  },
-  {
-   "id": 285233,
-   "url": "https://athenaglauxintelligence.news/el/event/285233.html",
-   "title": "Police investigating whether Titans’ Jaylen Harrell assaulted driver before Florida crash",
-   "section": "Δυστυχήματα & έκτακτες ανάγκες",
-   "first_reported": "2026-11-21T22:37:20Z",
-   "last_reported": "2026-11-24T15:59:36Z",
-   "outlets": 6,
-   "countries": 4,
-   "risk_score": 1.9,
-   "risk_band": "low",
-   "confidence_pct": 81,
-   "status": "fading"
-  },
-  {
-   "id": 285175,
-   "url": "https://athenaglauxintelligence.news/el/event/285175.html",
-   "title": "Mother brown bear, cub shot dead in Ankara national park",
-   "section": "Ενέργεια & Περιβάλλον",
-   "first_reported": "2026-11-21T22:36:02Z",
-   "last_reported": "2026-11-27T15:43:14Z",
-   "outlets": 4,
-   "countries": 1,
-   "risk_score": 4.8,
-   "risk_band": "elevated",
-   "confidence_pct": 58,
-   "status": "fading"
-  },
-  {
-   "id": 285162,
-   "url": "https://athenaglauxintelligence.news/el/event/285162.html",
-   "title": "Fidan says Turkish policy under Mecca pact aimed at Saudi defence, no decision on Yemen deployment",
-   "section": "Γεωπολιτική",
-   "first_reported": "2026-11-21T22:35:54Z",
-   "last_reported": "2026-11-22T06:29:36Z",
-   "outlets": 3,
-   "countries": 1,
-   "risk_score": 0.0,
-   "risk_band": "none detected",
-   "confidence_pct": 61,
-   "status": "fading"
   }
  ]
 }
